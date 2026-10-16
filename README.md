@@ -12,3 +12,4 @@ Galerinin kendi reposu açıldığında oraya taşınmalı.
 - [03 — Galeri Modeli (program, sözleşme, yayın, pazarlama, gelir, müzayededen bağımsızlık)](docs/galeri/03-galeri-modeli.md)
 - [04 — Galeri İsim Havuzu (sanat terimleri sözlüğünden)](docs/galeri/04-isim-havuzu.md)
 - [05 — Geniş Sanat Terimleri Sözlüğü (isim havuzu, 2. tur)](docs/galeri/05-genis-terim-sozlugu.md)
+- [06 — Türetilmiş ve Birleşik İsimler](docs/galeri/06-turetilmis-isimler.md)
