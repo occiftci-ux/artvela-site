@@ -14,3 +14,4 @@ Galerinin kendi reposu açıldığında oraya taşınmalı.
 - [05 — Geniş Sanat Terimleri Sözlüğü (isim havuzu, 2. tur)](docs/galeri/05-genis-terim-sozlugu.md)
 - [06 — Türetilmiş ve Birleşik İsimler](docs/galeri/06-turetilmis-isimler.md)
 - [07 — Modern ve basit isim aileleri (Bej · Opak · Meridyen · Bediz ve 3 yeni aile)](docs/galeri/07-bej-opak-meridyen-ailesi.md)
+- [08 — Yeni isim aileleri (kumaş, taş, fotoğraf, müzik, harf, doğa, yalın sıfatlar)](docs/galeri/08-yeni-isim-aileleri.md)
