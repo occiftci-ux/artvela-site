@@ -1,8 +1,12 @@
 # artvela-site
 
-Artvela: Türk figüratif resmine odaklanan, sanatçı temsil eden galeri.
+**Artvela**: müzayede şirketi. Bu repo Artvela'nın web sitesi içindir.
 
-## Strateji dokümanları
-- [01 — Galeri Modelleri (Galeri Nev, x-ist, Art On, Paris galericileri, uluslararası örnekler)](docs/strateji/01-galeri-modelleri.md)
-- [02 — Türk Resim Tarihi, Paris ve Bugünkü Yorum](docs/strateji/02-turk-resim-tarihi-ve-paris.md)
-- [03 — Artvela Galeri Modeli (program, sözleşme, yayın, pazarlama, gelir)](docs/strateji/03-artvela-galeri-modeli.md)
+## Ortak mekândaki bağımsız galeri (ayrı marka)
+Aynı mekânda bir ortakla kurulan galeri, Artvela'dan **tamamen bağımsız** ayrı bir markadır.
+Müzayedeyle hiçbir iş ilişkisi yoktur. Galerinin planlama dokümanları geçici olarak burada duruyor.
+Galerinin kendi reposu açıldığında oraya taşınmalı.
+
+- [01 — Galeri Modelleri (Galeri Nev, x-ist, Art On, Paris galericileri, uluslararası örnekler)](docs/galeri/01-galeri-modelleri.md)
+- [02 — Türk Resim Tarihi, Paris ve Bugünkü Yorum](docs/galeri/02-turk-resim-tarihi-ve-paris.md)
+- [03 — Galeri Modeli (program, sözleşme, yayın, pazarlama, gelir, müzayededen bağımsızlık)](docs/galeri/03-galeri-modeli.md)

@@ -1,14 +1,14 @@
-# 03 — Artvela Galeri Modeli (Taslak v1)
+# 03 — Galeri Modeli (Taslak v2)
 
-> "Vela" Latincede **yelken** demek. Türk resminin hikâyesi bir yolculuk hikâyesi:
-> İstanbul'dan Paris'e gidiş ve dönüş. Artvela bu yolculuğun bugünkü limanı olmak istiyor.
+> Galerinin markası ve adı henüz belirlenmedi. Dokümanda "Galeri" diye geçiyor.
+> Galeri bir ortakla kuruluyor ve **Artvela müzayede şirketinden tamamen bağımsız** bir marka olacak.
 
 ---
 
 ## 1. Kimlik
 
 ### 1.1 Tek cümlelik iddia
-**Artvela, Türk figüratif resminin ustalarını ve onların izinden gelen genç ressamları aynı
+**Galeri, Türk figüratif resminin ustalarını ve onların izinden gelen genç ressamları aynı
 duvarda buluşturan, sergi kadar yayın da üreten bir galeridir.**
 
 ### 1.2 Üç ilke
@@ -20,18 +20,42 @@ duvarda buluşturan, sergi kadar yayın da üreten bir galeridir.**
 ### 1.3 Sanatçı portföyü: üç katman
 | Katman | Oran | Profil | Rolü |
 |---|---|---|---|
-| **Ustalar** | %25 | 60 yaş üstü, MSGSÜ kökenli figüratif ressamlar ve vefat etmiş ustaların mirasları | Saygınlık, koleksiyoncu güveni, ikincil piyasa |
+| **Ustalar** | %25 | 60 yaş üstü, MSGSÜ kökenli figüratif ressamlar ve vefat etmiş ustaların mirasları | Saygınlık, koleksiyoncu güveni, arşiv ve miras yönetimi |
 | **Orta kuşak** | %25 | 40–60 yaş, sergi geçmişi var ama galerisi yok ya da galerisini kaybetmiş | Satış istikrarı |
 | **Genç** | %50 | 25–40 yaş, galerisi olmayan yetenekler | Gelecek, keşif hikâyesi, medya ilgisi |
 
 Hedef 2. yıl sonunda **8–10 temsil edilen sanatçı.** Daha fazlası ilk yıllarda hizmet kalitesini düşürür.
+
+### 1.4 Müzayededen bağımsızlık ve ortak mekân
+Galeri ile Artvela müzayede **aynı mekânı paylaşan iki ayrı markadır.** Galeri müzayedeyle hiçbir
+iş ilişkisi kurmaz. Bu ayrım hem koleksiyoncunun hem de sanatçının güveni için şarttır.
+Galeri, sanatçısının fiyatını korumakla yükümlüdür. Müzayede ise fiyatı piyasanın belirlediği bir alandır.
+İkisi iç içe geçerse çıkar çatışması doğar.
+
+**Bağımsızlık ilkeleri**
+1. **Ayrı tüzel kişilik:** ayrı şirket, ayrı vergi kaydı, ayrı banka hesabı ve muhasebe. Galeri ortaklığı müzayededen bağımsız kurulur
+2. **Ayrı marka:** ayrı isim, logo, web sitesi, sosyal medya, bülten, basın bülteni ve davetiye. Ortak logo ya da "… bünyesinde" ifadesi kullanılmaz
+3. **Eser akışı yok:** Galeri, temsil ettiği sanatçıların eserlerini müzayedeye göndermez. Müzayededen eser alıp satmaz. İkincil piyasa işi yapmaz
+4. **Veri ayrımı:** Koleksiyoncu listeleri, satış ve fiyat bilgileri paylaşılmaz (KVKK açısından da zorunlu)
+5. **Ayrı ekip:** Satış ve sanatçı ilişkileri ekipleri ayrıdır. Ortak çalışan varsa görev tanımı yazılı olmalıdır
+6. **Sanatçı sözleşmesine madde:** "Galeri, sanatçının eserlerini herhangi bir müzayedeye konsinye etmez" maddesi sanatçıya güvence olarak yazılır
+
+**Ortak mekânda pratik kurallar**
+- **Ayrı giriş ya da açıkça ayrılmış alanlar:** tabela, yönlendirme, karşılama masası ayrı olur
+- **Ortak takvim, ayrı etkinlik:** Müzayede önizlemeleri ile sergi açılışları aynı güne denk getirilmez. İki markanın ziyaretçisi birbirine karışmaz
+- **Duvar ve depo ayrımı:** Galeri eserleri ile müzayede eserleri aynı depoda tutulmaz ya da depo bölümleri ve envanter kayıtları ayrı tutulur. Sigorta poliçeleri ayrıdır
+- **Mekân gider paylaşımı:** Kira, güvenlik, temizlik ve enerji giderlerinin paylaşımı yazılı bir mekân sözleşmesiyle (m² ya da kullanım oranıyla) belirlenir
+- **İletişim dili:** Basında ve sosyal medyada "aynı adreste" bilgisi verilebilir ama iki kurum birbirinin adına konuşmaz
+
+> Hukukçu ve mali müşavirle netleştirilmesi gerekenler: ortaklık yapısı, mekân paylaşım sözleşmesi,
+> iki şirket arasında olası ilişkili taraf işlemleri ve KVKK kapsamında veri ayrımı.
 
 ---
 
 ## 2. Yol haritası
 
 ### Yıl 0: Hazırlık (6 ay)
-- Mekân, hukuki yapı, marka kimliği, web sitesi, arşiv sistemi
+- Ortaklık sözleşmesi, ayrı tüzel kişilik, ortak mekân sözleşmesi, marka kimliği, web sitesi, arşiv sistemi
 - 30–40 atölye ziyareti (usta, orta kuşak, genç). Her ziyaret fotoğraf ve kısa notla kayda geçer.
 - **Danışma kurulu:** bir sanat tarihçisi, bir MSGSÜ öğretim üyesi, bir koleksiyoncu, bir küratör
 - Matbaa, fotoğrafçı, video ekibi, çevirmen ve tasarımcı ile yıllık anlaşmalar
@@ -67,7 +91,7 @@ Bunlara ek olarak her ay **Vitrin** programında tek iş değişir, 2 ayda bir d
 ### Yıl 3 ve sonrası
 - Uluslararası ortak galeri (Paris, Londra veya Berlin) ile karşılıklı sergi: "**Dönüş**"
 - **Yurt Gezisi** rezidansı (sponsorlu)
-- *Artvela Defterleri* yıllık dergisi
+- *Galeri Defterleri* yıllık dergisi
 - Ustaların arşiv ve miras yönetimi (estate) hizmeti
 
 ---
@@ -98,11 +122,11 @@ Bunlara ek olarak her ay **Vitrin** programında tek iş değişir, 2 ayda bir d
 
 | Yayın | Format | Sıklık | Adet | Fiyat ve dağıtım |
 |---|---|---|---|---|
-| **Artvela Gazetesi** | Gazete kâğıdı, 8–16 sayfa, büyük format, iki dilli (TR/EN). Ressamlar Cemiyeti Gazetesi'ne ve *Derrière le Miroir*'a selam | Her sergide | 1.000–2.000 | Ücretsiz, posta ile koleksiyoncu listesine |
+| **Galeri Gazetesi** | Gazete kâğıdı, 8–16 sayfa, büyük format, iki dilli (TR/EN). Ressamlar Cemiyeti Gazetesi'ne ve *Derrière le Miroir*'a selam | Her sergide | 1.000–2.000 | Ücretsiz, posta ile koleksiyoncu listesine |
 | **Sergi Kataloğu** | 48–96 sayfa, ofset, ISBN'li, iki dilli. Eleştirmen metni + **uzun röportaj** + eser künyeleri + özgeçmiş | Her kişisel sergide | 300–700 | Satış + kütüphane ve müze dağıtımı |
 | **Monografi** | Ciltli, 200+ sayfa | Yılda 1 | 500–1.000 | Kitapçı dağıtımı, yayınevi ortaklığı |
-| **Artvela Defterleri** | Yıllık dergi: denemeler, arşiv belgeleri, atölye mektupları | Yılda 1 (Yıl 3'ten sonra) | 1.000 | Satış + abonelik |
-| **Artvela Edisyon** | Sınırlı sayıda özgün baskı (litografi, gravür, serigrafi) ya da sanatçı kitabı | Yılda 2–4 | 20–50 numaralı | Yeni koleksiyoncu kazanımı, ayrı gelir kalemi |
+| **Galeri Defterleri** | Yıllık dergi: denemeler, arşiv belgeleri, atölye mektupları | Yılda 1 (Yıl 3'ten sonra) | 1.000 | Satış + abonelik |
+| **Galeri Edisyon** | Sınırlı sayıda özgün baskı (litografi, gravür, serigrafi) ya da sanatçı kitabı | Yılda 2–4 | 20–50 numaralı | Yeni koleksiyoncu kazanımı, ayrı gelir kalemi |
 
 ### 4.2 Katalog anatomisi (standart şablon)
 1. Kapak: tek bir eser detayı, sade tipografi
@@ -111,7 +135,7 @@ Bunlara ek olarak her ay **Vitrin** programında tek iş değişir, 2 ayda bir d
 4. **Röportaj**: sanatçının atölyesinde, 3–5 bin kelime. Video çekimiyle aynı günde yapılır
 5. Eserler: tam sayfa görseller ve detaylar
 6. **Atölye fotoğrafları**: süreç, eskizler, defterler
-7. **Soyağacı sayfası**: sanatçının hocaları ve etkilendiği ustalar. Artvela'ya özgü imza bölüm
+7. **Soyağacı sayfası**: sanatçının hocaları ve etkilendiği ustalar. Galeriye özgü imza bölüm
 8. Künye ve özgeçmiş
 9. Arka kapak içi: QR kod ile video ve online viewing room bağlantısı
 
@@ -136,7 +160,7 @@ Bunlara ek olarak her ay **Vitrin** programında tek iş değişir, 2 ayda bir d
 | Ustalarla sözlü tarih | 60+ dk | Arşiv (seçkiler yayımlanır) | Yılda 3–4 |
 | Online viewing room | | Web | Her sergi + fuarlar |
 
-**Web sitesi** (bu repo): sanatçılar, sergiler (güncel / arşiv), yayınlar (satın alınabilir),
+**Web sitesi** (galerinin kendi alan adında, Artvela sitesinden ayrı): sanatçılar, sergiler (güncel / arşiv), yayınlar (satın alınabilir),
 viewing room, Soyağacı Haritası (etkileşimli), bülten kaydı, basın kiti indirme.
 
 ---
@@ -146,7 +170,7 @@ viewing room, Soyağacı Haritası (etkileşimli), bülten kaydı, basın kiti i
 ### 6.1 Sahip olunan kanallar
 - **E-bülten** (iki haftada bir): sergi, Atölyeden Mektuplar, yeni yayın. Asıl satış kanalı budur. Hedef 1. yıl sonunda 3.000 abone
 - **Instagram**: görsel arşiv, Vitrin programı, atölye içerikleri
-- **Basılı posta**: Artvela Gazetesi'nin koleksiyoncu listesine postayla gönderilmesi. Dijital çağda en güçlü fark yaratan araç
+- **Basılı posta**: Galeri Gazetesi'nin koleksiyoncu listesine postayla gönderilmesi. Dijital çağda en güçlü fark yaratan araç
 
 ### 6.2 Ücretli reklam ve medya
 | Mecra | Tür | Amaç |
@@ -160,7 +184,7 @@ viewing room, Soyağacı Haritası (etkileşimli), bülten kaydı, basın kiti i
 Mecra listesi her yıl güncellenmeli. Yayında olup olmadıkları ve ilan fiyatları teyit edilmeli.
 
 ### 6.3 İlişki pazarlaması
-- **Artvela Koleksiyoncu Çemberi:** yıllık üyelik. Üyelere önizleme, atölye ziyaretleri, yayınlar ve yıllık bir Edisyon baskı verilir
+- **Koleksiyoncu Çemberi:** yıllık üyelik. Üyelere önizleme, atölye ziyaretleri, yayınlar ve yıllık bir Edisyon baskı verilir
 - **Perşembe Akşamları:** Maya Galerisi'nin salon kültürüne selam. 25–40 kişilik kapalı akşamlar
 - **Kurum ilişkileri:** İstanbul Modern, İRHM, Arter, Pera Müzesi küratörlerine her katalog gönderilir
 - **Akademi ilişkisi:** MSGSÜ ve diğer fakültelerde seminer, mezuniyet sergisi ziyaretleri, Salon jürisine akademisyen daveti
@@ -175,14 +199,15 @@ Mecra listesi her yıl güncellenmeli. Yayında olup olmadıkları ve ilan fiyat
 
 | Kalem | Yıl 1 (tahmini pay) | Yıl 3 (hedef pay) |
 |---|---|---|
-| Birincil satış (konuk / temsil) | %65 | %55 |
-| İkincil piyasa (usta işleri) | %15 | %20 |
-| Edisyon ve yayın satışı | %5 | %8 |
-| Koleksiyoncu Çemberi üyelikleri | %5 | %7 |
-| Sponsorluk ve rezidans destekleri | %10 | %10 |
+| Birincil satış (konuk / temsil) | %75 | %65 |
+| Edisyon ve yayın satışı | %8 | %12 |
+| Koleksiyoncu Çemberi üyelikleri | %6 | %10 |
+| Sponsorluk ve rezidans destekleri | %11 | %13 |
 
-**Gider dağılımı (Yıl 1, yaklaşık):** mekân %30 · personel %30 · yayın, video ve fotoğraf %15 ·
-pazarlama ve reklam %10 · nakliye, sigorta, çerçeve %8 · fuar %7
+Galeri ikincil piyasa ve müzayede geliri almaz (bkz. 1.4).
+
+**Gider dağılımı (Yıl 1, yaklaşık):** ortak mekân gider payı %25 · personel %32 · yayın, video ve fotoğraf %15 ·
+pazarlama ve reklam %12 · nakliye, sigorta, çerçeve %8 · fuar %8
 (Yıl 1'de fuar bütçesi düşük tutulabilir, Yıl 2'de artar.)
 
 > TL tutarları enflasyon nedeniyle bilerek yazılmadı. Mekân ve kadro netleştiğinde ayrı bir
@@ -217,7 +242,8 @@ Dışarıdan alınacak hizmetler: grafik tasarım, fotoğraf, video, çeviri, hu
 
 | Risk | Önlem |
 |---|---|
-| Usta isimlerin başka galerilerle mevcut bağları | Atölye ziyaretlerinde açıkça sorulmalı. Gerekirse ikincil piyasa ya da ortak proje ile başlanmalı |
+| Usta isimlerin başka galerilerle mevcut bağları | Atölye ziyaretlerinde açıkça sorulmalı. Gerekirse diğer galeriyle ortak proje ya da konuk sergi ile başlanmalı |
+| Aynı mekânı paylaşan müzayedeyle karıştırılmak | 1.4'teki bağımsızlık ilkeleri, ayrı marka ve iletişim, sanatçı sözleşmesinde müzayede yasağı maddesi |
 | Genç sanatçıların fiyatlarının erken şişirilmesi | Yazılı fiyat politikası, yavaş artış |
 | Yayın maliyeti | Gazete formatı ucuz. Kataloglarda sponsor logosu, yayınevi ortaklığı, kültür destekleri |
 | "Sadece MSGSÜ" algısı | Salon'un tüm üniversitelere açık olduğu iletişimde öne çıkarılmalı. Jüri karma kurulmalı |
@@ -231,6 +257,6 @@ Dışarıdan alınacak hizmetler: grafik tasarım, fotoğraf, video, çeviri, hu
 3. [ ] Danışma kurulu için 6 aday
 4. [ ] SALT Araştırma ziyareti: Galeri Nev, Maya ve Helikon katalogları, D Grubu belgeleri
 5. [ ] Logo, tipografi ve **Gazete şablonunun** ilk tasarımı
-6. [ ] Web sitesinin yapısı (bu repoda): sayfa haritası ve içerik modeli
+6. [ ] Galerinin ayrı web sitesi: sayfa haritası ve içerik modeli (Artvela sitesinden bağımsız)
 7. [ ] Hukukçu ile konuk ve temsil sözleşme taslakları
 8. [ ] İlk sergi "Soyağacı I" için 6–8 sanatçı ön listesi

@@ -1,7 +1,7 @@
 # 01 — Galeri Modelleri: Türkiye'den ve Dünyadan Örnekler
 
 > Amaç: Hem mekânı olan hem de sanatçı temsil eden galerilerin nasıl çalıştığını görmek
-> ve Artvela için hangi araçları ödünç alacağımıza karar vermek.
+> ve galerimiz için hangi araçları ödünç alacağımıza karar vermek.
 
 ---
 
@@ -16,8 +16,10 @@ Bir galerinin işi iki türlü olabilir:
 | **İkincil piyasa (secondary market)** | Koleksiyondaki eserleri yeniden satar | Aracılık marjı | Sanatçıyla doğrudan ilişki yok |
 | **Melez model** | Temsil + ikincil piyasa + yayın + danışmanlık | Birden çok kaynak | Hem kariyer hem miras yönetimi |
 
-**Artvela için öneri: melez model.** Ana kimlik *temsil eden galeri*; ikincil piyasa (usta isimlerin
-tarihî işleri) ve yayıncılık ise hem gelir hem de kurumun saygınlığı için destek kolları.
+**Galerimiz için öneri: yayıncı, temsil eden galeri.** Ana kimlik *birincil piyasa* ve sanatçı
+temsilidir. Yayıncılık ve edisyonlar hem gelir hem de saygınlık için destek kollarıdır.
+Galeri **müzayededen tamamen bağımsızdır.** Müzayedeye eser göndermez, müzayedeyle ortak satış
+yapmaz ve kendi markasıyla çalışır (bkz. 03 numaralı doküman, "Müzayededen bağımsızlık").
 
 Temsil eden bir galerinin sanatçısı için yaptığı başlıca işler:
 1. Program içinde düzenli kişisel sergi (genelde 18–24 ayda bir)
@@ -41,7 +43,7 @@ Temsil eden bir galerinin sanatçısı için yaptığı başlıca işler:
 - 2024'teki 40. yıl sergisi, Ankara tarihine bağlı 40 sanatçıyı bir araya getirdi. Yani galeri **kendi
   geçmişini de sergi konusu** yaptı.
 
-**Artvela için ders:**
+**Galerimiz için ders:**
 - Kurucunun kültürel duruşu galerinin kimliği olur. Mimar kurucular galeriyi bir kitap gibi düşündü.
 - Yayın, satış yapmasa bile kalıcı olan tek şeydir. 40 yıl sonra geriye kalanlar kataloglar ve kitaplardır.
 - Ustalarla uzun ilişki kurulur: aynı sanatçıyla on yıllarca çalışmak bir kurumsal sermayedir.
@@ -54,7 +56,7 @@ Temsil eden bir galerinin sanatçısı için yaptığı başlıca işler:
 - Misyonu genç çağdaş sanatçıları keşfetmek ve kariyerleri boyunca **mentorluk** yapmak.
   Ansen, Ekin Saçlıoğlu, Ali Elmacı gibi isimlerle çalıştı. Zamanla uluslararası sanatçılar ve fotoğraf da programa girdi.
 
-**Artvela için ders:**
+**Galerimiz için ders:**
 - **Numaralı, yıllık tekrar eden bir seri** (Kesişme I, II, III…) hem bir keşif mekanizması hem de bir marka olur.
 - Genç sanatçıya yalnızca duvar değil **mentorluk** da sunmak, galeriyi "galerisi olmayan yeteneklerin" adresi yapar.
 
@@ -66,7 +68,7 @@ Temsil eden bir galerinin sanatçısı için yaptığı başlıca işler:
 - Oddviz, Canan Dağdelen, Onur Mansız, Erdal İnci, Ecem Dilan Köse gibi isimlerle çalıştı. Dijital
   sanata yöneldi (Art Dubai Digital 2026 katılımı).
 
-**Artvela için ders:**
+**Galerimiz için ders:**
 - Koleksiyoncu kökenli kurucular galeriye ilk günden bir **koleksiyoncu ağı** getirir.
 - **Açılış sergisinin sinyal gücü** önemli. İlk sergi galerinin bütün iddiasını tek cümlede söylemeli.
 - Takvim disiplini: yılda 6–7 sergi, sergi başına 5–6 hafta sürdürülebilir bir ritimdir.
@@ -84,7 +86,7 @@ Temsil eden bir galerinin sanatçısı için yaptığı başlıca işler:
 
 ## 3. Paris: Türk ressamların gittiği dönemin galerileri ne yapıyordu?
 
-Bu bölüm Artvela'nın "ruh ikizleri" için. Türk ressamlar 1900'lerden 1970'lere kadar bu
+Bu bölüm galerinin "ruh ikizleri" için. Türk ressamlar 1900'lerden 1970'lere kadar bu
 galerilerin olduğu bir Paris'e gitti.
 
 | Galerici | Dönem | Ne yaptı | Bugünkü karşılığı |
@@ -94,7 +96,7 @@ galerilerin olduğu bir Paris'e gitti.
 | **Daniel-Henry Kahnweiler** | 1907–1970'ler | Picasso ve Braque ile **münhasır sözleşmeler** imzaladı. Sanatçının tüm üretimini aylık ödemeyle aldı. Şairlerle sanatçı kitapları yayımladı | Modern temsil sözleşmesinin atası; "maaşlı sanatçı" fikri |
 | **Paul Guillaume** | 1910–1934 | Galerinin dergisi *Les Arts à Paris* | Galeri dergisi / bülten |
 | **Léonce Rosenberg** | 1918–1930'lar | Galeri bülteni *Bulletin de l'Effort Moderne* | Galeri bülteni |
-| **Aimé Maeght** | 1945–1981 | *Derrière le Miroir* (1946–1982): her sergi için orijinal litografili, katlanmış dergi formatında katalog. Mourlot atölyesinde basıldı. Sonra Fondation Maeght kuruldu | **Artvela'nın katalog formatı için birinci model** |
+| **Aimé Maeght** | 1945–1981 | *Derrière le Miroir* (1946–1982): her sergi için orijinal litografili, katlanmış dergi formatında katalog. Mourlot atölyesinde basıldı. Sonra Fondation Maeght kuruldu | **Galerinin katalog formatı için birinci model** |
 | **Colette Allendy, Dina Vierny** | 1940–1960'lar | Nejad Devrim, Fahrelnissa Zeid, Fikret Mualla gibi Türk sanatçıları gösteren küçük, cesur galeriler | "Yabancıya / keşfedilmemişe kapı açan" galeri |
 | **Iris Clert** | 1955–1970'ler | Yves Klein'ın *Le Vide* sergisi. Kendi gazetesi *Iris-Time* | Performatif açılışlar, gazete formatında yayın |
 | **Denise René** | 1944– | Soyut ve kinetik sanata adanmış net bir program | Net bir estetik program |
@@ -109,7 +111,7 @@ galerilerin olduğu bir Paris'e gitti.
 
 ## 4. Bugünün uluslararası galerilerinden alınacak araçlar
 
-| Galeri | Kullandığı araç | Artvela'ya uyarlama |
+| Galeri | Kullandığı araç | Galerimize uyarlama |
 |---|---|---|
 | **Hauser & Wirth** | Kendi yayınevi (Hauser & Wirth Publishers), *Ursula* dergisi, kırsalda sanat merkezi (Somerset) | Yayın kolu + şehir dışı rezidans fikri |
 | **David Zwirner** | Zwirner Books, *Dialogues* podcast'i, online viewing room, genç galerilere yer açan "Platform" | Podcast / söyleşi serisi, online görüntüleme odası |
@@ -121,7 +123,7 @@ galerilerin olduğu bir Paris'e gitti.
 
 ---
 
-## 5. Özet: Artvela'nın "ödünç alma listesi"
+## 5. Özet: Galerinin "ödünç alma listesi"
 
 | Kaynak | Alınacak fikir |
 |---|---|

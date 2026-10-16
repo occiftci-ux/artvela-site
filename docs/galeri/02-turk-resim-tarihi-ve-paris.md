@@ -1,7 +1,7 @@
 # 02 — Türk Resim Tarihi, Paris Yolculuğu ve Bugünkü Yorumu
 
 > Bu doküman bir tarih özeti değil, bir **fikir madenidir.** Her dönem için şu sorulara bakıyoruz:
-> *Kimler vardı → Nerede, nasıl sergilendiler → Ne yayımladılar → Artvela bunu bugün nasıl yorumlar?*
+> *Kimler vardı → Nerede, nasıl sergilendiler → Ne yayımladılar → galeri bunu bugün nasıl yorumlar?*
 
 ---
 
@@ -14,7 +14,7 @@
   Mimar Sinan Güzel Sanatlar Üniversitesi'nin kökü). Ressam, müzeci, arkeolog, kurum kurucusu.
 - Hoca Ali Rıza, Süleyman Seyyid: manzara ve natürmort.
 
-**Bugünkü yorum:** Artvela'nın kurucu anlatısı burada başlar. MSGSÜ'nün 140 yılı aşan soyağacı
+**Bugünkü yorum:** Galerinin kurucu anlatısı burada başlar. MSGSÜ'nün 140 yılı aşan soyağacı
 galerinin "omurga" hikâyesidir. Osman Hamdi'nin "kurum kuran sanatçı" figürü de galerinin ilham kaynağıdır.
 
 ### 1.2 1914 Kuşağı / Çallı Kuşağı: Türk empresyonistleri
@@ -26,18 +26,18 @@ galerinin "omurga" hikâyesidir. Osman Hamdi'nin "kurum kuran sanatçı" figür�
   ana vitrin. **Şişli Atölyesi (1917)** ve **1918 Viyana sergisi:** ilk uluslararası toplu çıkış.
 
 **Bugünkü yorum:**
-- Cemiyetin gazetesi → **Artvela Gazetesi** (bkz. 03 numaralı doküman): gazete formatında, ucuz,
+- Cemiyetin gazetesi → **Galeri Gazetesi** (bkz. 03 numaralı doküman): gazete formatında, ucuz,
   koleksiyonluk, her sergiyle çıkan basılı yayın.
 - Galatasaray Sergileri → **yıllık açık çağrılı "Salon"**: MSGSÜ'nün yanında **tüm üniversitelerin**
   mezunlarına açık, jürili, katalogu basılan bir karma sergi.
-- Viyana 1918 → Artvela'nın ilk yurt dışı ortak sergisi bir "**Paris'e dönüş**" sergisi olabilir.
+- Viyana 1918 → galerinin ilk yurt dışı ortak sergisi bir "**Paris'e dönüş**" sergisi olabilir.
 
 ### 1.3 Müstakil Ressamlar ve Heykeltraşlar Birliği (1929)
 - **Ali Avni Çelebi, Refik Epikman, Cevat Dereli, Şeref Akdik, Mahmut Cûda, Ratip Tahir, Zeki Kocamemi**
 - Münih'te (Hans Hofmann) ve Paris'te kübizm ile ekspresyonizmle tanıştılar. "Müstakil" yani
   **akademiden ve devletten bağımsız** sergileme iradesi taşıdılar.
 
-**Bugünkü yorum:** "Galerisi olmayan yetenekli sanatçılar" Artvela'nın müstakilleridir.
+**Bugünkü yorum:** "Galerisi olmayan yetenekli sanatçılar" galerinin müstakilleridir.
 Galeri bu bağımsızlık ruhunu açıkça sahiplenebilir.
 
 ### 1.4 D Grubu (1933)
@@ -65,7 +65,7 @@ Sponsorluğa en uygun program budur.
 - **Onlar Grubu (1947):** Bedri Rahmi atölyesinden yetişen gençler. **Bir hocanın öğrencilerinin grup oluşturması.**
 
 **Bugünkü yorum:** "Atölye soyağacı" fikri. MSGSÜ'de hangi hocanın atölyesinden kimin çıktığı,
-Artvela'nın sergi kurgusu için büyük bir kaynak (bkz. "Soyağacı" sergisi, 03 numaralı doküman).
+galerinin sergi kurgusu için büyük bir kaynak (bkz. "Soyağacı" sergisi, 03 numaralı doküman).
 
 ### 1.7 Paris'e gidenler ve École de Paris (1945–1970)
 En verimli dönem budur. Paris'e giden Türk sanatçılar orada galerilerle çalıştı:
@@ -97,7 +97,7 @@ En verimli dönem budur. Paris'e giden Türk sanatçılar orada galerilerle çal
   Cité internationale des arts gibi rezidanslar araştırılmalı. Dönüşte sergi, yol defteri ve röportaj yapılır.
   Bu, 1900–1960 arasındaki "Avrupa'ya gönderilen sanatçı" geleneğinin özel sektördeki karşılığı olur.
 - **Paris mektupları → "Atölyeden Mektuplar"**: temsil edilen sanatçıların bültene yazdığı kısa metinler ve desenler.
-- **Küçük katalog geleneği → Artvela Gazetesi ve Defterler** (03 numaralı doküman).
+- **Küçük katalog geleneği → Galeri Gazetesi ve Defterler** (03 numaralı doküman).
 
 ### 1.8 Türkiye'de özel galericiliğin doğuşu (1950–1990)
 - **Maya Sanat Galerisi (1950, Adalet Cimcoz):** galerinin bir **salon / çevre** olduğu dönem.
@@ -111,24 +111,24 @@ Zeki Faik İzer, Bedri Rahmi Eyüboğlu, Cemal Tollu, Nurullah Berk, Neşet Gün
 sonraki kuşak hocaların atölyeleri bu okulun parçası. Her atölye **kendi öğrenci soyağacını** üretti.
 
 > Doğrulama gerekiyor: Atölye-hoca-öğrenci eşleşmeleri ve yıllar, MSGSÜ arşivi ve SALT Araştırma'dan
-> kontrol edilip **"Artvela Soyağacı Haritası"** olarak yayına dönüştürülebilir. Bu harita tek başına bir
+> kontrol edilip **"Soyağacı Haritası"** olarak yayına dönüştürülebilir. Bu harita tek başına bir
 > araştırma ürünü ve web sitesinde etkileşimli bir sayfa olur.
 
 ---
 
 ## 2. Dönem dönem: "O zaman ne yapıldı → biz ne yapacağız"
 
-| Dönem pratiği | Artvela yorumu | Format |
+| Dönem pratiği | Galeri yorumu | Format |
 |---|---|---|
 | Şeker Ahmed Paşa'nın ilk sergileri | Açılış sergisi: "İlk Sergi" (1. yıl açılışı) | Karma sergi + manifesto |
-| Ressamlar Cemiyeti Gazetesi | **Artvela Gazetesi** | Gazete kâğıdı, iki dilli, her sergiyle |
+| Ressamlar Cemiyeti Gazetesi | **Galeri Gazetesi** | Gazete kâğıdı, iki dilli, her sergiyle |
 | Galatasaray Sergileri | **Yıllık Salon**, tüm üniversitelere açık çağrı | Jürili karma sergi + katalog |
 | D Grubu'nun Mimoza vitrini | **Vitrin** programı | Sokak vitrini + Instagram |
 | Yurt Gezileri | **Yurt Gezisi** rezidansı | Sergi + belgesel + yol defteri |
 | Onlar Grubu / atölye soyağacı | **Soyağacı** sergisi: usta ve öğrencileri | Diyalog sergisi + araştırma kitabı |
 | Paris'e gönderilen sanatçılar | **Paris Defteri** rezidansı | Rezidans + dönüş sergisi |
 | Maeght *Derrière le Miroir* | Sergi kataloğu = dergi | Katlanmış büyük format + özgün baskı |
-| Vollard'ın sanatçı kitapları | **Artvela Edisyon** | Sınırlı sayıda numaralı baskı / kitap |
+| Vollard'ın sanatçı kitapları | **Galeri Edisyon** | Sınırlı sayıda numaralı baskı / kitap |
 | Paris mektupları, röportajlar | **Atölyeden Mektuplar**, podcast, video röportaj | Bülten + YouTube + podcast |
 | Maya Galerisi'nin salon kültürü | **Perşembe Akşamları** | Kapalı koleksiyoncu ve sanatçı buluşmaları |
 
