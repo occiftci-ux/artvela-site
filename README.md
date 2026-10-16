@@ -16,3 +16,4 @@ Galerinin kendi reposu açıldığında oraya taşınmalı.
 - [07 — Modern ve basit isim aileleri (Bej · Opak · Meridyen · Bediz ve 3 yeni aile)](docs/galeri/07-bej-opak-meridyen-ailesi.md)
 - [08 — Yeni isim aileleri (kumaş, taş, fotoğraf, müzik, harf, doğa, yalın sıfatlar)](docs/galeri/08-yeni-isim-aileleri.md)
 - [09 — Fransızca kökler (Bej · Opak · Meridyen çizgisi) ve Bediz’in izi](docs/galeri/09-fransizca-kokler-ve-bediz-izi.md)
+- [10 — Antre ve Radyal çizgisi](docs/galeri/10-antre-radyal-cizgisi.md)
