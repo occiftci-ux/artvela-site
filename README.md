@@ -23,3 +23,4 @@ Galerinin kendi reposu açıldığında oraya taşınmalı.
 - [14 — Bej: misyon, vizyon ve dünya galerilerinden tavsiyeler](docs/galeri/14-bej-misyon-vizyon-ve-tavsiyeler.md)
 - [15 — Bej logo önerileri (6 yaklaşım, renk paleti, önerilen sistem)](docs/galeri/15-bej-logo/logo-onerileri.html)
   - [Büyük harf denemeleri](docs/galeri/15-bej-logo/buyuk-harf.html)
+  - [Konseptler, 2. tur (4 yön, 16 konsept, kullanım örnekleri)](docs/galeri/15-bej-logo/konseptler-2.html)

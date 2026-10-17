@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bej Logo Konseptleri</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Archivo:wdth,wght@62..125,100..900&family=Big+Shoulders+Display:wght@500;800&family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..700;1,6..96,400&family=Cinzel:wght@400;500&family=DM+Mono:wght@300;400&family=Fraunces:ital,wght@0,300;1,300;1,500&family=Instrument+Serif:ital@0;1&family=Jost:wght@300;400;500&family=Libre+Caslon+Text:ital,wght@0,400;1,400&family=Syne:wght@500;800&display=swap" rel="stylesheet">
+<style>
+  :root{--kagit:#F3ECE1;--acik:#E6D9C4;--bej:#D6C3A5;--koyu:#B08A62;--murekkep:#2B2621;--gri:#6E655B;--cizgi:#D9CDBA;--kart:#FBF7F1}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--kagit);color:var(--murekkep);font-family:Jost,system-ui,sans-serif;font-weight:300;line-height:1.5}
+  .wrap{max-width:1120px;margin:0 auto;padding:48px 16px 80px}
+  h1{font-family:"Instrument Serif",serif;font-weight:400;font-size:clamp(36px,6vw,60px);margin:0 0 6px;line-height:1.05}
+  .lead{color:var(--gri);max-width:720px;margin:0 0 8px}
+  h2{font-family:"Instrument Serif",serif;font-weight:400;font-size:32px;margin:56px 0 4px}
+  .yon{color:var(--gri);margin:0 0 18px;font-size:15px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:18px}
+  .card{background:var(--kart);border:1px solid var(--cizgi);border-radius:3px;overflow:hidden;display:flex;flex-direction:column}
+  .card.fav{outline:2px solid var(--koyu);outline-offset:-2px}
+  .stage{aspect-ratio:5/4;display:flex;align-items:center;justify-content:center;background:var(--kagit);border-bottom:1px solid var(--cizgi);position:relative;overflow:hidden;padding:12px}
+  .body{padding:14px 16px 18px}
+  .no{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--koyu);font-weight:500}
+  .body h3{margin:3px 0 6px;font-family:"Instrument Serif",serif;font-weight:400;font-size:23px}
+  .body p{margin:0 0 6px;font-size:14px}
+  .font{font-size:12px;color:var(--gri)}
+  /* konseptler */
+  .c1{font-family:Cinzel,serif;font-weight:400;font-size:52px;letter-spacing:.42em;padding-left:.42em;text-align:center;line-height:1}
+  .c1 .r{display:block;height:1px;background:var(--murekkep);margin:12px auto;width:76%}
+  .c1 small{display:block;font-family:Cinzel,serif;font-size:10px;letter-spacing:.5em;margin-top:2px;color:var(--gri)}
+  .c2{font-family:"Bodoni Moda",serif;font-weight:500;font-size:96px;font-optical-sizing:auto;letter-spacing:-.01em}
+  .c3{text-align:center}
+  .c3 .w{font-family:"Libre Caslon Text",serif;font-size:72px;line-height:1}
+  .c3 .s{font-family:"Libre Caslon Text",serif;font-size:11px;letter-spacing:.32em;text-transform:uppercase;color:var(--gri);margin-top:6px;font-variant:small-caps}
+  .c4{font-family:Archivo,sans-serif;font-stretch:125%;font-weight:800;font-size:66px;letter-spacing:-.02em}
+  .c5{font-family:"Big Shoulders Display",sans-serif;font-weight:800;font-size:140px;line-height:.82;letter-spacing:.01em}
+  .c6{text-align:left}
+  .c6 .w{font-family:"Instrument Serif",serif;font-size:104px;line-height:.9}
+  .c6 .s{font-family:Jost,sans-serif;font-size:11px;letter-spacing:.28em;text-transform:uppercase;margin-top:8px;color:var(--gri)}
+  .c7{font-family:Syne,sans-serif;font-weight:800;font-size:92px;letter-spacing:-.04em}
+  .c8{font-family:Jost,sans-serif;font-weight:500;font-size:88px;letter-spacing:-.03em}
+  .c8 i{font-style:normal;color:var(--koyu)}
+  .c9{font-family:Jost,sans-serif;font-size:13px;line-height:1.5;border-left:1px solid var(--murekkep);padding-left:14px;max-width:210px}
+  .c9 b{font-family:"Instrument Serif",serif;font-weight:400;font-size:40px;display:block;line-height:1;margin-bottom:6px}
+  .c9 em{font-style:italic;font-family:"Instrument Serif",serif;font-size:16px}
+  .c10{position:absolute;inset:14px;background:var(--bej)}
+  .c10 span{position:absolute;left:12px;bottom:10px;font-family:"Instrument Serif",serif;font-size:22px;font-style:italic}
+  .c11{font-family:Archivo,sans-serif;font-stretch:110%;font-weight:700;font-size:92px;letter-spacing:-.02em}
+  .c11 span:nth-child(1){color:#D6C3A5}.c11 span:nth-child(2){color:#B08A62}.c11 span:nth-child(3){color:#2B2621}
+  .c12{font-family:Archivo,sans-serif;font-stretch:100%;font-weight:600;font-size:40px;line-height:1.02;text-align:center;border:1.5px solid var(--murekkep);padding:12px 18px}
+  .c12 small{display:block;font-weight:400;font-size:8px;letter-spacing:.3em;margin-top:8px;color:var(--gri)}
+  .c13{font-family:"Instrument Serif",serif;font-size:76px}
+  .c13 .p{color:var(--koyu);font-weight:300}
+  .c14{font-family:"DM Mono",monospace;font-size:15px;line-height:1.7}
+  .c14 b{font-weight:400;font-size:46px;display:block;letter-spacing:.06em;line-height:1.1}
+  .c15{font-family:"Allerta Stencil",sans-serif;font-size:88px;letter-spacing:.06em}
+  .c16{font-family:Fraunces,serif;font-style:italic;font-weight:300;font-size:104px;letter-spacing:-.02em}
+  /* uygulamalar */
+  .uyg{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:18px}
+  .mock{aspect-ratio:3/2;border:1px solid var(--cizgi);border-radius:3px;position:relative;overflow:hidden}
+  .lab{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--gri);margin:8px 0 18px}
+  .note{background:var(--kart);border-left:3px solid var(--koyu);padding:14px 18px;margin-top:28px;font-size:15px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Bej — logo konseptleri, 2. tur</h1>
+  <p class="lead">Dört yön, 16 konsept. Önce yön seçiyoruz, sonra seçilen yönü derinleştiriyoruz. Benim üç favorim çerçeveli; sayfanın sonunda bu üçünün tabela, kartvizit ve katalog kapağı üzerinde nasıl duracağını gösterdim.</p>
+
+  <h2>I. Klasik ve kalıcı</h2>
+  <p class="yon">"Kalıcı iz" fikri: taş yazıt, edebiyat, ustalık.</p>
+  <div class="grid">
+    <div class="card"><div class="stage"><div class="c1">BEJ<span class="r"></span><small>GALERİ · İSTANBUL</small></div></div>
+      <div class="body"><div class="no">01</div><h3>Yazıt</h3><p>Roma yazıtlarından gelen büyük harfler, geniş aralık, iki ince çizgi. Taşa kazınmış gibi kalıcı.</p><p class="font">Yazı karakteri: Cinzel (Trajan kökenli)</p></div></div>
+    <div class="card"><div class="stage"><div class="c2">Bej</div></div>
+      <div class="body"><div class="no">02</div><h3>Didone</h3><p>Kalın-ince kontrastı yüksek, moda dergisi ve lüks yayın estetiği. Zarif ve iddialı.</p><p class="font">Yazı karakteri: Bodoni Moda</p></div></div>
+    <div class="card"><div class="stage"><div class="c3"><div class="w">bej</div><div class="s">Galeri ve Yayınevi</div></div></div>
+      <div class="body"><div class="no">03</div><h3>Kitap</h3><p>18. yüzyıl kitap harfleri. "Galeri ve Yayınevi" alt yazısıyla yayıncı kimliği öne çıkıyor.</p><p class="font">Yazı karakteri: Libre Caslon</p></div></div>
+  </div>
+
+  <h2>II. Çağdaş ve minimal</h2>
+  <p class="yon">Uluslararası çağdaş sanat galerilerinin dili: güçlü, sade, tek kelime.</p>
+  <div class="grid">
+    <div class="card fav"><div class="stage"><div class="c4">BEJ</div></div>
+      <div class="body"><div class="no">04 · Favori</div><h3>Geniş</h3><p>Yatayda genişletilmiş, kalın bir grotesk. Üç harf bir blok gibi duruyor. Kısa ismin en güçlü hâli.</p><p class="font">Yazı karakteri: Archivo Expanded</p></div></div>
+    <div class="card"><div class="stage"><div class="c5">BEJ</div></div>
+      <div class="body"><div class="no">05</div><h3>Dik</h3><p>Dar ve uzun harfler: ayakta duran üç figür gibi. Afişte ve dikey tabelada çok etkili.</p><p class="font">Yazı karakteri: Big Shoulders Display</p></div></div>
+    <div class="card fav"><div class="stage"><div class="c6"><div class="w">Bej</div><div class="s">Galeri — İstanbul</div></div></div>
+      <div class="body"><div class="no">06 · Favori</div><h3>Instrument</h3><p>Bugünün çağdaş sanat ve yayın dünyasının sevdiği, sıcak ve hafif sıkışık bir serif. Hem edebi hem güncel.</p><p class="font">Yazı karakteri: Instrument Serif</p></div></div>
+    <div class="card"><div class="stage"><div class="c7">bej</div></div>
+      <div class="body"><div class="no">07</div><h3>Syne</h3><p>Biraz tuhaf, karakterli bir kalın sans. Genç, cesur ve deneysel bir galeri tavrı.</p><p class="font">Yazı karakteri: Syne</p></div></div>
+    <div class="card"><div class="stage"><div class="c8">bej<i>.</i></div></div>
+      <div class="body"><div class="no">08</div><h3>Nokta</h3><p>İsmin sonunda tek bir koyu bej nokta: "Bej. Nokta." Kendinden emin, kısa bir cümle gibi.</p><p class="font">Yazı karakteri: Jost</p></div></div>
+  </div>
+
+  <h2>III. Kavramsal</h2>
+  <p class="yon">Logo bir fikir anlatıyor: eser künyesi, renk örneği, kitap sırtı.</p>
+  <div class="grid">
+    <div class="card fav"><div class="stage"><div class="c9"><b>Bej</b>2026<br><em>Ten ve keten üzerine galeri</em><br>İstanbul</div></div>
+      <div class="body"><div class="no">09 · Favori</div><h3>Eser künyesi</h3><p>Logo, müzelerdeki eser etiketi gibi yazılmış: ad, yıl, teknik, yer. Galeri kendini bir eser gibi tanıtıyor. "Teknik" satırı her sergide değişebilir.</p><p class="font">Yazı karakterleri: Instrument Serif ve Jost</p></div></div>
+    <div class="card"><div class="stage"><div class="c10"><span>bej</span></div></div>
+      <div class="body"><div class="no">10</div><h3>Renk alanı</h3><p>Logo rengin kendisi: bej bir alan ve köşesinde, bir tablonun imzası gibi küçük bir isim.</p><p class="font">Yazı karakteri: Instrument Serif italik</p></div></div>
+    <div class="card"><div class="stage"><div class="c11"><span>B</span><span>E</span><span>J</span></div></div>
+      <div class="body"><div class="no">11</div><h3>Üç ton</h3><p>Her harf bejin bir tonu: açıktan koyuya. Palet, logonun kendisi oluyor.</p><p class="font">Yazı karakteri: Archivo</p></div></div>
+    <div class="card"><div class="stage"><div class="c12">B<br>E<br>J<small>GALERİ</small></div></div>
+      <div class="body"><div class="no">12</div><h3>Kitap sırtı</h3><p>Harfler alt alta, dar bir çerçevede: bir kitabın sırtı ya da bir eserin duvar etiketi gibi. Dikey tabela için ideal.</p><p class="font">Yazı karakteri: Archivo</p></div></div>
+    <div class="card"><div class="stage"><div class="c13"><span class="p">(</span>bej<span class="p">)</span></div></div>
+      <div class="body"><div class="no">13</div><h3>Parantez</h3><p>İsim iki parantezin arasında: galeri sanatı "çerçeveleyen" yer. Sergi adları da parantez içinde yazılabilir.</p><p class="font">Yazı karakteri: Instrument Serif</p></div></div>
+  </div>
+
+  <h2>IV. Karakterli</h2>
+  <p class="yon">Atölyenin, arşivin ve elin izi.</p>
+  <div class="grid">
+    <div class="card"><div class="stage"><div class="c14"><b>BEJ_</b>arşiv no. 001<br>galeri, istanbul</div></div>
+      <div class="body"><div class="no">14</div><h3>Arşiv</h3><p>Daktilo ve katalog kartı estetiği. Her sergi bir arşiv numarası alır.</p><p class="font">Yazı karakteri: DM Mono</p></div></div>
+    <div class="card"><div class="stage"><div class="c15">BEJ</div></div>
+      <div class="body"><div class="no">15</div><h3>Şablon</h3><p>Eser sandıklarına basılan şablon harfler: atölye ve nakliye dünyası. Ham ve dürüst.</p><p class="font">Yazı karakteri: Allerta Stencil</p></div></div>
+    <div class="card"><div class="stage"><div class="c16">bej</div></div>
+      <div class="body"><div class="no">16</div><h3>Yumuşak</h3><p>Yuvarlak uçlu, sıcak bir italik. Elle yazılmış gibi ama düzenli.</p><p class="font">Yazı karakteri: Fraunces italik</p></div></div>
+  </div>
+
+  <h2>Üç favori, gerçek kullanımda</h2>
+  <p class="yon">Tabela, kartvizit ve katalog kapağı.</p>
+
+  <div class="uyg">
+    <div><div class="mock" style="background:#2B2621;display:flex;align-items:center;justify-content:center"><div class="c4" style="color:#E6D9C4;font-size:84px">BEJ</div></div><div class="lab">04 · Tabela (koyu zemin)</div></div>
+    <div><div class="mock" style="background:#FBF7F1"><div style="position:absolute;left:24px;top:22px" class="c4"><span style="font-size:30px">BEJ</span></div><div style="position:absolute;left:24px;bottom:22px;font-size:11px;line-height:1.6;color:#6E655B">Ad Soyad<br>Galeri Direktörü<br>bej.gallery</div></div><div class="lab">04 · Kartvizit</div></div>
+    <div><div class="mock" style="background:#D6C3A5"><div style="position:absolute;left:24px;top:22px" class="c4"><span style="font-size:22px">BEJ</span></div><div style="position:absolute;left:24px;bottom:22px;font-family:'Instrument Serif',serif;font-size:30px;line-height:1.05">Sanatçı Adı<br><i style="font-size:18px">Sergi başlığı · No. 01</i></div></div><div class="lab">04 · Katalog kapağı</div></div>
+
+    <div><div class="mock" style="background:#E6D9C4;display:flex;align-items:center;justify-content:center"><div class="c6"><div class="w" style="font-size:96px">Bej</div><div class="s">Galeri — İstanbul</div></div></div><div class="lab">06 · Tabela (açık zemin)</div></div>
+    <div><div class="mock" style="background:#FBF7F1"><div style="position:absolute;left:24px;top:14px;font-family:'Instrument Serif',serif;font-size:46px">Bej</div><div style="position:absolute;left:24px;bottom:22px;font-size:11px;line-height:1.6;color:#6E655B">Ad Soyad<br>Galeri Direktörü<br>bej.gallery</div></div><div class="lab">06 · Kartvizit</div></div>
+    <div><div class="mock" style="background:#2B2621;color:#E6D9C4"><div style="position:absolute;left:24px;top:14px;font-family:'Instrument Serif',serif;font-size:40px">Bej</div><div style="position:absolute;left:24px;bottom:22px;font-family:'Instrument Serif',serif;font-size:30px;line-height:1.05">Sanatçı Adı<br><i style="font-size:18px;color:#B08A62">Sergi başlığı · No. 01</i></div></div><div class="lab">06 · Katalog kapağı</div></div>
+
+    <div><div class="mock" style="background:#F3ECE1;display:flex;align-items:center;justify-content:center"><div class="c9" style="max-width:260px"><b style="font-size:56px">Bej</b>2026<br><em>Ten ve keten üzerine galeri</em><br>İstanbul</div></div><div class="lab">09 · Giriş duvarı (eser etiketi gibi)</div></div>
+    <div><div class="mock" style="background:#FBF7F1"><div style="position:absolute;left:24px;top:22px" class="c9"><b style="font-size:30px">Bej</b>Ad Soyad, 1978<br><em>Galeri direktörü</em><br>bej.gallery</div></div><div class="lab">09 · Kartvizit (kişi de bir künye)</div></div>
+    <div><div class="mock" style="background:#D6C3A5"><div style="position:absolute;left:24px;bottom:22px" class="c9"><b style="font-size:34px">Bej No. 01</b>Sanatçı Adı<br><em>Tuval üzerine yağlıboya</em><br>18 Ocak – 1 Mart 2027</div></div><div class="lab">09 · Katalog kapağı (sergi künyesi)</div></div>
+  </div>
+
+  <div class="note">
+    <b>Önerim:</b> Ana yön olarak <b>06 Instrument</b> ya da <b>04 Geniş</b>. Sistem fikri olarak <b>09 Eser künyesi</b>: logonun yanında davetiyelerde, kartvizitlerde ve kataloglarda künye dili kullanılabilir. Örneğin 06'nın yazısı ile 09'un künye düzeni birleşebilir.<br><br>
+    Bunlar yön taslakları. Seçilen yön bir grafik tasarımcıya verilmeli; ticari yazı karakteri lisansı, harf ince ayarı (kerning) ve marka tescili için özgünleştirme (örneğin J'ye özel bir kuyruk) gerekecek. Burada kullanılan yazı karakterleri ücretsiz ve açık lisanslı Google Fonts karakterleri.
+  </div>
+</div>
+</body>
+</html>
