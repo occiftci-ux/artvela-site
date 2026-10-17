@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 210" width="560" height="420" role="img" aria-label="Bej logosu: j harfinin noktası bir baş, gövdesi bir figür">
+  <title>Bej — figür logosu</title>
+  <rect width="280" height="210" fill="#F3ECE1"/>
+  <g fill="none" stroke="#2B2621" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
+    <!-- b -->
+    <path d="M40 40 V140"/>
+    <circle cx="70" cy="110" r="30"/>
+    <!-- e -->
+    <path d="M120 110 H180 A30 30 0 1 0 174.6 127.2"/>
+    <!-- j: gövde ve ayak -->
+    <path d="M230 80 V160 A22 22 0 0 1 186 160"/>
+  </g>
+  <!-- j'nin noktası: figürün başı -->
+  <circle cx="230" cy="48" r="11" fill="#B08A62"/>
+</svg>
