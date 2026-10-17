@@ -1,6 +1,6 @@
 # 03 — Galeri Modeli (Taslak v2)
 
-> Galerinin markası ve adı henüz belirlenmedi. Dokümanda "Galeri" diye geçiyor.
+> **Galerinin adı: Bej.** Bu taslakta "Galeri" diye geçen her yer Bej'i ifade eder (bkz. 14 numaralı doküman: misyon, vizyon ve tavsiyeler).
 > Galeri bir ortakla kuruluyor ve **Artvela müzayede şirketinden tamamen bağımsız** bir marka olacak.
 
 ---

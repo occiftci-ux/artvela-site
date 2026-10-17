@@ -2,8 +2,8 @@
 
 **Artvela**: müzayede şirketi. Bu repo Artvela'nın web sitesi içindir.
 
-## Ortak mekândaki bağımsız galeri (ayrı marka)
-Aynı mekânda bir ortakla kurulan galeri, Artvela'dan **tamamen bağımsız** ayrı bir markadır.
+## Bej: ortak mekândaki bağımsız galeri (ayrı marka)
+Aynı mekânda bir ortakla kurulan galeri **Bej**, Artvela'dan **tamamen bağımsız** ayrı bir markadır.
 Müzayedeyle hiçbir iş ilişkisi yoktur. Galerinin planlama dokümanları geçici olarak burada duruyor.
 Galerinin kendi reposu açıldığında oraya taşınmalı.
 
@@ -20,3 +20,4 @@ Galerinin kendi reposu açıldığında oraya taşınmalı.
 - [11 — Gece çalışması: sabah raporu, ilk 50, ilk 10 kontrolü, gerekçeli eleme listesi](docs/galeri/11-gece-calismasi/00-sabah-raporu.md)
 - [12 — Kült galeri isimleri: formüller ve yeni seçenekler](docs/galeri/12-kult-isim-formulleri.md)
 - [13 — Kült isimler: her formülden 50 seçenek](docs/galeri/13-kult-isimler-50x5.md)
+- [14 — Bej: misyon, vizyon ve dünya galerilerinden tavsiyeler](docs/galeri/14-bej-misyon-vizyon-ve-tavsiyeler.md)
