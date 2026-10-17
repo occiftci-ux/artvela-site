@@ -19,3 +19,4 @@ Galerinin kendi reposu açıldığında oraya taşınmalı.
 - [10 — Antre ve Radyal çizgisi](docs/galeri/10-antre-radyal-cizgisi.md)
 - [11 — Gece çalışması: sabah raporu, ilk 50, ilk 10 kontrolü, gerekçeli eleme listesi](docs/galeri/11-gece-calismasi/00-sabah-raporu.md)
 - [12 — Kült galeri isimleri: formüller ve yeni seçenekler](docs/galeri/12-kult-isim-formulleri.md)
+- [13 — Kült isimler: her formülden 50 seçenek](docs/galeri/13-kult-isimler-50x5.md)
