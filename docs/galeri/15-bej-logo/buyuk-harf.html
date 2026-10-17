@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BEJ Büyük Harf</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root{--kagit:#F3ECE1;--acik:#E6D9C4;--bej:#D6C3A5;--koyu:#B08A62;--murekkep:#2B2621;--gri:#6E655B;--cizgi:#D9CDBA}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--kagit);color:var(--murekkep);font-family:Jost,system-ui,sans-serif;font-weight:300;line-height:1.55}
+  .wrap{max-width:1080px;margin:0 auto;padding:48px 16px 80px}
+  h1{font-family:"Cormorant Garamond",serif;font-weight:400;font-size:clamp(34px,6vw,56px);margin:0 0 6px}
+  .lead{color:var(--gri);max-width:700px;margin:0 0 40px}
+  h2{font-family:"Cormorant Garamond",serif;font-weight:500;font-size:28px;margin:56px 0 16px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:20px}
+  .card{background:#FBF7F1;border:1px solid var(--cizgi);border-radius:4px;overflow:hidden}
+  .card.oneri{outline:2px solid var(--koyu);outline-offset:-2px}
+  .stage{aspect-ratio:4/3;display:flex;align-items:center;justify-content:center;background:var(--kagit);border-bottom:1px solid var(--cizgi)}
+  .stage.dark{background:var(--murekkep)}
+  .stage svg{width:80%;height:auto;display:block}
+  .body{padding:16px 18px 20px}
+  .no{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--koyu);font-weight:500}
+  .body h3{margin:4px 0 8px;font-family:"Cormorant Garamond",serif;font-weight:500;font-size:22px}
+  .body p{margin:0 0 8px;font-size:15px}
+  .pc{font-size:14px;color:var(--gri)} .pc b{color:var(--murekkep);font-weight:500}
+  .note{background:#FBF7F1;border-left:3px solid var(--koyu);padding:14px 18px;margin-top:24px;font-size:15px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>BEJ — büyük harf denemeleri</h1>
+  <p class="lead">Büyük "J"nin noktası olmadığı için figür fikrini korumanın beş yolunu denedim. Hepsi tek kalınlıkta, geometrik ve özel çizilmiş harfler. Önerdiğim deneme çerçeveli gösterildi.</p>
+
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <defs>
+      <!-- Ortak B ve E -->
+      <g id="B"><path d="M40 40 V140 M40 40 H68 A25 25 0 0 1 68 90 H40 M40 90 H72 A25 25 0 0 1 72 140 H40"/></g>
+      <g id="E"><path d="M164 40 H126 V140 H164 M126 90 H157"/></g>
+    </defs>
+  </svg>
+
+  <div class="grid">
+
+    <!-- A -->
+    <div class="card oneri">
+      <div class="stage">
+        <svg viewBox="10 0 260 180" aria-label="J harfinin üstünde baş olan BEJ">
+          <g fill="none" stroke="#2B2621" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+            <use href="#B"/><use href="#E"/>
+            <path d="M234 66 V115 A24 24 0 0 1 186 115"/>
+          </g>
+          <circle cx="234" cy="43" r="11" fill="#B08A62"/>
+        </svg>
+      </div>
+      <div class="body">
+        <div class="no">A · Önerim</div>
+        <h3>Baş, harfin hizasında</h3>
+        <p>J'nin üst ucu bir başa dönüşüyor. Baş, B ile E'nin üst hizasında duruyor. Harf yüksekliği bozulmuyor, J ayakta duran bir figür gibi okunuyor.</p>
+        <p class="pc"><b>Artı:</b> Üç harf aynı boyda, kurumsal ve dengeli. Figür fikri korunuyor. <b>Risk:</b> J'nin biraz kısa görünmemesi için tasarımcı oranları ayarlamalı.</p>
+      </div>
+    </div>
+
+    <!-- B -->
+    <div class="card">
+      <div class="stage">
+        <svg viewBox="10 0 260 180" aria-label="J üstünde nokta olan BEJ">
+          <g fill="none" stroke="#2B2621" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+            <use href="#B"/><use href="#E"/>
+            <path d="M234 40 V115 A24 24 0 0 1 186 115"/>
+          </g>
+          <circle cx="234" cy="16" r="9" fill="#B08A62"/>
+        </svg>
+      </div>
+      <div class="body">
+        <div class="no">B</div>
+        <h3>Büyük J'ye nokta</h3>
+        <p>Büyük J tam boyunda ve üstüne, küçük harften taşınmış bir nokta ekleniyor. Bilinçli bir "kural bozma".</p>
+        <p class="pc"><b>Artı:</b> Dikkat çekici ve oyunbaz. <b>Risk:</b> Nokta, harf hizasının üstüne çıktığı için logo dikeyde uzuyor. Bazıları bunu yazım hatası sanabilir.</p>
+      </div>
+    </div>
+
+    <!-- C -->
+    <div class="card">
+      <div class="stage">
+        <svg viewBox="10 0 260 190" aria-label="J harfi zemin çizgisinin altına inen BEJ">
+          <line x1="32" y1="140" x2="262" y2="140" stroke="#B08A62" stroke-width="1.2"/>
+          <g fill="none" stroke="#2B2621" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+            <use href="#B"/><use href="#E"/>
+            <path d="M234 66 V148 A22 22 0 0 1 190 148"/>
+          </g>
+          <circle cx="234" cy="43" r="11" fill="#2B2621"/>
+        </svg>
+      </div>
+      <div class="body">
+        <div class="no">C</div>
+        <h3>Zemine basan figür</h3>
+        <p>A'daki figür, bu kez ince bir zemin çizgisinin altına iniyor. B ve E zeminin üstünde, figür zemine basıyor.</p>
+        <p class="pc"><b>Artı:</b> "Bej bir zemindir" cümlesini görselleştiriyor. <b>Risk:</b> Çizgi küçük boyutlarda kaybolur; simge olarak A daha iyi çalışır.</p>
+      </div>
+    </div>
+
+    <!-- D -->
+    <div class="card">
+      <div class="stage">
+        <svg viewBox="10 0 260 180" aria-label="Kalın BEJ">
+          <g fill="none" stroke="#2B2621" stroke-width="20" stroke-linecap="round" stroke-linejoin="round">
+            <use href="#B"/><use href="#E"/>
+            <path d="M234 70 V115 A24 24 0 0 1 186 115"/>
+          </g>
+          <circle cx="234" cy="42" r="13" fill="#B08A62"/>
+        </svg>
+      </div>
+      <div class="body">
+        <div class="no">D</div>
+        <h3>Kalın kesim</h3>
+        <p>A'nın kalın versiyonu: tabela, cephe ve afiş için daha güçlü bir varlık.</p>
+        <p class="pc"><b>Artı:</b> Uzaktan okunur, sokakta etkili. <b>Risk:</b> Sanat galerisi için fazla iddialı görünebilir; ana logo A, tabela için D önerilir.</p>
+      </div>
+    </div>
+
+    <!-- E -->
+    <div class="card">
+      <div class="stage">
+        <svg viewBox="0 0 250 180" aria-label="Mühür biçiminde BEJ">
+          <defs><path id="halka" d="M125 90 m-70 0 a70 70 0 1 1 140 0 a70 70 0 1 1 -140 0"/></defs>
+          <circle cx="125" cy="90" r="84" fill="none" stroke="#2B2621" stroke-width="1.2"/>
+          <text font-family="Jost, sans-serif" font-size="10.5" letter-spacing="4.2" fill="#6E655B"><textPath href="#halka" startOffset="0">GALERİ · İSTANBUL · GALERİ · İSTANBUL ·</textPath></text>
+          <g transform="translate(49.6 41) scale(0.55)" fill="none" stroke="#2B2621" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+            <use href="#B"/><use href="#E"/>
+            <path d="M234 66 V115 A24 24 0 0 1 186 115"/>
+          </g>
+          <circle cx="178.3" cy="64.6" r="6" fill="#B08A62"/>
+        </svg>
+      </div>
+      <div class="body">
+        <div class="no">E</div>
+        <h3>Mühür</h3>
+        <p>A'daki logo, "GALERİ · İSTANBUL" yazılı bir halkanın içinde. Sertifikalar, katalog arkası ve eser etiketleri için bir damga.</p>
+        <p class="pc"><b>Artı:</b> Eser sertifikasında "onay" duygusu veriyor. <b>Risk:</b> Ana logo olarak fazla detaylı; ikincil bir işaret olarak kullanılmalı.</p>
+      </div>
+    </div>
+
+    <!-- F -->
+    <div class="card">
+      <div class="stage">
+        <svg viewBox="0 0 250 180" aria-label="Galeri yazısıyla birlikte BEJ">
+          <g transform="translate(7.5 18) scale(0.85)" fill="none" stroke="#2B2621" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+            <use href="#B"/><use href="#E"/>
+            <path d="M234 66 V115 A24 24 0 0 1 186 115"/>
+          </g>
+          <circle cx="206.4" cy="54.6" r="9.4" fill="#B08A62"/>
+          <line x1="52" y1="152" x2="196" y2="152" stroke="#D9CDBA" stroke-width="1"/>
+          <text x="124" y="170" text-anchor="middle" font-family="Jost, sans-serif" font-weight="400" font-size="10.5" letter-spacing="6.5" fill="#6E655B">GALERİ</text>
+        </svg>
+      </div>
+      <div class="body">
+        <div class="no">F</div>
+        <h3>"Galeri" ile birlikte</h3>
+        <p>Resmî kullanım için A ve altında ince harflerle "GALERİ". Davetiye, basın bülteni ve web sitesi başlığı için.</p>
+        <p class="pc"><b>Artı:</b> "Bej"in bir galeri olduğu ilk bakışta anlaşılıyor; tescil başvurusu için de uygun bir biçim.</p>
+      </div>
+    </div>
+  </div>
+
+  <h2>Koyu zemin ve simge</h2>
+  <div class="grid">
+    <div class="card">
+      <div class="stage dark">
+        <svg viewBox="10 0 260 180" aria-label="Koyu zeminde BEJ">
+          <g fill="none" stroke="#E6D9C4" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+            <use href="#B"/><use href="#E"/>
+            <path d="M234 66 V115 A24 24 0 0 1 186 115"/>
+          </g>
+          <circle cx="234" cy="43" r="11" fill="#B08A62"/>
+        </svg>
+      </div>
+      <div class="body"><div class="no">Koyu zemin</div><p>Tabela, ışıklı yazı ve video kapanışları.</p></div>
+    </div>
+    <div class="card">
+      <div class="stage">
+        <svg viewBox="0 0 250 180" aria-label="J simgesi">
+          <circle cx="125" cy="90" r="72" fill="#D6C3A5"/>
+          <g fill="none" stroke="#2B2621" stroke-width="12" stroke-linecap="round"><path d="M138 78 V118 A22 22 0 0 1 94 118"/></g>
+          <circle cx="138" cy="55" r="11" fill="#2B2621"/>
+        </svg>
+      </div>
+      <div class="body"><div class="no">Simge</div><p>Sadece figür olan J: profil resmi, sekme simgesi, damga.</p></div>
+    </div>
+  </div>
+
+  <div class="note">Büyük harf, küçük harfe göre daha kurumsal ve "kalıcı" duruyor; küçük harf daha samimi ve çağdaş. İkisini birlikte kullanmak da mümkün: ana logo büyük harf A, sosyal medya ve günlük iletişimde küçük harf "bej".</div>
+</div>
+</body>
+</html>

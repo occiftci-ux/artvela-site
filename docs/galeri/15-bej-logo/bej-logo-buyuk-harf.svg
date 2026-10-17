@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="10 0 260 180" width="520" height="360" role="img" aria-label="BEJ logosu: J harfinin üstü bir baş, gövdesi bir figür">
+  <title>BEJ — büyük harf figür logosu</title>
+  <rect x="10" width="260" height="180" fill="#F3ECE1"/>
+  <g fill="none" stroke="#2B2621" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 40 V140 M40 40 H68 A25 25 0 0 1 68 90 H40 M40 90 H72 A25 25 0 0 1 72 140 H40"/>
+    <path d="M164 40 H126 V140 H164 M126 90 H157"/>
+    <path d="M234 66 V115 A24 24 0 0 1 186 115"/>
+  </g>
+  <circle cx="234" cy="43" r="11" fill="#B08A62"/>
+</svg>

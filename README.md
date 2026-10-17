@@ -22,3 +22,4 @@ Galerinin kendi reposu açıldığında oraya taşınmalı.
 - [13 — Kült isimler: her formülden 50 seçenek](docs/galeri/13-kult-isimler-50x5.md)
 - [14 — Bej: misyon, vizyon ve dünya galerilerinden tavsiyeler](docs/galeri/14-bej-misyon-vizyon-ve-tavsiyeler.md)
 - [15 — Bej logo önerileri (6 yaklaşım, renk paleti, önerilen sistem)](docs/galeri/15-bej-logo/logo-onerileri.html)
+  - [Büyük harf denemeleri](docs/galeri/15-bej-logo/buyuk-harf.html)
