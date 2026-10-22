@@ -57,7 +57,42 @@ Artvela'nın farkı burada: eseri bir düşünce geleneğine bağlamak.
 
 > "…" — Sanatçı, Kaynak, Tarih
 
-## 4. Eser Analizi (müzayedeye giren eser/ler)
+## 4. Sanatçının Kendi Ağzından
+
+Yalnızca sanatçının doğrudan sözleri: söyleşiler, videolar, kendi sosyal medya hesapları. Gazeteci yorumunu buraya koyma. Her alıntıya kaynak, tarih ve (video ise) zaman damgası ekle.
+
+### 4.1 Kanallar
+| Kanal | Adres | Durum |
+|---|---|---|
+| Instagram | | Bio, öne çıkanlar, son gönderi açıklamaları |
+| YouTube / Vimeo | | |
+| Web sitesi / diğer | | |
+
+### 4.2 Video söyleşiler
+| Tarih | Başlık (bağlantı) | Kanal | Konu | Döküm / zaman damgaları |
+|---|---|---|---|---|
+| | | | | |
+
+### 4.3 Kendi sözleriyle: temalara göre
+**Atölye ve yöntem**
+> "…" — Kaynak, Tarih [K#]
+
+**Felsefi / politik zemin, okudukları**
+> "…"
+
+**İlham ve etkiler**
+> "…"
+
+**Kimlik, kent, göç**
+> "…"
+
+**Hayat ve kırılma noktaları**
+> "…"
+
+### 4.4 Bu sözlerin nota kattıkları
+Sanatçının kendi kavramları §3'teki felsefi okumayı nerede doğruluyor, nerede düzeltiyor? 2–3 madde.
+
+## 5. Eser Analizi (müzayedeye giren eser/ler)
 
 Her lot için ayrı tekrar et.
 
@@ -69,7 +104,7 @@ Her lot için ayrı tekrar et.
 - **İçerik okuması:** Dönemine ve felsefi bağlama nasıl oturuyor?
 - **Neden önemli:** Sanatçının üretimindeki yeri (dönem örneği mi, nadir mi, sergilenmiş mi?).
 
-## 5. Piyasa Verisi
+## 6. Piyasa Verisi
 
 Yalnızca doğrulanabilir satışları yaz. Tahmin ve yorumu ayrı başlıkta tut.
 
@@ -83,15 +118,15 @@ Yalnızca doğrulanabilir satışları yaz. Tahmin ve yorumu ayrı başlıkta tu
 - **Riskler:** Sahte / atıf sorunları, piyasada yoğun arz, tek alıcı bağımlılığı.
 - **Artvela tahmin önerisi:** Alt – üst tahmin ve gerekçesi.
 
-## 6. Anlatı ve İletişim (Instagram / katalog için)
+## 7. Anlatı ve İletişim (Instagram / katalog için)
 
 - **Ana hikâye (2–3 cümle):**
-- **Carousel akışı önerisi:** 1) kapak eser 2) biyografi 3) akım 4) felsefi bağ 5) detay 6) müzayede bilgisi
+- **Carousel akışı önerisi:** 1) kapak eser 2) biyografi 3) akım 4) felsefi bağ 5) sanatçının kendi sözü 6) detay 7) müzayede bilgisi
 - **Story için tek cümle / soru:**
 - **Etiketler ve anahtar kelimeler:**
 - **Kaçınılacaklar:** Doğrulanmamış iddia, abartılı fiyat dili.
 
-## 7. Kaynakça
+## 8. Kaynakça
 
 Her kaynağa tür ve erişim tarihi ekle. Akademik kaynaklar önce.
 
@@ -101,19 +136,22 @@ Her kaynağa tür ve erişim tarihi ekle. Akademik kaynaklar önce.
 **Söyleşi ve basın**
 1.
 
+**Video ve sosyal medya**
+1.
+
 **Kurum ve galeri sayfaları**
 1.
 
 **Piyasa veri kaynakları** (müzayede arşivleri, fiyat veritabanları)
 1.
 
-## 8. Açık Sorular ve Yapılacaklar
+## 9. Açık Sorular ve Yapılacaklar
 
 - [ ] Doğrulanması gereken bilgi:
 - [ ] Ulaşılacak kişi (sanatçı, atölye, koleksiyoner, akademisyen):
 - [ ] Okunacak kaynak:
 
-## 9. Bilgi Bankasına Aktarım
+## 10. Bilgi Bankasına Aktarım
 
 Bu nottan kalıcı hafızaya geçecek 3–5 madde (ileride başka sanatçı ve sergilerle bağ kurmak için).
 

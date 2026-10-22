@@ -39,6 +39,9 @@ guven: "taslak"
 - 2010: Fransa'da Türkiye Mevsimi kapsamında Lyon Bienali ve Galerie Crous Beaux-Arts'ta sergiledi.
 - 2014: "Dalga – Wave" sergisini açtı ve Sedat Simavi Ödülü'nü aldı.
 - 2018: Denizhan Özer küratörlüğünde "Kıyısız Dalgalar" retrospektifi açıldı (1980'den günümüze).
+- 2019: "Kıyısız Dalgalar" Antalya'da gösterildi (Türkan Şoray Kültür Merkezi) [K8].
+- 2022: "Kurgulu Kurmalı Oyuncaklar", Galeri Artist Nişantaşı (25 yeni iş).
+- 2023: "Bir Uçtan Öbür Uca Eskizler 1984–2023", İzmir Kültürpark [K9].
 - 2025: Sanattaki 40. yılı Paris'te "Kaosun Şiiri: Anadolu'da Bir Çay Bahçesinin Anı Defteri" ile kutlandı (küratör Deniz Demirer).
 
 **Biyografiden yapıta geçiş:** Akbaş'ın sanat eğitimi 1980 darbesinin baskı ortamına denk geliyor. Mezun olduktan kısa süre sonra Paris'e göç ediyor ve bu göç, bir yere ait olmanın değil iki yer arasında durmanın bilincini işin merkezine koyuyor ("Tek bir mekâna bağımlı olmadım hiç"). Karadeniz çocukluğunun figürleri sonraki işlerde bir işaret dağarcığı olarak geri geliyor. Paris ise ona karnavalın çoğulluğunu ve özgürlük alanını veriyor.
@@ -80,7 +83,81 @@ guven: "taslak"
 
 - **Üretim yöntemi:** Sanatçı süreci ikiye ayırıyor. Atölye dışındaki eskizlerde fikirlerin doğduğu aşamaya "Doğumhane", tuvalde maddeye dönüştüğü aşamaya "Dökümhane" diyor [K6]. Katalog metni için güçlü bir çerçeve.
 
-## 4. Eser Analizi (Müzayede 92)
+## 4. Sanatçının Kendi Ağzından
+
+Bu bölümde sanatçının söyleşilerde, videolarda ve kendi hesaplarında söyledikleri var. Yalnızca doğrudan sözler yer alıyor. Gazeteci yorumu buraya girmiyor.
+
+### 4.1 Kanallar
+
+| Kanal | Adres | Durum |
+|---|---|---|
+| Instagram | [@onay_akbas](https://www.instagram.com/onay_akbas/) | Hesap mevcut. Sayfa otomatik okunamıyor (giriş gerekiyor), bio ve gönderi açıklamaları elle kopyalanacak. |
+| Facebook | [onay.akbas.3](https://www.facebook.com/onay.akbas.3) | Elle bakılacak. |
+| YouTube | Aşağıdaki video tablosu | Altyazı ve konuşma dökümü otomatik alınamadı. İzlenip not alınacak. |
+
+### 4.2 Video söyleşiler
+
+| Tarih | Başlık | Kanal | Konu | Döküm |
+|---|---|---|---|---|
+| 26.10.2025 | [Paris Kültür Sanat Sohbetleri: Onay Akbaş](https://www.youtube.com/watch?v=F3kGUNACIUo) | Paris Kültür Sanat | 40. yıl sergisi "Kaosun Şiiri", Caserne Napoléon | İzlenecek. **Öncelikli**, Müzayede 92'ye en yakın tarihli söyleşi. |
+| 28.04.2023 | [Değerli Ressam Sayın Onay Akbaş ile Kaleme Dair Söyleşi](https://www.youtube.com/watch?v=cYy8dWgFTXM) | Markakalem TV | Kalem, çizim ve eskiz pratiği | İzlenecek |
+| 17.05.2022 | ["Kurgulu Kurmalı Oyuncaklar" Sergisi](https://www.youtube.com/watch?v=UQxLO7aAd90) | Ekotürk TV | Galeri Artist Nişantaşı'ndaki 25 yeni işlik sergi | İzlenecek |
+| ? | [Onay Akbaş: Eserler ve Hikayeleri](https://www.youtube.com/watch?v=Z4hePffF914) | ? | Eserlerin hikâyeleri | Sayfa açılmadı, izlenecek |
+| ? | [Onay Akbaş Kimdir?](https://www.youtube.com/watch?v=Kc3do_KvjA8) | ? | Tanıtım | İzlenecek |
+
+### 4.3 Kendi sözleriyle: temalara göre
+
+**Atölye ve yöntem**
+> "Atölyemle yaşam arasında bir sınır yoktur, kıyısızdır." — Habertürk, 25.03.2018 [K7]
+
+> "Fikirler gizli şekilde yer edinip kendilerine gelecek sırayı bekliyorlar." — Medyascope / Artension, 24.07.2023 [K9]
+
+> "You can never create from scratch, you need a recollection." / "To recreate you have to descend in your inner self." (Hiçbir şey sıfırdan yaratılmaz, bir hatırlayış gerekir. Yeniden yaratmak için insanın kendi içine inmesi gerekir.) — Babelmed, 13.04.2007 [K10]
+
+Sokakta, terasta ve kafede eskiz yaptığını, atölyeye ancak "montaj" aşaması için girdiğini anlatıyor [K7]. Bu, 2025'te tarif ettiği "Doğumhane" ve "Dökümhane" ayrımının erken bir hali [K6].
+
+**Eserin sınırsızlığı ("kıyısızlık")**
+> "Üretildiği yüzeyde bittiğini düşünerek bir iş yaparsanız, ölüme yatmışsınız demektir." — [K7]
+
+> "Sanat eseri sizin de hesaplamadığınız, kıyısı olmayan şekilde ilerler." — [K7]
+
+> "Dalga kıyıya vurduğunda ölür. Oysa benim dalgam, kıyısız olduğundan her zaman sanatıma can veriyor." — Hürriyet Antalya, 14.02.2019 [K8]
+
+**Felsefi ve politik zemin**
+> "Seçtiğim kavramlar insanın varoluşuyla ilintili, ardında felsefi ve politik nedenler olan kavramlar." — [K7]
+
+> "Lise yıllarında Voltaire, Rousseau, Hugo, Jaurès ve Fransız Devrimini okudum." — [K9]
+
+> "Sanatçının topluma yaptığı en büyük katkı empati duygusunu yaşatmaktır." — [K8]
+
+> "Çocukluğumdan beri imece usulü çalışmanın gücüne inanırım." — [K7]
+
+**İlham**
+> "Eski ve geçmiş medeniyetlerin sessizliği ilham veriyor." — [K9]
+
+Kendini "kendi çağdaş masallarını" yazan biri olarak tanımlıyor [K7].
+
+**Kimlik, göç ve Paris**
+> "I managed to know and understand my culture only when I came to France." (Kendi kültürümü ancak Fransa'ya geldiğimde tanıyıp anlayabildim.) — [K10]
+
+> "To me Paris was a must, but then I obviously learned that the real trip you take is within you." (Paris benim için bir zorunluluktu, ama sonra asıl yolculuğun insanın kendi içinde olduğunu öğrendim.) — [K10]
+
+Türkiye'deki sanat okulu hocalarının Fransa'yı "sanatın Mekkesi" gibi anlattığını söylüyor. Çocuklarının Paris'te doğduğunu ve şehrin artık kendisinin bir parçası olduğunu ekliyor [K10].
+
+**Retrospektif ve hayat**
+> "Retrospektif, 'geriye bakış' demek. … Bunu ara bilanço olarak tanımlayabilirim." — [K7]
+
+> "Sanatçının ömrü bir eserdir. Ömrünün toplamını bir bütün olarak görmeli." — [K8]
+
+**Zor dönemler**
+Gençken tüberküloz geçirdiğini ve 1980'lerin karanlık resimlerinin o dönemi yansıttığını söylüyor [K7]. Bir dönem panik atak yaşadığını ve acı çektiğini de anlatıyor [K9]. Bu bilgiler §2'deki 1980–88 dönemini açıklamak için önemli. Yine de kamuya açık metinlerde kullanırken özenli olunmalı.
+
+### 4.4 Bu sözlerin nota kattıkları
+- **"Kıyısızlık"**, sanatçının kendi merkez kavramı. 2018–19 retrospektifinin adı da buradan geliyor. §3'teki felsefi bağlama "eserin bitmezliği" teması eklenmeli.
+- **Erken ve kendi ağzından bir felsefi kaynak:** Aydınlanma düşünürleri (Voltaire, Rousseau) ve Jaurès sosyalizmi. Bu, Bahtin'in karnavalı ve imece fikriyle birlikte "çoğulcu, eşitlikçi topluluk" teması olarak okunabilir.
+- **"Hatırlayış olmadan yaratım olmaz" sözü**, Bergson ve Nora bağlantısını sanatçının kendi beyanıyla destekliyor.
+
+## 5. Eser Analizi (Müzayede 92)
 
 > Bu bölüm Artvela'nın Müzayede 92 kayıtlarından doldurulacak. Aşağıdaki iskelet her lot için tekrarlanmalı.
 
@@ -92,7 +169,7 @@ guven: "taslak"
 - **İçerik okuması:** Eserin hangi döneme düştüğünü (bkz. §2 tablo) ve hangi kavrama (bellek, karnaval, kaos) bağlandığını yaz.
 - **Neden önemli:**
 
-## 5. Piyasa Verisi
+## 6. Piyasa Verisi
 
 > Şu an doğrulanmış bir satış kaydı yok. Rakam uydurulmamalı. Aşağıdaki kaynaklar taranıp tablo doldurulacak.
 
@@ -106,7 +183,7 @@ guven: "taslak"
 - **Riskler:** Arşival pigment ve giclée baskılar da üretiliyor [K3], [K4]. Lot özgün resim mi, edisyonlu baskı mı, açıkça ayrılmalı. Edisyon numarası ve sertifika kontrol edilmeli.
 - **Artvela tahmin önerisi:** Satış verisi toplandıktan sonra.
 
-## 6. Anlatı ve İletişim (Instagram / katalog için)
+## 7. Anlatı ve İletişim (Instagram / katalog için)
 
 - **Ana hikâye:** Fatsa'dan Paris'e uzanan kırk yıl. Onay Akbaş, kentin yok olan hafıza mekânlarını, bir çay bahçesinin adisyon kâğıdına çizerek kayda geçiriyor. Kaosun içinden şiir çıkarmak onun yöntemi.
 - **Carousel akışı önerisi:**
@@ -114,13 +191,14 @@ guven: "taslak"
   2. "Fatsa, 1964 → Paris, 1988": biyografi.
   3. Yeni dışavurumculuk ve "modern hiyeroglif" çizgi.
   4. Felsefi bağ: Nora'nın "hafıza mekânları" ve Akbaş'ın alıntısı.
-  5. Eser detayı (yakın plan).
-  6. Müzayede bilgisi: lot, tarih, ön izleme.
+  5. Kendi sözü: "Dalga kıyıya vurduğunda ölür. Oysa benim dalgam, kıyısız…"
+  6. Eser detayı (yakın plan).
+  7. Müzayede bilgisi: lot, tarih, ön izleme.
 - **Story için soru:** "Sizin için kaybolan bir hafıza mekânı var mı?"
 - **Etiketler:** #OnayAkbaş #Artvela #Müzayede92 #ÇağdaşTürkSanatı #YeniDışavurumculuk #TürkRessamlar #Paris
 - **Kaçınılacaklar:** Doğrulanmamış koleksiyon ya da müze iddiası. Baskıyı özgün resim gibi sunmak. "Rekor" ve "yatırım garantisi" gibi fiyat dili.
 
-## 7. Kaynakça
+## 8. Kaynakça
 
 **Akademik / kitap / katalog**
 1. [K1] *Yeni dışavurumculuk ve Onay AKBAŞ*, yüksek lisans tezi, YÖK Açık Bilim. https://acikbilim.yok.gov.tr/handle/20.500.12812/53584 (erişim 22.10.2026). Yazar, yıl ve üniversite bilgisi kayıttan tamamlanacak.
@@ -131,16 +209,23 @@ guven: "taslak"
 1. [K5] Time Out İstanbul, "Onay Akbaş'ın İş Sanat'taki sergisi: Kıyısız Dalgalar", 09.03.2018. https://www.timeout.com/istanbul/tr/sanat/onay-akbasin-is-sanat-ta-ki-sergisi-kiyisiz-dalgalar
 2. [K6] Latif Yılmaz, "Ressam Onay Akbaş ile söyleşi: Kaosun şiiri", Medyascope, 15.10.2025. https://medyascope.tv/2025/10/15/ressam-onay-akbas-ile-soylesi-kaosun-siiri/
 3. [K4] Artdog İstanbul, "Onay Akbaş's 40th Anniversary Celebrated in Paris", 2025. https://artdogistanbul.com/en/onay-akbass-40th-anniversary-celebrated-in-paris/
-4. Medyascope, "Onay Akbaş: Işığın tiyatrosu", 24.07.2023. https://medyascope.tv/2023/07/24/onay-akbas-isigin-tiyatrosu/ (**Okunacak.**)
-5. Babelmed, "Onay Akbaş: my heart is in two places, my country and Paris". https://www.babelmed.net/fr/article/onay-akbas-my-heart-is-in-two-places-my-country-and-paris (**Okunacak.**)
+4. [K9] Françoise Monnin (Artension), Türkçesi Latif Yılmaz, "Onay Akbaş: Işığın tiyatrosu", Medyascope, 24.07.2023. İzmir Kültürpark'taki "Bir Uçtan Öbür Uca Eskizler 1984–2023" sergisi. https://medyascope.tv/2023/07/24/onay-akbas-isigin-tiyatrosu/
+5. [K11] antsanat, Sayı 5 (Kış 2023), Muratpaşa Belediyesi. https://kultursanat.muratpasa-bld.gov.tr/Uploads/ant_sanat_5.pdf (**Okunacak.**)
+6. [K7] Selin Özavcı Tokçabalaban, "Onay Akbaş: Atölyemle yaşam arasında sınır yok", Habertürk, 25.03.2018. https://www.haberturk.com/onay-akbas-atolyemle-yasam-arasinda-sinir-yok-1889799
+7. [K8] "Ressam Onay Akbaş: 35 yıllık bir sanat öyküsü", Hürriyet Antalya, 14.02.2019. "Kıyısız Dalgalar"ın Antalya durağı, Türkan Şoray Kültür Merkezi. https://www.hurriyet.com.tr/yerel-haberler/antalya/35-yillik-bir-sanat-oykusu-41116463
+8. [K10] Nathalie Galesne ve Mehmet Basutçu, "Onay Akbaş: My heart is in two places, my country and Paris", Babelmed, 13.04.2007. https://www.babelmed.net/fr/article/onay-akbas-my-heart-is-in-two-places-my-country-and-paris
+
+**Video ve sosyal medya**
+1. Instagram: https://www.instagram.com/onay_akbas/
+2. YouTube söyleşileri: bkz. §4.2 tablosu.
 
 **Kurum ve galeri sayfaları**
 1. [K3] IMOGA (İstanbul Grafik Sanatlar Müzesi), sanatçı sayfası. https://www.imoga.org/en/collection/artists/onay-akbas (erişim 22.10.2026)
 
 **Piyasa veri kaynakları**
-1. Henüz taranmadı (bkz. §5).
+1. Henüz taranmadı (bkz. §6).
 
-## 8. Açık Sorular ve Yapılacaklar
+## 9. Açık Sorular ve Yapılacaklar
 
 - [ ] **Çelişki:** Eğitim kurumu IMOGA'da "Marmara Üniversitesi Atatürk Eğitim Fakültesi", Artdog'da "Güzel Sanatlar Fakültesi" olarak geçiyor. Hangisi doğru?
 - [ ] **Çelişki:** Beaujolais ödülünün yılı IMOGA sayfasında hem 1990 hem 1992 olarak geçiyor.
@@ -148,13 +233,16 @@ guven: "taslak"
 - [ ] YÖK tezinin künyesi (yazar, yıl, üniversite).
 - [ ] Müzayede 92 lotlarının teknik bilgisi ve provenansı.
 - [ ] Piyasa verisi taraması (§5).
+- [ ] YouTube söyleşilerini izleyip §4.2'ye döküm ve zaman damgalı alıntı eklemek (önce 26.10.2025 Paris Kültür Sanat).
+- [ ] Instagram bio'su ve son gönderi açıklamalarını elle §4'e kopyalamak.
 - [ ] Sanatçıyla ya da atölyesiyle iletişim: eser doğrulaması ve kısa bir Artvela söyleşisi.
 - [ ] *Kıyısız Dalgalar* kitabını edinmek.
 
-## 9. Bilgi Bankasına Aktarım
+## 10. Bilgi Bankasına Aktarım
 
 - Onay Akbaş, akademik çalışmalarda **yeni dışavurumculuk** başlığı altında okunuyor. Kendi tanımı "figüratif bir alan".
 - Merkez kavramları **kaos ve şiir**, **bellek ve an**, **karnaval** ve **hafıza mekânları**. En güçlü kuramsal bağları Nora ve Bahtin.
 - Üretimi "Doğumhane" (eskiz) ve "Dökümhane" (tuval) olarak ikiye ayırıyor.
 - Paris'teki Türk ressamlar ve göç ile aradalık teması için karşılaştırma havuzuna eklenmeli.
+- Sanatçının kendi merkez kavramı **"kıyısızlık"**: eser yüzeyde bitmez, atölye ile yaşam arasında sınır yoktur.
 - Piyasada özgün resim ile arşival baskı ayrımına dikkat edilmeli.
