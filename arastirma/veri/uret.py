@@ -1,0 +1,182 @@
+# sanatcilar_veri.py'den sanatçı dosyalarını, CSV veritabanını ve dizini üretir.
+# Kullanım: python3 arastirma/veri/uret.py
+import csv
+import os
+import sys
+
+BURASI = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, BURASI)
+from sanatcilar_veri import SANATCILAR  # noqa: E402
+
+KOK = os.path.dirname(BURASI)
+TARIH = "2026-10-22"
+
+OLCUTLER = [
+    ("A", "Eğitim ve akademik geçerlilik", [("a1", "Akademi / fakülte mezunu", 8), ("a2", "Yurtdışı eğitim, burs, rezidans", 4), ("a3", "Akademisyenlik, öğrenci yetiştirme", 3)]),
+    ("B", "Sergi geçmişi", [("b1", "Kişisel sergiler", 10), ("b2", "Retrospektif / müze ve kurum sergisi", 8), ("b3", "Uluslararası sergi, salon, bienal, fuar", 7)]),
+    ("C", "Kurumsal tanınırlık", [("c1", "Türkiye'deki müze koleksiyonları", 8), ("c2", "Yurtdışındaki müze koleksiyonları", 7), ("c3", "Ödüller", 5)]),
+    ("D", "Sanat tarihindeki konum", [("d1", "Grup / akım kurucusu, kuşak temsilcisi", 8), ("d2", "Akademik yayın, tez, monografi, müze", 7)]),
+    ("E", "Piyasa görünürlüğü", [("e1", "Türk müzayedeleri", 8), ("e2", "Uluslararası müzayedeler", 7), ("e3", "Fiyat seviyesi (doğrulanmış)", 6), ("e4", "Güncel galeri temsili", 4)]),
+]
+ALT_SAYISI = sum(len(alt) for _, _, alt in OLCUTLER)
+
+
+def kademe(puan):
+    for alt, ad in ((80, "I · Kanonik"), (60, "II · Yerleşik"), (40, "III · Güçlü orta"), (20, "IV · Gelişen")):
+        if puan >= alt:
+            return ad
+    return "V · İzleme"
+
+
+def hesapla(s):
+    p = s["puan"]
+    toplam = sum(v[0] for v in p.values() if v)
+    dolu = sum(1 for v in p.values() if v)
+    boyut = {kod: sum(p[k][0] for k, _, _ in alt if p.get(k)) for kod, _, alt in OLCUTLER}
+    kapsam = round(100 * dolu / ALT_SAYISI)
+    kd = kademe(toplam)
+    if kapsam < 70:
+        kd = f"({kd}) ön puan"
+    return toplam, kapsam, kd, boyut
+
+
+def liste(xs, bos="Doğrulanacak."):
+    return "\n".join(f"- {x}" for x in xs) if xs else f"- {bos}"
+
+
+def dosya(s):
+    toplam, kapsam, kd, boyut = hesapla(s)
+    satirlar = []
+    for kod, ad, alt in OLCUTLER:
+        satirlar.append(f"| **{kod} · {ad}** | | **{boyut[kod]} / {sum(m for _, _, m in alt)}** | |")
+        for k, etiket, mx in alt:
+            v = s["puan"].get(k)
+            satirlar.append(f"| {k} | {etiket} | {v[0] if v else 0} / {mx} | {v[1] if v else '*eksik*'} |")
+    tablo = "\n".join(satirlar)
+    alint = "\n\n".join(f"> {a}: {k}" for a, k in s["alintilar"]) or "> Henüz eklenmedi. Söyleşi, video ve sanatçının sosyal medyası taranacak."
+    kaynak = "\n".join(f"{i}. [{i}] {k}" for i, k in enumerate(s["kaynaklar"], 1))
+    detay = f"\n> Ayrıntılı araştırma notu: [{s['detay']}]({s['detay']})\n" if s.get("detay") else ""
+    return f"""---
+sanatci: "{s['ad']}"
+dogum: "{s['dogum']}"
+olum: "{s['olum']}"
+disiplin: "{s['disiplin']}"
+kabul: "{s['kabul'].split(':')[0]}"
+puan: {toplam}
+kademe: "{kd}"
+veri_kapsami: {kapsam}
+son_guncelleme: "{TARIH}"
+guven: "taslak"
+---
+
+# {s['ad']}
+{detay}
+| Puan | Kademe | Veri kapsamı | Kabul |
+|---|---|---|---|
+| **{toplam} / 100** | {kd} | %{kapsam} | {s['kabul']} |
+
+## 1. Künye ve Biyografi
+
+**Doğum / ölüm:** {s['dogum']}{' · ' + s['olum'] if s['olum'] else ''}
+**Disiplin:** {s['disiplin']}
+
+**Eğitim**
+{liste(s['egitim'])}
+
+**Kronoloji**
+{liste(s['kronoloji'])}
+
+## 2. Akım ve Sanat Tarihi Bağlamı
+
+- **Akım / grup:** {s['akim']}
+- **Temalar:** {s['temalar']}
+
+## 3. Felsefi Bağlam
+
+Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi sözleri ([şablon](../SABLON-sanatci.md) bölüm 3).
+
+## 4. Sanatçının Kendi Ağzından
+
+{alint}
+
+## 5. Eser Analizi (Artvela)
+
+{liste(s['artvela'], 'Henüz Artvela müzayedesinde yer almadı.')}
+
+## 6. Kurumsal Kayıt ve Piyasa Verisi
+
+**Müze ve kurum koleksiyonları**
+{liste(s['koleksiyonlar'])}
+
+**Ödüller**
+{liste(s['oduller'], 'Kaynakta ödül bilgisi yok, doğrulanacak.')}
+
+**Satış kayıtları**
+
+| Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
+|---|---|---|---|---|---|
+| | | | | | |
+
+## 7. Puan Dökümü
+
+Ölçütler için bkz. [PUANLAMA.md](../PUANLAMA.md). *Eksik* alt ölçütler kanıt gelene kadar 0 sayılır.
+
+| Kod | Ölçüt | Puan | Kanıt |
+|---|---|---|---|
+{tablo}
+| | **Toplam** | **{toplam} / 100** | Veri kapsamı %{kapsam} |
+
+## 8. Kaynakça
+
+{kaynak}
+
+## 9. Açık Sorular
+
+- [ ] *Eksik* işaretli alt ölçütler için kaynak bul.
+- [ ] Türk ve uluslararası müzayede satış kayıtlarını gir (E2, E3).
+- [ ] Müze koleksiyonlarını kurum sayfalarından doğrula (C1, C2).
+"""
+
+
+def main():
+    hedef = os.path.join(KOK, "sanatcilar")
+    os.makedirs(hedef, exist_ok=True)
+    satirlar = []
+    for s in SANATCILAR:
+        toplam, kapsam, kd, boyut = hesapla(s)
+        with open(os.path.join(hedef, f"{s['slug']}.md"), "w") as f:
+            f.write(dosya(s))
+        satirlar.append(dict(slug=s["slug"], sanatci=s["ad"], dogum=s["dogum"], olum=s["olum"], disiplin=s["disiplin"],
+                             kabul=s["kabul"].split(":")[0], puan=toplam, kademe=kd, veri_kapsami=kapsam,
+                             A=boyut["A"], B=boyut["B"], C=boyut["C"], D=boyut["D"], E=boyut["E"],
+                             artvela="; ".join(s["artvela"]), son_guncelleme=TARIH))
+    satirlar.sort(key=lambda r: -r["puan"])
+    with open(os.path.join(KOK, "sanatcilar.csv"), "w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=list(satirlar[0].keys()))
+        w.writeheader()
+        w.writerows(satirlar)
+    tablo = "\n".join(
+        f"| {i} | [{r['sanatci']}](sanatcilar/{r['slug']}.md) | {r['dogum']}{' – ' + r['olum'] if r['olum'] else ''} | **{r['puan']}** | {r['kademe']} | %{r['veri_kapsami']} | {r['A']} | {r['B']} | {r['C']} | {r['D']} | {r['E']} |"
+        for i, r in enumerate(satirlar, 1))
+    with open(os.path.join(KOK, "README.md"), "w") as f:
+        f.write(f"""# Artvela Türk Sanatçılar Arşivi
+
+Son güncelleme: {TARIH} · {len(satirlar)} sanatçı
+
+- [PUANLAMA.md](PUANLAMA.md): kabul ölçütleri, 100 puanlık sistem, kademeler
+- [SABLON-sanatci.md](SABLON-sanatci.md): ayrıntılı araştırma notu şablonu
+- [sanatcilar.csv](sanatcilar.csv): veritabanı (Excel ya da Google Sheets ile açılır)
+- `sanatcilar/`: her sanatçı için ayrı dosya
+- `veri/`: ham veri (`sanatcilar_veri.py`) ve üretici (`uret.py`)
+
+Puanlar **ön puandır**. Çoğu sanatçıda piyasa ve koleksiyon verisi henüz girilmedi, bu yüzden gerçek ağırlıklarının altında görünüyorlar. Kural için bkz. PUANLAMA.md §4.
+
+| # | Sanatçı | Yaşam | Puan | Kademe | Veri | A /15 | B /25 | C /20 | D /15 | E /25 |
+|---|---|---|---|---|---|---|---|---|---|---|
+{tablo}
+""")
+    print(f"{len(satirlar)} sanatçı üretildi")
+
+
+if __name__ == "__main__":
+    main()
