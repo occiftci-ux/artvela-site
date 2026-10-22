@@ -91,7 +91,8 @@ Bu bölümde sanatçının söyleşilerde, videolarda ve kendi hesaplarında sö
 
 | Kanal | Adres | Durum |
 |---|---|---|
-| Instagram | [@onay_akbas](https://www.instagram.com/onay_akbas/) | Hesap mevcut. Sayfa otomatik okunamıyor (giriş gerekiyor), bio ve gönderi açıklamaları elle kopyalanacak. |
+| Instagram | [@onay_akbas](https://www.instagram.com/onay_akbas/) | Hesap mevcut. Artvela'nın Meta bağlantısı yalnızca @artvelacom'un kendi gönderilerini okuyabiliyor, başka profilleri göremiyor. Bio ve gönderi açıklamaları elle kopyalanacak. |
+| Artvela Instagram | [@artvelacom gönderisi, 17.10.2026](https://www.instagram.com/p/DemSRWjlGip/) | Müzayede 92 eseri tanıtıldı (bkz. §5). |
 | Facebook | [onay.akbas.3](https://www.facebook.com/onay.akbas.3) | Elle bakılacak. |
 | YouTube | Aşağıdaki video tablosu | Altyazı ve konuşma dökümü otomatik alınamadı. İzlenip not alınacak. |
 
@@ -161,13 +162,15 @@ Gençken tüberküloz geçirdiğini ve 1980'lerin karanlık resimlerinin o döne
 
 > Bu bölüm Artvela'nın Müzayede 92 kayıtlarından doldurulacak. Aşağıdaki iskelet her lot için tekrarlanmalı.
 
-### Lot __ — <Eser adı>, <Yıl>
-- **Teknik / ölçü / imza:**
-- **Provenans:**
-- **Kondisyon:**
-- **Biçimsel okuma:** Akbaş'ta bakılacak yerler: çizginin işaret / hiyeroglif gibi kullanımı, doygun renk alanları, figürlerin kalabalık ve karnavalesk dizilişi, rakam ve karalama dokusu.
-- **İçerik okuması:** Eserin hangi döneme düştüğünü (bkz. §2 tablo) ve hangi kavrama (bellek, karnaval, kaos) bağlandığını yaz.
-- **Neden önemli:**
+### Lot __ — İp üzerinde denge kuran figür (başlık ve tarih doğrulanacak)
+Kaynak: Artvela Instagram gönderisi, 17.10.2026 ([DemSRWjlGip](https://www.instagram.com/p/DemSRWjlGip/), 21 beğeni). Lot numarası henüz paylaşılmamış.
+- **Teknik / ölçü / imza:** Tuval üzerine yağlıboya, imzalı, 60 x 60 cm.
+- **Provenans:** Doğrulanacak.
+- **Kondisyon:** Doğrulanacak.
+- **Biçimsel okuma:** Kompozisyon canlı renk alanları ve belirgin fırça dokusuyla kurulmuş. Merkezde ip üzerinde denge kuran bir figür var (Artvela gönderisindeki tanım).
+- **İçerik okuması:** İp cambazı, sanatçının karnaval ve sirk dünyasıyla (§2, "Karnaval ve dalga" dönemi) ve 2022'deki "Kurgulu Kurmalı Oyuncaklar" sergisinin oyuncak ve kukla figürleriyle akraba bir motif. Aynı zamanda iki yer arasında, düşmeden durmaya çalışan figür olarak okunabilir. Bu, sanatçının "Tek bir mekâna bağımlı olmadım hiç" sözüyle ve Babelmed'deki "kalbim iki yerde" başlığıyla örtüşüyor [K6], [K10]. Bu bir yorumdur. Eserin tarihi belirlenince hangi döneme ait olduğu kesinleşir.
+- **Neden önemli:** Sanatçının çoğulluk ve denge temalarını tek figürde toplayan, orta boy bir yağlıboya. Özgün resim (baskı değil), bu yüzden §6'daki baskı riski bu eser için geçerli değil.
+- **Not:** Gönderide eğitim bilgisi "Marmara Üniversitesi Atatürk Eğitim Fakültesi Resim-İş Bölümü" olarak geçiyor. Bu, IMOGA ile uyumlu (bkz. §9'daki çelişki).
 
 ## 6. Piyasa Verisi
 
@@ -231,7 +234,7 @@ Gençken tüberküloz geçirdiğini ve 1980'lerin karanlık resimlerinin o döne
 - [ ] **Çelişki:** Beaujolais ödülünün yılı IMOGA sayfasında hem 1990 hem 1992 olarak geçiyor.
 - [ ] Hangi müze ve kurum koleksiyonlarında eseri var? Kurum adları gerekli.
 - [ ] YÖK tezinin künyesi (yazar, yıl, üniversite).
-- [ ] Müzayede 92 lotlarının teknik bilgisi ve provenansı.
+- [ ] Müzayede 92 eserinin lot numarası, tarihi ve provenansı (teknik bilgi Artvela gönderisinden alındı).
 - [ ] Piyasa verisi taraması (§5).
 - [ ] YouTube söyleşilerini izleyip §4.2'ye döküm ve zaman damgalı alıntı eklemek (önce 26.10.2025 Paris Kültür Sanat).
 - [ ] Instagram bio'su ve son gönderi açıklamalarını elle §4'e kopyalamak.
