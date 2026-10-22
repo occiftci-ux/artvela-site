@@ -1,5 +1,7 @@
 # Artvela Türk Sanatçılar Arşivi: ham veri.
 # Her alt puan (puan, kanıt) ya da None (eksik) olarak tutulur. Ölçütler: ../PUANLAMA.md
+# Galeri keşif kanalından gelen adaylara bej=dict(kanal=..., huni="1 · Radar", puan=dict(nitelik=(p,gerekçe), tutarlilik=..., figur=..., derinlik=..., hacim=..., bagimsizlik=...), notlar=[...]) eklenir.
+# Envanterde (bulten/envanter.csv) olan bir Bej adayı için notlar'a "Çıkar çatışması kontrolü: ..." yazılır.
 # Dosyaları üretmek için: python3 arastirma/veri/uret.py
 
 IG = "Artvela Instagram"

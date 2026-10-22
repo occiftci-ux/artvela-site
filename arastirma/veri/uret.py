@@ -44,6 +44,37 @@ def liste(xs, bos="Doğrulanacak."):
     return "\n".join(f"- {x}" for x in xs) if xs else f"- {bos}"
 
 
+BEJ_OLCUTLERI = [
+    ("nitelik", "İşin niteliği ve zanaat"), ("tutarlilik", "Dilin tutarlılığı ve özgünlüğü"),
+    ("figur", "Figürle ilişki"), ("derinlik", "Düşünsel derinlik"),
+    ("hacim", "Üretim hacmi ve kariyer niyeti"), ("bagimsizlik", "Piyasadan bağımsızlık"),
+]
+
+
+def bej_bolumu(s):
+    # Galeri keşif kanalından gelen adaylar için (vizyon/galeri.md G-Y1, GO-001). Arşiv puanından ayrıdır.
+    b = s.get("bej")
+    if not b:
+        return ""
+    puanlar = b.get("puan", {})
+    satir = "\n".join(f"| {ad} | {puanlar[k][0] if puanlar.get(k) else 0} / 10 | {puanlar[k][1] if puanlar.get(k) else '*eksik*'} |" for k, ad in BEJ_OLCUTLERI)
+    toplam = sum(v[0] for v in puanlar.values() if v)
+    notlar = "\n".join(f"- {n}" for n in b.get("notlar", []))
+    return f"""## Bej Keşif Değerlendirmesi [G-Y1]
+
+**Keşif kanalı:** {b.get('kanal', 'Doğrulanacak')}  
+**Huni aşaması:** {b.get('huni', '1 · Radar')}
+
+| Ölçüt | Puan | Gerekçe |
+|---|---|---|
+{satir}
+| **Toplam** | **{toplam} / 60** | |
+
+{notlar}
+
+"""
+
+
 def dosya(s):
     toplam, kapsam, kd, boyut = hesapla(s)
     satirlar = []
@@ -55,6 +86,7 @@ def dosya(s):
     tablo = "\n".join(satirlar)
     alint = "\n\n".join(f"> {a}: {k}" for a, k in s["alintilar"]) or "> Henüz eklenmedi. Söyleşi, video ve sanatçının sosyal medyası taranacak."
     kaynak = "\n".join(f"{i}. [{i}] {k}" for i, k in enumerate(s["kaynaklar"], 1))
+    bej = bej_bolumu(s)
     detay = f"\n> Ayrıntılı araştırma notu: [{s['detay']}]({s['detay']})\n" if s.get("detay") else ""
     return f"""---
 sanatci: "{s['ad']}"
@@ -126,7 +158,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 {tablo}
 | | **Toplam** | **{toplam} / 100** | Veri kapsamı %{kapsam} |
 
-## 8. Kaynakça
+{bej}## 8. Kaynakça
 
 {kaynak}
 
@@ -149,7 +181,10 @@ def main():
         satirlar.append(dict(slug=s["slug"], sanatci=s["ad"], dogum=s["dogum"], olum=s["olum"], disiplin=s["disiplin"],
                              kabul=s["kabul"].split(":")[0], puan=toplam, kademe=kd, veri_kapsami=kapsam,
                              A=boyut["A"], B=boyut["B"], C=boyut["C"], D=boyut["D"], E=boyut["E"],
-                             artvela="; ".join(s["artvela"]), son_guncelleme=TARIH))
+                             artvela="; ".join(s["artvela"]),
+                             bej_huni=(s.get("bej") or {}).get("huni", ""),
+                             bej_puan=sum(v[0] for v in (s.get("bej") or {}).get("puan", {}).values() if v) if s.get("bej") else "",
+                             son_guncelleme=TARIH))
     satirlar.sort(key=lambda r: -r["puan"])
     with open(os.path.join(KOK, "sanatcilar.csv"), "w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=list(satirlar[0].keys()))
