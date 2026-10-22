@@ -120,11 +120,13 @@ Yalnızca doğrulanabilir satışları yaz. Tahmin ve yorumu ayrı başlıkta tu
 
 ## 7. Anlatı ve İletişim (Instagram / katalog için)
 
-- **Ana hikâye (2–3 cümle):**
-- **Carousel akışı önerisi:** 1) kapak eser 2) biyografi 3) akım 4) felsefi bağ 5) sanatçının kendi sözü 6) detay 7) müzayede bilgisi
-- **Story için tek cümle / soru:**
-- **Etiketler ve anahtar kelimeler:**
-- **Kaçınılacaklar:** Doğrulanmamış iddia, abartılı fiyat dili.
+Üslup: `vizyon/uslup-muzayede.md`. Sessiz lüks: bilgi veren, çığırtkan olmayan. Taslak teslimden önce oradaki §5 kontrol listesinden geçer, yayın sahip onayıyla yapılır.
+
+- **Ana bilgi (ilk cümle):** Eser, dönem, teknik ya da bağlam. Duyuru ikinci sırada.
+- **Karusel akışı:** 1) eser görseli, kırpılmamış ve üzerinde yazı yok 2) künye, katalogla birebir 3–5) bağlam: dönem, akım, sanatçının sözü, sergi geçmişi, doğrulanmış sanat onayı 6) son kart: müzayede tarihi, sade
+- **Hikâye:** Önizlemeden sakin bir görüntü ve kısa uzman anlatımı.
+- **Etiketler (en fazla 3):** sanatçı adı, #TürkResmi, müzayede adı
+- **Kaçınılacaklar:** Ünlem, aciliyet dili ("kaçırmayın", "son şans"), üstünlük iddiası ("eşsiz", "rekor kıran"), öne çıkarılmış fiyat, emoji yığını, doğrulanmamış iddia.
 
 ## 8. Kaynakça
 

@@ -188,18 +188,19 @@ Kaynak: Artvela Instagram gönderisi, 17.10.2026 ([DemSRWjlGip](https://www.inst
 
 ## 7. Anlatı ve İletişim (Instagram / katalog için)
 
-- **Ana hikâye:** Fatsa'dan Paris'e uzanan kırk yıl. Onay Akbaş, kentin yok olan hafıza mekânlarını, bir çay bahçesinin adisyon kâğıdına çizerek kayda geçiriyor. Kaosun içinden şiir çıkarmak onun yöntemi.
-- **Carousel akışı önerisi:**
-  1. Kapak: Müzayede 92'deki eser.
-  2. "Fatsa, 1964 → Paris, 1988": biyografi.
-  3. Yeni dışavurumculuk ve "modern hiyeroglif" çizgi.
-  4. Felsefi bağ: Nora'nın "hafıza mekânları" ve Akbaş'ın alıntısı.
-  5. Kendi sözü: "Dalga kıyıya vurduğunda ölür. Oysa benim dalgam, kıyısız…"
-  6. Eser detayı (yakın plan).
-  7. Müzayede bilgisi: lot, tarih, ön izleme.
-- **Story için soru:** "Sizin için kaybolan bir hafıza mekânı var mı?"
-- **Etiketler:** #OnayAkbaş #Artvela #Müzayede92 #ÇağdaşTürkSanatı #YeniDışavurumculuk #TürkRessamlar #Paris
-- **Kaçınılacaklar:** Doğrulanmamış koleksiyon ya da müze iddiası. Baskıyı özgün resim gibi sunmak. "Rekor" ve "yatırım garantisi" gibi fiyat dili.
+Üslup: [vizyon/uslup-muzayede.md](../../vizyon/uslup-muzayede.md). Taslak, yayından önce oradaki §5 kontrol listesinden geçer ve sahip onayı alır.
+
+- **Ana bilgi (ilk cümle):** Onay Akbaş, 1964 Fatsa doğumlu, 1988'den beri Paris'te çalışıyor. 2025'te sanattaki 40. yılı, Paris Belediyesi desteğiyle La Caserne Napoléon'un cephesinde açılan "Kaosun Şiiri" sergisiyle anıldı.
+- **Karusel akışı:**
+  1. Eser görseli, kırpılmamış, üzerinde yazı yok.
+  2. Künye, katalogla birebir: Onay Akbaş, tuval üzerine yağlıboya, imzalı, 60 x 60 cm (başlık ve tarih doğrulanınca eklenir).
+  3. Bağlam: Fatsa'dan Paris'e, yeni dışavurumculuk ve çizgisi.
+  4. Bağlam: "hafıza mekânları" kavramı ve sanatçının sözü, kaynağıyla.
+  5. Sanat onayı (yalnız doğrulanmış): 2018 İş Sanat retrospektifi "Kıyısız Dalgalar", 2014 Sedat Simavi Görsel Sanatlar Ödülü.
+  6. Son kart: Müzayede 92 ve tarih, sade.
+- **Hikâye:** Eserin önizlemeden sakin bir görüntüsü ve iki cümlelik uzman anlatımı: ip üzerinde denge kuran figür ve sanatçının "kıyısızlık" kavramı.
+- **Etiketler (en fazla 3):** #OnayAkbaş #TürkResmi #Müzayede92
+- **Kaçınılacaklar:** Ünlem, aciliyet ve üstünlük dili. Fiyatı öne çıkarmak. Doğrulanmamış koleksiyon ya da müze iddiası. Baskıyı özgün resim gibi sunmak.
 
 ## 8. Kaynakça
 
