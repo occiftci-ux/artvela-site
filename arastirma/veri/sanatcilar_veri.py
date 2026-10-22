@@ -471,7 +471,7 @@ SANATCILAR = [
                "Time Out İstanbul, Kıyısız Dalgalar. https://www.timeout.com/istanbul/tr/sanat/onay-akbasin-is-sanat-ta-ki-sergisi-kiyisiz-dalgalar",
                "Medyascope, Kaosun şiiri. https://medyascope.tv/2025/10/15/ressam-onay-akbas-ile-soylesi-kaosun-siiri/",
                IG + ", Müzayede 92 gönderisi. https://www.instagram.com/p/DemSRWjlGip/"],
-    detay="onay-akbas-2026-10-22.md",
+    detay="onay-akbas--not-2026-10-22.md",
     puan=dict(a1=(7,"Marmara Ü. Eğitim Fakültesi Resim-İş"), a2=None, a3=(1,"Bir yıl resim öğretmenliği"),
               b1=(9,"50'den fazla kişisel sergi"), b2=(7,"İş Sanat retrospektifi, Paris Belediyesi kamusal sergisi"), b3=(7,"Lyon Bienali kapsamı, Art Miami, Art Zürich, Taipei"),
               c1=(2,"IMOGA"), c2=None, c3=(4,"Sedat Simavi, Beaujolais"),

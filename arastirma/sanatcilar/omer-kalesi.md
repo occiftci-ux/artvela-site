@@ -47,8 +47,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 91, Lot 12: tuval üzerine yağlıboya, imzalı, 103x83 cm [4]
-- Müzayede 91, Lot 22: tuval üzerine yağlıboya, imzalı, 20x15 [4]
+- Müzayede 91, Lot 12: tuval üzerine yağlıboya, imzalı, 103x83 cm [4]; Müzayede 91, Lot 22: tuval üzerine yağlıboya, imzalı, 20x15 [4]
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -58,11 +57,13 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 **Ödüller**
 - Kaynakta ödül bilgisi yok, doğrulanacak.
 
-**Satış kayıtları**
+**Satış kayıtları** (kaynak: `bulten/emsal-fiyatlar.csv`, yalnız `dogrulandi=evet`)
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
 | | | | | | |
+
+*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*
 
 ## 7. Puan Dökümü
 
@@ -102,5 +103,5 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 9. Açık Sorular
 
 - [ ] *Eksik* işaretli alt ölçütler için kaynak bul.
-- [ ] Türk ve uluslararası müzayede satış kayıtlarını gir (E2, E3).
+- [ ] E2/E3: emsal dosyasında doğrulanmış satır yoksa is-kaydi.csv'ye fiyat-emsal için istek yaz (kendin arama yapma).
 - [ ] Müze koleksiyonlarını kurum sayfalarından doğrula (C1, C2).

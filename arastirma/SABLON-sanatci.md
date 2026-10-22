@@ -1,5 +1,5 @@
 ---
-# Dosya adı: <sanatci-adi-soyadi>-<YYYY-AA-GG>.md  (ör. onay-akbas-2026-10-22.md)
+# Dosya adı: <slug>--not-<YYYY-AA-GG>.md  (ör. onay-akbas--not-2026-10-22.md). Kart dosyası <slug>.md üreticiden gelir ve bu nota bağlanır.
 sanatci: ""            # Tam ad
 dogum: ""              # Yıl, yer
 olum: ""               # Yaşıyorsa boş bırak

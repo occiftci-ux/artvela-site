@@ -9,6 +9,27 @@ sys.path.insert(0, BURASI)
 from sanatcilar_veri import SANATCILAR  # noqa: E402
 
 KOK = os.path.dirname(BURASI)
+# Sahiplik (koordinasyon/README.md §3): Artvela künyesi bulten/envanter.csv'den, emsal fiyatlar bulten/emsal-fiyatlar.csv'den okunur.
+BULTEN = os.path.join(os.path.dirname(KOK), "bulten")
+if not os.path.isdir(BULTEN):
+    BULTEN = "/mnt/project-files/bulten"
+
+
+def csv_oku(ad):
+    yol = os.path.join(BULTEN, ad)
+    if not os.path.exists(yol):
+        return []
+    with open(yol, newline="") as f:
+        return list(csv.DictReader(f))
+
+
+ENVANTER = {}
+for r in csv_oku("envanter.csv"):
+    ENVANTER.setdefault(r["slug"], []).append(r["artvela_kunye"] + (f" · {r['artvela_fiyat_TL']} TL" if r.get("artvela_fiyat_TL") else ""))
+EMSAL = {}
+for r in csv_oku("emsal-fiyatlar.csv"):
+    if r.get("dogrulandi") == "evet":
+        EMSAL.setdefault(r["slug"], []).append(r)
 TARIH = "2026-10-22"
 
 OLCUTLER = [
@@ -75,6 +96,17 @@ def bej_bolumu(s):
 """
 
 
+def artvela_listesi(s):
+    return ENVANTER.get(s["slug"]) or s["artvela"]
+
+
+def emsal_tablosu(s):
+    satirlar = EMSAL.get(s["slug"], [])
+    if not satirlar:
+        return "| | | | | | |\n\n*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*"
+    return "\n".join(f"| {r['tarih']} | {r['kaynak']} {r['muzayede_lot']} | {r['eser']}, {r['yil']}, {r['teknik']}, {r['olcu_cm']} | {r['tahmini_deger']} | {r['satis_fiyati']} {r['para_birimi']} ({r['satildi_mi']}) | {r['kaynak_url']} |" for r in satirlar)
+
+
 def dosya(s):
     toplam, kapsam, kd, boyut = hesapla(s)
     satirlar = []
@@ -133,7 +165,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-{liste(s['artvela'], 'Henüz Artvela müzayedesinde yer almadı.')}
+{liste(artvela_listesi(s), 'Henüz Artvela müzayedesinde yer almadı.')}
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -143,11 +175,11 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 **Ödüller**
 {liste(s['oduller'], 'Kaynakta ödül bilgisi yok, doğrulanacak.')}
 
-**Satış kayıtları**
+**Satış kayıtları** (kaynak: `bulten/emsal-fiyatlar.csv`, yalnız `dogrulandi=evet`)
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| | | | | | |
+{emsal_tablosu(s)}
 
 ## 7. Puan Dökümü
 
@@ -165,7 +197,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 9. Açık Sorular
 
 - [ ] *Eksik* işaretli alt ölçütler için kaynak bul.
-- [ ] Türk ve uluslararası müzayede satış kayıtlarını gir (E2, E3).
+- [ ] E2/E3: emsal dosyasında doğrulanmış satır yoksa is-kaydi.csv'ye fiyat-emsal için istek yaz (kendin arama yapma).
 - [ ] Müze koleksiyonlarını kurum sayfalarından doğrula (C1, C2).
 """
 
@@ -181,7 +213,7 @@ def main():
         satirlar.append(dict(slug=s["slug"], sanatci=s["ad"], dogum=s["dogum"], olum=s["olum"], disiplin=s["disiplin"],
                              kabul=s["kabul"].split(":")[0], puan=toplam, kademe=kd, veri_kapsami=kapsam,
                              A=boyut["A"], B=boyut["B"], C=boyut["C"], D=boyut["D"], E=boyut["E"],
-                             artvela="; ".join(s["artvela"]),
+                             artvela="; ".join(artvela_listesi(s)),
                              bej_huni=(s.get("bej") or {}).get("huni", ""),
                              bej_puan=sum(v[0] for v in (s.get("bej") or {}).get("puan", {}).values() if v) if s.get("bej") else "",
                              son_guncelleme=TARIH))

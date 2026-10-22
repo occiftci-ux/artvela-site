@@ -13,7 +13,7 @@ guven: "taslak"
 
 # Onay Akbaş
 
-> Ayrıntılı araştırma notu: [onay-akbas-2026-10-22.md](onay-akbas-2026-10-22.md)
+> Ayrıntılı araştırma notu: [onay-akbas--not-2026-10-22.md](onay-akbas--not-2026-10-22.md)
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
@@ -58,11 +58,13 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 **Ödüller**
 - Beaujolais Resim Ödülü; 2014 Sedat Simavi Görsel Sanatlar Ödülü [1]
 
-**Satış kayıtları**
+**Satış kayıtları** (kaynak: `bulten/emsal-fiyatlar.csv`, yalnız `dogrulandi=evet`)
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
 | | | | | | |
+
+*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*
 
 ## 7. Puan Dökümü
 
@@ -102,5 +104,5 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 9. Açık Sorular
 
 - [ ] *Eksik* işaretli alt ölçütler için kaynak bul.
-- [ ] Türk ve uluslararası müzayede satış kayıtlarını gir (E2, E3).
+- [ ] E2/E3: emsal dosyasında doğrulanmış satır yoksa is-kaydi.csv'ye fiyat-emsal için istek yaz (kendin arama yapma).
 - [ ] Müze koleksiyonlarını kurum sayfalarından doğrula (C1, C2).
