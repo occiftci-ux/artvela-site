@@ -4,7 +4,7 @@ dogum: "1980, Elazığ"
 olum: ""
 disiplin: "resim, kolaj, kostüm"
 kabul: "K1 (akademik)"
-puan: 10
+puan: 11
 kademe: "(V · İzleme) ön puan"
 veri_kapsami: 13
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **10 / 100** | (V · İzleme) ön puan | %13 | K1 (akademik): Kocaeli Üniversitesi Plastik Sanatlar Resim Bölümü, 2002–06, Prof. Dr. Nuri Temizsoylu atölyesi. |
+| **11 / 100** | (V · İzleme) ön puan | %13 | K1 (akademik): Kocaeli Üniversitesi Plastik Sanatlar Resim Bölümü, 2002–06, Prof. Dr. Nuri Temizsoylu atölyesi. |
 
 ## 1. Künye ve Biyografi
 
@@ -30,6 +30,7 @@ guven: "taslak"
 - Uzun yıllar tekstilde modelist ve stilist. 2014'ten beri Fungistanbul grubu için atık malzemeden kostüm [1].
 - 2025: "Plastik Reformasyon", Yapı Kredi Bomonti Ada Sanat Galerisi [1].
 - 2026: "Plastik Reformasyon", Üsküdar Belediyesi Bağlarbaşı Kültür Merkezi ve Ziraat Bankası Kuğulu Sanat Galerisi, Ankara, 6–22 Mayıs, küratör Prof. Dr. Kıymet Giray [1].
+- 2026: "Plastik Reformasyon", Manisa Büyükşehir Belediyesi Kültür Merkezi Lale Fuaye Salonu, 4 Haziran'a dek [2].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
 
@@ -74,8 +75,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | a1 | Akademi / fakülte mezunu | 7 / 8 | Kocaeli Üniversitesi Resim Bölümü |
 | a2 | Yurtdışı eğitim, burs, rezidans | 0 / 4 | *eksik* |
 | a3 | Akademisyenlik, öğrenci yetiştirme | 0 / 3 | *eksik* |
-| **B · Sergi geçmişi** | | **3 / 25** | |
-| b1 | Kişisel sergiler | 3 / 10 | İki kişisel sergi dizisi (2025, 2026), banka galerisi dahil |
+| **B · Sergi geçmişi** | | **4 / 25** | |
+| b1 | Kişisel sergiler | 4 / 10 | Kişisel sergi dizisi 2025–26: İstanbul, Ankara (banka galerisi), Manisa (belediye) [1][2] |
 | b2 | Retrospektif / müze ve kurum sergisi | 0 / 8 | *eksik* |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 0 / 7 | *eksik* |
 | **C · Kurumsal tanınırlık** | | **0 / 20** | |
@@ -90,7 +91,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **10 / 100** | Veri kapsamı %13 |
+| | **Toplam** | **11 / 100** | Veri kapsamı %13 |
 
 ## Bej Keşif Değerlendirmesi [G-Y1]
 
@@ -103,17 +104,18 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | Dilin tutarlılığı ve özgünlüğü | 6 / 10 | Tek malzeme, tek yöntem, dizi hâlinde |
 | Figürle ilişki | 6 / 10 | Portre dizisi merkezde |
 | Düşünsel derinlik | 4 / 10 | Atık ve dönüşüm fikri; metin katmanı ince |
-| Üretim hacmi ve kariyer niyeti | 5 / 10 | 2025–26'da üç mekânda aynı sergi |
+| Üretim hacmi ve kariyer niyeti | 5 / 10 | 2025–26'da dört mekânda aynı sergi (Manisa dahil) |
 | Piyasadan bağımsızlık | 7 / 10 | Ticari galeri temsili görünmüyor |
 | **Toplam** | **33 / 60** | |
 
-- Tek kaynak: sergi kataloğu. Huni 2'ye geçmek için ikinci bir kaynak ve işin yerinde görülmesi gerekir.
+- İkinci kaynak 2026-10-23 gece turunda bulundu (Manisa sergisi haberi). Huni 2'ye geçmek için kalan şart: işin yerinde görülmesi.
 - Çıkar çatışması kontrolü: envanter.csv'de yok, Artvela lotu yok.
 - Bej'in figür odağına göre malzeme dışı bir yol; danışma kuruluna 'figür mü, malzeme mi' sorusu olarak sunulabilir.
 
 ## 8. Kaynakça
 
 1. [1] Ziraat Bankası Kuğulu Sanat Galerisi, Ruken Adıbelli "Plastik Reformasyon" kataloğu, 2026. https://www.ziraatbank.com.tr/tr/Bankamiz-ZB/kultur-sanat/Sergiler/2026-2027/ruken-adibelli.pdf
+2. [2] Gazete Birlik, "Çöpe atılan plastikler başyapıta dönüştü", 2026. https://www.gazetebirlik.com/kultur-sanat/cope-atilan-plastikler-basyapita-donustu-manisada-cevre-icin-sira-disi-sergi/1007912
 
 ## 9. Açık Sorular
 
