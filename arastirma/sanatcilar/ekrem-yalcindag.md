@@ -4,10 +4,10 @@ dogum: "1964, Adıyaman"
 olum: ""
 disiplin: "resim, baskı"
 kabul: "K1 (akademik) ve K2 (galeri)"
-puan: 46
+puan: 49
 kademe: "(III · Güçlü orta) ön puan"
-veri_kapsami: 60
-son_guncelleme: "2026-10-22"
+veri_kapsami: 67
+son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
 
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **46 / 100** | (III · Güçlü orta) ön puan | %60 | K1 (akademik) ve K2 (galeri): Dokuz Eylül Üniversitesi GSF, Sevil Dolmacı Galeri. |
+| **49 / 100** | (III · Güçlü orta) ön puan | %67 | K1 (akademik) ve K2 (galeri): Dokuz Eylül Üniversitesi GSF, Sevil Dolmacı Galeri. |
 
 ## 1. Künye ve Biyografi
 
@@ -45,7 +45,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 91, Lot 9: prestuval üzerine yağlıboya, imzalı, 2025, R:100 [2]
+- Müzayede 91 (2026-09-22), Lot 9: prestuval üzerine yağlıboya, imzalı., R: 100; tahmini 300.000-400.000 TL, açılış 280.000 TL; satıldı, çekiç 302.500 TL · 302500 TL
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -59,9 +59,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| | | | | | |
-
-*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 9 | , , prestuval üzerine yağlıboya, imzalı., R:100 | 300000-400000 | 302500 çekiç / 332750 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -84,12 +82,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **4 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 4 / 8 | Örüntü temelli soyutlamanın güncel temsilcisi |
 | d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
-| **E · Piyasa görünürlüğü** | | **7 / 25** | |
+| **E · Piyasa görünürlüğü** | | **10 / 25** | |
 | e1 | Türk müzayedeleri | 3 / 8 | Artvela 91'de lot |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
-| e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
+| e3 | Fiyat seviyesi (doğrulanmış) | 3 / 6 | emsal: 1/1 lot satıldı, en yüksek çekiç 302.500 TL |
 | e4 | Güncel galeri temsili | 4 / 4 | Sevil Dolmacı Galeri |
-| | **Toplam** | **46 / 100** | Veri kapsamı %60 |
+| | **Toplam** | **49 / 100** | Veri kapsamı %67 |
 
 ## 8. Kaynakça
 

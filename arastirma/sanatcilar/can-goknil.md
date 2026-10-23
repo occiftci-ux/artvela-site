@@ -7,7 +7,7 @@ kabul: "K1 (akademik)"
 puan: 51
 kademe: "(III · Güçlü orta) ön puan"
 veri_kapsami: 67
-son_guncelleme: "2026-10-22"
+son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
 
@@ -48,7 +48,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 91, Lot 16: tuval üzerine yağlıboya, imzalı, 46x36 cm [2]
+- Müzayede 91 (2026-09-22), Lot 16: tuval üzerine yağlıboya, imzalı., 46x36 cm; tahmini 250.000-350.000 TL, açılış 220.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -62,9 +62,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| | | | | | |
-
-*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 16 | , , tuval üzerine yağlıboya, imzalı., 46x36 | 250000-350000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 

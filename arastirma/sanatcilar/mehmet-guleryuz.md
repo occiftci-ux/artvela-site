@@ -4,10 +4,10 @@ dogum: "1938, İstanbul"
 olum: "2024, Paris"
 disiplin: "resim, baskı, heykel, tiyatro"
 kabul: "K1 (akademik)"
-puan: 57
+puan: 58
 kademe: "(III · Güçlü orta) ön puan"
 veri_kapsami: 67
-son_guncelleme: "2026-10-22"
+son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
 
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **57 / 100** | (III · Güçlü orta) ön puan | %67 | K1 (akademik): İstanbul Devlet Güzel Sanatlar Akademisi. |
+| **58 / 100** | (III · Güçlü orta) ön puan | %67 | K1 (akademik): İstanbul Devlet Güzel Sanatlar Akademisi. |
 
 ## 1. Künye ve Biyografi
 
@@ -48,7 +48,9 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 91, Lot 7: tuval üzerine yağlıboya, imzalı, 1964, 65x60 cm [2]
+- Müzayede 91 (2026-09-22), Lot 7: tuval üzerine yağlıboya, imzalı., 1964 tarihli., 65x60 cm; tahmini 1.000.000-1.500.000 TL, açılış 970.000 TL; satılmadı
+- Müzayede 91 (2026-09-22), Lot 85: kağıt üzerine desen, imzalı., 30x24 cm; tahmini 180.000-240.000 TL, açılış 120.000 TL; satılmadı
+- Müzayede 91 (2026-09-22), Lot 86: kağıt üzerine desen, imzalı., 27x20 cm; tahmini 180.000-240.000 TL, açılış 120.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -62,9 +64,9 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| | | | | | |
-
-*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 7 | , 1964, tuval üzerine yağlıboya, imzalı., 65x60 | 1000000-1500000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 85 | , , kağıt üzerine desen, imzalı., 30x24 | 180000-240000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 86 | , , kağıt üzerine desen, imzalı., 27x20 | 180000-240000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -87,12 +89,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **12 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 6 / 8 | Çağdaş Türk figüratif resminin öncülerinden |
 | d2 | Akademik yayın, tez, monografi, müze | 6 / 7 | En az iki YÖK tezi |
-| **E · Piyasa görünürlüğü** | | **3 / 25** | |
-| e1 | Türk müzayedeleri | 3 / 8 | Artvela 91'de lot |
+| **E · Piyasa görünürlüğü** | | **4 / 25** | |
+| e1 | Türk müzayedeleri | 4 / 8 | emsal: 3 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **57 / 100** | Veri kapsamı %67 |
+| | **Toplam** | **58 / 100** | Veri kapsamı %67 |
 
 ## 8. Kaynakça
 

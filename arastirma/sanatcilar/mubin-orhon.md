@@ -4,10 +4,10 @@ dogum: "1924, İstanbul"
 olum: "1981, Paris"
 disiplin: "resim"
 kabul: "K3 (otorite onayı)"
-puan: 51
+puan: 55
 kademe: "(III · Güçlü orta) ön puan"
-veri_kapsami: 60
-son_guncelleme: "2026-10-22"
+veri_kapsami: 67
+son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
 
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **51 / 100** | (III · Güçlü orta) ön puan | %60 | K3 (otorite onayı): Siyasal Bilgiler mezunu. İstanbul Modern ve Mathaf koleksiyonları, Paris galerileri. |
+| **55 / 100** | (III · Güçlü orta) ön puan | %67 | K3 (otorite onayı): Siyasal Bilgiler mezunu. İstanbul Modern ve Mathaf koleksiyonları, Paris galerileri. |
 
 ## 1. Künye ve Biyografi
 
@@ -48,7 +48,9 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 91, Lot 4: kâğıt üzerine guaj, imzalı, 76x56 cm [3]
+- Müzayede 91 (2026-09-22), Lot 4: kağıt üzerine guaj boya, imzalı., 76x56 cm; tahmini 800.000-1.000.000 TL, açılış 630.000 TL; satılmadı
+- Müzayede 91 (2026-09-22), Lot 26: kağıt üzerine guaj boya, imzalı., 28x22 cm; tahmini 200.000-300.000 TL, açılış 160.000 TL; satıldı, çekiç 160.000 TL · 160000 TL
+- Müzayede 91 (2026-09-22), Lot 56: kağıt üzerine guaj boya (tuvale marufle), imzalı., 63x48 cm; tahmini 400.000-600.000 TL, açılış 320.000 TL; satıldı, çekiç 320.000 TL · 320000 TL
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -63,9 +65,9 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| | | | | | |
-
-*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 4 | , , kağıt üzerine guaj boya, imzalı., 76x56 | 800000-1000000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 26 | , , kağıt üzerine guaj boya, imzalı., 28x22 | 200000-300000 | 160000 çekiç / 176000 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 56 | , , kağıt üzerine guaj boya (tuvale marufle), imzalı., 63x48 | 400000-600000 | 320000 çekiç / 352000 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -88,12 +90,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **7 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 7 / 8 | Paris'teki Türk lirik soyutçuların önde gelenlerinden |
 | d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
-| **E · Piyasa görünürlüğü** | | **7 / 25** | |
-| e1 | Türk müzayedeleri | 3 / 8 | Artvela 91'de lot |
+| **E · Piyasa görünürlüğü** | | **11 / 25** | |
+| e1 | Türk müzayedeleri | 4 / 8 | emsal: 3 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 4 / 7 | Aguttes (Fransa) müzayede kaydı |
-| e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
+| e3 | Fiyat seviyesi (doğrulanmış) | 3 / 6 | emsal: 2/3 lot satıldı, en yüksek çekiç 320.000 TL |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **51 / 100** | Veri kapsamı %60 |
+| | **Toplam** | **55 / 100** | Veri kapsamı %67 |
 
 ## 8. Kaynakça
 

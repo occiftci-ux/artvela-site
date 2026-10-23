@@ -3,11 +3,11 @@ sanatci: "Oya Zaim Katoğlu"
 dogum: "Doğrulanacak"
 olum: ""
 disiplin: "resim"
-kabul: "Beklemede"
-puan: 3
+kabul: "K3 (otorite onayı)"
+puan: 12
 kademe: "(V · İzleme) ön puan"
-veri_kapsami: 7
-son_guncelleme: "2026-10-22"
+veri_kapsami: 27
+son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
 
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **3 / 100** | (V · İzleme) ön puan | %7 | Beklemede: kabul kapısı henüz kanıtlanamadı. SALT Araştırma'da sanatçı kaydı var [1]. |
+| **12 / 100** | (V · İzleme) ön puan | %27 | K3 (otorite onayı): hakkında üniversite tezi var (Sakarya Üniversitesi) [3]. Formel akademi eğitimi bildirilmiyor. |
 
 ## 1. Künye ve Biyografi
 
@@ -23,15 +23,17 @@ guven: "taslak"
 **Disiplin:** resim
 
 **Eğitim**
-- Doğrulanacak.
+- Ressam Turgut Zaim'in kızı. Resme babasından aldığı derslerle başladı; tez, üslubunun büyük ölçüde onunla biçimlendiğini yazar [3].
 
 **Kronoloji**
 - SALT Araştırma arşivinde "Oya Katoğlu" kaydı [1].
+- Tuval resminin yanında kitap resimlemesi, porselen tabak bezemesi, afiş, özgün baskı [3].
+- Tez, ulusal ve uluslararası ödüller aldığını belirtir; adları doğrulanacak [3].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
 
-- **Akım / grup:** Doğrulanacak
-- **Temalar:** Doğrulanacak
+- **Akım / grup:** Naif üslup, folklorik öğeler. Turgut Zaim çizgisinin devamı [3].
+- **Temalar:** halk yaşamı, folklorik motifler [3]
 
 ## 3. Felsefi Bağlam
 
@@ -43,7 +45,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 91, Lot 13: kâğıt üzerine guaj, imzalı, 14x14 cm [2]
+- Müzayede 91 (2026-09-22), Lot 13: kağıt üzerine guaj boya, imzalı., 14x14 cm; tahmini 280.000-350.000 TL, açılış 200.000 TL; satıldı, çekiç 222.500 TL · 222500 TL
+- Müzayede 91 (2026-09-22), Lot 14: kağıt üzerine guaj boya, imzalı., 13x19 cm; tahmini 280.000-350.000 TL, açılış 200.000 TL; satıldı, çekiç 222.500 TL · 222500 TL
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -57,9 +60,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| | | | | | |
-
-*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 13 | , , kağıt üzerine guaj boya, imzalı., 14x14 | 280000-350000 | 222500 çekiç / 244750 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 14 | , , kağıt üzerine guaj boya, imzalı., 13x19 | 280000-350000 | 222500 çekiç / 244750 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -79,20 +81,21 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | c1 | Türkiye'deki müze koleksiyonları | 0 / 8 | *eksik* |
 | c2 | Yurtdışındaki müze koleksiyonları | 0 / 7 | *eksik* |
 | c3 | Ödüller | 0 / 5 | *eksik* |
-| **D · Sanat tarihindeki konum** | | **0 / 15** | |
-| d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
-| d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
-| **E · Piyasa görünürlüğü** | | **3 / 25** | |
-| e1 | Türk müzayedeleri | 3 / 8 | Artvela 91'de lot |
+| **D · Sanat tarihindeki konum** | | **6 / 15** | |
+| d1 | Grup / akım kurucusu, kuşak temsilcisi | 2 / 8 | Turgut Zaim naif çizgisinin ikinci kuşağı |
+| d2 | Akademik yayın, tez, monografi, müze | 4 / 7 | Hakkında üniversite tezi |
+| **E · Piyasa görünürlüğü** | | **6 / 25** | |
+| e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
-| e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
+| e3 | Fiyat seviyesi (doğrulanmış) | 2 / 6 | emsal: 2/2 lot satıldı, en yüksek çekiç 222.500 TL |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **3 / 100** | Veri kapsamı %7 |
+| | **Toplam** | **12 / 100** | Veri kapsamı %27 |
 
 ## 8. Kaynakça
 
 1. [1] SALT Araştırma, Oya Katoğlu kaydı. https://archives.saltresearch.org/handle/123456789/40809
 2. [2] Artvela Instagram, Müzayede 91 gönderisi. https://www.instagram.com/p/Ddbt9Y9CDen/
+3. [3] Sakarya Üniversitesi açık arşivi, Oya Katoğlu'nun eserleri ve üslubu üzerine tez. https://acikerisim.sakarya.edu.tr/handle/20.500.12619/98654
 
 ## 9. Açık Sorular
 

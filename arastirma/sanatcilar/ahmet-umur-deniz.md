@@ -4,10 +4,10 @@ dogum: "Doğrulanacak"
 olum: ""
 disiplin: "resim, desen"
 kabul: "K1 (akademik)"
-puan: 24
+puan: 27
 kademe: "(IV · Gelişen) ön puan"
-veri_kapsami: 40
-son_guncelleme: "2026-10-22"
+veri_kapsami: 47
+son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
 
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **24 / 100** | (IV · Gelişen) ön puan | %40 | K1 (akademik): MSGSÜ Resim Bölümü, Neşet Günal atölyesi. Bugün aynı bölümde öğretim üyesi. |
+| **27 / 100** | (IV · Gelişen) ön puan | %47 | K1 (akademik): MSGSÜ Resim Bölümü, Neşet Günal atölyesi. Bugün aynı bölümde öğretim üyesi. |
 
 ## 1. Künye ve Biyografi
 
@@ -44,7 +44,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 91, Lot 27: "Sınırda", kâğıt üzerine karakalem ve renkli kalem, imzalı, 91x141 cm. Sanatçının kitabında yer alıyor [2].
+- Müzayede 91 (2026-09-22), Lot 27: kağıt üzerine karakalem ve renkli kalem, imzalı., "Sınırda", Eser sanatçının kitabında mevcuttur., 91x141 cm; tahmini 300.000-450.000 TL, açılış 240.000 TL; satıldı, çekiç 240.000 TL · 240000 TL
+- Müzayede 91 (2026-09-22), Lot 28: kağıt üzerine renkli kalem, imzalı., Eser sanatçının kitabında mevcuttur., 50x43 cm; tahmini 100.000-180.000 TL, açılış 80.000 TL; satıldı, çekiç 80.000 TL · 80000 TL
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -58,9 +59,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| | | | | | |
-
-*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 27 | , , kağıt üzerine karakalem ve renkli kalem, imzalı., 91x141 | 300000-450000 | 240000 çekiç / 264000 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 28 | , , kağıt üzerine renkli kalem, imzalı., 50x43 | 100000-180000 | 80000 çekiç / 88000 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -83,12 +83,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **5 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 3 / 8 | Toplumsal gerçekçi çizginin güncel temsilcisi |
 | d2 | Akademik yayın, tez, monografi, müze | 2 / 7 | Sanatçı kitabı |
-| **E · Piyasa görünürlüğü** | | **3 / 25** | |
-| e1 | Türk müzayedeleri | 3 / 8 | Artvela 91'de lot |
+| **E · Piyasa görünürlüğü** | | **6 / 25** | |
+| e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
-| e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
+| e3 | Fiyat seviyesi (doğrulanmış) | 2 / 6 | emsal: 2/2 lot satıldı, en yüksek çekiç 240.000 TL |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **24 / 100** | Veri kapsamı %40 |
+| | **Toplam** | **27 / 100** | Veri kapsamı %47 |
 
 ## 8. Kaynakça
 

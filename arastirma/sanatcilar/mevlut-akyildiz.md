@@ -4,10 +4,10 @@ dogum: "1956, Ankara"
 olum: ""
 disiplin: "resim, baskı, cam altı"
 kabul: "K1 (akademik)"
-puan: 26
+puan: 28
 kademe: "(IV · Gelişen) ön puan"
-veri_kapsami: 40
-son_guncelleme: "2026-10-22"
+veri_kapsami: 47
+son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
 
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **26 / 100** | (IV · Gelişen) ön puan | %40 | K1 (akademik): İstanbul DGSA, Neşet Günal atölyesi, 1981. |
+| **28 / 100** | (IV · Gelişen) ön puan | %47 | K1 (akademik): İstanbul DGSA, Neşet Günal atölyesi, 1981. |
 
 ## 1. Künye ve Biyografi
 
@@ -46,7 +46,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 91, Lot 40: kâğıt üzerine karışık teknik, imzalı, 18x22 cm [4]
+- Müzayede 91 (2026-09-22), Lot 40: kağıt üzerine karışık teknik, imzalı., 18x22 cm; tahmini 200.000-300.000 TL, açılış 125.000 TL; satıldı, çekiç 125.000 TL · 125000 TL
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -60,9 +60,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| | | | | | |
-
-*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 40 | , , kağıt üzerine karışık teknik, imzalı., 18x22 | 200000-300000 | 125000 çekiç / 137500 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -85,12 +83,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **0 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
 | d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
-| **E · Piyasa görünürlüğü** | | **3 / 25** | |
+| **E · Piyasa görünürlüğü** | | **5 / 25** | |
 | e1 | Türk müzayedeleri | 3 / 8 | Artvela 91'de lot |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
-| e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
+| e3 | Fiyat seviyesi (doğrulanmış) | 2 / 6 | emsal: 1/1 lot satıldı, en yüksek çekiç 125.000 TL |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **26 / 100** | Veri kapsamı %40 |
+| | **Toplam** | **28 / 100** | Veri kapsamı %47 |
 
 ## 8. Kaynakça
 

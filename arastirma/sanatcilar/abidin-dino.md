@@ -7,7 +7,7 @@ kabul: "K3 (otorite onayı)"
 puan: 47
 kademe: "(III · Güçlü orta) ön puan"
 veri_kapsami: 60
-son_guncelleme: "2026-10-22"
+son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
 

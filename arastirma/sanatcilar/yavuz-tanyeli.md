@@ -4,10 +4,10 @@ dogum: "1950, Trabzon"
 olum: ""
 disiplin: "resim"
 kabul: "K2 (galeri)"
-puan: 22
+puan: 26
 kademe: "(IV · Gelişen) ön puan"
-veri_kapsami: 33
-son_guncelleme: "2026-10-22"
+veri_kapsami: 40
+son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
 
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **22 / 100** | (IV · Gelişen) ön puan | %33 | K2 (galeri): Urart, Teşvikiye ve Cam Galeri gibi kurumsal galerilerde sergiler. AKM'de üç sergi. |
+| **26 / 100** | (IV · Gelişen) ön puan | %40 | K2 (galeri): Urart, Teşvikiye ve Cam Galeri gibi kurumsal galerilerde sergiler. AKM'de üç sergi. |
 
 ## 1. Künye ve Biyografi
 
@@ -29,6 +29,7 @@ guven: "taslak"
 - Kendi beyanına göre toplam 54 sergi, üçü AKM'de. Yapı Kredi ve Galatasaray'da da sergiler [1].
 - Urart ve Teşvikiye Sanat Galerisi sergileri (SALT Araştırma arşiv kayıtları) [3].
 - 2024: "Gray zone" serisi, kâğıt üzerine yağlıboya [1].
+- 1987: Günümüz Sanatçıları 8. İstanbul Sergisi'ne katıldı; eseri Resim ve Heykel Müzeleri Derneği aracılığıyla Mimar Sinan Üniversitesi Resim ve Heykel Müzesi'ne bağışlandı [4].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
 
@@ -50,7 +51,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
 **Müze ve kurum koleksiyonları**
-- Doğrulanacak.
+- Mimar Sinan Üniversitesi (İstanbul) Resim ve Heykel Müzesi, 1987 bağışı [4]
 
 **Ödüller**
 - Kaynakta ödül bilgisi yok, doğrulanacak.
@@ -77,8 +78,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | b1 | Kişisel sergiler | 8 / 10 | 54 sergi, kurumsal galeriler |
 | b2 | Retrospektif / müze ve kurum sergisi | 4 / 8 | AKM'de üç sergi |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 0 / 7 | *eksik* |
-| **C · Kurumsal tanınırlık** | | **0 / 20** | |
-| c1 | Türkiye'deki müze koleksiyonları | 0 / 8 | *eksik* |
+| **C · Kurumsal tanınırlık** | | **4 / 20** | |
+| c1 | Türkiye'deki müze koleksiyonları | 4 / 8 | MSÜ İstanbul Resim ve Heykel Müzesi (1987 bağışı) |
 | c2 | Yurtdışındaki müze koleksiyonları | 0 / 7 | *eksik* |
 | c3 | Ödüller | 0 / 5 | *eksik* |
 | **D · Sanat tarihindeki konum** | | **4 / 15** | |
@@ -89,13 +90,14 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 3 / 4 | Cam Galeri |
-| | **Toplam** | **22 / 100** | Veri kapsamı %33 |
+| | **Toplam** | **26 / 100** | Veri kapsamı %40 |
 
 ## 8. Kaynakça
 
 1. [1] Cam Galeri, sanatçı sayfası. https://camgaleri.com/yavuz-tanyeli/
 2. [2] Artvela Instagram, Müzayede 92 gönderisi. https://www.instagram.com/p/Dezh-4iiejW/
 3. [3] SALT Araştırma, Urart ve Teşvikiye sergi kayıtları. https://archives.saltresearch.org/handle/123456789/37446
+4. [4] SALT Araştırma, RHM868: Resim ve Heykel Müzeleri Derneği'nin 7.10.1987 tarihli bağış yazısı. https://archives.saltresearch.org/handle/123456789/4448
 
 ## 9. Açık Sorular
 

@@ -4,10 +4,10 @@ dogum: "1935, İstanbul"
 olum: "1976, İstanbul"
 disiplin: "resim, baskı, kolaj, hazır nesne"
 kabul: "K3 (otorite onayı)"
-puan: 28
+puan: 36
 kademe: "(IV · Gelişen) ön puan"
-veri_kapsami: 40
-son_guncelleme: "2026-10-22"
+veri_kapsami: 47
+son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
 
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **28 / 100** | (IV · Gelişen) ön puan | %40 | K3 (otorite onayı): SALT arşivi ve kurumsal sergiler, Mavi Grup kurucusu. Akademik eğitimi doğrulanacak. |
+| **36 / 100** | (IV · Gelişen) ön puan | %47 | K3 (otorite onayı): SALT arşivi ve kurumsal sergiler, Mavi Grup kurucusu. Akademik eğitimi doğrulanacak. |
 
 ## 1. Künye ve Biyografi
 
@@ -29,6 +29,7 @@ guven: "taslak"
 - 1963: Devrim Erbil, Adnan Çoker, Sarkis ve Tülay Tura ile Mavi Grup'u kurdu [2].
 - 1965: Paris'te bulduğu istatistik dergilerinden yola çıkan *İstatistik* serisi [1].
 - Pedagojisi ve pratiği akranlarını ve genç kuşakları güçlü biçimde etkiledi [1].
+- 2020: Retrospektif sergi. Arter koleksiyonundan yaklaşık 50 eser ile eskizler, fotoğraflar, ders notları ve belgeler [4].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
 
@@ -45,12 +46,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 91, Lot 3: kâğıt üzerine karışık teknik, imzalı, 45x54 cm [3]
+- Müzayede 91 (2026-09-22), Lot 3: kağıt üzerine karışık teknik, imzalı., 1963 tarihli, 45x54 cm; tahmini 280.000-350.000 TL, açılış 240.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
 **Müze ve kurum koleksiyonları**
-- Doğrulanacak.
+- Arter koleksiyonu, yaklaşık 50 eser [4]
 
 **Ödüller**
 - Kaynakta ödül bilgisi yok, doğrulanacak.
@@ -59,9 +60,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| | | | | | |
-
-*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 3 | , 1963, kağıt üzerine karışık teknik, imzalı., 45x54 | 280000-350000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -73,12 +72,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | a1 | Akademi / fakülte mezunu | 0 / 8 | *eksik* |
 | a2 | Yurtdışı eğitim, burs, rezidans | 3 / 4 | Paris'te öğrenim |
 | a3 | Akademisyenlik, öğrenci yetiştirme | 3 / 3 | Etkili pedagoji |
-| **B · Sergi geçmişi** | | **5 / 25** | |
+| **B · Sergi geçmişi** | | **7 / 25** | |
 | b1 | Kişisel sergiler | 0 / 10 | *eksik* |
-| b2 | Retrospektif / müze ve kurum sergisi | 5 / 8 | SALT sergi ve arşivi |
+| b2 | Retrospektif / müze ve kurum sergisi | 7 / 8 | SALT sergi ve arşivi, 2020 retrospektifi |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 0 / 7 | *eksik* |
-| **C · Kurumsal tanınırlık** | | **0 / 20** | |
-| c1 | Türkiye'deki müze koleksiyonları | 0 / 8 | *eksik* |
+| **C · Kurumsal tanınırlık** | | **6 / 20** | |
+| c1 | Türkiye'deki müze koleksiyonları | 6 / 8 | Arter koleksiyonu, ~50 eser |
 | c2 | Yurtdışındaki müze koleksiyonları | 0 / 7 | *eksik* |
 | c3 | Ödüller | 0 / 5 | *eksik* |
 | **D · Sanat tarihindeki konum** | | **14 / 15** | |
@@ -89,13 +88,14 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **28 / 100** | Veri kapsamı %40 |
+| | **Toplam** | **36 / 100** | Veri kapsamı %47 |
 
 ## 8. Kaynakça
 
 1. [1] SALT, Altan Gürman. https://saltonline.org/en/328/
 2. [2] IMOGA, Devrim Erbil sayfası (Mavi Grup). https://www.imoga.org/en/collection/artists/devrim-erbil
 3. [3] Artvela Instagram, Müzayede 91 gönderisi. https://www.instagram.com/p/DdY9teKCBYp/
+4. [4] Time Out İstanbul, Altan Gürman retrospektifi, 15.01.2020. https://www.timeout.com/istanbul/tr/sanat/altan-gurman
 
 ## 9. Açık Sorular
 

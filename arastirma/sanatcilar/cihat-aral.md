@@ -7,7 +7,7 @@ kabul: "K1 (akademik)"
 puan: 45
 kademe: "(III · Güçlü orta) ön puan"
 veri_kapsami: 60
-son_guncelleme: "2026-10-22"
+son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
 
@@ -50,7 +50,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 91, Lot 15: prestuval üzerine yağlıboya, imzalı, 50x65 cm [2]
+- Müzayede 91 (2026-09-22), Lot 15: prestuval üzerine yağlıboya, imzalı., 50x65 cm; tahmini 300.000-400.000 TL, açılış 265.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -64,9 +64,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| | | | | | |
-
-*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 15 | , , prestuval üzerine yağlıboya, imzalı., 50x65 | 300000-400000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 

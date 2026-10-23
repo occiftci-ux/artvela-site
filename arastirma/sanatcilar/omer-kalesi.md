@@ -4,10 +4,10 @@ dogum: "1932, Kırçova (Kuzey Makedonya)"
 olum: "2022"
 disiplin: "resim, film"
 kabul: "K1 (akademik)"
-puan: 36
+puan: 38
 kademe: "(IV · Gelişen) ön puan"
-veri_kapsami: 47
-son_guncelleme: "2026-10-22"
+veri_kapsami: 53
+son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
 
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **36 / 100** | (IV · Gelişen) ön puan | %47 | K1 (akademik): İstanbul Güzel Sanatlar Akademisi. |
+| **38 / 100** | (IV · Gelişen) ön puan | %53 | K1 (akademik): İstanbul Güzel Sanatlar Akademisi. |
 
 ## 1. Künye ve Biyografi
 
@@ -47,7 +47,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 91, Lot 12: tuval üzerine yağlıboya, imzalı, 103x83 cm [4]; Müzayede 91, Lot 22: tuval üzerine yağlıboya, imzalı, 20x15 [4]
+- Müzayede 91 (2026-09-22), Lot 12: tuval üzerine yağlıboya, imzalı., Eser sanatçının kitabında mevcuttur., 103x83 cm; tahmini 1.000.000-1400.000 TL, açılış 800.000 TL; satılmadı
+- Müzayede 91 (2026-09-22), Lot 22: tuval üzerine yağlıboya, imzalı., 20x15 cm; tahmini 220.000-300.000 TL, açılış 170.000 TL; satıldı, çekiç 170.000 TL · 170000 TL
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -61,9 +62,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| | | | | | |
-
-*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 12 | , , tuval üzerine yağlıboya, imzalı., 103x83 | 1000000-1400000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 22 | , , tuval üzerine yağlıboya, imzalı., 20x15 | 220000-300000 | 170000 çekiç / 187000 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -86,12 +86,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **7 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 4 / 8 | Paris'teki Türk ressamlar |
 | d2 | Akademik yayın, tez, monografi, müze | 3 / 7 | Paris'in Türk Ressamları kitabında yer alıyor |
-| **E · Piyasa görünürlüğü** | | **5 / 25** | |
+| **E · Piyasa görünürlüğü** | | **7 / 25** | |
 | e1 | Türk müzayedeleri | 5 / 8 | Artvela 91'de iki lot |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
-| e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
+| e3 | Fiyat seviyesi (doğrulanmış) | 2 / 6 | emsal: 1/2 lot satıldı, en yüksek çekiç 170.000 TL |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **36 / 100** | Veri kapsamı %47 |
+| | **Toplam** | **38 / 100** | Veri kapsamı %53 |
 
 ## 8. Kaynakça
 

@@ -30,7 +30,7 @@ EMSAL = {}
 for r in csv_oku("emsal-fiyatlar.csv"):
     if r.get("dogrulandi") == "evet":
         EMSAL.setdefault(r["slug"], []).append(r)
-TARIH = "2026-10-22"
+TARIH = "2026-10-23"
 
 OLCUTLER = [
     ("A", "Eğitim ve akademik geçerlilik", [("a1", "Akademi / fakülte mezunu", 8), ("a2", "Yurtdışı eğitim, burs, rezidans", 4), ("a3", "Akademisyenlik, öğrenci yetiştirme", 3)]),
@@ -47,6 +47,33 @@ def kademe(puan):
         if puan >= alt:
             return ad
     return "V · İzleme"
+
+
+def cekic(r):
+    rakam = "".join(c if c.isdigit() else " " for c in r.get("satis_fiyati", "")).split()
+    return int(rakam[0]) if rakam else 0
+
+
+def emsal_puani(s):
+    # M-D001 (PUANLAMA.md §4.1): e1 ve e3 yalnız emsal-fiyatlar.csv dogrulandi=evet satırlarından türetilir; elle girilen puan daha yüksekse korunur.
+    satirlar = EMSAL.get(s["slug"], [])
+    if not satirlar:
+        return
+    p = s["puan"]
+    evler = sorted({r["kaynak"] for r in satirlar})
+    n = len(satirlar)
+    e1 = 3 if n == 1 else 4 if n <= 3 else 5
+    if len(evler) > 1:
+        e1 = min(8, e1 + 2)
+    if not p.get("e1") or p["e1"][0] < e1:
+        p["e1"] = (e1, f"emsal: {n} lot, {', '.join(evler)}")
+    satilan = [cekic(r) for r in satirlar if r.get("satildi_mi") == "evet" and cekic(r)]
+    if satilan:
+        en = max(satilan)
+        e3 = 1 if en < 100000 else 2 if en < 250000 else 3 if en < 1000000 else 4
+        if not p.get("e3") or p["e3"][0] < e3:
+            tl = f"{en:,}".replace(",", ".")
+            p["e3"] = (e3, f"emsal: {len(satilan)}/{n} lot satıldı, en yüksek çekiç {tl} TL")
 
 
 def hesapla(s):
@@ -207,6 +234,7 @@ def main():
     os.makedirs(hedef, exist_ok=True)
     satirlar = []
     for s in SANATCILAR:
+        emsal_puani(s)
         toplam, kapsam, kd, boyut = hesapla(s)
         with open(os.path.join(hedef, f"{s['slug']}.md"), "w") as f:
             f.write(dosya(s))

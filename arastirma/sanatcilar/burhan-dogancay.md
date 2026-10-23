@@ -4,10 +4,10 @@ dogum: "1929, İstanbul"
 olum: "2013, İstanbul"
 disiplin: "resim, kolaj, fotoğraf, heykel"
 kabul: "K3 (otorite onayı)"
-puan: 56
-kademe: "(III · Güçlü orta) ön puan"
-veri_kapsami: 67
-son_guncelleme: "2026-10-22"
+puan: 58
+kademe: "III · Güçlü orta"
+veri_kapsami: 73
+son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
 
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **56 / 100** | (III · Güçlü orta) ön puan | %67 | K3 (otorite onayı): hukuk ve iktisat eğitimi aldı. Müze koleksiyonları ve kendi adını taşıyan müze. |
+| **58 / 100** | III · Güçlü orta | %73 | K3 (otorite onayı): hukuk ve iktisat eğitimi aldı. Müze koleksiyonları ve kendi adını taşıyan müze. |
 
 ## 1. Künye ve Biyografi
 
@@ -49,6 +49,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 5. Eser Analizi (Artvela)
 
 - Müzayede 92: kâğıt üzerine guaj, imzalı, 76x56 cm, 1973, sertifikalı [2]
+- Müzayede 91 (2026-09-22), Lot 83: Alexander’s Walls, kağıt üzerine karışık teknik, imzalı., 1995 tarihli., 13x15 cm; tahmini 190.000-300.000 TL, açılış 160.000 TL; satıldı, çekiç 167.500 TL · 167500 TL
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -63,9 +64,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| | | | | | |
-
-*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 83 | Alexander’s Walls, 1995, kağıt üzerine karışık teknik, imzalı., 13x15 | 190000-300000 | 167500 çekiç / 184250 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -88,12 +87,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **13 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 7 / 8 | Duvarlar serisiyle uluslararası bir dil |
 | d2 | Akademik yayın, tez, monografi, müze | 6 / 7 | Kendi müzesi ve geniş literatür |
-| **E · Piyasa görünürlüğü** | | **8 / 25** | |
+| **E · Piyasa görünürlüğü** | | **10 / 25** | |
 | e1 | Türk müzayedeleri | 3 / 8 | Artvela 92'de lot |
 | e2 | Uluslararası müzayedeler | 5 / 7 | Sotheby's Paris 2015, kâğıt üzerine guaj, tahmin 3.000–5.000 EUR |
-| e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
+| e3 | Fiyat seviyesi (doğrulanmış) | 2 / 6 | emsal: 1/1 lot satıldı, en yüksek çekiç 167.500 TL |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **56 / 100** | Veri kapsamı %67 |
+| | **Toplam** | **58 / 100** | Veri kapsamı %73 |
 
 ## 8. Kaynakça
 

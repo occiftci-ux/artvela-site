@@ -1,6 +1,6 @@
 # Artvela Türk Sanatçılar Arşivi: Kabul Ölçütleri ve Puanlama Sistemi
 
-Sürüm 0.1 · 2026-10-22
+Sürüm 0.2 · 2026-10-23 (0.1: 2026-10-22)
 
 ## 1. Arşive kimler girer?
 
@@ -69,6 +69,17 @@ Puan, sanatçının **kurumsal ve tarihsel ağırlığını** ve **piyasa görü
 - Her dosyada **veri kapsamı** belirtilir: puanlanabilen alt ölçüt sayısının toplam alt ölçüt sayısına (15) oranı.
 - Veri kapsamı %70'in altındaysa puan **"ön puan"** sayılır ve kademe parantez içinde gösterilir, örneğin "(II)". Ön puan sanatçının gerçek ağırlığını *düşük* gösterebilir. Bunun nedeni sanatçının zayıflığı değil, verinin henüz girilmemiş olmasıdır.
 - **E boyutundaki fiyat puanı** yalnızca doğrulanmış satış kayıtlarıyla verilir (müzayede evi arşivi, katalog, fiyat veritabanı).
+
+### 4.1 Emsal dosyasından E puanı (M-D001, 2026-10-23)
+
+Üretici (`veri/uret.py`) e1 ve e3'ü `bulten/emsal-fiyatlar.csv` içindeki `dogrulandi=evet` satırlarından kendisi hesaplar. Elle girilmiş puan daha yüksekse korunur. Arşiv fiyat aramaz.
+
+| Alt ölçüt | Kural |
+|---|---|
+| e1 · Türk müzayedeleri | 1 lot: 3 · 2–3 lot: 4 · 4+ lot: 5. Birden fazla müzayede evinde kayıt varsa +2 (en çok 8) |
+| e3 · Fiyat seviyesi | Satılan lotların en yüksek çekici: <100.000 TL: 1 · 100.000–249.999: 2 · 250.000–999.999: 3 · 1.000.000+: 4. Uluslararası doğrulanmış satış gelene kadar en çok 4 |
+
+Satılmayan lotlar e1'e girer, e3'e girmez. Bugün emsal dosyasının tek kaynağı Artvela Müzayede 91'dir; bu nedenle e3 yalnız Artvela içi fiyat seviyesini gösterir.
 
 ## 5. Güncelleme döngüsü
 
