@@ -1,8 +1,8 @@
 slug,sanatci,kanal,oncelik,durum,eklenme,not
-necdet-kalay,Necdet Kalay,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
-saim-dursun,Saim Dursun,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
-abdurrahman-oztoprak,Abdurrahman Öztoprak,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
-selim-turan,Selim Turan,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
+necdet-kalay,Necdet Kalay,artvela-envanter,b,eklendi,2026-10-23,Müzayede 91/92; tur 2026-10-23 17:17
+saim-dursun,Saim Dursun,artvela-envanter,b,kaynak-yok,2026-10-23,"tur 2026-10-23 17:17: kamusal kaynak bulunamadı, sonraki haftalarda yeniden denenecek"
+abdurrahman-oztoprak,Abdurrahman Öztoprak,artvela-envanter,b,eklendi,2026-10-23,Müzayede 91/92; tur 2026-10-23 17:17
+selim-turan,Selim Turan,artvela-envanter,b,eklendi,2026-10-23,Müzayede 91/92; tur 2026-10-23 17:17
 ramiz-aydin,Ramiz Aydın,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
 rasit-altun,Raşit Altun,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
 pinar-du-pre,Pınar Du Pre,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
@@ -101,3 +101,4 @@ ferruh-basaga,Ferruh Başağa,kusak,c,bekliyor,2026-10-23,10'lar
 adnan-turani,Adnan Turani,kusak,c,bekliyor,2026-10-23,1950 kuşağı
 ihsan-cemal-karaburcak,İhsan Cemal Karaburçak,kusak,c,bekliyor,2026-10-23,Paris
 sevket-sonmez,Şevket Sönmez,kesif,g,bekliyor,2026-10-23,sahip isteği: Bej biyografisi galeri/biyografiler/sevket-sonmez.md; arşiv kartı bu kaynaklarla açılır
+coskun-sami,Coşkun Sami,kesif,g,bekliyor,2026-10-23,sahip isteği: Bej biyografisi galeri/biyografiler/coskun-sami.md

@@ -4,9 +4,9 @@ dogum: "1956, Ankara"
 olum: ""
 disiplin: "resim, baskı, cam altı"
 kabul: "K1 (akademik)"
-puan: 28
+puan: 31
 kademe: "(IV · Gelişen) ön puan"
-veri_kapsami: 47
+veri_kapsami: 53
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **28 / 100** | (IV · Gelişen) ön puan | %47 | K1 (akademik): İstanbul DGSA, Neşet Günal atölyesi, 1981. |
+| **31 / 100** | (IV · Gelişen) ön puan | %53 | K1 (akademik): İstanbul DGSA, Neşet Günal atölyesi, 1981. |
 
 ## 1. Künye ve Biyografi
 
@@ -30,6 +30,7 @@ guven: "taslak"
 - 1985: Çamlıca Sanat Evi'nde özgün baskı [1].
 - 1988–89: USIA desteğiyle Provincetown Art Colony rezidansı [1].
 - Odeabank O'Art'ta cam altı resimler sergisi [2]. "Casanova'nın Gönül Defteri" sergisi [3].
+- Garanti Sanat Galerisi kişisel sergisi (SALT Araştırma kaydı) [5].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
 
@@ -72,10 +73,10 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | a1 | Akademi / fakülte mezunu | 8 / 8 | İstanbul DGSA 1981 |
 | a2 | Yurtdışı eğitim, burs, rezidans | 3 / 4 | Provincetown rezidansı |
 | a3 | Akademisyenlik, öğrenci yetiştirme | 0 / 3 | *eksik* |
-| **B · Sergi geçmişi** | | **10 / 25** | |
-| b1 | Kişisel sergiler | 7 / 10 | Yurtiçi ve yurtdışında çok sayıda sergi |
-| b2 | Retrospektif / müze ve kurum sergisi | 3 / 8 | Kurumsal sanat alanı sergisi (O'Art) |
-| b3 | Uluslararası sergi, salon, bienal, fuar | 0 / 7 | *eksik* |
+| **B · Sergi geçmişi** | | **13 / 25** | |
+| b1 | Kişisel sergiler | 7 / 10 | Yurtiçi ve yurtdışında çok sayıda sergi, Garanti Sanat Galerisi |
+| b2 | Retrospektif / müze ve kurum sergisi | 4 / 8 | Banka sanat alanları (O'Art, Garanti) |
+| b3 | Uluslararası sergi, salon, bienal, fuar | 2 / 7 | Provincetown rezidans dönemi, ABD |
 | **C · Kurumsal tanınırlık** | | **2 / 20** | |
 | c1 | Türkiye'deki müze koleksiyonları | 2 / 8 | IMOGA kaydı |
 | c2 | Yurtdışındaki müze koleksiyonları | 0 / 7 | *eksik* |
@@ -88,7 +89,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 2 / 6 | emsal: 1/1 lot satıldı, en yüksek çekiç 125.000 TL |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **28 / 100** | Veri kapsamı %47 |
+| | **Toplam** | **31 / 100** | Veri kapsamı %53 |
 
 ## 8. Kaynakça
 
@@ -96,6 +97,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 2. [2] Odeabank, O'Art sergisi duyurusu. https://www.odeabank.com.tr/en/about-odeabank/press-releases/the-under-glass-paintings-of-mevlut-akyildiz-are-exhibited-at-oart
 3. [3] Time Out İstanbul, "Casanova'nın Gönül Defteri". https://www.timeout.com/istanbul/tr/sanat/casanovanin-gonul-defteri
 4. [4] Artvela Instagram, Müzayede 91 gönderisi. https://www.instagram.com/p/DdlUfzhCAJO/
+5. [5] SALT Araştırma, Mevlüt Akyıldız Resim Sergisi, Garanti Sanat Galerisi. https://archives.saltresearch.org/handle/123456789/41112
 
 ## 9. Açık Sorular
 

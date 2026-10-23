@@ -4,7 +4,7 @@ dogum: "Doğrulanacak"
 olum: ""
 disiplin: "resim, desen"
 kabul: "K1 (akademik)"
-puan: 27
+puan: 29
 kademe: "(IV · Gelişen) ön puan"
 veri_kapsami: 47
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **27 / 100** | (IV · Gelişen) ön puan | %47 | K1 (akademik): MSGSÜ Resim Bölümü, Neşet Günal atölyesi. Bugün aynı bölümde öğretim üyesi. |
+| **29 / 100** | (IV · Gelişen) ön puan | %47 | K1 (akademik): MSGSÜ Resim Bölümü, Neşet Günal atölyesi. Bugün aynı bölümde öğretim üyesi. |
 
 ## 1. Künye ve Biyografi
 
@@ -27,7 +27,8 @@ guven: "taslak"
 
 **Kronoloji**
 - MSGSÜ Resim Bölümü'nde öğretim üyesi ve atölye yürütücüsü [1].
-- 2025: "Sınır-sız" sergisi, Brieflyart. Nâzım Hikmet'in *Şeyh Bedreddin Destanı*'ndan yola çıkıyor [1].
+- 2025: "Sınır-sız" sergisi, Brieflyart Galeri, 22 Mayıs – 30 Haziran. Nâzım Hikmet'in *Şeyh Bedreddin Destanı*'ndan yola çıkıyor; katalogda Feyyaz Yaman ve N. Yıldız Erdal metinleri [1][3].
+- Evin Sanat Galerisi sergisi (SALT Araştırma kaydı) [4].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
 
@@ -72,28 +73,30 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | a1 | Akademi / fakülte mezunu | 8 / 8 | MSGSÜ Resim, Neşet Günal atölyesi |
 | a2 | Yurtdışı eğitim, burs, rezidans | 0 / 4 | *eksik* |
 | a3 | Akademisyenlik, öğrenci yetiştirme | 3 / 3 | MSGSÜ öğretim üyesi, atölye yürütücüsü |
-| **B · Sergi geçmişi** | | **5 / 25** | |
-| b1 | Kişisel sergiler | 5 / 10 | Kişisel sergiler, örneğin Sınır-sız 2025 |
+| **B · Sergi geçmişi** | | **6 / 25** | |
+| b1 | Kişisel sergiler | 6 / 10 | Brieflyart 2025 (katalog), Evin Sanat Galerisi |
 | b2 | Retrospektif / müze ve kurum sergisi | 0 / 8 | *eksik* |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 0 / 7 | *eksik* |
 | **C · Kurumsal tanınırlık** | | **0 / 20** | |
 | c1 | Türkiye'deki müze koleksiyonları | 0 / 8 | *eksik* |
 | c2 | Yurtdışındaki müze koleksiyonları | 0 / 7 | *eksik* |
 | c3 | Ödüller | 0 / 5 | *eksik* |
-| **D · Sanat tarihindeki konum** | | **5 / 15** | |
+| **D · Sanat tarihindeki konum** | | **6 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 3 / 8 | Toplumsal gerçekçi çizginin güncel temsilcisi |
-| d2 | Akademik yayın, tez, monografi, müze | 2 / 7 | Sanatçı kitabı |
+| d2 | Akademik yayın, tez, monografi, müze | 3 / 7 | Sanatçı kitabı, eleştirmen metinli katalog |
 | **E · Piyasa görünürlüğü** | | **6 / 25** | |
 | e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 2 / 6 | emsal: 2/2 lot satıldı, en yüksek çekiç 240.000 TL |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **27 / 100** | Veri kapsamı %47 |
+| | **Toplam** | **29 / 100** | Veri kapsamı %47 |
 
 ## 8. Kaynakça
 
 1. [1] soL Haber, "Ahmet Umur Deniz ile Sınır-sız sergisi üzerine", 2025. https://haber.sol.org.tr/haber/ahmet-umur-deniz-ile-sinir-siz-sergisi-uzerine-toplumsal-sorumluluk-temalarimi-belirliyor
 2. [2] Artvela Instagram, Müzayede 91 gönderisi. https://www.instagram.com/p/DdlUUFhCDhT/
+3. [3] Capital, "'Sınırsız' resim sergisi", 2025. https://www.capital.com.tr/ceo-life/ceo-life-haberleri/sinirsiz-resim-sergisi
+4. [4] SALT Araştırma, Ahmet Umur Deniz, Evin Sanat Galerisi. https://archives.saltresearch.org/handle/123456789/36853
 
 ## 9. Açık Sorular
 
