@@ -125,12 +125,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | b1 | Kişisel sergiler | 3 / 10 | Yurtdışı üniversite kütüphanesinde 72 eserlik retrospektif |
 | b2 | Retrospektif / müze ve kurum sergisi | 0 / 8 | *eksik* |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 0 / 7 | *eksik* |
-| **C · Kurumsal tanınırlık** | | **2 / 20** | |
+| **C · Kurumsal tanınırlık** | | **0 / 20** | |
 | c1 | Türkiye'deki müze koleksiyonları | 0 / 8 | *eksik* |
 | c2 | Yurtdışındaki müze koleksiyonları | 0 / 7 | *eksik* |
-| c3 | Ödüller | 2 / 5 | Kadın sanatçılar derneği kuruculuğu, 1965 |
-| **D · Sanat tarihindeki konum** | | **0 / 15** | |
-| d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
+| c3 | Ödüller | 0 / 5 | *eksik* |
+| **D · Sanat tarihindeki konum** | | **2 / 15** | |
+| d1 | Grup / akım kurucusu, kuşak temsilcisi | 2 / 8 | Uluslararası Türk Kadın Sanatçılar Derneği kurucuları arasında, 1965 (tek kaynak) |
 | d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
 | **E · Piyasa görünürlüğü** | | **3 / 25** | |
 | e1 | Türk müzayedeleri | 3 / 8 | emsal: 1 lot, Artvela (artvela.com) |

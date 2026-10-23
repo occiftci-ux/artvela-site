@@ -1,6 +1,6 @@
 # Artvela Türk Sanatçılar Arşivi
 
-Son güncelleme: 2026-10-23 · 38 sanatçı
+Son güncelleme: 2026-10-23 · 41 sanatçı
 
 - [PUANLAMA.md](PUANLAMA.md): kabul ölçütleri, 100 puanlık sistem, kademeler
 - [SABLON-sanatci.md](SABLON-sanatci.md): ayrıntılı araştırma notu şablonu
@@ -33,20 +33,23 @@ Puanlar **ön puandır**. Çoğu sanatçıda piyasa ve koleksiyon verisi henüz 
 | 19 | [Ömer Kaleşi](sanatcilar/omer-kalesi.md) | 1932, Kırçova (Kuzey Makedonya) – 2022 | **38** | (IV · Gelişen) ön puan | %53 | 8 | 13 | 3 | 7 | 7 |
 | 20 | [Burhan Uygur](sanatcilar/burhan-uygur.md) | 1940, Giresun – 1992, İstanbul | **38** | (IV · Gelişen) ön puan | %53 | 11 | 6 | 7 | 8 | 6 |
 | 21 | [Mahmut Celayir](sanatcilar/mahmut-celayir.md) | 1951, Bingöl | **38** | (IV · Gelişen) ön puan | %60 | 9 | 14 | 8 | 3 | 4 |
-| 22 | [Komet (Gürkan Coşkun)](sanatcilar/komet.md) | 1941, Çorum – 2022 | **37** | (IV · Gelişen) ön puan | %60 | 10 | 16 | 0 | 6 | 5 |
-| 23 | [Altan Gürman](sanatcilar/altan-gurman.md) | 1935, İstanbul – 1976, İstanbul | **36** | (IV · Gelişen) ön puan | %47 | 6 | 7 | 6 | 14 | 3 |
-| 24 | [Tiraje Dikmen](sanatcilar/tiraje-dikmen.md) | 1925 – 2014, İstanbul (Büyükada) | **32** | (IV · Gelişen) ön puan | %53 | 6 | 11 | 0 | 9 | 6 |
-| 25 | [Hakkı Anlı](sanatcilar/hakki-anli.md) | 1906 – 1991, İstanbul | **31** | (IV · Gelişen) ön puan | %53 | 12 | 10 | 0 | 3 | 6 |
-| 26 | [Mevlüt Akyıldız](sanatcilar/mevlut-akyildiz.md) | 1956, Ankara | **31** | (IV · Gelişen) ön puan | %53 | 11 | 13 | 2 | 0 | 5 |
-| 27 | [Özdemir Altan](sanatcilar/ozdemir-altan.md) | 1931 – 2026 (95 yaşında) [1] | **30** | (IV · Gelişen) ön puan | %47 | 11 | 12 | 0 | 4 | 3 |
-| 28 | [Ahmet Umur Deniz](sanatcilar/ahmet-umur-deniz.md) | Doğrulanacak | **29** | (IV · Gelişen) ön puan | %47 | 11 | 6 | 0 | 6 | 6 |
-| 29 | [Ramiz Aydın](sanatcilar/ramiz-aydin.md) | 1937, Espiye (Giresun) – 2023 | **27** | (IV · Gelişen) ön puan | %47 | 10 | 8 | 5 | 0 | 4 |
-| 30 | [Yavuz Tanyeli](sanatcilar/yavuz-tanyeli.md) | 1950, Trabzon | **26** | (IV · Gelişen) ön puan | %40 | 0 | 12 | 4 | 4 | 6 |
-| 31 | [Coşkun Sami](sanatcilar/coskun-sami.md) | 1973, Silistre (Bulgaristan) | **24** | (IV · Gelişen) ön puan | %33 | 10 | 11 | 0 | 0 | 3 |
-| 32 | [Şevket Sönmez](sanatcilar/sevket-sonmez.md) | 1978, Plovdiv (Bulgaristan) | **20** | (IV · Gelişen) ön puan | %33 | 8 | 10 | 0 | 0 | 2 |
-| 33 | [Necdet Kalay](sanatcilar/necdet-kalay.md) | 1932, İstanbul | **14** | (V · İzleme) ön puan | %27 | 6 | 4 | 1 | 0 | 3 |
-| 34 | [Oya Zaim Katoğlu](sanatcilar/oya-zaim-katoglu.md) | Doğrulanacak | **12** | (V · İzleme) ön puan | %27 | 0 | 0 | 0 | 6 | 6 |
-| 35 | [Raşit Altun](sanatcilar/rasit-altun.md) | Doğrulanacak | **12** | (V · İzleme) ön puan | %20 | 6 | 3 | 0 | 0 | 3 |
-| 36 | [Ruken Adıbelli](sanatcilar/ruken-adibelli.md) | 1980, Elazığ | **11** | (V · İzleme) ön puan | %13 | 7 | 4 | 0 | 0 | 0 |
-| 37 | [Kristin Saleri](sanatcilar/kristin-saleri.md) | Doğrulanacak, İstanbul – Doğrulanacak | **11** | (V · İzleme) ön puan | %27 | 3 | 3 | 2 | 0 | 3 |
-| 38 | [Yalçın Bulut](sanatcilar/yalcin-bulut.md) | Doğrulanacak | **11** | (V · İzleme) ön puan | %20 | 8 | 2 | 0 | 0 | 1 |
+| 22 | [Murat Morova](sanatcilar/murat-morova.md) | 1954 | **38** | (IV · Gelişen) ön puan | %60 | 7 | 16 | 8 | 0 | 7 |
+| 23 | [Komet (Gürkan Coşkun)](sanatcilar/komet.md) | 1941, Çorum – 2022 | **37** | (IV · Gelişen) ön puan | %60 | 10 | 16 | 0 | 6 | 5 |
+| 24 | [Altan Gürman](sanatcilar/altan-gurman.md) | 1935, İstanbul – 1976, İstanbul | **36** | (IV · Gelişen) ön puan | %47 | 6 | 7 | 6 | 14 | 3 |
+| 25 | [Tiraje Dikmen](sanatcilar/tiraje-dikmen.md) | 1925 – 2014, İstanbul (Büyükada) | **32** | (IV · Gelişen) ön puan | %53 | 6 | 11 | 0 | 9 | 6 |
+| 26 | [Hakkı Anlı](sanatcilar/hakki-anli.md) | 1906 – 1991, İstanbul | **31** | (IV · Gelişen) ön puan | %53 | 12 | 10 | 0 | 3 | 6 |
+| 27 | [Mevlüt Akyıldız](sanatcilar/mevlut-akyildiz.md) | 1956, Ankara | **31** | (IV · Gelişen) ön puan | %53 | 11 | 13 | 2 | 0 | 5 |
+| 28 | [Özdemir Altan](sanatcilar/ozdemir-altan.md) | 1931 – 2026 (95 yaşında) [1] | **30** | (IV · Gelişen) ön puan | %47 | 11 | 12 | 0 | 4 | 3 |
+| 29 | [Ahmet Umur Deniz](sanatcilar/ahmet-umur-deniz.md) | Doğrulanacak | **29** | (IV · Gelişen) ön puan | %47 | 11 | 6 | 0 | 6 | 6 |
+| 30 | [Ramiz Aydın](sanatcilar/ramiz-aydin.md) | 1937, Espiye (Giresun) – 2023 | **27** | (IV · Gelişen) ön puan | %47 | 10 | 8 | 5 | 0 | 4 |
+| 31 | [Yavuz Tanyeli](sanatcilar/yavuz-tanyeli.md) | 1950, Trabzon | **26** | (IV · Gelişen) ön puan | %40 | 0 | 12 | 4 | 4 | 6 |
+| 32 | [Mustafa Pilevneli](sanatcilar/mustafa-pilevneli.md) | 1940, İstanbul | **25** | (IV · Gelişen) ön puan | %47 | 13 | 8 | 1 | 0 | 3 |
+| 33 | [Coşkun Sami](sanatcilar/coskun-sami.md) | 1973, Silistre (Bulgaristan) | **24** | (IV · Gelişen) ön puan | %33 | 10 | 11 | 0 | 0 | 3 |
+| 34 | [Şevket Sönmez](sanatcilar/sevket-sonmez.md) | 1978, Plovdiv (Bulgaristan) | **20** | (IV · Gelişen) ön puan | %33 | 8 | 10 | 0 | 0 | 2 |
+| 35 | [Mustafa Horasan](sanatcilar/mustafa-horasan.md) | 1965, Aydın – 2026, İstanbul (motosiklet kazası; 61 yaşında) [2] | **17** | (V · İzleme) ön puan | %27 | 9 | 0 | 5 | 0 | 3 |
+| 36 | [Necdet Kalay](sanatcilar/necdet-kalay.md) | 1932, İstanbul | **14** | (V · İzleme) ön puan | %27 | 6 | 4 | 1 | 0 | 3 |
+| 37 | [Raşit Altun](sanatcilar/rasit-altun.md) | Doğrulanacak | **13** | (V · İzleme) ön puan | %27 | 6 | 3 | 0 | 0 | 4 |
+| 38 | [Oya Zaim Katoğlu](sanatcilar/oya-zaim-katoglu.md) | Doğrulanacak | **12** | (V · İzleme) ön puan | %27 | 0 | 0 | 0 | 6 | 6 |
+| 39 | [Ruken Adıbelli](sanatcilar/ruken-adibelli.md) | 1980, Elazığ | **11** | (V · İzleme) ön puan | %13 | 7 | 4 | 0 | 0 | 0 |
+| 40 | [Kristin Saleri](sanatcilar/kristin-saleri.md) | Doğrulanacak, İstanbul – Doğrulanacak | **11** | (V · İzleme) ön puan | %27 | 3 | 3 | 0 | 2 | 3 |
+| 41 | [Yalçın Bulut](sanatcilar/yalcin-bulut.md) | Doğrulanacak | **11** | (V · İzleme) ön puan | %20 | 8 | 2 | 0 | 0 | 1 |

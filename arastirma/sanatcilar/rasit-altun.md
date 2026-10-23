@@ -4,9 +4,9 @@ dogum: "Doğrulanacak"
 olum: ""
 disiplin: "resim"
 kabul: "K1 (akademik)"
-puan: 12
+puan: 13
 kademe: "(V · İzleme) ön puan"
-veri_kapsami: 20
+veri_kapsami: 27
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **12 / 100** | (V · İzleme) ön puan | %20 | K1 (akademik): Anadolu Üniversitesi Eğitim Fakültesi Görsel Sanatlar Eğitimi, 2001. |
+| **13 / 100** | (V · İzleme) ön puan | %27 | K1 (akademik): Anadolu Üniversitesi Eğitim Fakültesi Görsel Sanatlar Eğitimi, 2001. |
 
 ## 1. Künye ve Biyografi
 
@@ -28,7 +28,7 @@ guven: "taslak"
 **Kronoloji**
 - Görsel sanatlar öğretmeni; Eskişehir'deki atölyesinde çalışıyor [1].
 - 100'den fazla karma sergi [1].
-- 2018: 5. kişisel sergi, Sanko Sanat Galerisi, Gaziantep, 25 eser (9 Mart'a kadar) [1].
+- 2018: 5. kişisel sergi, Sanko Sanat Galerisi, Gaziantep, 25 eser (9 Mart'a kadar) [1].2026: "Sanat Dolu 16 Yıl" karma sergisi, Areté, Çankaya, Ankara, 30 Haziran'a dek; galerinin birlikte çalıştığı 28 sanatçı arasında [2].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
 
@@ -82,16 +82,17 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **0 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
 | d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
-| **E · Piyasa görünürlüğü** | | **3 / 25** | |
+| **E · Piyasa görünürlüğü** | | **4 / 25** | |
 | e1 | Türk müzayedeleri | 3 / 8 | emsal: 1 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
-| e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **12 / 100** | Veri kapsamı %20 |
+| e4 | Güncel galeri temsili | 1 / 4 | Areté (Ankara) ile çalışıyor, 2026 karma sergi [2] |
+| | **Toplam** | **13 / 100** | Veri kapsamı %27 |
 
 ## 8. Kaynakça
 
 1. [1] Hürriyet (Gaziantep), "Raşit Altun'un sergisine ilgi", 04.03.2018. https://www.hurriyet.com.tr/yerel-haberler/gaziantep/rasit-altunun-sergisine-ilgi-40760776
+2. [2] Cumhuriyet, "Türk resminin ustaları Sanat Dolu 16 Yıl sergisinde bir arada", 2026. https://www.cumhuriyet.com.tr/kultur-sanat/turk-resminin-ustalari-sanat-dolu-16-yil-sergisinde-bir-arada-2514370
 
 ## 9. Açık Sorular
 
