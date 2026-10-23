@@ -4,9 +4,9 @@ dogum: "1947, Bayburt"
 olum: ""
 disiplin: "resim, baskı, heykel"
 kabul: "K1 (akademik)"
-puan: 34
-kademe: "(IV · Gelişen) ön puan"
-veri_kapsami: 47
+puan: 43
+kademe: "(III · Güçlü orta) ön puan"
+veri_kapsami: 60
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **34 / 100** | (IV · Gelişen) ön puan | %47 | K1 (akademik): İstanbul DGSA, Bedri Rahmi Eyüboğlu atölyesi, 1972. Berlin Güzel Sanatlar Yüksekokulu, 1976. |
+| **43 / 100** | (III · Güçlü orta) ön puan | %60 | K1 (akademik): İstanbul DGSA, Bedri Rahmi Eyüboğlu atölyesi, 1972. Berlin Güzel Sanatlar Yüksekokulu, 1976. |
 
 ## 1. Künye ve Biyografi
 
@@ -24,18 +24,20 @@ guven: "taslak"
 
 **Eğitim**
 - 1970: Paris, Académie des Beaux-Arts [1].
-- 1972: İstanbul DGSA Resim Bölümü, Bedri Rahmi Eyüboğlu atölyesi [1].
-- 1972–76: Burslu olarak Berlin Güzel Sanatlar Yüksekokulu [1].
+- 1967'den itibaren İstanbul DGSA, Bedri Rahmi Eyüboğlu atölyesi; mezuniyet 1972 [1][3].
+- Berlin Güzel Sanatlar Yüksekokulu, 1976 mezuniyeti. Başlangıç yılı kaynaklarda farklı: 1972 [1], 1973 [3].
 
 **Kronoloji**
-- 1976'dan sonra Almanya'da çalışmayı sürdürdü [1].
+- 1976'dan sonra Berlin'de çalışmayı sürdürdü; 1999'da Türkiye'ye döndü [1][3].
+- Eserler: "İstanbul Balıkçıları" (1970), "Çalışma Mukavelesi" (1977), "Ölüm Gökten Gelecekse" (1985), "Manav" (1991); son yıllarda heykel [3].
+- 2017: "Evvel", elli yıllık üretimin retrospektifi, İş Sanat Kibele Galerisi [3].
 - 90'dan fazla kişisel sergi, yurtiçi ve yurtdışında çok sayıda karma sergi [1].
 - Çamlıca Sanat Evi ve IMOGA'da baskı üretimi (gravür, arşivsel pigment baskı) [1].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
 
-- **Akım / grup:** Doğrulanacak. Göç ve Berlin deneyimine bağlı figüratif anlatı.
-- **Temalar:** Doğrulanacak
+- **Akım / grup:** Toplumsal içerikli figüratif resim; eleştiri, politik içeriğin propaganda kolaylığına kaçmadığını yazar [3].
+- **Temalar:** emek, göç (Berlin), savaş ve Hiroşima, gündelik hayat
 
 ## 3. Felsefi Bağlam
 
@@ -75,23 +77,23 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | a1 | Akademi / fakülte mezunu | 8 / 8 | İstanbul DGSA, Bedri Rahmi atölyesi |
 | a2 | Yurtdışı eğitim, burs, rezidans | 4 / 4 | Berlin GSY 1972–76, Paris |
 | a3 | Akademisyenlik, öğrenci yetiştirme | 0 / 3 | *eksik* |
-| **B · Sergi geçmişi** | | **12 / 25** | |
+| **B · Sergi geçmişi** | | **18 / 25** | |
 | b1 | Kişisel sergiler | 8 / 10 | 90'dan fazla kişisel sergi |
-| b2 | Retrospektif / müze ve kurum sergisi | 0 / 8 | *eksik* |
+| b2 | Retrospektif / müze ve kurum sergisi | 6 / 8 | Evvel retrospektifi, İş Sanat Kibele 2017 |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 4 / 7 | Almanya ve yurtdışı karma sergiler |
 | **C · Kurumsal tanınırlık** | | **3 / 20** | |
 | c1 | Türkiye'deki müze koleksiyonları | 3 / 8 | IMOGA |
 | c2 | Yurtdışındaki müze koleksiyonları | 0 / 7 | *eksik* |
 | c3 | Ödüller | 0 / 5 | *eksik* |
-| **D · Sanat tarihindeki konum** | | **0 / 15** | |
-| d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
+| **D · Sanat tarihindeki konum** | | **3 / 15** | |
+| d1 | Grup / akım kurucusu, kuşak temsilcisi | 3 / 8 | Berlin'deki Türk sanatçılar, toplumsal figüratif çizgi |
 | d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
 | **E · Piyasa görünürlüğü** | | **7 / 25** | |
 | e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 3 / 4 | Anna Laudel sanatçı sayfası |
-| | **Toplam** | **34 / 100** | Veri kapsamı %47 |
+| | **Toplam** | **43 / 100** | Veri kapsamı %60 |
 
 ## 8. Kaynakça
 
