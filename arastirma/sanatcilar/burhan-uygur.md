@@ -4,7 +4,7 @@ dogum: "1940, Giresun"
 olum: "1992, İstanbul"
 disiplin: "resim, baskı"
 kabul: "K1 (akademik)"
-puan: 38
+puan: 35
 kademe: "(IV · Gelişen) ön puan"
 veri_kapsami: 53
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **38 / 100** | (IV · Gelişen) ön puan | %53 | K1 (akademik): İstanbul Güzel Sanatlar Akademisi, Bedri Rahmi atölyesi. |
+| **35 / 100** | (IV · Gelişen) ön puan | %53 | K1 (akademik): İstanbul Güzel Sanatlar Akademisi, Bedri Rahmi atölyesi. |
 
 ## 1. Künye ve Biyografi
 
@@ -78,8 +78,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | b1 | Kişisel sergiler | 0 / 10 | *eksik* |
 | b2 | Retrospektif / müze ve kurum sergisi | 6 / 8 | Casa Botter 2025, küratörlü kurum sergisi (ölüm sonrası) |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 0 / 7 | *eksik* |
-| **C · Kurumsal tanınırlık** | | **7 / 20** | |
-| c1 | Türkiye'deki müze koleksiyonları | 7 / 8 | İstanbul Modern |
+| **C · Kurumsal tanınırlık** | | **4 / 20** | |
+| c1 | Türkiye'deki müze koleksiyonları | 4 / 8 | İstanbul Modern'de uzun süreli ödünç (Eczacıbaşı Vakfı); müze mülkiyetinde değil |
 | c2 | Yurtdışındaki müze koleksiyonları | 0 / 7 | *eksik* |
 | c3 | Ödüller | 0 / 5 | *eksik* |
 | **D · Sanat tarihindeki konum** | | **8 / 15** | |
@@ -90,7 +90,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 2 / 6 | emsal: 2/2 lot satıldı, en yüksek çekiç 150.000 TL |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **38 / 100** | Veri kapsamı %53 |
+| | **Toplam** | **35 / 100** | Veri kapsamı %53 |
 
 ## 8. Kaynakça
 

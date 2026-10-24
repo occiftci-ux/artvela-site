@@ -4,7 +4,7 @@ dogum: "1938, İstanbul"
 olum: "2024, Paris"
 disiplin: "resim, baskı, heykel, tiyatro"
 kabul: "K1 (akademik)"
-puan: 58
+puan: 55
 kademe: "(III · Güçlü orta) ön puan"
 veri_kapsami: 67
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **58 / 100** | (III · Güçlü orta) ön puan | %67 | K1 (akademik): İstanbul Devlet Güzel Sanatlar Akademisi. |
+| **55 / 100** | (III · Güçlü orta) ön puan | %67 | K1 (akademik): İstanbul Devlet Güzel Sanatlar Akademisi. |
 
 ## 1. Künye ve Biyografi
 
@@ -82,8 +82,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | b1 | Kişisel sergiler | 8 / 10 | 1980'lerden itibaren yurtiçi ve yurtdışında sergiler |
 | b2 | Retrospektif / müze ve kurum sergisi | 8 / 8 | İstanbul Modern retrospektifi 2015 |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 4 / 7 | Paris merkezli uluslararası kariyer |
-| **C · Kurumsal tanınırlık** | | **10 / 20** | |
-| c1 | Türkiye'deki müze koleksiyonları | 7 / 8 | İstanbul Modern |
+| **C · Kurumsal tanınırlık** | | **7 / 20** | |
+| c1 | Türkiye'deki müze koleksiyonları | 4 / 8 | İstanbul Modern'de uzun süreli ödünç (Eczacıbaşı Vakfı); müze mülkiyetinde değil |
 | c2 | Yurtdışındaki müze koleksiyonları | 0 / 7 | *eksik* |
 | c3 | Ödüller | 3 / 5 | Devlet Sanatçısı unvanı |
 | **D · Sanat tarihindeki konum** | | **12 / 15** | |
@@ -94,7 +94,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **58 / 100** | Veri kapsamı %67 |
+| | **Toplam** | **55 / 100** | Veri kapsamı %67 |
 
 ## 8. Kaynakça
 

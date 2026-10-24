@@ -4,7 +4,7 @@ dogum: "1958, Bursa"
 olum: ""
 disiplin: "resim, karışık teknik"
 kabul: "K1 (akademik) ve K2 (galeri)"
-puan: 49
+puan: 46
 kademe: "(III · Güçlü orta) ön puan"
 veri_kapsami: 60
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **49 / 100** | (III · Güçlü orta) ön puan | %60 | K1 (akademik) ve K2 (galeri): MSGSÜ 1987, Pi Artworks. |
+| **46 / 100** | (III · Güçlü orta) ön puan | %60 | K1 (akademik) ve K2 (galeri): MSGSÜ 1987, Pi Artworks. |
 
 ## 1. Künye ve Biyografi
 
@@ -78,8 +78,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | b1 | Kişisel sergiler | 8 / 10 | Pi Artworks, C24 New York kişisel sergileri |
 | b2 | Retrospektif / müze ve kurum sergisi | 5 / 8 | Selanik Devlet Müzesi, Akademie der Künste |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 7 / 7 | Brüksel, Frankfurt, Berlin, New York, Doha, Armory, Art Dubai |
-| **C · Kurumsal tanınırlık** | | **7 / 20** | |
-| c1 | Türkiye'deki müze koleksiyonları | 7 / 8 | İstanbul Modern |
+| **C · Kurumsal tanınırlık** | | **4 / 20** | |
+| c1 | Türkiye'deki müze koleksiyonları | 4 / 8 | İstanbul Modern'de uzun süreli ödünç (Eczacıbaşı Vakfı); müze mülkiyetinde değil |
 | c2 | Yurtdışındaki müze koleksiyonları | 0 / 7 | *eksik* |
 | c3 | Ödüller | 0 / 5 | *eksik* |
 | **D · Sanat tarihindeki konum** | | **4 / 15** | |
@@ -90,7 +90,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 2 / 6 | emsal: 2/2 lot satıldı, en yüksek çekiç 190.000 TL |
 | e4 | Güncel galeri temsili | 4 / 4 | Pi Artworks, C24 |
-| | **Toplam** | **49 / 100** | Veri kapsamı %60 |
+| | **Toplam** | **46 / 100** | Veri kapsamı %60 |
 
 ## 8. Kaynakça
 

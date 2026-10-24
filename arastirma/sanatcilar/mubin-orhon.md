@@ -4,7 +4,7 @@ dogum: "1924, İstanbul"
 olum: "1981, Paris"
 disiplin: "resim"
 kabul: "K3 (otorite onayı)"
-puan: 55
+puan: 52
 kademe: "(III · Güçlü orta) ön puan"
 veri_kapsami: 67
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **55 / 100** | (III · Güçlü orta) ön puan | %67 | K3 (otorite onayı): Siyasal Bilgiler mezunu. İstanbul Modern ve Mathaf koleksiyonları, Paris galerileri. |
+| **52 / 100** | (III · Güçlü orta) ön puan | %67 | K3 (otorite onayı): Siyasal Bilgiler mezunu. Mathaf koleksiyonu, İstanbul Modern'de uzun süreli ödünç eser, Paris galerileri. |
 
 ## 1. Künye ve Biyografi
 
@@ -55,7 +55,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
 **Müze ve kurum koleksiyonları**
-- İstanbul Modern: Soyut Kompozisyon, 1958 (Dr. Nejat F. Eczacıbaşı Vakfı) [2]
+- İstanbul Modern'de uzun süreli ödünç: Soyut Kompozisyon, 1958, 70x85 cm; mülkiyet Dr. Nejat F. Eczacıbaşı Vakfı Koleksiyonu, müzenin kendi koleksiyonu değil [2]. Teknik teyit bekliyor: kurum sayfası iki farklı teknik veriyor (2026-10-24 düzeltmesi)
 - Mathaf, Doha (1956, 1962, 1973 tarihli eserler) [1]
 
 **Ödüller**
@@ -83,8 +83,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | b1 | Kişisel sergiler | 9 / 10 | Iris Clert, Lucien Durand, Saint Laurent |
 | b2 | Retrospektif / müze ve kurum sergisi | 5 / 8 | Sainsbury Centre 1981 |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 7 / 7 | Paris salonları, Stockholm, Brüksel, Norwich |
-| **C · Kurumsal tanınırlık** | | **13 / 20** | |
-| c1 | Türkiye'deki müze koleksiyonları | 7 / 8 | İstanbul Modern |
+| **C · Kurumsal tanınırlık** | | **10 / 20** | |
+| c1 | Türkiye'deki müze koleksiyonları | 4 / 8 | İstanbul Modern'de uzun süreli ödünç (Eczacıbaşı Vakfı); müze mülkiyetinde değil |
 | c2 | Yurtdışındaki müze koleksiyonları | 6 / 7 | Mathaf, Sainsbury koleksiyonu |
 | c3 | Ödüller | 0 / 5 | *eksik* |
 | **D · Sanat tarihindeki konum** | | **7 / 15** | |
@@ -95,7 +95,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | e2 | Uluslararası müzayedeler | 4 / 7 | Aguttes (Fransa) müzayede kaydı |
 | e3 | Fiyat seviyesi (doğrulanmış) | 3 / 6 | emsal: 2/3 lot satıldı, en yüksek çekiç 320.000 TL |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **55 / 100** | Veri kapsamı %67 |
+| | **Toplam** | **52 / 100** | Veri kapsamı %67 |
 
 ## 8. Kaynakça
 

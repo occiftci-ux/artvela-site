@@ -4,7 +4,7 @@ dogum: "1913, İstanbul"
 olum: "1993, Paris"
 disiplin: "resim, desen, yazı, sinema"
 kabul: "K3 (otorite onayı)"
-puan: 47
+puan: 44
 kademe: "(III · Güçlü orta) ön puan"
 veri_kapsami: 60
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **47 / 100** | (III · Güçlü orta) ön puan | %60 | K3 (otorite onayı): akademi mezunu değil. D Grubu kurucusu, Salon de Mai, Grimaldi Şatosu sergisi. |
+| **44 / 100** | (III · Güçlü orta) ön puan | %60 | K3 (otorite onayı): akademi mezunu değil. D Grubu kurucusu, Salon de Mai, Grimaldi Şatosu sergisi. |
 
 ## 1. Künye ve Biyografi
 
@@ -81,8 +81,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | b1 | Kişisel sergiler | 5 / 10 | 1969 Türkiye sergisi, Paris sergileri (liste doğrulanacak) |
 | b2 | Retrospektif / müze ve kurum sergisi | 8 / 8 | Grimaldi Şatosu 1958; Sakıp Sabancı Müzesi 2007–08 |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 7 / 7 | Salon de Mai 8 yıl, 1939 New York Dünya Fuarı pavyon tasarımı |
-| **C · Kurumsal tanınırlık** | | **9 / 20** | |
-| c1 | Türkiye'deki müze koleksiyonları | 7 / 8 | İstanbul Modern |
+| **C · Kurumsal tanınırlık** | | **6 / 20** | |
+| c1 | Türkiye'deki müze koleksiyonları | 4 / 8 | İstanbul Modern'de uzun süreli ödünç (Eczacıbaşı Vakfı); müze mülkiyetinde değil |
 | c2 | Yurtdışındaki müze koleksiyonları | 0 / 7 | *eksik* |
 | c3 | Ödüller | 2 / 5 | Flaherty Ödülü (sinema) |
 | **D · Sanat tarihindeki konum** | | **13 / 15** | |
@@ -93,7 +93,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **47 / 100** | Veri kapsamı %60 |
+| | **Toplam** | **44 / 100** | Veri kapsamı %60 |
 
 ## 8. Kaynakça
 

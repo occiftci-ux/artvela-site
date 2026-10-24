@@ -4,7 +4,7 @@ dogum: "1941"
 olum: ""
 disiplin: "resim, desen, taşbaskı"
 kabul: "K1 (akademik)"
-puan: 50
+puan: 47
 kademe: "(III · Güçlü orta) ön puan"
 veri_kapsami: 67
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **50 / 100** | (III · Güçlü orta) ön puan | %67 | K1 (akademik): İstanbul DGSA Yüksek Resim Bölümü, 1965. |
+| **47 / 100** | (III · Güçlü orta) ön puan | %67 | K1 (akademik): İstanbul DGSA Yüksek Resim Bölümü, 1965. |
 
 ## 1. Künye ve Biyografi
 
@@ -82,8 +82,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | b1 | Kişisel sergiler | 6 / 10 | 1960'lardan beri sergiler, liste doğrulanacak |
 | b2 | Retrospektif / müze ve kurum sergisi | 8 / 8 | Milli Reasürans retrospektifi 2003, İş Sanat Ankara retrospektifi 2022 |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 0 / 7 | *eksik* |
-| **C · Kurumsal tanınırlık** | | **9 / 20** | |
-| c1 | Türkiye'deki müze koleksiyonları | 7 / 8 | İstanbul Modern |
+| **C · Kurumsal tanınırlık** | | **6 / 20** | |
+| c1 | Türkiye'deki müze koleksiyonları | 4 / 8 | İstanbul Modern'de uzun süreli ödünç (Eczacıbaşı Vakfı); müze mülkiyetinde değil |
 | c2 | Yurtdışındaki müze koleksiyonları | 0 / 7 | *eksik* |
 | c3 | Ödüller | 2 / 5 | TÜYAP onur ödülü |
 | **D · Sanat tarihindeki konum** | | **8 / 15** | |
@@ -94,7 +94,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **50 / 100** | Veri kapsamı %67 |
+| | **Toplam** | **47 / 100** | Veri kapsamı %67 |
 
 ## 8. Kaynakça
 
