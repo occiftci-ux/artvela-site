@@ -974,7 +974,7 @@ SANATCILAR = [
                "2017: retrospektif, İş Sanat Kibele Galerisi, 28 Şubat – 15 Nisan [2]."],
     akim="İronik, renkte tutumlu figüratif; resim bir seyahat güncesi gibi, kâğıt eskizlerden tuvale [2].",
     temalar="İstanbul (çatılar, limanlar, vapurlar, sokaklar); Sidney, Amsterdam, Prag, Tasmanya, Venedik, Sömbeki [2]",
-    koleksiyonlar="Beşiktaş Resim ve Heykel Müzesi Milli Koleksiyonu (öğrenciyken, kaynakta "Sabri Berker" yazılan hocanın önerisiyle; Sabri Berkel olabilir, doğrulanacak); İstanbul ve Ankara Resim ve Heykel Müzeleri; İstanbul Modern; Broken Hill Belediye Müzesi (Avustralya); Abby Gray Koleksiyonu, New York Üniversitesi [1]",
+    koleksiyonlar="Beşiktaş Resim ve Heykel Müzesi Milli Koleksiyonu (öğrenciyken, kaynakta \"Sabri Berker\" yazılan hocanın önerisiyle; Sabri Berkel olabilir, doğrulanacak); İstanbul ve Ankara Resim ve Heykel Müzeleri; İstanbul Modern; Broken Hill Belediye Müzesi (Avustralya); Abby Gray Koleksiyonu, New York Üniversitesi [1]",
     oduller=["1967: Uluslararası Barış Festivali resim birincilik ödülü (Akademi'de) [1].", "1967: Ahmet Andiçen seramik birincilik ödülü [1].",
              "1987: Tekel Resim Yarışması birincilik [1].", "2009: 19. İstanbul Sanat Fuarı onur sanatçısı [1]."],
     alintilar=[('"İstanbul resmi yapmak hem kolay hem de zor."', "2010 sergi kataloğu, İndigo Dergisi alıntısı [2]"),

@@ -120,6 +120,58 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 - n
 - ,
 -  
+- k
+- a
+- y
+- n
+- a
+- k
+- t
+- a
+-  
+- "
+- S
+- a
+- b
+- r
+- i
+-  
+- B
+- e
+- r
+- k
+- e
+- r
+- "
+-  
+- y
+- a
+- z
+- ı
+- l
+- a
+- n
+-  
+- h
+- o
+- c
+- a
+- n
+- ı
+- n
+-  
+- ö
+- n
+- e
+- r
+- i
+- s
+- i
+- y
+- l
+- e
+- ;
+-  
 - S
 - a
 - b
@@ -133,16 +185,28 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 - e
 - l
 -  
-- ö
-- n
-- e
-- r
-- i
-- s
-- i
-- y
+- o
 - l
-- e
+- a
+- b
+- i
+- l
+- i
+- r
+- ,
+-  
+- d
+- o
+- ğ
+- r
+- u
+- l
+- a
+- n
+- a
+- c
+- a
+- k
 - )
 - ;
 -  
