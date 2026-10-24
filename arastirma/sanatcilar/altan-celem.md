@@ -53,32 +53,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
 **Müze ve kurum koleksiyonları**
-- İ
-- M
-- O
-- G
-- A
--  
-- (
-- 2
-- 0
-- 1
-- 2
--  
-- b
-- a
-- s
-- k
-- ı
-- l
-- a
-- r
-- ı
-- )
--  
-- [
-- 1
-- ]
+- İMOGA (2012 baskıları) [1]
 
 **Ödüller**
 - 1993: Kültür Bakanlığı Resim Yarışması ödülü [1].

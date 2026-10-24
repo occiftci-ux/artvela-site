@@ -89,6 +89,8 @@ def hesapla(s):
 
 
 def liste(xs, bos="Doğrulanacak."):
+    if isinstance(xs, str):
+        xs = [xs]
     return "\n".join(f"- {x}" for x in xs) if xs else f"- {bos}"
 
 

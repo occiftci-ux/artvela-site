@@ -49,58 +49,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
 **Müze ve kurum koleksiyonları**
-- K
-- r
-- i
-- s
-- t
-- i
-- n
--  
-- S
-- a
-- l
-- e
-- r
-- i
--  
-- S
-- a
-- n
-- a
-- t
--  
-- V
-- a
-- k
-- f
-- ı
--  
-- (
-- a
-- i
-- l
-- e
--  
-- v
-- a
-- k
-- f
-- ı
-- ,
--  
-- H
-- o
-- u
-- s
-- t
-- o
-- n
-- )
--  
-- [
-- 1
-- ]
+- Kristin Saleri Sanat Vakfı (aile vakfı, Houston) [1]
 
 **Ödüller**
 - Kaynakta ödül bilgisi yok, doğrulanacak.
