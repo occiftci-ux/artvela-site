@@ -4,9 +4,9 @@ dogum: "1965, Aydın"
 olum: "2026, İstanbul (motosiklet kazası; 61 yaşında) [2]"
 disiplin: "resim, özgün baskı (taş baskı), karışık teknik"
 kabul: "K1 (akademik)"
-puan: 17
-kademe: "(V · İzleme) ön puan"
-veri_kapsami: 27
+puan: 29
+kademe: "(IV · Gelişen) ön puan"
+veri_kapsami: 53
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **17 / 100** | (V · İzleme) ön puan | %27 | K1 (akademik): Marmara Üniversitesi GSF Grafik Ana Sanat Dalı, Özgün Baskı Resim, 1986 [1]. |
+| **29 / 100** | (IV · Gelişen) ön puan | %53 | K1 (akademik): Marmara Üniversitesi GSF Grafik Ana Sanat Dalı, Özgün Baskı Resim, 1986 [1]. |
 
 ## 1. Künye ve Biyografi
 
@@ -28,6 +28,9 @@ guven: "taslak"
 
 **Kronoloji**
 - Almanya, Fransa, Hollanda, İspanya, ABD ve İtalya'da çalışmalar [1].
+- 2014: "When The Time Comes", Pi Artworks, Londra, 7 Nisan – 17 Mayıs; yeni tuvaller, kolaj ve video [3].
+- Eylül 2014: Yallay Center, Hong Kong, kişisel sergi [3].
+- "Alacakaranlık", Teşvikiye Sanat Galerisi, İstanbul (yıl doğrulanacak) [4].
 - Uzun yıllar İstanbul'daki atölyesinde çalıştı [1][2].
 - Mayıs 2026: hayatını kaybetti; cenazesi Moda Camii'nden kaldırıldı [2].
 
@@ -202,7 +205,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 - ]
 
 **Ödüller**
-- Kaynakta ödül bilgisi yok, doğrulanacak.
+- İMKB Sanat Yarışması, MSGSÜ Yeni Eğilimler Ödülü, Esbank Yunus Emre Resim Yarışması, Devlet Resim Sergisi (yıllar doğrulanacak) [3].
 
 **Satış kayıtları** (kaynak: `bulten/emsal-fiyatlar.csv`, yalnız `dogrulandi=evet`)
 
@@ -220,14 +223,14 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | a1 | Akademi / fakülte mezunu | 7 / 8 | Marmara GSF özgün baskı, 1986 |
 | a2 | Yurtdışı eğitim, burs, rezidans | 2 / 4 | Altı ülkede çalışma (burs ya da rezidans adı yok) |
 | a3 | Akademisyenlik, öğrenci yetiştirme | 0 / 3 | *eksik* |
-| **B · Sergi geçmişi** | | **0 / 25** | |
-| b1 | Kişisel sergiler | 0 / 10 | *eksik* |
+| **B · Sergi geçmişi** | | **6 / 25** | |
+| b1 | Kişisel sergiler | 3 / 10 | Kişisel: Teşvikiye; Pi Artworks Londra 2014; Hong Kong 2014 |
 | b2 | Retrospektif / müze ve kurum sergisi | 0 / 8 | *eksik* |
-| b3 | Uluslararası sergi, salon, bienal, fuar | 0 / 7 | *eksik* |
-| **C · Kurumsal tanınırlık** | | **5 / 20** | |
+| b3 | Uluslararası sergi, salon, bienal, fuar | 3 / 7 | Londra ve Hong Kong kişisel sergileri, 2014 |
+| **C · Kurumsal tanınırlık** | | **11 / 20** | |
 | c1 | Türkiye'deki müze koleksiyonları | 5 / 8 | İstanbul Modern sürekli sergisi, İMOGA koleksiyonu [1] |
-| c2 | Yurtdışındaki müze koleksiyonları | 0 / 7 | *eksik* |
-| c3 | Ödüller | 0 / 5 | *eksik* |
+| c2 | Yurtdışındaki müze koleksiyonları | 3 / 7 | Sharjah Art Museum (galeri basın metni) [3] |
+| c3 | Ödüller | 3 / 5 | İMKB, MSGSÜ Yeni Eğilimler, Esbank, Devlet Resim Sergisi [3] |
 | **D · Sanat tarihindeki konum** | | **0 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
 | d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
@@ -236,12 +239,14 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **17 / 100** | Veri kapsamı %27 |
+| | **Toplam** | **29 / 100** | Veri kapsamı %53 |
 
 ## 8. Kaynakça
 
 1. [1] İMOGA, Sanatçılar: Mustafa Horasan. https://www.imoga.org/en/collection/artists/mustafa-horasan
 2. [2] Takvim, "Ünlü ressam Mustafa Horasan hayatını kaybetti", 28.05.2026. https://www.takvim.com.tr/magazin/2026/05/28/unlu-ressam-mustafa-horasan-hayatini-kaybetti
+3. [3] ArtRabbit, "Horasan: When The Time Comes", Pi Artworks Londra, 2014. https://www.artrabbit.com/events/when-the-time-comes
+4. [4] SALT Araştırma, "Mustafa Horasan, Alacakaranlık Sergi, Teşvikiye Sanat Galerisi" kaydı. https://archives.saltresearch.org/handle/123456789/38965
 
 ## 9. Açık Sorular
 

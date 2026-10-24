@@ -4,9 +4,9 @@ dogum: "Doğrulanacak, İstanbul"
 olum: "Doğrulanacak"
 disiplin: "resim (yağlı boya, karakalem), seramik, cam"
 kabul: "K2 (kurumsal izler)"
-puan: 11
+puan: 13
 kademe: "(V · İzleme) ön puan"
-veri_kapsami: 27
+veri_kapsami: 33
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **11 / 100** | (V · İzleme) ön puan | %27 | K2 (kurumsal izler): Paris'te eğitim (okul adı kaynakta yok); 1965'te Uluslararası Türk Kadın Sanatçılar Derneği kurucuları arasında [1]. |
+| **13 / 100** | (V · İzleme) ön puan | %33 | K2 (kurumsal izler): Paris'te eğitim (okul adı kaynakta yok); 1965'te Uluslararası Türk Kadın Sanatçılar Derneği kurucuları arasında [1]. |
 
 ## 1. Künye ve Biyografi
 
@@ -27,7 +27,7 @@ guven: "taslak"
 
 **Kronoloji**
 - 1965: Uluslararası Türk Kadın Sanatçılar Derneği'nin kurucuları arasında [1].
-- Yıl doğrulanacak: Fresno State Henry Madden Kütüphanesi'nde 72 eserlik retrospektif; eserler Kristin Saleri Sanat Vakfı'ndan (Houston) ödünç [1].
+- 2016: Fresno State Henry Madden Kütüphanesi Leon S. Peters Ellipse Galerisi'nde 72 eserlik retrospektif, 6 Şubat – 31 Mayıs; küratörler Joyce Kierejczyk ve Carol Tikijian; eserler Houston'daki aileden ve Kristin Saleri Sanat Vakfı'ndan ödünç [1][2].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
 
@@ -121,9 +121,9 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | a1 | Akademi / fakülte mezunu | 0 / 8 | *eksik* |
 | a2 | Yurtdışı eğitim, burs, rezidans | 3 / 4 | Paris eğitimi (okul doğrulanmadı) |
 | a3 | Akademisyenlik, öğrenci yetiştirme | 0 / 3 | *eksik* |
-| **B · Sergi geçmişi** | | **3 / 25** | |
-| b1 | Kişisel sergiler | 3 / 10 | Yurtdışı üniversite kütüphanesinde 72 eserlik retrospektif |
-| b2 | Retrospektif / müze ve kurum sergisi | 0 / 8 | *eksik* |
+| **B · Sergi geçmişi** | | **5 / 25** | |
+| b1 | Kişisel sergiler | 3 / 10 | Yurtdışı üniversite kütüphanesinde 72 eserlik retrospektif, 2016 |
+| b2 | Retrospektif / müze ve kurum sergisi | 2 / 8 | Küratörlü retrospektif, Fresno State 2016 (müze değil) |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 0 / 7 | *eksik* |
 | **C · Kurumsal tanınırlık** | | **0 / 20** | |
 | c1 | Türkiye'deki müze koleksiyonları | 0 / 8 | *eksik* |
@@ -137,11 +137,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **11 / 100** | Veri kapsamı %27 |
+| | **Toplam** | **13 / 100** | Veri kapsamı %33 |
 
 ## 8. Kaynakça
 
 1. [1] Fresno State Magazine, Kristin Saleri retrospektifi haberi. https://magazine.fresnostate.edu/?p=2999
+2. [2] Fresno State News, "Madden Library exhibition to feature pioneering Armenian artist from Istanbul", 06.01.2016. https://www.fresnostatenews.com/2016/01/06/madden-library-exhibition-to-feature-pioneering-armenian-artist-from-istanbul/
 
 ## 9. Açık Sorular
 
