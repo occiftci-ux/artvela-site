@@ -91,7 +91,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## Bej Keşif Değerlendirmesi [G-Y1]
 
-**Keşif kanalı:** Yarışma: 77. Devlet Resim ve Heykel Yarışması, 2025 (GO-001), G-Y1  
+**Keşif kanalı:** odul-burs: 77. Devlet Resim ve Heykel Yarışması, 2025 (G-Y1)  
 **Huni aşaması:** 1 · Radar
 
 | Ölçüt | Puan | Gerekçe |
