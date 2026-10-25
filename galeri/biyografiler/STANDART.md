@@ -1,6 +1,6 @@
 # Bej Biyografi Standardı
 
-Sürüm 0.1 · 25 Ekim 2026 · Sahip isteği (SA1): galeribej.com'daki bütün biyografiler tek bir üslupta. Galeri vizyonu thread'ine `uslup-galeri.md` için öneri olarak gönderildi; onaylanınca oraya taşınır.
+Sürüm 0.1 · 25 Ekim 2026 · Sahip isteği (SA1): galeribej.com'daki bütün biyografiler tek bir üslupta. uslup-galeri.md §3'e bağlandı (sürüm 1.1), 2026-10-25. Bu dosya ayrıntının tek kaynağıdır; değişirse Galeri vizyonu thread'ine haber verilir.
 
 ## Kaynak araştırması: galeriler biyografiyi nasıl yazıyor
 
