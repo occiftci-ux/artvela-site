@@ -95,7 +95,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 8. Kaynakça
 
-1. [1] Kolekta, Mahmut Karatoprak biyografisi. https://kolekta.com.tr/en/?p=10075449
+1. [1] ⚠ galeri beyanı (CV): Kolekta, Mahmut Karatoprak biyografisi. https://kolekta.com.tr/en/?p=10075449
 
 ## 9. Açık Sorular
 

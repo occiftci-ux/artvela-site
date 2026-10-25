@@ -54,7 +54,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
 **Müze ve kurum koleksiyonları**
-- Galeri beyanı: British Museum (Londra), Huda-Samia Farouki Koleksiyonu (New York), Baksı Müzesi (Bayburt), ABD Art in Embassies, Westdeutsche Landesbank [1]. Kurum kayıtlarından doğrulanacak.
+- ⚠ galeri beyanı (CV): British Museum (Londra), Huda-Samia Farouki Koleksiyonu (New York), Baksı Müzesi (Bayburt), ABD Art in Embassies, Westdeutsche Landesbank [1]. Kurum kayıtlarından doğrulanacak.
 
 **Ödüller**
 - 2015: Ustaya Saygı Ödülü [1].
@@ -81,8 +81,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | b2 | Retrospektif / müze ve kurum sergisi | 4 / 8 | Bonn Sanat Müzesi 2001, Pera, Martin-Gropius-Bau karma |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 6 / 7 | Venedik Bienali Türkiye Pavyonu 2001, İstanbul ve Buenos Aires bienalleri |
 | **C · Kurumsal tanınırlık** | | **8 / 20** | |
-| c1 | Türkiye'deki müze koleksiyonları | 2 / 8 | Baksı Müzesi (galeri beyanı) |
-| c2 | Yurtdışındaki müze koleksiyonları | 4 / 7 | British Museum, Farouki (galeri beyanı; doğrulanacak) |
+| c1 | Türkiye'deki müze koleksiyonları | 2 / 8 | Baksı Müzesi, ⚠ galeri beyanı (CV) |
+| c2 | Yurtdışındaki müze koleksiyonları | 4 / 7 | British Museum, Farouki, ⚠ galeri beyanı (CV); kurum kaydından doğrulanacak |
 | c3 | Ödüller | 2 / 5 | Ustaya Saygı 2015, Doğan Değer 2025 |
 | **D · Sanat tarihindeki konum** | | **0 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
@@ -96,7 +96,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 8. Kaynakça
 
-1. [1] Galeri Nev İstanbul, Murat Morova biyografisi. https://www.galerinevistanbul.com/artists/44-murat-morova/biography/
+1. [1] ⚠ galeri beyanı (CV): Galeri Nev İstanbul, Murat Morova biyografisi. https://www.galerinevistanbul.com/artists/44-murat-morova/biography/
 
 ## 9. Açık Sorular
 

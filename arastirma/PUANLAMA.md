@@ -1,6 +1,6 @@
 # Artvela Türk Sanatçılar Arşivi: Kabul Ölçütleri ve Puanlama Sistemi
 
-Sürüm 0.2 · 2026-10-23 (0.1: 2026-10-22)
+Sürüm 0.3 · 2026-10-25 (0.2: 2026-10-23, 0.1: 2026-10-22)
 
 ## 1. Arşive kimler girer?
 
@@ -80,6 +80,11 @@ Puan, sanatçının **kurumsal ve tarihsel ağırlığını** ve **piyasa görü
 | e3 · Fiyat seviyesi | Satılan lotların en yüksek çekici: <100.000 TL: 1 · 100.000–249.999: 2 · 250.000–999.999: 3 · 1.000.000+: 4. Uluslararası doğrulanmış satış gelene kadar en çok 4 |
 
 Satılmayan lotlar e1'e girer, e3'e girmez. Bugün emsal dosyasının tek kaynağı Artvela Müzayede 91'dir; bu nedenle e3 yalnız Artvela içi fiyat seviyesini gösterir.
+
+### 4.2 Galeri özgeçmişi ve abonelikli kaynaklar (sahip kararı, 2026-10-25)
+
+- **Galeri özgeçmişi (CV):** galerinin, satış platformunun ya da galeri basın metninin verdiği sergi, ödül ve koleksiyon bilgisi bağımsız kaynak sayılır ve puana girer. Ama dosyada her zaman "⚠ galeri beyanı (CV)" uyarısıyla gösterilir; kurum kaydıyla doğrulanınca uyarı kalkar.
+- **Abonelik ya da oturum isteyen kaynaklar** (ör. SALT Araştırma kayıt içerikleri): içerik tahmin edilmez, atlanır. is-kaydi.csv'ye olay=birakildi, not="abonelik-gerekli: <kaynak> · <hangi bilgi için> · <kaç konu bekliyor>" yazılır. Bekçi bunları sahibe tek listede bildirir.
 
 ## 5. Güncelleme döngüsü
 

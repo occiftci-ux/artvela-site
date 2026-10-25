@@ -57,7 +57,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 - İstanbul Modern sürekli sergisinde bir eser; İMOGA'ya bağışlanmış baskılar; yurtiçi ve yurtdışı özel koleksiyonlar ve müzeler (adları verilmemiş) [1]
 
 **Ödüller**
-- İMKB Sanat Yarışması, MSGSÜ Yeni Eğilimler Ödülü, Esbank Yunus Emre Resim Yarışması, Devlet Resim Sergisi (yıllar doğrulanacak) [3].
+- ⚠ galeri beyanı (CV): İMKB Sanat Yarışması, MSGSÜ Yeni Eğilimler Ödülü, Esbank Yunus Emre Resim Yarışması, Devlet Resim Sergisi (yıllar doğrulanacak) [3].
 
 **Satış kayıtları** (kaynak: `bulten/emsal-fiyatlar.csv`, yalnız `dogrulandi=evet`)
 
@@ -81,7 +81,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | b3 | Uluslararası sergi, salon, bienal, fuar | 3 / 7 | Londra ve Hong Kong kişisel sergileri, 2014 |
 | **C · Kurumsal tanınırlık** | | **11 / 20** | |
 | c1 | Türkiye'deki müze koleksiyonları | 5 / 8 | İstanbul Modern sürekli sergisi, İMOGA koleksiyonu [1] |
-| c2 | Yurtdışındaki müze koleksiyonları | 3 / 7 | Sharjah Art Museum (galeri basın metni) [3] |
+| c2 | Yurtdışındaki müze koleksiyonları | 3 / 7 | Sharjah Art Museum, ⚠ galeri beyanı (CV) [3] |
 | c3 | Ödüller | 3 / 5 | İMKB, MSGSÜ Yeni Eğilimler, Esbank, Devlet Resim Sergisi [3] |
 | **D · Sanat tarihindeki konum** | | **0 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
@@ -97,7 +97,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 1. [1] İMOGA, Sanatçılar: Mustafa Horasan. https://www.imoga.org/en/collection/artists/mustafa-horasan
 2. [2] Takvim, "Ünlü ressam Mustafa Horasan hayatını kaybetti", 28.05.2026. https://www.takvim.com.tr/magazin/2026/05/28/unlu-ressam-mustafa-horasan-hayatini-kaybetti
-3. [3] ArtRabbit, "Horasan: When The Time Comes", Pi Artworks Londra, 2014. https://www.artrabbit.com/events/when-the-time-comes
+3. [3] ⚠ galeri beyanı (CV): ArtRabbit, Pi Artworks basın metni, "Horasan: When The Time Comes", Londra, 2014. https://www.artrabbit.com/events/when-the-time-comes
 4. [4] SALT Araştırma, "Mustafa Horasan, Alacakaranlık Sergi, Teşvikiye Sanat Galerisi" kaydı. https://archives.saltresearch.org/handle/123456789/38965
 
 ## 9. Açık Sorular

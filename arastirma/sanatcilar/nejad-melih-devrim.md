@@ -108,7 +108,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 1. [1] Mathaf Ansiklopedisi, Nejad Melih Devrim. https://mathaf.org.qa/en/encyclopedia/artists-biographies/nejad-melih-devrim/
 2. [2] İstanbul Modern, Soyut Kompozisyon. https://www.istanbulmodern.org/en/collection/abstract-composition
-3. [3] Galeri Nev İstanbul, biyografi. https://www.galerinevistanbul.com/artists/46-nejad-devrim/biography/
+3. [3] ⚠ galeri beyanı (CV): Galeri Nev İstanbul, biyografi. https://www.galerinevistanbul.com/artists/46-nejad-devrim/biography/
 4. [4] Manazir Journal (Bern Üniversitesi), Nejad Devrim makalesi. https://bop.unibe.ch/manazir/article/view/10646
 
 ## 9. Açık Sorular

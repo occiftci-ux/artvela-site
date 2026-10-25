@@ -100,7 +100,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 8. Kaynakça
 
 1. [1] Karar, "Türk resim sanatının usta ismi Özdemir Altan yaşamını yitirdi", 2026. https://www.karar.com/guncel-haberler/turk-resim-sanatinin-usta-ismi-ozdemir-altan-yasamini-yitirdi-2071022
-2. [2] Kolekta, Özdemir Altan biyografisi. https://www.kolekta.com.tr/en/?p=10073825
+2. [2] ⚠ galeri beyanı (CV): Kolekta, Özdemir Altan biyografisi. https://www.kolekta.com.tr/en/?p=10073825
 3. [3] SALT Araştırma, Kare Sanat Galerisi sergi kaydı. https://archives.saltresearch.org/handle/123456789/39732
 4. [4] Daily Sabah, "Özdemir Altan: An unfinished conversation with art". https://www.dailysabah.com/arts/portrait/ozdemir-altan-an-unfinished-conversation-with-art/amp
 5. [5] SALT Araştırma, Özdemir Altan Retrospektif Resim Sergisi, Derimod Kültür Merkezi. https://archives.saltresearch.org/handle/123456789/41214
