@@ -23,12 +23,14 @@ guven: "taslak"
 **Disiplin:** resim, desen, yazı, sinema
 
 **Eğitim**
-- Robert Kolej'de başladı, resim, desen ve yazıya yönelmek için ayrıldı [1].
+- Robert Kolej: kaynaklar çelişiyor. [1] başladığını ve resim, desen ve yazıya yönelmek için ayrıldığını yazar; Çıtak 1994 bitirdiğini yazar [5]. Tek A2 kaynak, ön teyit (sanat tarihi O-0026).
 
 **Kronoloji**
-- 1933: D Grubu'nun kurucuları arasında. Aynı yıl Yutkeviç'in daveti üzerine Leningrad'da Lenfilm stüdyolarında çalıştı [1].
+- 1933: D Grubu'nun kurucuları arasında [1][5].
+- 1933 ya da 1934: Yutkeviç'in daveti üzerine Leningrad'da Lenfilm stüdyolarında çalıştı. Yıl çelişkili: [1] 1933, Çıtak 1994 1934 [5] (sanat tarihi O-0025, ön teyit).
 - 1937–39: Paris. Gertrude Stein, Tristan Tzara ve Picasso ile tanıştı [1].
-- 1941–45: Savaş dönemi siyasi çizimleri nedeniyle Güneydoğu Anadolu'ya sürgün edildi [1].
+- 10 Mayıs 1941: Yeniler Grubu'nun ilk "Liman" sergisine katıldı; doğrulandı (Bulut 2009, Demiriz 2022 dönem gazeteleri, Karabaş 2016) [6]. Çıtak 1994'teki 1938 ve 1939 tarihleri hatalı sayıldı.
+- 1941'den sonra: savaş dönemi siyasi çizimleri nedeniyle sürgün. [1] "Güneydoğu Anadolu, 1941–45" der; basına göre önce Mecitözü, sonra Adana, 1946'ya kadar (doğrulanacak; Adana Akdeniz bölgesindedir) [6].
 - 1952: Paris'e yerleşti. 1954'ten itibaren sekiz yıl Salon de Mai'de sergiledi [1].
 - 1958: Antibes'teki Grimaldi Şatosu'nda (bugünkü Picasso Müzesi) kişisel sergi açtı [2].
 - 1979: UNAP Fransa onursal başkanlığına seçildi [1].
@@ -101,6 +103,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 2. [2] Artvela Instagram, Müzayede 92 gönderisi. https://www.instagram.com/p/DerzG5cCWwm/
 3. [3] İstanbul Modern, Kuvâyi Milliye İnsanları. https://www.istanbulmodern.org/en/collection/the-people-of-the-national-forces
 4. [4] Sakıp Sabancı Müzesi, Abidin Dino Dünyası. https://sakipsabancimuzesi.org/en/exhibitions-and-events/exhibition/36
+5. [5] Esin Çıtak, "Türk Resminde D Grubu", yüksek lisans tezi, İTÜ, 1994 (sanat tarihi bilgi tabanı K-0001).
+6. [6] Sanat tarihi bilgi tabanı, Abidin Dino dosyası ve olgular O-0011, O-0025, O-0026: arastirma/sanat-tarihi/konular/sanatci/abidin-dino.md
 
 ## 9. Açık Sorular
 
