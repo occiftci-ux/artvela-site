@@ -4,7 +4,7 @@ dogum: "Doğrulanacak"
 olum: ""
 disiplin: "resim"
 kabul: "K3 (otorite onayı)"
-puan: 3
+puan: 4
 kademe: "(V · İzleme) ön puan"
 veri_kapsami: 7
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **3 / 100** | (V · İzleme) ön puan | %7 | K3 (otorite onayı): 77. Devlet Resim ve Heykel Yarışması (Kültür ve Turizm Bakanlığı, 2025) resim dalı başarı ödülü [1]. |
+| **4 / 100** | (V · İzleme) ön puan | %7 | K3 (otorite onayı): 77. Devlet Resim ve Heykel Yarışması (Kültür ve Turizm Bakanlığı, 2025) resim dalı başarı ödülü [1]. |
 
 ## 1. Künye ve Biyografi
 
@@ -27,6 +27,7 @@ guven: "taslak"
 
 **Kronoloji**
 - 2025: 77. Devlet Resim ve Heykel Yarışması, resim dalı başarı ödülü, "Göç". Seçici kurul: Turhan Çetin, Zehra Çobanlı, Mustafa Orkun Müftüoğlu, H. Erkan Özdilek, Ömer Faruk Belviranlı [1].
+- 2025: Yalçın Gökçebağ Resim Yarışması büyük ödülü, üç büyük ödülden biri (18–40 yaş, 500'ü aşkın başvuru) [2].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
 
@@ -52,6 +53,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 **Ödüller**
 - 2025: 77. Devlet Resim ve Heykel Yarışması başarı ödülü (resim), "Göç" [1].
+- 2025: Yalçın Gökçebağ Resim Yarışması büyük ödülü [2].
 
 **Satış kayıtları** (kaynak: `bulten/emsal-fiyatlar.csv`, yalnız `dogrulandi=evet`)
 
@@ -75,10 +77,10 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | b1 | Kişisel sergiler | 0 / 10 | *eksik* |
 | b2 | Retrospektif / müze ve kurum sergisi | 0 / 8 | *eksik* |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 0 / 7 | *eksik* |
-| **C · Kurumsal tanınırlık** | | **3 / 20** | |
+| **C · Kurumsal tanınırlık** | | **4 / 20** | |
 | c1 | Türkiye'deki müze koleksiyonları | 0 / 8 | *eksik* |
 | c2 | Yurtdışındaki müze koleksiyonları | 0 / 7 | *eksik* |
-| c3 | Ödüller | 3 / 5 | Devlet Resim ve Heykel Yarışması başarı ödülü 2025 |
+| c3 | Ödüller | 4 / 5 | DRHY başarı ödülü ve Yalçın Gökçebağ büyük ödülü, 2025 |
 | **D · Sanat tarihindeki konum** | | **0 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
 | d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
@@ -87,7 +89,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **3 / 100** | Veri kapsamı %7 |
+| | **Toplam** | **4 / 100** | Veri kapsamı %7 |
 
 ## Bej Keşif Değerlendirmesi [G-Y1]
 
@@ -96,21 +98,22 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Ölçüt | Puan | Gerekçe |
 |---|---|---|
-| İşin niteliği ve zanaat | 5 / 10 | Akademisyenlerden oluşan seçici kurulun üç resim ödülünden biri; eseri görmedik |
+| İşin niteliği ve zanaat | 6 / 10 | Aynı yıl iki ayrı seçici kuruldan ödül (DRHY, Yalçın Gökçebağ); eseri görmedik |
 | Dilin tutarlılığı ve özgünlüğü | 0 / 10 | *eksik* |
 | Figürle ilişki | 0 / 10 | *eksik* |
 | Düşünsel derinlik | 0 / 10 | *eksik* |
 | Üretim hacmi ve kariyer niyeti | 0 / 10 | *eksik* |
 | Piyasadan bağımsızlık | 6 / 10 | Ticari galeri temsili bulunamadı |
-| **Toplam** | **11 / 60** | |
+| **Toplam** | **12 / 60** | |
 
-- Tek kaynak: yarışma sonuç haberi. Okul, yaş, portfolyo ve eser görseli bulunamadı; Huni 2 için 51 eserlik yarışma sergisi kataloğu (Kültür ve Turizm Bakanlığı) aranmalı.
+- İki kaynak: DRHY ve Yalçın Gökçebağ sonuç haberleri (aynı ad; kimlik eşleştirmesi katalogla yapılmalı). Okul, yaş, portfolyo ve eser görseli bulunamadı; Huni 2 için 51 eserlik yarışma sergisi kataloğu (Kültür ve Turizm Bakanlığı) aranmalı.
 - Çıkar çatışması kontrolü: envanter.csv'de yok, Artvela lotu yok.
 - Ad yaygın olabilir; kimlik eşleştirmesi katalog künyesiyle yapılmalı.
 
 ## 8. Kaynakça
 
 1. [1] DHA, "Devlet Resim ve Heykel Yarışması'nda sonuçlar açıklandı", 17.12.2025. https://www.dha.com.tr/kultur-sanat/devlet-resim-ve-heykel-yarismasinda-sonuclar-aciklandi-2779490
+2. [2] Yeni Birlik Gazetesi, "Yalçın Gökçebağ Resim Yarışması sonuçlandı", 17.01.2026. https://www.gazetebirlik.com/kultur-sanat/yalcin-gokcebag-resim-yarismasi-sonuclandi/924232
 
 ## 9. Açık Sorular
 
