@@ -26,9 +26,9 @@ zekai-ormanci,Zekai Ormancı,artvela-envanter,b,eklendi,2026-10-23,Müzayede 91/
 mehmet-gun,Mehmet Gün,artvela-envanter,b,eklendi,2026-10-23,Müzayede 91/92
 mahmut-karatoprak,Mahmut Karatoprak,artvela-envanter,b,eklendi,2026-10-23,Müzayede 91/92
 fikret-otyam,Fikret Otyam,artvela-envanter,b,eklendi,2026-10-23,Müzayede 91/92
-ferit-iscan,Ferit İşcan,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
-fahrettin-arkunlar,Fahrettin Arkunlar,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
-elif-naci,Elif Naci,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
+ferit-iscan,Ferit İşcan,artvela-envanter,b,kaynak-yok,2026-10-23,"Müzayede 91/92; 2026-10-26: iki aramada kamusal biyografi bulunamadı, SALT dışı kaynak yok"
+fahrettin-arkunlar,Fahrettin Arkunlar,artvela-envanter,b,eklendi,2026-10-23,Müzayede 91/92
+elif-naci,Elif Naci,artvela-envanter,b,eklendi,2026-10-23,Müzayede 91/92
 edip-hakki-koseoglu,Edip Hakkı Köseoğlu,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
 cagatay-odabas,Çağatay Odabaş,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
 ardan-ozmenoglu,Ardan Özmenoğlu,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
@@ -104,7 +104,7 @@ sevket-sonmez,Şevket Sönmez,kesif,g,eklendi,2026-10-23,sahip isteği: Bej biyo
 coskun-sami,Coşkun Sami,kesif,g,eklendi,2026-10-23,sahip isteği: Bej biyografisi galeri/biyografiler/coskun-sami.md; gece turu 2026-10-23 21:07
 emre-calis,Emre Çalış,odul-burs,g,eklendi,2026-10-24,77. Devlet Resim ve Heykel Yarışması 2025 resim başarı ödülü
 salih-cakar,Salih Çakar,odul-burs,g,eklendi,2026-10-24,77. Devlet Resim ve Heykel Yarışması 2025 resim başarı ödülü
-duru-bozkurt,Duru Bozkurt,odul-burs,g,bekliyor,2026-10-24,"Genç Sanat 2024 sergileme, 2025 başarı ödülü; medyum doğrulanacak"
+duru-bozkurt,Duru Bozkurt,odul-burs,g,eklendi,2026-10-24,"Genç Sanat 2024 sergileme, 2025 başarı ödülü; medyum doğrulanacak"
 elif-boyraz,Elif Boyraz,odul-burs,g,bekliyor,2026-10-24,"Genç Sanat 2024 başarı, 2025 mansiyon; medyum doğrulanacak"
 ihsan-berke-saracoglu,İhsan Berke Saraçoğlu,odul-burs,g,bekliyor,2026-10-24,"Genç Sanat 2024 sergileme, 2025 başarı; medyum doğrulanacak"
 derya-yilmaz,Derya Yılmaz,odul-burs,g,bekliyor,2026-10-24,"77. DRHY 2025 resim başarı ödülü; ad yaygın, katalogla eşleştir"
@@ -151,3 +151,4 @@ azra-inal,Azra İnal,sanat-tarihcisi,c,bekliyor,2026-10-25,"istek: sanat-tarihci
 lutfu-gunay,Lütfü Günay,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, 1950'ler soyut tartışması (O-0314–O-0317)"
 fethi-karakas,Fethi Karakaş,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, 1950'ler soyut tartışması (O-0314–O-0317)"
 omer-uluc,Ömer Uluç,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, 1950'ler soyut tartışması (O-0314–O-0317)"
+ikram-mevis,İkram Meviş,odul-burs,g,bekliyor,2026-10-26,odul-burs: Yalçın Gökçebağ Resim Yarışması 2025 büyük ödülü (Gazete Birlik 17.01.2026); istek: koleksiyoner-arsivi

@@ -4,9 +4,9 @@ dogum: "1899, İstanbul [1]"
 olum: "1972 [1]"
 disiplin: "resim"
 kabul: "K1 (akademik)"
-puan: 27
+puan: 22
 kademe: "(IV · Gelişen) ön puan"
-veri_kapsami: 33
+veri_kapsami: 27
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **27 / 100** | (IV · Gelişen) ön puan | %33 | K1 (akademik): Sanayi-i Nefise 1915'ten; Paris, Académie Julian [1]. |
+| **22 / 100** | (IV · Gelişen) ön puan | %27 | K1 (akademik): Sanayi-i Nefise 1915'ten; Paris, Académie Julian [1]. |
 
 ## 1. Künye ve Biyografi
 
@@ -52,7 +52,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
 **Müze ve kurum koleksiyonları**
-- Sakıp Sabancı Müzesi sanatçı kaydı [1].
+- Sakıp Sabancı Müzesi'nde sanatçı kaydı var; müzenin eser sahipliği sayfada görünmüyor, doğrulanacak [1].
 - İstanbul Modern'de "Metallurgy Workshop" görülüyor; mülkiyet ya da ödünç durumu doğrulanacak.
 
 **Ödüller**
@@ -80,8 +80,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | b1 | Kişisel sergiler | 0 / 10 | *eksik* |
 | b2 | Retrospektif / müze ve kurum sergisi | 0 / 8 | *eksik* |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 0 / 7 | *eksik* |
-| **C · Kurumsal tanınırlık** | | **5 / 20** | |
-| c1 | Türkiye'deki müze koleksiyonları | 5 / 8 | Sakıp Sabancı Müzesi |
+| **C · Kurumsal tanınırlık** | | **0 / 20** | |
+| c1 | Türkiye'deki müze koleksiyonları | 0 / 8 | *eksik* |
 | c2 | Yurtdışındaki müze koleksiyonları | 0 / 7 | *eksik* |
 | c3 | Ödüller | 0 / 5 | *eksik* |
 | **D · Sanat tarihindeki konum** | | **7 / 15** | |
@@ -92,7 +92,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **27 / 100** | Veri kapsamı %33 |
+| | **Toplam** | **22 / 100** | Veri kapsamı %27 |
 
 ## 8. Kaynakça
 
