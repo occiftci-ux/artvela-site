@@ -56,7 +56,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 **Müze ve kurum koleksiyonları**
 - İstanbul Modern'de uzun süreli ödünç: Soyut Kompozisyon, 1958, 70x85 cm; mülkiyet Dr. Nejat F. Eczacıbaşı Vakfı Koleksiyonu, müzenin kendi koleksiyonu değil [2]. Teknik teyit bekliyor: kurum sayfası iki farklı teknik veriyor (2026-10-24 düzeltmesi)
-- Mathaf, Doha (1956, 1962, 1973 tarihli eserler) [1]
+- Mathaf, Doha (1956, 1962, 1973 tarihli eserler) [1]. Kurum kaydıyla doğrulandı: "Untitled", 1956, 111,5 × 92,3 cm, Qatar Museums çevrimiçi koleksiyonu, Mathaf (şu an sergilenmiyor) [5]. 1962 ve 1973 eserleri kurum kaydında aranacak.
 
 **Ödüller**
 - Kaynakta ödül bilgisi yok, doğrulanacak.
@@ -103,6 +103,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 2. [2] İstanbul Modern, Soyut Kompozisyon. https://www.istanbulmodern.org/en/collection/abstract-composition-cl-516
 3. [3] Artvela Instagram, Müzayede 91 gönderisi. https://www.instagram.com/p/Ddixy9KCO9L/
 4. [4] Aguttes müzayedesi, "Sans titre, circa 1956" lot kaydı. https://www.aguttes.com/en/lot/102885/12395232-orhon-mubin-1924-1981-sans-titre-circa-1956-huile-sur-toile
+5. [5] Qatar Museums çevrimiçi koleksiyonu, Mübin Orhon, Untitled, 1956. https://collections.qm.org.qa/objects/untitled-mat2008195
 
 ## 9. Açık Sorular
 

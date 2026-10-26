@@ -31,7 +31,7 @@ guven: "taslak"
 - 1963: Altan Gürman, Adnan Çoker, Sarkis ve Tülay Tura ile Mavi Grup'u kurdu [1].
 - 1979–82: İstanbul Resim ve Heykel Müzesi müdürü [1].
 - 1981: Profesör. 1985: MSÜ Resim Bölüm Başkanı. Sonra Doğuş Üniversitesi Sanat ve Tasarım Fakültesi dekanı [1].
-- 2004: Balıkesir Belediyesi Devrim Erbil Çağdaş Sanat Müzesi'ni açtı [1].
+- Balıkesir Belediyesi Devrim Erbil Çağdaş Sanat Müzesi'ni açtı: IMOGA 2004 [1], Politika (2024) 2002 diyor [3]; tek kişiye adanmış ilk müze olarak anılıyor. Haziran 2024 itibarıyla uzun süredir kapalı [3]. Belediyenin kendi sayfası bulunamadı, yıl doğrulanacak.
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
 
@@ -104,6 +104,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 1. [1] IMOGA, sanatçı sayfası. https://www.imoga.org/en/collection/artists/devrim-erbil
 2. [2] Artvela Instagram, Müzayede 92 gönderisi. https://www.instagram.com/p/Dew8rMxibdk/
+3. [3] Cemil Yurtman, "Devrim Erbil Çağdaş Sanatlar Müzesine kilit vurdular", Politika (politikam.com), 12.06.2024. https://www.politikam.com/devrim-erbil-cagdas-sanatlar-muzesine-kilit-vurdular
 
 ## 9. Açık Sorular
 
