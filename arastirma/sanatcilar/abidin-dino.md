@@ -29,6 +29,7 @@ guven: "taslak"
 - 1933: D Grubu'nun kurucuları arasında [1][5].
 - 1933 ya da 1934: Yutkeviç'in daveti üzerine Leningrad'da Lenfilm stüdyolarında çalıştı. Yıl çelişkili: [1] 1933, Çıtak 1994 1934 [5] (sanat tarihi O-0025, ön teyit).
 - 1937–39: Paris. Gertrude Stein, Tristan Tzara ve Picasso ile tanıştı [1].
+- 1939: II. Yurt Gezisi ile Balıkesir'e gönderildi; katılım doğrulandı, il ön teyitte (Bayer 2018 s.171; Keskin 2012; sanat tarihi O-0051) [6].
 - 10 Mayıs 1941: Yeniler Grubu'nun ilk "Liman" sergisine katıldı; doğrulandı (Bulut 2009, Demiriz 2022 dönem gazeteleri, Karabaş 2016) [6]. Çıtak 1994'teki 1938 ve 1939 tarihleri hatalı sayıldı.
 - 1941'den sonra: savaş dönemi siyasi çizimleri nedeniyle sürgün. [1] "Güneydoğu Anadolu, 1941–45" der; basına göre önce Mecitözü, sonra Adana, 1946'ya kadar (doğrulanacak; Adana Akdeniz bölgesindedir) [6].
 - 1952: Paris'e yerleşti. 1954'ten itibaren sekiz yıl Salon de Mai'de sergiledi [1].
