@@ -49,6 +49,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 - Müzayede 91 (2026-09-22), Lot 12: tuval üzerine yağlıboya, imzalı., Eser sanatçının kitabında mevcuttur., 103x83 cm; tahmini 1.000.000-1400.000 TL, açılış 800.000 TL; satılmadı
 - Müzayede 91 (2026-09-22), Lot 22: tuval üzerine yağlıboya, imzalı., 20x15 cm; tahmini 220.000-300.000 TL, açılış 170.000 TL; satıldı, çekiç 170.000 TL · 170000 TL
+- Müzayede 92 (kapanış 2026-11-02), Lot 37: tuval üzerine yağlıboya, imzalı., 2001 tarihli., 55x38 cm; tahmini 450.000-550.000 TL, açılış 350.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 

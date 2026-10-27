@@ -48,7 +48,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 92: tuval üzerine yağlıboya, imzalı, 60x60 cm, ip üzerinde denge kuran figür [4]
+- Müzayede 92 (kapanış 2026-11-02), Lot 19: tuval üzerine yağlıboya, imzalı., 80x129 cm; tahmini 900.000-1.200.000 TL, açılış 700.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 

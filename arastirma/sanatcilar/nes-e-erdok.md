@@ -51,6 +51,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 - Müzayede 91 (2026-09-22), Lot 17: tuval üzerine yağlıboya, imzasız., Eser Sanatçının Kitabında Mevcut., Evin Sanat Galerisi Sertifikası Mevcut., 45x20 cm; tahmini 300.000-450.000 TL, açılış 240.000 TL; satıldı, çekiç 240.000 TL · 240000 TL
 - Müzayede 91 (2026-09-22), Lot 18: kağıt üzerine yağlıboya, imzasız., Eser sanatçının kitabında mevcuttur., 27x32 cm; tahmini 250.000-320.000 TL, açılış 185.000 TL; satıldı, çekiç 185.000 TL · 185000 TL
+- Müzayede 92 (kapanış 2026-11-02), Lot 23: Sacide Hanım, karton üzerine karışık teknik, imzalı., 1988 tarihli., 15x29 cm, (Eser, kitapta yer almaktadır.); tahmini 150.000-200.000 TL, açılış 140.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 24: Anneannem, kağıt üzerine kurşun kalem, imzalı., 25x15 cm, (Eser, kitapta yer almaktadır.); tahmini 150.000-200.000 TL, açılış 120.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 

@@ -46,6 +46,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 5. Eser Analizi (Artvela)
 
 - Müzayede 91 (2026-09-22), Lot 34: tuval üzerine yağlıboya, imzalı., 40x50 cm; tahmini 80.000-120.000 TL, açılış 70.000 TL; satıldı, çekiç 70.000 TL · 70000 TL
+- Müzayede 92 (kapanış 2026-11-02), Lot 56: tuval üzerine yağlıboya, imzalı., 35x45 cm; tahmini 90.000-120.000 TL, açılış 75.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 231: kağıt üzerine suluboya, imzalı., 4x6 cm; tahmini 1.000-5.000 TL, açılış 1.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 

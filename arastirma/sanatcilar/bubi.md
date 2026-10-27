@@ -48,6 +48,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 - Müzayede 91 (2026-09-22), Lot 67: tuval üzerine akrilik boya, imzalı., 130x200 cm; tahmini 350.000-450.000 TL, açılış 290.000 TL; satılmadı
 - Müzayede 91 (2026-09-22), Lot 68: tuval üzerine karışık teknik, imzalı., 115x85 cm; tahmini 160.000-220.000 TL, açılış 145.000 TL; satılmadı
+- Müzayede 92 (kapanış 2026-11-02), Lot 74: tuval üzerine akrilik boya, imzalı., 130x200 cm; tahmini 400.000-500.000 TL, açılış 300.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 

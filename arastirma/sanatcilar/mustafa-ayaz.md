@@ -49,6 +49,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 5. Eser Analizi (Artvela)
 
 - Müzayede 91 (2026-09-22), Lot 10: tuval üzerine yağlıboya, imzalı., 70x90 cm; tahmini 550.000-700.000 TL, açılış 470.000 TL; satılmadı
+- Müzayede 92 (kapanış 2026-11-02), Lot 157: kağıt üzerine kuruboya, imzalı., 31x33 cm; tahmini 20.000-30.000 TL, açılış 20.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 158: kağıt üzerine karışık teknik, imzalı., 17x17 cm; tahmini 30.000-40.000 TL, açılış 22.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 

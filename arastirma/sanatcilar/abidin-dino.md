@@ -52,7 +52,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 92: Antibes dönemi, tuval üzerine yağlıboya, imzalı, 65x54 cm [2]
+- Müzayede 92 (kapanış 2026-11-02), Lot 7: tuval üzerine yağlıboya, imzalı., 65x54 cm; tahmini 1.500.000-2.000.000 TL, açılış 1.000.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 71: kağıt üzerine karışık teknik, imzalı., 24x19 cm; tahmini 140.000-180.000 TL, açılış 100.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 

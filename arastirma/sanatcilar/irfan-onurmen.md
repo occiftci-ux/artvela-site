@@ -47,7 +47,9 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 5. Eser Analizi (Artvela)
 
 - Müzayede 91 (2026-09-22), Lot 6: tuval üzerine yağlıboya, imzalı., 50x35 cm; tahmini 200.000-300.000 TL, açılış 190.000 TL; satıldı, çekiç 190.000 TL · 190000 TL
-- Müzayede 91 (2026-09-22), Lot 63: prestuval üzerine yağlıboya, imzalı., Eser sanatçının kitabında mevcuttur., 31x24 cm; tahmini 150.000-200.000 TL, açılış 80.000 TL; satıldı, çekiç 80.000 TL · 80000 TL
+- Müzayede 91 (2026-09-22), Lot 63: prestuval üzerine yağlıboya, imzalı., Eser sanatçının kitabında mevcuttur., 31x24 cm; tahmini 150.000-200.000 TL, açılış 80.000 TL; son pey 80.000 TL, satış tamamlanmadı · 80000 TL
+- Müzayede 92 (kapanış 2026-11-02), Lot 16: tuval üzerine yağlıboya, imzalı., 100x73 cm; tahmini 750.000-850.000 TL, açılış 600.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 50: prestuval üzerine yağlıboya, imzalı., Eser sanatçının kitabında mevcuttur., 31x24 cm; tahmini 130.000-160.000 TL, açılış 100.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -62,7 +64,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 6 | , , tuval üzerine yağlıboya, imzalı., 50x35 | 200000-300000 | 190000 çekiç / 209000 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
-| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 63 | , , prestuval üzerine yağlıboya, imzalı., 31x24 | 150000-200000 | 80000 çekiç / 88000 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 63 | , , prestuval üzerine yağlıboya, imzalı., 31x24 | 150000-200000 | son pey 80000 TL; satış tamamlanmadı (sahip QcaL, 2026-10-27); eser Müzayede 92de yeniden satışta TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -88,7 +90,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **E · Piyasa görünürlüğü** | | **10 / 25** | |
 | e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
-| e3 | Fiyat seviyesi (doğrulanmış) | 2 / 6 | emsal: 2/2 lot satıldı, en yüksek çekiç 190.000 TL |
+| e3 | Fiyat seviyesi (doğrulanmış) | 2 / 6 | emsal: 1/2 lot satıldı, en yüksek çekiç 190.000 TL |
 | e4 | Güncel galeri temsili | 4 / 4 | Pi Artworks, C24 |
 | | **Toplam** | **46 / 100** | Veri kapsamı %60 |
 

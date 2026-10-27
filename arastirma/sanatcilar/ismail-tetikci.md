@@ -4,9 +4,9 @@ dogum: "Doğrulanacak"
 olum: ""
 disiplin: "resim"
 kabul: "K1 adayı (doğrulanacak)"
-puan: 7
+puan: 6
 kademe: "(V · İzleme) ön puan"
-veri_kapsami: 20
+veri_kapsami: 13
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **7 / 100** | (V · İzleme) ön puan | %20 | K1 adayı (doğrulanacak): DergiPark'ta Bursa Uludağ Üniversitesi'nde resim alanında Prof. Dr. İsmail Tetikçi kaydı var [2]; ressamla aynı kişi olduğu kanıtlanmadı. |
+| **6 / 100** | (V · İzleme) ön puan | %13 | K1 adayı (doğrulanacak): DergiPark'ta Bursa Uludağ Üniversitesi'nde resim alanında Prof. Dr. İsmail Tetikçi kaydı var [2]; ressamla aynı kişi olduğu kanıtlanmadı. |
 
 ## 1. Künye ve Biyografi
 
@@ -43,8 +43,10 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 91 (2026-09-22), Lot 97: tuval üzerine yağlıboya, imzalı., 70x70 cm; tahmini 100.000-150.000 TL, açılış 65.000 TL; satıldı, çekiç 65.000 TL · 65000 TL
-- Müzayede 91 (2026-09-22), Lot 98: tuval üzerine yağlıboya, imzalı., 40x60 cm; tahmini 100.000-150.000 TL, açılış 55.000 TL; satıldı, çekiç 55.000 TL · 55000 TL
+- Müzayede 91 (2026-09-22), Lot 97: tuval üzerine yağlıboya, imzalı., 70x70 cm; tahmini 100.000-150.000 TL, açılış 65.000 TL; son pey 65.000 TL, satış tamamlanmadı · 65000 TL
+- Müzayede 91 (2026-09-22), Lot 98: tuval üzerine yağlıboya, imzalı., 40x60 cm; tahmini 100.000-150.000 TL, açılış 55.000 TL; son pey 55.000 TL, satış tamamlanmadı · 55000 TL
+- Müzayede 92 (kapanış 2026-11-02), Lot 97: tuval üzerine yağlıboya, imzalı., 70x70 cm; tahmini 100.000-130.000 TL, açılış 75.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 98: tuval üzerine yağlıboya, imzalı., 40x60 cm; tahmini 80.000-100.000 TL, açılış 65.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -58,8 +60,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 97 | , , tuval üzerine yağlıboya, imzalı., 70x70 | 100000-150000 | 65000 çekiç / 71500 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
-| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 98 | , , tuval üzerine yağlıboya, imzalı., 40x60 | 100000-150000 | 55000 çekiç / 60500 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 97 | , , tuval üzerine yağlıboya, imzalı., 70x70 | 100000-150000 | son pey 65000 TL; satış tamamlanmadı (sahip QcaL, 2026-10-27); eser Müzayede 92de yeniden satışta TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 98 | , , tuval üzerine yağlıboya, imzalı., 40x60 | 100000-150000 | son pey 55000 TL; satış tamamlanmadı (sahip QcaL, 2026-10-27); eser Müzayede 92de yeniden satışta TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -82,12 +84,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **0 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
 | d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
-| **E · Piyasa görünürlüğü** | | **5 / 25** | |
+| **E · Piyasa görünürlüğü** | | **4 / 25** | |
 | e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
-| e3 | Fiyat seviyesi (doğrulanmış) | 1 / 6 | emsal: 2/2 lot satıldı, en yüksek çekiç 65.000 TL |
+| e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **7 / 100** | Veri kapsamı %20 |
+| | **Toplam** | **6 / 100** | Veri kapsamı %13 |
 
 ## 8. Kaynakça
 

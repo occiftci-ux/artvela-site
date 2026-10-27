@@ -45,6 +45,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 5. Eser Analizi (Artvela)
 
 - Müzayede 91 (2026-09-22), Lot 79: Hades'in Öfkesi, tuval üzerine yağlıboya, imzalı., 2013 tarihli., 150x150 cm; tahmini 250.000-350.000 TL, açılış 170.000 TL; satılmadı
+- Müzayede 92 (kapanış 2026-11-02), Lot 73: Hades'in Öfkesi, tuval üzerine yağlıboya, imzalı., 2013 tarihli., 150x150 cm; tahmini 200.000-250.000 TL, açılış 150.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 

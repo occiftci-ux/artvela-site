@@ -48,6 +48,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 - Müzayede 91 (2026-09-22), Lot 1: kağıt üzerine karışık teknik, imzalı., 22x14 cm; tahmini 220.000-320.000 TL, açılış 150.000 TL; satıldı, çekiç 150.000 TL · 150000 TL
 - Müzayede 91 (2026-09-22), Lot 2: kağıt üzerine karışık teknik, imzalı., 12x15 cm; tahmini 220.000-320.000 TL, açılış 150.000 TL; satıldı, çekiç 150.000 TL · 150000 TL
+- Müzayede 92 (kapanış 2026-11-02), Lot 31: duralit üzerine karışık teknik, imzalı., 26x18 cm; tahmini 250.000-350.000 TL, açılış 200.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 32: kağıt üzerine karışık teknik (duralite marufle), imzalı., 23x35 cm; tahmini 250.000-350.000 TL, açılış 200.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 

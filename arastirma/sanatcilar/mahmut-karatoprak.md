@@ -48,6 +48,9 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 5. Eser Analizi (Artvela)
 
 - Müzayede 91 (2026-09-22), Lot 73: kağıt üzerine karışık teknik, imzalı., 29x21 cm; tahmini 80.000-120.000 TL, açılış 45.000 TL; satılmadı
+- Müzayede 92 (kapanış 2026-11-02), Lot 25: duralit üzerine yağlıboya, imzalı., 72x64 cm; tahmini 250.000-350.000 TL, açılış 230.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 101: kağıt üzerine karışık teknik, imzalı., 29x21 cm; tahmini 70.000-80.000 TL, açılış 50.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 102: kağıt üzerine karışık teknik, imzalı., 35x25 cm; tahmini 80.000-100.000 TL, açılış 60.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 

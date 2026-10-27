@@ -51,6 +51,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 - Müzayede 91 (2026-09-22), Lot 4: kağıt üzerine guaj boya, imzalı., 76x56 cm; tahmini 800.000-1.000.000 TL, açılış 630.000 TL; satılmadı
 - Müzayede 91 (2026-09-22), Lot 26: kağıt üzerine guaj boya, imzalı., 28x22 cm; tahmini 200.000-300.000 TL, açılış 160.000 TL; satıldı, çekiç 160.000 TL · 160000 TL
 - Müzayede 91 (2026-09-22), Lot 56: kağıt üzerine guaj boya (tuvale marufle), imzalı., 63x48 cm; tahmini 400.000-600.000 TL, açılış 320.000 TL; satıldı, çekiç 320.000 TL · 320000 TL
+- Müzayede 92 (kapanış 2026-11-02), Lot 8: tuval üzerine yağlıboya, imzalı., 1957 tarihli., 20x70 cm; tahmini 700.000-900.000 TL, açılış 550.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 

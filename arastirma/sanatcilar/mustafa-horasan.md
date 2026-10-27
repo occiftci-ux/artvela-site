@@ -1,7 +1,7 @@
 ---
 sanatci: "Mustafa Horasan"
 dogum: "1965, Aydın"
-olum: "2026, İstanbul (motosiklet kazası; 61 yaşında) [2]"
+olum: "2026, İstanbul (motosiklet kazası; 61 yaşında) [2][5]"
 disiplin: "resim, özgün baskı (taş baskı), karışık teknik"
 kabul: "K1 (akademik)"
 puan: 29
@@ -19,7 +19,7 @@ guven: "taslak"
 
 ## 1. Künye ve Biyografi
 
-**Doğum / ölüm:** 1965, Aydın · 2026, İstanbul (motosiklet kazası; 61 yaşında) [2]
+**Doğum / ölüm:** 1965, Aydın · 2026, İstanbul (motosiklet kazası; 61 yaşında) [2][5]
 **Disiplin:** resim, özgün baskı (taş baskı), karışık teknik
 
 **Eğitim**
@@ -50,6 +50,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 5. Eser Analizi (Artvela)
 
 - Müzayede 91 (2026-09-22), Lot 53: kağıt üzerine karışık teknik (tuvale marufle), imzasız., Eser sanatçının kitabında mevcuttur., 220x160 cm; tahmini 300.000-400.000 TL, açılış 240.000 TL; satılmadı
+- Müzayede 92 (kapanış 2026-11-02), Lot 178: kağıt üzerine desen, imzalı., 30x23 cm; tahmini 15.000-25.000 TL, açılış 15.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -99,6 +100,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 2. [2] Takvim, "Ünlü ressam Mustafa Horasan hayatını kaybetti", 28.05.2026. https://www.takvim.com.tr/magazin/2026/05/28/unlu-ressam-mustafa-horasan-hayatini-kaybetti
 3. [3] ⚠ galeri beyanı (CV): ArtRabbit, Pi Artworks basın metni, "Horasan: When The Time Comes", Londra, 2014. https://www.artrabbit.com/events/when-the-time-comes
 4. [4] SALT Araştırma, "Mustafa Horasan, Alacakaranlık Sergi, Teşvikiye Sanat Galerisi" kaydı. https://archives.saltresearch.org/handle/123456789/38965
+5. [5] BTA, "Sofia Exhibition Explores Humanity through Works by Turkish and Austrian Artists", 01.09.2026: Bulgar Sanatçılar Birliği galerisinde "We Came to Be Human" (1–24 Eylül 2026), Horasan (1965–2026) için anma niteliği kazandı. https://www.bta.bg/en/news/culture/1196242-sofia-exhibition-explores-humanity-through-works-by-turkish-and-austrian-artists
 
 ## 9. Açık Sorular
 

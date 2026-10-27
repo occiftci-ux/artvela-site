@@ -52,6 +52,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 5. Eser Analizi (Artvela)
 
 - Müzayede 91 (2026-09-22), Lot 55: karton üzerine akrilik boya, imzalı., R: 18; tahmini 120.000-200.000 TL, açılış 95.000 TL; satılmadı
+- Müzayede 92 (kapanış 2026-11-02), Lot 18: tuval üzerine akrilik boya, imzalı., 30x40 cm; tahmini 350.000-450.000 TL, açılış 270.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 

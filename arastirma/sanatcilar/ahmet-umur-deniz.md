@@ -47,6 +47,9 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 - Müzayede 91 (2026-09-22), Lot 27: kağıt üzerine karakalem ve renkli kalem, imzalı., "Sınırda", Eser sanatçının kitabında mevcuttur., 91x141 cm; tahmini 300.000-450.000 TL, açılış 240.000 TL; satıldı, çekiç 240.000 TL · 240000 TL
 - Müzayede 91 (2026-09-22), Lot 28: kağıt üzerine renkli kalem, imzalı., Eser sanatçının kitabında mevcuttur., 50x43 cm; tahmini 100.000-180.000 TL, açılış 80.000 TL; satıldı, çekiç 80.000 TL · 80000 TL
+- Müzayede 92 (kapanış 2026-11-02), Lot 33: tuval üzerine yağlıboya, imzalı., 80x50 cm; tahmini 400.000-500.000 TL, açılış 350.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 34: tuval üzerine yağlıboya, imzalı., 41x33 cm; tahmini 250.000-350.000 TL, açılış 200.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 42: kağıt üzerine karakalem ve renkli kalem, imzalı., 88x116 cm; tahmini 350.000-450.000 TL, açılış 240.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 

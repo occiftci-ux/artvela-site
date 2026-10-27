@@ -49,6 +49,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 - Müzayede 91 (2026-09-22), Lot 59: duralit üzerine yağlıboya, imzalı., 25x20 cm; tahmini 140.000-220.000 TL, açılış 120.000 TL; satılmadı
 - Müzayede 91 (2026-09-22), Lot 60: duralit üzerine yağlıboya, imzalı., 27x35 cm; tahmini 120.000-180.000 TL, açılış 95.000 TL; satılmadı
+- Müzayede 92 (kapanış 2026-11-02), Lot 69: tuval üzerine yağlıboya, imzalı., 48x40 cm; tahmini 150.000-200.000 TL, açılış 125.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 76: tuval üzerine yağlıboya, imzalı., 18x14 cm; tahmini 70.000-90.000 TL, açılış 60.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 

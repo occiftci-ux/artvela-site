@@ -48,8 +48,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 92: kâğıt üzerine guaj, imzalı, 76x56 cm, 1973, sertifikalı [2]
 - Müzayede 91 (2026-09-22), Lot 83: Alexander’s Walls, kağıt üzerine karışık teknik, imzalı., 1995 tarihli., 13x15 cm; tahmini 190.000-300.000 TL, açılış 160.000 TL; satıldı, çekiç 167.500 TL · 167500 TL
+- Müzayede 92 (kapanış 2026-11-02), Lot 13: kağıt üzerine guaj boya, imzalı., 1973 tarihli., 76x56 cm; tahmini 1.500.000-2.500.000 TL, açılış 1.100.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 

@@ -46,6 +46,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 5. Eser Analizi (Artvela)
 
 - Müzayede 91 (2026-09-22), Lot 9: prestuval üzerine yağlıboya, imzalı., R: 100; tahmini 300.000-400.000 TL, açılış 280.000 TL; satıldı, çekiç 302.500 TL · 302500 TL
+- Müzayede 92 (kapanış 2026-11-02), Lot 21: prestuval üzerine yağlıboya, imzalı., R: 100 cm; tahmini 250.000-350.000 TL, açılış 220.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 

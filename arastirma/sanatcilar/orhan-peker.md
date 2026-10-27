@@ -53,7 +53,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Henüz Artvela müzayedesinde yer almadı.
+- Müzayede 92 (kapanış 2026-11-02), Lot 12: duralit üzerine yağlıboya, imzalı., 16x11 cm; tahmini 250.000-350.000 TL, açılış 220.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 

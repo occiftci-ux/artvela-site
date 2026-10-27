@@ -46,7 +46,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 92: tuval üzerine yağlıboya, imzalı, 145x145 cm [2]
+- Müzayede 92 (kapanış 2026-11-02), Lot 28: tuval üzerine yağlıboya, imzalı., 145x145 cm; tahmini 650.000-750.000 TL, açılış 550.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 

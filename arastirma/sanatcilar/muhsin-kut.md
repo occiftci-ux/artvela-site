@@ -4,9 +4,9 @@ dogum: "1938, İstanbul (Bakırköy) [1][2]"
 olum: "2022 [1]"
 disiplin: "resim, desen, seramik, karikatür"
 kabul: "K1 (akademik)"
-puan: 40
-kademe: "(III · Güçlü orta) ön puan"
-veri_kapsami: 60
+puan: 39
+kademe: "(IV · Gelişen) ön puan"
+veri_kapsami: 53
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **40 / 100** | (III · Güçlü orta) ön puan | %60 | K1 (akademik): Devlet Güzel Sanatlar Akademisi Seramik Bölümü, 1964–69 [1]. |
+| **39 / 100** | (IV · Gelişen) ön puan | %53 | K1 (akademik): Devlet Güzel Sanatlar Akademisi Seramik Bölümü, 1964–69 [1]. |
 
 ## 1. Künye ve Biyografi
 
@@ -51,7 +51,9 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 91 (2026-09-22), Lot 65: kağıt üzerine suluboya, imzalı., 20x27 cm; tahmini 50.000-90.000 TL, açılış 20.000 TL; satıldı, çekiç 28.500 TL · 28500 TL
+- Müzayede 91 (2026-09-22), Lot 65: kağıt üzerine suluboya, imzalı., 20x27 cm; tahmini 50.000-90.000 TL, açılış 20.000 TL; son pey 28.500 TL, satış tamamlanmadı · 28500 TL
+- Müzayede 92 (kapanış 2026-11-02), Lot 83: kağıt üzerine karışık teknik, imzalı., 31x41 cm; tahmini 35.000-45.000 TL, açılış 25.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 84: kağıt üzerine suluboya, imzalı., 20x27 cm; tahmini 35.000-45.000 TL, açılış 25.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -68,7 +70,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 65 | , , kağıt üzerine suluboya, imzalı., 20x27 | 50000-90000 | 28500 çekiç / 31350 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 65 | , , kağıt üzerine suluboya, imzalı., 20x27 | 50000-90000 | son pey 28500 TL; satış tamamlanmadı (sahip QcaL, 2026-10-27); eser Müzayede 92de yeniden satışta TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -91,12 +93,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **4 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
 | d2 | Akademik yayın, tez, monografi, müze | 4 / 7 | Hakkında yüksek lisans tezi (İKÜ) [3] |
-| **E · Piyasa görünürlüğü** | | **4 / 25** | |
+| **E · Piyasa görünürlüğü** | | **3 / 25** | |
 | e1 | Türk müzayedeleri | 3 / 8 | emsal: 1 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
-| e3 | Fiyat seviyesi (doğrulanmış) | 1 / 6 | emsal: 1/1 lot satıldı, en yüksek çekiç 28.500 TL |
+| e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **40 / 100** | Veri kapsamı %60 |
+| | **Toplam** | **39 / 100** | Veri kapsamı %53 |
 
 ## 8. Kaynakça
 

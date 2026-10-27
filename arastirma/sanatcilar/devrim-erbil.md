@@ -48,11 +48,16 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 92: tuval üzerine yağlıboya, imzalı, 110x110 cm, tarihi yarımada [2]
-- Müzayede 91 (2026-09-22), Lot 109: İstanbul Galata Kuş Esintisi, edition: 23/25, 70x100 cm; tahmini 25.000-45.000 TL, açılış 10.000 TL; satıldı, çekiç 18.000 TL · 18000 TL
-- Müzayede 91 (2026-09-22), Lot 110: İstanbul Galata Haliç, serigrafi, imzalı., 70x100 cm; tahmini 25.000-45.000 TL, açılış 10.000 TL; satıldı, çekiç 18.000 TL · 18000 TL
-- Müzayede 91 (2026-09-22), Lot 129: İstanbul Galatadan, edition: EA 21/25, serigrafi, imzalı., 70x100 cm; tahmini 25.000-45.000 TL, açılış 10.000 TL; satıldı, çekiç 18.000 TL · 18000 TL
+- Müzayede 91 (2026-09-22), Lot 109: İstanbul Galata Kuş Esintisi, edition: 23/25, 70x100 cm; tahmini 25.000-45.000 TL, açılış 10.000 TL; son pey 18.000 TL, satış tamamlanmadı · 18000 TL
+- Müzayede 91 (2026-09-22), Lot 110: İstanbul Galata Haliç, serigrafi, imzalı., 70x100 cm; tahmini 25.000-45.000 TL, açılış 10.000 TL; son pey 18.000 TL, satış tamamlanmadı · 18000 TL
+- Müzayede 91 (2026-09-22), Lot 129: İstanbul Galatadan, edition: EA 21/25, serigrafi, imzalı., 70x100 cm; tahmini 25.000-45.000 TL, açılış 10.000 TL; son pey 18.000 TL, satış tamamlanmadı · 18000 TL
 - Müzayede 91 (2026-09-22), Lot 130: İstanbul İzlenimleri, edition: EA 6/37, serigrafi, imzalı., 70x90 cm; tahmini 25.000-45.000 TL, açılış 10.000 TL; satıldı, çekiç 15.000 TL · 15000 TL
+- Müzayede 92 (kapanış 2026-11-02), Lot 14: tuval üzerine yağlıboya, imzalı., 110x110 cm; tahmini 1.300.000-2.000.000 TL, açılış 1.000.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 85: İstanbul Galata Haliç, serigrafi, imzalı., 70x100 cm; tahmini 10.000-20.000 TL, açılış 10.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 86: İstanbul Galata Kuş Esintisi, serigrafi, imzalı., edition: 23/25, 70x100 cm; tahmini 10.000-20.000 TL, açılış 10.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 133: İstanbul, Haydarpaşa, edition: 12/25, serigrafi, imzalı., 70x100 cm; tahmini 10.000-20.000 TL, açılış 10.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 134: İstanbul İzlenimleri, edition: EA 6/37, serigrafi, imzalı., 70x90 cm; tahmini 10.000-20.000 TL, açılış 10.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 224: Haydarpaşa, edition: 7/15, serigrafi, imzalı., 32x42 cm; tahmini 10.000-20.000 TL, açılış 10.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -67,9 +72,9 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 109 | İstanbul Galata Kuş Esintisi, , , 70x100 | 25000-45000 | 18000 çekiç / 19800 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
-| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 110 | İstanbul Galata Haliç, , serigrafi, imzalı., 70x100 | 25000-45000 | 18000 çekiç / 19800 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
-| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 129 | İstanbul Galatadan, , serigrafi, imzalı., 70x100 | 25000-45000 | 18000 çekiç / 19800 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 109 | İstanbul Galata Kuş Esintisi, , , 70x100 | 25000-45000 | son pey 18000 TL; satış tamamlanmadı (sahip QcaL, 2026-10-27); eser Müzayede 92de yeniden satışta TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 110 | İstanbul Galata Haliç, , serigrafi, imzalı., 70x100 | 25000-45000 | son pey 18000 TL; satış tamamlanmadı (sahip QcaL, 2026-10-27); eser Müzayede 92de yeniden satışta TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 129 | İstanbul Galatadan, , serigrafi, imzalı., 70x100 | 25000-45000 | son pey 18000 TL; satış tamamlanmadı (sahip QcaL, 2026-10-27); eser Müzayede 92de yeniden satışta TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 130 | İstanbul İzlenimleri, , serigrafi, imzalı., 70x90 | 25000-45000 | 15000 çekiç / 16500 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
@@ -96,7 +101,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **E · Piyasa görünürlüğü** | | **6 / 25** | |
 | e1 | Türk müzayedeleri | 5 / 8 | emsal: 4 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
-| e3 | Fiyat seviyesi (doğrulanmış) | 1 / 6 | emsal: 4/4 lot satıldı, en yüksek çekiç 18.000 TL |
+| e3 | Fiyat seviyesi (doğrulanmış) | 1 / 6 | emsal: 1/4 lot satıldı, en yüksek çekiç 15.000 TL |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
 | | **Toplam** | **70 / 100** | Veri kapsamı %80 |
 

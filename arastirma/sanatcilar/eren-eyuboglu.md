@@ -1,6 +1,6 @@
 ---
 sanatci: "Eren Eyüboğlu"
-dogum: "1913, Romanya [1]"
+dogum: "Çelişkili: 1913 (KTB [1]) ve 1907 (İstanbul Modern, VIAF [2]); Romanya. Belirleyici kaynak 1988 ölüm haberleri"
 olum: "1988 [1]"
 disiplin: "resim, mozaik"
 kabul: "K1 (akademik)"
@@ -19,7 +19,7 @@ guven: "taslak"
 
 ## 1. Künye ve Biyografi
 
-**Doğum / ölüm:** 1913, Romanya [1] · 1988 [1]
+**Doğum / ölüm:** Çelişkili: 1913 (KTB [1]) ve 1907 (İstanbul Modern, VIAF [2]); Romanya. Belirleyici kaynak 1988 ölüm haberleri · 1988 [1]
 **Disiplin:** resim, mozaik
 
 **Eğitim**
@@ -46,7 +46,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Henüz Artvela müzayedesinde yer almadı.
+- Müzayede 92 (kapanış 2026-11-03), Lot 253: yazma üzerine el boyama, 38x52 cm; tahmini 25.000-35.000 TL, açılış 22.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -95,6 +95,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 8. Kaynakça
 
 1. [1] T.C. Kültür ve Turizm Bakanlığı, Eren Eyüboğlu. https://www.ktb.gov.tr/EN-117601/eren-eyuboglu.html
+2. [2] VIAF, "Eyuboğlu, Eren, 1907-1988". https://viaf.org/viaf/21808451 (İstanbul Modern koleksiyon sayfası da 1907 veriyor; sanat tarihi bilgi tabanı raporu 2026-10-27)
 
 ## 9. Açık Sorular
 

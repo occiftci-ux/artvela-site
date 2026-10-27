@@ -105,8 +105,8 @@ coskun-sami,Coşkun Sami,kesif,g,eklendi,2026-10-23,sahip isteği: Bej biyografi
 emre-calis,Emre Çalış,odul-burs,g,eklendi,2026-10-24,77. Devlet Resim ve Heykel Yarışması 2025 resim başarı ödülü
 salih-cakar,Salih Çakar,odul-burs,g,eklendi,2026-10-24,77. Devlet Resim ve Heykel Yarışması 2025 resim başarı ödülü
 duru-bozkurt,Duru Bozkurt,odul-burs,g,eklendi,2026-10-24,"Genç Sanat 2024 sergileme, 2025 başarı ödülü; medyum doğrulanacak"
-elif-boyraz,Elif Boyraz,odul-burs,g,bekliyor,2026-10-24,"Genç Sanat 2024 başarı, 2025 mansiyon; medyum doğrulanacak"
-ihsan-berke-saracoglu,İhsan Berke Saraçoğlu,odul-burs,g,bekliyor,2026-10-24,"Genç Sanat 2024 sergileme, 2025 başarı; medyum doğrulanacak"
+elif-boyraz,Elif Boyraz,odul-burs,g,eklendi,2026-10-24,"Genç Sanat 2024 başarı, 2025 mansiyon; medyum doğrulanacak"
+ihsan-berke-saracoglu,İhsan Berke Saraçoğlu,odul-burs,g,eklendi,2026-10-24,"Genç Sanat 2024 sergileme, 2025 başarı; medyum doğrulanacak"
 derya-yilmaz,Derya Yılmaz,odul-burs,g,bekliyor,2026-10-24,"77. DRHY 2025 resim başarı ödülü; ad yaygın, katalogla eşleştir"
 elif-akcay,Elif Akçay,odul-burs,g,eklendi,2026-10-24,"Nuri İyem Resim Ödülü 2022, Evin İyem ödülü"
 seref-akdik,Şeref Akdik,sanat-tarihcisi,c,eklendi,2026-10-25,"istek: sanat-tarihcisi, O-0234 inkılap resmi"
@@ -270,3 +270,27 @@ canan-senol,Canan Şenol,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tar
 elif-uras,Elif Uras,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, 2000 sonrası uluslararası müzayedelerde Türk sanatı (O-0488, O-0496); disiplin belirlenmeli"
 arslan-sukan,Arslan Sükan,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, 2000 sonrası uluslararası müzayedelerde Türk sanatı (O-0488, O-0496); disiplin belirlenmeli"
 firat-neziroglu,Fırat Neziroğlu,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, 2000 sonrası uluslararası müzayedelerde Türk sanatı (O-0488, O-0496); disiplin belirlenmeli"
+yuksel-arslan,Yüksel Arslan,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, tarih yazımının eleştirisi, 1963-64 sergi komitesi (O-0504, O-0508)"
+melike-kurtic,Melike Kurtiç,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, tarih yazımının eleştirisi, 1963-64 sergi komitesi (O-0504, O-0508)"
+fatma-tulin-ozturk,Fatma Tülin Öztürk,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, tarih yazımının eleştirisi, 1963-64 sergi komitesi (O-0504, O-0508)"
+osman-sirman,Osman Sirman,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, tarih yazımının eleştirisi, 1963-64 sergi komitesi (O-0504, O-0508)"
+asim-mutlu,Asım Mutlu,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, tarih yazımının eleştirisi, 1963-64 sergi komitesi (O-0504, O-0508)"
+fahri-sumer,Fahri Sümer,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, ilk DYO sergisi 1967 (O-0514)"
+seref-bigali,Şeref Bigalı,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, ilk DYO sergisi 1967 (O-0514)"
+resat-atalik,Reşat Atalık,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, 28. DRHS 1967 (O-0515–O-0517)"
+gunduz-golonu,Gündüz Gölönü,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, Doğuş Galerisi 1967 (O-0526)"
+nevin-cokay,Nevin Çokay,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, ON'lar Grubu, Turan Erol 1967 (O-0527, O-0528)"
+huseyin-yuce,Hüseyin Yüce,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, Turan Erol 1967 Ulus yazıları (O-0530, O-0531)"
+sukru-erdiren,Şükrü Erdiren,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, Turan Erol 1967 Ulus yazıları (O-0530, O-0531)"
+jale-yasan,Jale Yasan,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, Turan Erol 1967 Ulus yazıları (O-0530, O-0531)"
+yuksel-tunc,Yüksel Tunç,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, Turan Erol 1967 Ulus yazıları (O-0530, O-0531)"
+riza-sentuna,Rıza Şentuna,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, ON'lar Grubu sergileri 1946-1949 (O-0535, O-0536)"
+meryem-palavan,Meryem Palavan,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, ON'lar Grubu sergileri 1946-1949 (O-0535, O-0536)"
+alis-as,Alis Aş,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, ON'lar Grubu sergileri 1946-1949 (O-0535, O-0536)"
+faik-sezer,Faik Sezer,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, ON'lar Grubu sergileri 1946-1949 (O-0535, O-0536)"
+osman-yenisoy,Osman Yenisoy,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, ON'lar Grubu sergileri 1946-1949 (O-0535, O-0536)"
+hayrullah-tiner,Hayrullah Tiner,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, ON'lar Grubu sergileri 1946-1949 (O-0535, O-0536)"
+aliye-kara,Aliye Kara,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, ON'lar Grubu sergileri 1946-1949 (O-0535, O-0536)"
+nurdan-unus,Nurdan Unus,odul-burs,g,bekliyor,2026-10-27,odul-burs: 11. Genç Sanat 2025 başarı ödülü (Gazete Birlik 18.11.2025); medyum doğrulanacak
+yildiz-ozcan,Yıldız Özcan,odul-burs,g,bekliyor,2026-10-27,odul-burs: 11. Genç Sanat 2025 başarı ödülü (Gazete Birlik 18.11.2025); medyum doğrulanacak
+muhammed-kerem-ozkan,Muhammed Kerem Özkan,odul-burs,g,bekliyor,2026-10-27,odul-burs: 11. Genç Sanat 2025 başarı ödülü (Gazete Birlik 18.11.2025); medyum doğrulanacak

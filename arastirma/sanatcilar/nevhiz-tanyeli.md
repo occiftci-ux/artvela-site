@@ -52,6 +52,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 - Müzayede 91 (2026-09-22), Lot 31: kağıt üzerine akrilik boya, imzalı., 2004 tarihli., 33x45 cm; tahmini 200.000-300.000 TL, açılış 190.000 TL; satılmadı
 - Müzayede 91 (2026-09-22), Lot 32: kağıt üzerine kara kalem, imzalı., Cemal Süreyya Portresi., 31x27 cm; tahmini 150.000-200.000 TL, açılış 145.000 TL; satılmadı
+- Müzayede 92 (kapanış 2026-11-02), Lot 3: kağıt üzerine kara kalem, imzalı., Cemal Süreyya Portresi., 31x27 cm; tahmini 200.000-250.000 TL, açılış 150.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 4: Kaç, Kaç!, kağıt üzerine akrilik boya, imzalı., 2001 tarihli., 46x34 cm; tahmini 300.000-350.000 TL, açılış 250.000 TL; açık
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
