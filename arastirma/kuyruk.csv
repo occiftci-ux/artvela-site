@@ -49,8 +49,8 @@ hale-sontas,Hale Sontaş,artvela-envanter,b,kaynak-yok,2026-10-23,Müzayede 91/9
 mustafa-ozel,Mustafa Özel,artvela-envanter,b,kaynak-yok,2026-10-23,Müzayede 91/92; 2026-10-28: iki aramada kamusal kaynak yok
 samed-arda-selim,Samed Arda Selim,artvela-envanter,b,kaynak-yok,2026-10-23,Müzayede 91/92; 2026-10-28: adla kamuya açık iz bulunamadı
 hakan-esmer,Hakan Esmer,artvela-envanter,b,eklendi,2026-10-23,Müzayede 91/92
-gurdal-duyar,Gürdal Duyar,artvela-envanter,b,kapsam-disi,2026-10-23,Müzayede 91/92; 2026-10-28: bronz heykel (GV3)
-ozer-aktas,Özer Aktaş,artvela-envanter,b,kapsam-disi,2026-10-23,Müzayede 91/92; 2026-10-28: metal eser (GV3)
+gurdal-duyar,Gürdal Duyar,artvela-envanter,b,bekliyor,2026-10-23,"Müzayede 91/92; 2026-10-28: bronz heykel (GV3); 2026-10-28: kuyruğa geri alındı, kapsam resim ve heykel; GV3 yalnız Bej keşfinde figüratif resim önceliği"
+ozer-aktas,Özer Aktaş,artvela-envanter,b,bekliyor,2026-10-23,"Müzayede 91/92; 2026-10-28: metal eser (GV3); 2026-10-28: kuyruğa geri alındı, kapsam resim ve heykel; GV3 yalnız Bej keşfinde figüratif resim önceliği"
 seyyit-bozdogan,Seyyit Bozdoğan,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
 umit-yigit,Ümit Yiğit,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
 memduh-kuzay,Memduh Kuzay,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
@@ -177,12 +177,12 @@ husnu-yusuf,Hüsnü Yusuf,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-ta
 hasan-riza,Hasan Rıza,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, donem:asker-ressamlar"
 diyarbakirli-tahsin,Diyarbakırlı Tahsin,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, donem:asker-ressamlar"
 ahmet-izzet,Ahmet İzzet,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, kurum:osmanli-ressamlar-cemiyeti"
-mesrur-izzet,Mesrur İzzet,sanat-tarihcisi,c,kapsam-disi,2026-10-26,"istek: sanat-tarihcisi, kurum:osmanli-ressamlar-cemiyeti; heykel (GV3: şimdilik heykel yok)"
+mesrur-izzet,Mesrur İzzet,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, kurum:osmanli-ressamlar-cemiyeti; heykel (GV3: şimdilik heykel yok); 2026-10-28: kuyruğa geri alındı, kapsam resim ve heykel; GV3 yalnız Bej keşfinde figüratif resim önceliği"
 sehzade-abdulmecid-efendi,Şehzade Abdülmecid Efendi,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, kurum:osmanli-ressamlar-cemiyeti"
 ali-cemal-benim,Ali Cemal Benim,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, olay:sisli-atolyesi"
 mehmet-ali-laga,Mehmet Ali Laga,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, olay:sisli-atolyesi"
 rusen-zamir,Ruşen Zamir,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, olay:sisli-atolyesi"
-mahir-tomruk,Mahir Tomruk,sanat-tarihcisi,c,kapsam-disi,2026-10-26,"istek: sanat-tarihcisi, olay:sisli-atolyesi; heykel (GV3: şimdilik heykel yok)"
+mahir-tomruk,Mahir Tomruk,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, olay:sisli-atolyesi; heykel (GV3: şimdilik heykel yok); 2026-10-28: kuyruğa geri alındı, kapsam resim ve heykel; GV3 yalnız Bej keşfinde figüratif resim önceliği"
 hulusi-mercan,Hulusi Mercan,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, kurum:ilk-galeriler"
 hayrullah-ors,Hayrullah Örs,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, kurum:gazi-resim-is"
 sinasi-barutcu,Şinasi Barutçu,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, kurum:gazi-resim-is"
@@ -219,7 +219,7 @@ tamer-akakinci,Tamer Akakıncı,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sa
 balkan-naci-islimyeli,Balkan Naci İslimyeli,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, sergi:yeni-egilimler, O-0422–O-0429"
 nur-kocak,Nur Koçak,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, sergi:yeni-egilimler, O-0422–O-0429"
 fusun-onur,Füsun Onur,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, sergi:yeni-egilimler, O-0422–O-0429"
-gurel-yontan,Gürel Yontan,sanat-tarihcisi,c,kapsam-disi,2026-10-26,"istek: sanat-tarihcisi, sergi:yeni-egilimler, O-0422–O-0429; heykel (GV3)"
+gurel-yontan,Gürel Yontan,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, sergi:yeni-egilimler, O-0422–O-0429; heykel (GV3); 2026-10-28: kuyruğa geri alındı, kapsam resim ve heykel; GV3 yalnız Bej keşfinde figüratif resim önceliği"
 tomur-atagok,Tomur Atagök,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, sergi:yeni-egilimler, O-0422–O-0429"
 serhat-kiraz,Serhat Kiraz,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, sergi:yeni-egilimler, O-0422–O-0429"
 yusuf-taktak,Yusuf Taktak,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, sergi:yeni-egilimler, O-0422–O-0429"
@@ -231,7 +231,7 @@ sarkis,Sarkis,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, İs
 ergin-inan,Ergin İnan,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, İstanbul Bienali 1987/1989, O-0439–O-0452"
 erol-akyavas,Erol Akyavaş,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, İstanbul Bienali 1987/1989, O-0439–O-0452"
 fikret-mualla,Fikret Mualla,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, İstanbul Bienali 1987/1989, O-0439–O-0452"
-mehmet-aksoy,Mehmet Aksoy,sanat-tarihcisi,c,kapsam-disi,2026-10-26,"istek: sanat-tarihcisi, İstanbul Bienali 1987/1989, O-0439–O-0452; heykel (GV3)"
+mehmet-aksoy,Mehmet Aksoy,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, İstanbul Bienali 1987/1989, O-0439–O-0452; heykel (GV3); 2026-10-28: kuyruğa geri alındı, kapsam resim ve heykel; GV3 yalnız Bej keşfinde figüratif resim önceliği"
 halil-akdeniz,Halil Akdeniz,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, İstanbul Bienali 1987/1989, O-0439–O-0452"
 mithat-sen,Mithat Şen,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, İstanbul Bienali 1987/1989, O-0439–O-0452"
 erdag-aksel,Erdağ Aksel,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, İstanbul Bienali 1987/1989, O-0439–O-0452"
