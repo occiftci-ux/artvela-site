@@ -55,10 +55,10 @@ seyyit-bozdogan,Seyyit Bozdoğan,artvela-envanter,b,eklendi,2026-10-23,Müzayede
 umit-yigit,Ümit Yiğit,artvela-envanter,b,kaynak-yok,2026-10-23,Müzayede 91/92; 2026-10-28: adla kamuya açık iz bulunamadı
 memduh-kuzay,Memduh Kuzay,artvela-envanter,b,eklendi,2026-10-23,Müzayede 91/92; 2026-10-28 23:17: eklendi
 behruz-kuul,Behruz Kuul,artvela-envanter,b,bekliyor,2026-10-23,"Müzayede 91/92; 2026-10-28: tek kaynak FORA CV (assets.tina.io) proxy engelli, sonraki turda yeniden denenecek"
-elif-aydemir,Elif Aydemir,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
-izzet-arda-onursan,İzzet Arda Onursan,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
-mustafa-sonmez,Mustafa Sönmez,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
-sezgin-malkoc,Sezgin Malkoç,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
+elif-aydemir,Elif Aydemir,artvela-envanter,b,kaynak-yok,2026-10-23,Müzayede 91/92; 2026-10-29: adla kamuya açık sanatçı izi bulunamadı (adaşlar dışında)
+izzet-arda-onursan,İzzet Arda Onursan,artvela-envanter,b,kaynak-yok,2026-10-23,Müzayede 91/92; 2026-10-29: adla kamuya açık sanatçı izi bulunamadı (adaşlar dışında)
+mustafa-sonmez,Mustafa Sönmez,artvela-envanter,b,kaynak-yok,2026-10-23,Müzayede 91/92; 2026-10-29: adla kamuya açık sanatçı izi bulunamadı (adaşlar dışında)
+sezgin-malkoc,Sezgin Malkoç,artvela-envanter,b,kaynak-yok,2026-10-23,Müzayede 91/92; 2026-10-29: adla kamuya açık sanatçı izi bulunamadı (adaşlar dışında)
 orhan-kurmali,Orhan Kurmalı,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
 senol-bora,Şenol Bora,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
 orhan-gazi-keskin,Orhan Gazi Keskin,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
@@ -157,7 +157,7 @@ mumtaz-yener,Mümtaz Yener,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-t
 turgut-atalay,Turgut Atalay,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, O-0002, O-0031, O-0076"
 agop-arad,Agop Arad,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, O-0002, O-0031, O-0076"
 hasmet-akal,Haşmet Akal,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, O-0002, O-0031, O-0076"
-refik-epikman,Refik Epikman,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, O-0002, O-0031, O-0076"
+refik-epikman,Refik Epikman,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, O-0002, O-0031, O-0076; 2026-10-29: sanat tarihçisi yeniden önerdi (Halkevleri, O-0601–O-0612)"
 ali-avni-celebi,Ali Avni Çelebi,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, O-0002, O-0031, O-0076"
 osman-hamdi,Osman Hamdi,sanat-tarihcisi,c,bekliyor,2026-10-26,"istek: sanat-tarihcisi, olay:sanayi-i-nefise"
 salvatore-valeri,Salvatore Valeri,sanat-tarihcisi,c,kapsam-disi,2026-10-26,"istek: sanat-tarihcisi, olay:sanayi-i-nefise; yabancı hoca, Türk sanatçısı değil"
@@ -296,3 +296,12 @@ yildiz-ozcan,Yıldız Özcan,odul-burs,g,eklendi,2026-10-27,odul-burs: 11. Genç
 muhammed-kerem-ozkan,Muhammed Kerem Özkan,odul-burs,g,bekliyor,2026-10-27,odul-burs: 11. Genç Sanat 2025 başarı ödülü (Gazete Birlik 18.11.2025); medyum doğrulanacak
 nuri-abac,Nuri Abaç,artvela-envanter,a,eklendi,2026-10-27,"istek: muzayede-video, M92 Lot 20"
 ibrahim-ozsozgun,İbrahim Özsözgün,odul-burs,g,eklendi,2026-10-28,odul-burs: Nuri İyem 2022; istek: koleksiyoner-arsivi
+cemal-tollu,Cemal Tollu,sanat-tarihcisi,c,eklendi,2026-10-29,"istek: sanat-tarihcisi, Halkevleri ve Gazi Resim-İş (O-0601, O-0608, O-0612); 2026-10-29: eklendi (sanat tarihçisi isteği)"
+arif-kaptan,Arif Kaptan,sanat-tarihcisi,c,bekliyor,2026-10-29,"istek: sanat-tarihcisi, Halkevleri ve Gazi Resim-İş (O-0601, O-0608, O-0612)"
+ali-riza-beyazid,Ali Rıza Beyazıd,sanat-tarihcisi,c,bekliyor,2026-10-29,"istek: sanat-tarihcisi, Halkevleri ve Gazi Resim-İş (O-0601, O-0608, O-0612)"
+pertev-boyar,Pertev Boyar,sanat-tarihcisi,c,bekliyor,2026-10-29,"istek: sanat-tarihcisi, Halkevleri ve Gazi Resim-İş (O-0601, O-0608, O-0612)"
+sami-karabati,Sami Karabatı,sanat-tarihcisi,c,bekliyor,2026-10-29,"istek: sanat-tarihcisi, Halkevleri ve Gazi Resim-İş (O-0601, O-0608, O-0612)"
+numan-pura,Numan Pura,sanat-tarihcisi,c,bekliyor,2026-10-29,"istek: sanat-tarihcisi, Halkevleri ve Gazi Resim-İş (O-0601, O-0608, O-0612)"
+kemal-cizer,Kemal Çizer,sanat-tarihcisi,c,bekliyor,2026-10-29,"istek: sanat-tarihcisi, Halkevleri ve Gazi Resim-İş (O-0601, O-0608, O-0612)"
+zahide-ozer,Zahide Özer,sanat-tarihcisi,c,bekliyor,2026-10-29,"istek: sanat-tarihcisi, Halkevleri ve Gazi Resim-İş (O-0601, O-0608, O-0612)"
+abdullah-cizer,Abdullah Çizer,sanat-tarihcisi,c,bekliyor,2026-10-29,"istek: sanat-tarihcisi, Halkevleri ve Gazi Resim-İş (O-0601, O-0608, O-0612)"
