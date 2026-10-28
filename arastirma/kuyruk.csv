@@ -47,10 +47,10 @@ harun-antakyali,Harun Antakyalı,artvela-envanter,b,eklendi,2026-10-23,Müzayede
 yusuf-katipoglu,Yusuf Katipoğlu,artvela-envanter,b,eklendi,2026-10-23,Müzayede 91/92
 hale-sontas,Hale Sontaş,artvela-envanter,b,kaynak-yok,2026-10-23,Müzayede 91/92; 2026-10-28: iki aramada kamusal kaynak yok
 mustafa-ozel,Mustafa Özel,artvela-envanter,b,kaynak-yok,2026-10-23,Müzayede 91/92; 2026-10-28: iki aramada kamusal kaynak yok
-samed-arda-selim,Samed Arda Selim,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
+samed-arda-selim,Samed Arda Selim,artvela-envanter,b,kaynak-yok,2026-10-23,Müzayede 91/92; 2026-10-28: adla kamuya açık iz bulunamadı
 hakan-esmer,Hakan Esmer,artvela-envanter,b,eklendi,2026-10-23,Müzayede 91/92
-gurdal-duyar,Gürdal Duyar,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
-ozer-aktas,Özer Aktaş,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
+gurdal-duyar,Gürdal Duyar,artvela-envanter,b,kapsam-disi,2026-10-23,Müzayede 91/92; 2026-10-28: bronz heykel (GV3)
+ozer-aktas,Özer Aktaş,artvela-envanter,b,kapsam-disi,2026-10-23,Müzayede 91/92; 2026-10-28: metal eser (GV3)
 seyyit-bozdogan,Seyyit Bozdoğan,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
 umit-yigit,Ümit Yiğit,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
 memduh-kuzay,Memduh Kuzay,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
@@ -70,7 +70,7 @@ huseyin-rustemoglu,Hüseyin Rüstemoğlu,artvela-envanter,b,bekliyor,2026-10-23,
 gizem-enuysal,Gizem Enuysal,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
 selim-altan,Selim Altan,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
 veysel-saydut,Veysel Saydut,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
-albert-bitran,Albert Bitran,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
+albert-bitran,Albert Bitran,artvela-envanter,b,eklendi,2026-10-23,Müzayede 91/92; 2026-10-28: eklendi
 oktay-degirmenci,Oktay Değirmenci,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
 ayhan-taskiran,Ayhan Taşkıran,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
 filiz-tokcan,Filiz Tokcan,artvela-envanter,b,bekliyor,2026-10-23,Müzayede 91/92
@@ -291,8 +291,8 @@ faik-sezer,Faik Sezer,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihc
 osman-yenisoy,Osman Yenisoy,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, ON'lar Grubu sergileri 1946-1949 (O-0535, O-0536)"
 hayrullah-tiner,Hayrullah Tiner,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, ON'lar Grubu sergileri 1946-1949 (O-0535, O-0536)"
 aliye-kara,Aliye Kara,sanat-tarihcisi,c,bekliyor,2026-10-27,"istek: sanat-tarihcisi, ON'lar Grubu sergileri 1946-1949 (O-0535, O-0536)"
-nurdan-unus,Nurdan Unus,odul-burs,g,bekliyor,2026-10-27,odul-burs: 11. Genç Sanat 2025 başarı ödülü (Gazete Birlik 18.11.2025); medyum doğrulanacak
-yildiz-ozcan,Yıldız Özcan,odul-burs,g,bekliyor,2026-10-27,odul-burs: 11. Genç Sanat 2025 başarı ödülü (Gazete Birlik 18.11.2025); medyum doğrulanacak
+nurdan-unus,Nurdan Unus,odul-burs,g,eklendi,2026-10-27,odul-burs: 11. Genç Sanat 2025 başarı ödülü (Gazete Birlik 18.11.2025); medyum doğrulanacak; 2026-10-28: eklendi (Bej radar)
+yildiz-ozcan,Yıldız Özcan,odul-burs,g,eklendi,2026-10-27,odul-burs: 11. Genç Sanat 2025 başarı ödülü (Gazete Birlik 18.11.2025); medyum doğrulanacak; 2026-10-28: eklendi (Bej radar)
 muhammed-kerem-ozkan,Muhammed Kerem Özkan,odul-burs,g,bekliyor,2026-10-27,odul-burs: 11. Genç Sanat 2025 başarı ödülü (Gazete Birlik 18.11.2025); medyum doğrulanacak
 nuri-abac,Nuri Abaç,artvela-envanter,a,eklendi,2026-10-27,"istek: muzayede-video, M92 Lot 20"
 ibrahim-ozsozgun,İbrahim Özsözgün,odul-burs,g,eklendi,2026-10-28,odul-burs: Nuri İyem 2022; istek: koleksiyoner-arsivi
