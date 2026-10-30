@@ -26,6 +26,7 @@ guven: "taslak"
 - Doğrulanacak: eğitim bilgisi bulunamadı.
 
 **Kronoloji**
+- Muhtemel eşleşme, doğrulanacak: 2022 Akbank 40. Günümüz Sanatçıları Ödülü Sergisi'nde Emre Çalış (1988, Muş; Hacettepe Üniversitesi Resim), "HABİTAT", 2021, tuval üzerine yağlıboya, 100x150 cm [2].
 - 2025: 77. Devlet Resim ve Heykel Yarışması, resim dalı başarı ödülü, "Yapay Ağırlık". Seçici kurul: Turhan Çetin, Zehra Çobanlı, Mustafa Orkun Müftüoğlu, H. Erkan Özdilek, Ömer Faruk Belviranlı [1].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
@@ -111,6 +112,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 8. Kaynakça
 
 1. [1] DHA, "Devlet Resim ve Heykel Yarışması'nda sonuçlar açıklandı", 17.12.2025. https://www.dha.com.tr/kultur-sanat/devlet-resim-ve-heykel-yarismasinda-sonuclar-aciklandi-2779490
+2. [2] Akbank Sanat, "Akbank 40. Günümüz Sanatçıları Ödülü Sergisi" kataloğu, 2022 (seçici kurul: Çelenk Bafra, Derya Bigalı, Fatoş Üstek, Gönül Nuhoğlu, İpek Duben). https://www.akbanksanat.com/content/file/aksanat.2022.0029akbank40.gunumuzsanatcilarisergikatalog_v3_web.pdf
 
 ## 9. Açık Sorular
 
