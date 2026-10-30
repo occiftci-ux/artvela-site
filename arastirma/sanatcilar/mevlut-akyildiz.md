@@ -30,7 +30,7 @@ guven: "taslak"
 - 1985: Çamlıca Sanat Evi'nde özgün baskı [1].
 - 1988–89: USIA desteğiyle Provincetown Art Colony rezidansı [1].
 - Odeabank O'Art'ta cam altı resimler sergisi [2]. "Casanova'nın Gönül Defteri" sergisi [3].
-- Garanti Sanat Galerisi kişisel sergisi (SALT Araştırma kaydı) [5].
+- 1998: Garanti Sanat Galerisi, İstanbul, 7–28 Ekim, kişisel sergi; katalogda sanatçının "Yerli malı yurdun malı..." başlıklı metni (SALT künyesi) [5].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
 

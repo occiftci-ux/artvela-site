@@ -4,9 +4,9 @@ dogum: "Doğrulanacak"
 olum: ""
 disiplin: "resim"
 kabul: "K2 (galeri)"
-puan: 7
+puan: 11
 kademe: "(V · İzleme) ön puan"
-veri_kapsami: 13
+veri_kapsami: 20
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **7 / 100** | (V · İzleme) ön puan | %13 | K2 (galeri): Kızıltoprak, Ümit Yaşar ve Galeri Baraz (Hilton Harbiye) kişisel sergileri (SALT kayıtları) [1]. |
+| **11 / 100** | (V · İzleme) ön puan | %20 | K2 (galeri): Kızıltoprak, Ümit Yaşar ve Galeri Baraz (Hilton Harbiye) kişisel sergileri (SALT kayıtları) [1]. |
 
 ## 1. Künye ve Biyografi
 
@@ -26,7 +26,9 @@ guven: "taslak"
 - Doğrulanacak: eğitim bilgisi bulunamadı.
 
 **Kronoloji**
-- Kişisel sergiler: Kızıltoprak Sanat Galerisi; Ümit Yaşar Sanat Galerisi; Hilton Harbiye ve Galeri Baraz (yıllar doğrulanacak; SALT kayıt başlıkları) [1].
+- 1978: "Çağrı", Hilton Harbiye ve Galeri Baraz, İstanbul, 21–30 Nisan, kişisel resim sergisi; katalogda Gültekin Elibal metni (SALT künyesi) [1].
+- Ümit Yaşar Sanat Galerisi, İstanbul, kişisel sergi (yıl yok); katalogda Antonio Marasco, Mustafa Aslıer, Cemal Tollu, Turan Erol, Gültekin Elibal, İsmail Tunalı, Sezer Tansuğ ve Ümit Yaşar Oğuzcan metinleri (SALT künyesi) [1].
+- 1996–97: Kızıltoprak Sanat Galerisi, İstanbul, 21 Aralık – 16 Ocak, kişisel sergi; katalogda Abdülkadir Günyaz'ın "Hüseyin Bilişik: Bir Gerçek Usta" metni (SALT künyesi) [1].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
 
@@ -71,23 +73,23 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | a1 | Akademi / fakülte mezunu | 0 / 8 | *eksik* |
 | a2 | Yurtdışı eğitim, burs, rezidans | 0 / 4 | *eksik* |
 | a3 | Akademisyenlik, öğrenci yetiştirme | 0 / 3 | *eksik* |
-| **B · Sergi geçmişi** | | **4 / 25** | |
-| b1 | Kişisel sergiler | 4 / 10 | Üç kurumsal galeride kişisel sergi |
+| **B · Sergi geçmişi** | | **5 / 25** | |
+| b1 | Kişisel sergiler | 5 / 10 | Baraz 1978, Ümit Yaşar, Kızıltoprak 1996–97 kişisel sergileri |
 | b2 | Retrospektif / müze ve kurum sergisi | 0 / 8 | *eksik* |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 0 / 7 | *eksik* |
 | **C · Kurumsal tanınırlık** | | **0 / 20** | |
 | c1 | Türkiye'deki müze koleksiyonları | 0 / 8 | *eksik* |
 | c2 | Yurtdışındaki müze koleksiyonları | 0 / 7 | *eksik* |
 | c3 | Ödüller | 0 / 5 | *eksik* |
-| **D · Sanat tarihindeki konum** | | **0 / 15** | |
+| **D · Sanat tarihindeki konum** | | **3 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
-| d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
+| d2 | Akademik yayın, tez, monografi, müze | 3 / 7 | Katalog metinleri: Cemal Tollu, Turan Erol, Gültekin Elibal, İsmail Tunalı, Sezer Tansuğ |
 | **E · Piyasa görünürlüğü** | | **3 / 25** | |
 | e1 | Türk müzayedeleri | 3 / 8 | emsal: 1 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **7 / 100** | Veri kapsamı %13 |
+| | **Toplam** | **11 / 100** | Veri kapsamı %20 |
 
 ## 8. Kaynakça
 

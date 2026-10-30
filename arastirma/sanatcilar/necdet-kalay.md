@@ -27,7 +27,7 @@ guven: "taslak"
 
 **Kronoloji**
 - Yurtiçi ve yurtdışı sergilerde ödüller (adları doğrulanacak) [1].
-- Edpa Sanat Galerisi ve Artium Sungur Sanat Evi sergileri (SALT Araştırma kayıtları) [2].
+- 1995: "Artium 3. Yıl Sergisi: Necdet Kalay Resimleri", Artium Sungur Sanat Evi, İstanbul, 9 Kasım – 2 Aralık (SALT künyesi). Edpa Sanat Galerisi sergisi (yıl okunmadı) [2].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
 

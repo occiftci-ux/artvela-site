@@ -32,7 +32,7 @@ guven: "taslak"
 - İstanbul Operası'nda dekoratörlük (yıllar belirtilmemiş) [1].
 - 1986: Berlin Senatosu Sanatsal Çalışma Bursu [1].
 - 1994: Tem Sanat Galerisi, İstanbul, kişisel sergi; katalogda Prof. Dr. Bernd Peter Lange'nin yazısı [2].
-- Taksim Sanat Galerisi, İstanbul, resim ve plastik sergisi (SALT kaydı; yıl okunmadı) [3].
+- 1978: Taksim Sanat Galerisi, İstanbul, 22 Mart – 5 Nisan, resim ve plastik sergisi (SALT künyesi) [3].
 - 2007: Işık Üniversitesi Güzel Sanatlar Fakültesi öğretim üyesi; 2012'de doçent [1].
 - 2017: İş Sanat Kibele Galerisi, 4 Mayıs – 17 Haziran, elli yılı aşkın üretimini kapsayan sergi [1].
 

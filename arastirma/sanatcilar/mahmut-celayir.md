@@ -27,6 +27,7 @@ guven: "taslak"
 - 1976–78: Eskişehir TV Enstitüsü, grafik ve sahne tasarımı [1].
 
 **Kronoloji**
+- 1988: Vakko Sanat Galerisi, Ankara, 4–31 Ekim, kişisel resim sergisi (SALT künyesi) [3].
 - 1982–84: İstanbul Devlet Tiyatrosu'nda sahne tasarımı [1].
 - 1986'da Stuttgart'a yerleşti. Bugün İstanbul ve Berlin'de çalışıyor [1][2].
 - 2022: "Peykerun", İş Sanat Kibele Galerisi. İki dilli kitap, Beral Madra metni [1].

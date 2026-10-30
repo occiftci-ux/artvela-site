@@ -28,7 +28,7 @@ guven: "taslak"
 **Kronoloji**
 - MSGSÜ Resim Bölümü'nde öğretim üyesi ve atölye yürütücüsü [1].
 - 2025: "Sınır-sız" sergisi, Brieflyart Galeri, 22 Mayıs – 30 Haziran. Nâzım Hikmet'in *Şeyh Bedreddin Destanı*'ndan yola çıkıyor; katalogda Feyyaz Yaman ve N. Yıldız Erdal metinleri [1][3].
-- Evin Sanat Galerisi sergisi (SALT Araştırma kaydı) [4].
+- 1997: Evin Sanat Galerisi, İstanbul, 29 Nisan – 20 Mayıs, kişisel sergi (SALT künyesi) [4].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
 

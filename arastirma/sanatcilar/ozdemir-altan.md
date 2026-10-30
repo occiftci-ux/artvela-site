@@ -32,7 +32,8 @@ guven: "taslak"
 - 1968'den itibaren duvar halıları. En önemli örnekleri İstanbul Radyoevi'nde [2].
 - Hocaları Halil Dikmen ve Zeki Faik İzer [4].
 - 1984: İlk kişisel sergi, Galeri Baraz. 2022: "Soyağaçları", Galeri Baraz [4].
-- Derimod Kültür Merkezi'nde retrospektif sergi (SALT Araştırma kaydı) [5].
+- 1989: Retrospektif resim sergisi, Derimod Kültür Merkezi, İstanbul, 28 Eylül – 28 Kasım (SALT künyesi) [5].
+- 1997: Kare Sanat Galerisi otuz yıl önceki resimlerini sergiledi; Yeşim Nur'un 26.05.1997 tarihli yazısı (SALT künyesi) [3].
 - Dönemleri: Romantik, Krallar ve Kraliçeler, Tepegöz ve Sinek Kralının Oğlu, 12 Mart ve Sonrası, Gerçekçi, Kolaj ve Üçboyutlular, Soyağaçları (1989'dan), Yeni Dönem (2004 sonrası) [4].
 - 1996: Almanya'ya sergi için gönderilen 33 eseri gümrük engeli nedeniyle geri dönmedi. 26 yıl süren hukuk sürecinin sonunda iade edildi [1].
 

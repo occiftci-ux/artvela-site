@@ -28,7 +28,7 @@ guven: "taslak"
 **Kronoloji**
 - 1982–2004: İstanbul Atatürk Eğitim Enstitüsü ve Marmara Üniversitesi Atatürk Eğitim Fakültesi Güzel Sanatlar Eğitimi Bölümü'nde Resim Anasanat Dalı yürütücüsü. 1987 doçent, 1995 profesör [1].
 - 40'tan fazla kişisel sergi; 2006–2013 arasında Karsu, DYO İzmir, Doku, rh+artgallery, ETO, GaleriM, Nis galerileri [1].
-- Taksim Sanat Galerisi, Uran Kültür ve Sanat Merkezi, Tiglat Sanat Galerisi sergileri (SALT Araştırma kayıtları) [2].
+- 1979: 4. kişisel resim sergisi, Taksim Sanat Galerisi, İstanbul, 16 Şubat – 2 Mart (SALT künyesi). Uran Kültür ve Sanat Merkezi ve Tiglat Sanat Galerisi sergileri (yıl okunmadı) [2].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
 

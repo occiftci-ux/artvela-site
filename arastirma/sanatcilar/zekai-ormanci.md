@@ -31,7 +31,7 @@ guven: "taslak"
 - 1974–2000: İstanbul, Ankara ve İzmir'de 25 kişisel ve karma sergi; ör. Beyoğlu Şehir Galerisi 1974, Garanti Sanat Galerisi 1986 ve 1990, Arda Sanat Galerisi Ankara 1991–2000 [2].
 - 1993: Artifex'in (Paris) düzenlediği "Textiles Méditerranées" sergisinde Türkiye'yi temsil; Gruissan (Narbonne) sergisinde iki halı-resim [1][2].
 - 2004: İMOGA'da özgün baskı [1].
-- Kişisel sergiler ayrıca: Mine Sanat Galerisi, Dost Sanat Ortamı (Ankara), Devlet Güzel Sanatlar Galerisi (SALT kayıtları) [3].
+- 1988: Mine Sanat Galerisi, İstanbul, 29 Şubat – 29 Mart, kişisel sergi (SALT künyesi). Dost Sanat Ortamı (Ankara) ve Devlet Güzel Sanatlar Galerisi sergileri (yıl okunmadı) [3].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
 

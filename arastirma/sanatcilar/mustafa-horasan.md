@@ -30,7 +30,7 @@ guven: "taslak"
 - Almanya, Fransa, Hollanda, İspanya, ABD ve İtalya'da çalışmalar [1].
 - 2014: "When The Time Comes", Pi Artworks, Londra, 7 Nisan – 17 Mayıs; yeni tuvaller, kolaj ve video [3].
 - Eylül 2014: Yallay Center, Hong Kong, kişisel sergi [3].
-- "Alacakaranlık", Teşvikiye Sanat Galerisi, İstanbul (yıl doğrulanacak) [4].
+- 1998: "Alacakaranlık", Teşvikiye Sanat Galerisi, İstanbul, 10 Ekim – 20 Kasım; katalogda Turgay Kantürk metni (SALT künyesi) [4].
 - Uzun yıllar İstanbul'daki atölyesinde çalıştı [1][2].
 - Mayıs 2026: hayatını kaybetti; cenazesi Moda Camii'nden kaldırıldı [2].
 

@@ -27,7 +27,7 @@ guven: "taslak"
 
 **Kronoloji**
 - Kendi beyanına göre toplam 54 sergi, üçü AKM'de. Yapı Kredi ve Galatasaray'da da sergiler [1].
-- Urart ve Teşvikiye Sanat Galerisi sergileri (SALT Araştırma arşiv kayıtları) [3].
+- Urart Sanat Galerisi sergisi (yıl okunmadı); 2003: Teşvikiye Sanat Galerisi, 7 Ocak – 9 Şubat, kişisel sergi (SALT künyesi) [3].
 - 2024: "Gray zone" serisi, kâğıt üzerine yağlıboya [1].
 - 1987: Günümüz Sanatçıları 8. İstanbul Sergisi'ne katıldı; eseri Resim ve Heykel Müzeleri Derneği aracılığıyla Mimar Sinan Üniversitesi Resim ve Heykel Müzesi'ne bağışlandı [4].
 

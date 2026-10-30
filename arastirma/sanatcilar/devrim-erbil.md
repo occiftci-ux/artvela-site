@@ -4,9 +4,9 @@ dogum: "1937, Uşak"
 olum: ""
 disiplin: "resim, baskı"
 kabul: "K1 (akademik)"
-puan: 70
+puan: 69
 kademe: "II · Yerleşik"
-veri_kapsami: 80
+veri_kapsami: 73
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **70 / 100** | II · Yerleşik | %80 | K1 (akademik): İstanbul Devlet Güzel Sanatlar Akademisi, 1959. |
+| **69 / 100** | II · Yerleşik | %73 | K1 (akademik): İstanbul Devlet Güzel Sanatlar Akademisi, 1959. |
 
 ## 1. Künye ve Biyografi
 
@@ -51,7 +51,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 - Müzayede 91 (2026-09-22), Lot 109: İstanbul Galata Kuş Esintisi, edition: 23/25, 70x100 cm; tahmini 25.000-45.000 TL, açılış 10.000 TL; son pey 18.000 TL, satış tamamlanmadı · 18000 TL
 - Müzayede 91 (2026-09-22), Lot 110: İstanbul Galata Haliç, serigrafi, imzalı., 70x100 cm; tahmini 25.000-45.000 TL, açılış 10.000 TL; son pey 18.000 TL, satış tamamlanmadı · 18000 TL
 - Müzayede 91 (2026-09-22), Lot 129: İstanbul Galatadan, edition: EA 21/25, serigrafi, imzalı., 70x100 cm; tahmini 25.000-45.000 TL, açılış 10.000 TL; son pey 18.000 TL, satış tamamlanmadı · 18000 TL
-- Müzayede 91 (2026-09-22), Lot 130: İstanbul İzlenimleri, edition: EA 6/37, serigrafi, imzalı., 70x90 cm; tahmini 25.000-45.000 TL, açılış 10.000 TL; satıldı, çekiç 15.000 TL · 15000 TL
+- Müzayede 91 (2026-09-22), Lot 130: İstanbul İzlenimleri, edition: EA 6/37, serigrafi, imzalı., 70x90 cm; tahmini 25.000-45.000 TL, açılış 10.000 TL; son pey 15.000 TL, satış tamamlanmadı (sahip 2026-10-30)
 - Müzayede 92 (kapanış 2026-11-02), Lot 14: tuval üzerine yağlıboya, imzalı., 110x110 cm; tahmini 1.300.000-2.000.000 TL, açılış 1.000.000 TL; açık
 - Müzayede 92 (kapanış 2026-11-02), Lot 85: İstanbul Galata Haliç, serigrafi, imzalı., 70x100 cm; tahmini 10.000-20.000 TL, açılış 10.000 TL; açık
 - Müzayede 92 (kapanış 2026-11-02), Lot 86: İstanbul Galata Kuş Esintisi, serigrafi, imzalı., edition: 23/25, 70x100 cm; tahmini 10.000-20.000 TL, açılış 10.000 TL; açık
@@ -75,7 +75,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 109 | İstanbul Galata Kuş Esintisi, , , 70x100 | 25000-45000 | son pey 18000 TL; satış tamamlanmadı (sahip QcaL, 2026-10-27); eser Müzayede 92de yeniden satışta TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 110 | İstanbul Galata Haliç, , serigrafi, imzalı., 70x100 | 25000-45000 | son pey 18000 TL; satış tamamlanmadı (sahip QcaL, 2026-10-27); eser Müzayede 92de yeniden satışta TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 129 | İstanbul Galatadan, , serigrafi, imzalı., 70x100 | 25000-45000 | son pey 18000 TL; satış tamamlanmadı (sahip QcaL, 2026-10-27); eser Müzayede 92de yeniden satışta TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
-| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 130 | İstanbul İzlenimleri, , serigrafi, imzalı., 70x90 | 25000-45000 | 15000 çekiç / 16500 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 130 | İstanbul İzlenimleri, , serigrafi, imzalı., 70x90 | 25000-45000 | son pey 15000 TL; satış tamamlanmadı (sahip QcaL, 2026-10-30); eser Müzayede 92de Lot 134 olarak yeniden satışta TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -98,12 +98,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **15 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 8 / 8 | Soyutçu 7'ler ve Mavi Grup kurucusu |
 | d2 | Akademik yayın, tez, monografi, müze | 7 / 7 | Kendi adını taşıyan müze |
-| **E · Piyasa görünürlüğü** | | **6 / 25** | |
+| **E · Piyasa görünürlüğü** | | **5 / 25** | |
 | e1 | Türk müzayedeleri | 5 / 8 | emsal: 4 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
-| e3 | Fiyat seviyesi (doğrulanmış) | 1 / 6 | emsal: 1/4 lot satıldı, en yüksek çekiç 15.000 TL |
+| e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **70 / 100** | Veri kapsamı %80 |
+| | **Toplam** | **69 / 100** | Veri kapsamı %73 |
 
 ## 8. Kaynakça
 

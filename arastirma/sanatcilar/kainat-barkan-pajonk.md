@@ -26,7 +26,8 @@ guven: "taslak"
 - Doğrulanacak.
 
 **Kronoloji**
-- Kişisel resim sergileri: Toprakbank Sanat Galerisi, İstanbul; Terakki Vakfı Sanat Galerisi, İstanbul (yıllar SALT kayıtlarında, oturum istiyor) [1].
+- 1994: Toprakbank Sanat Galerisi, İstanbul, 10 Ocak – 9 Şubat, kişisel resim sergisi (SALT künyesi) [1].
+- 2003: Terakki Vakfı Sanat Galerisi, İstanbul, 18 Mart – 12 Nisan, kişisel resim sergisi (SALT künyesi) [1].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
 
@@ -72,7 +73,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | a2 | Yurtdışı eğitim, burs, rezidans | 0 / 4 | *eksik* |
 | a3 | Akademisyenlik, öğrenci yetiştirme | 0 / 3 | *eksik* |
 | **B · Sergi geçmişi** | | **2 / 25** | |
-| b1 | Kişisel sergiler | 2 / 10 | İki galeri kişisel sergisi (yıl yok) |
+| b1 | Kişisel sergiler | 2 / 10 | Toprakbank 1994, Terakki Vakfı 2003 kişisel sergileri |
 | b2 | Retrospektif / müze ve kurum sergisi | 0 / 8 | *eksik* |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 0 / 7 | *eksik* |
 | **C · Kurumsal tanınırlık** | | **0 / 20** | |

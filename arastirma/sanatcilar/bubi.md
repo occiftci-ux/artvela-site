@@ -4,7 +4,7 @@ dogum: "Doğrulanacak"
 olum: ""
 disiplin: "resim, karışık teknik"
 kabul: "K2 (galeri)"
-puan: 11
+puan: 12
 kademe: "(V · İzleme) ön puan"
 veri_kapsami: 27
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **11 / 100** | (V · İzleme) ön puan | %27 | K2 (galeri): Galeri Baraz kişisel sergisi; Atatürk Kültür Merkezi "Görsel Nesneler" sergisi (SALT kayıtları) [1]. |
+| **12 / 100** | (V · İzleme) ön puan | %27 | K2 (galeri): Galeri Baraz kişisel sergisi; Atatürk Kültür Merkezi "Görsel Nesneler" sergisi (SALT kayıtları) [1]. |
 
 ## 1. Künye ve Biyografi
 
@@ -26,9 +26,9 @@ guven: "taslak"
 - Doğrulanacak: eğitim bilgisi bulunamadı. Gerçek adı kaynaklarda doğrulanmadı.
 
 **Kronoloji**
-- Galeri Baraz, kişisel resim sergisi (yıl doğrulanacak) [1].
-- "Görsel Nesneler", Atatürk Kültür Merkezi (yıl doğrulanacak) [1].
-- Basında "Polemiğin gündemindeki Bubi ilk kez cevap veriyor: İstanbul Modern'e gönüllü bir bodyguard" başlıklı söyleşi (SALT kupürü; içerik doğrulanacak) [1].
+- 1987: Galeri Baraz, İstanbul, 16–31 Ocak, kişisel resim sergisi (SALT künyesi) [1].
+- 1992: "Görsel Nesneler", Atatürk Kültür Merkezi, İstanbul, 7–21 Nisan, kişisel sergi (SALT künyesi) [1].
+- 2012: Basında "Polemiğin gündemindeki Bubi ilk kez cevap veriyor: İstanbul Modern'e gönüllü bir bodyguard", 29.01.2012; konu "Lütfen kapağı kapalı tutunuz" adlı işi (SALT künyesi; metin okunmadı) [1].
 - Ali Şimşek'in "Bubi" adlı kitabı; işleri "ilkel bir fısıltıyla konuşan", uygarlığın biçimli pürüzsüzlüğüne direnen totemler olarak tanımlıyor [2].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
@@ -75,9 +75,9 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | a1 | Akademi / fakülte mezunu | 0 / 8 | *eksik* |
 | a2 | Yurtdışı eğitim, burs, rezidans | 0 / 4 | *eksik* |
 | a3 | Akademisyenlik, öğrenci yetiştirme | 0 / 3 | *eksik* |
-| **B · Sergi geçmişi** | | **5 / 25** | |
-| b1 | Kişisel sergiler | 3 / 10 | Galeri Baraz kişisel sergisi |
-| b2 | Retrospektif / müze ve kurum sergisi | 2 / 8 | AKM sergisi |
+| **B · Sergi geçmişi** | | **6 / 25** | |
+| b1 | Kişisel sergiler | 4 / 10 | Galeri Baraz 1987, AKM 1992 kişisel sergileri |
+| b2 | Retrospektif / müze ve kurum sergisi | 2 / 8 | AKM kişisel sergisi 1992 |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 0 / 7 | *eksik* |
 | **C · Kurumsal tanınırlık** | | **0 / 20** | |
 | c1 | Türkiye'deki müze koleksiyonları | 0 / 8 | *eksik* |
@@ -91,7 +91,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **11 / 100** | Veri kapsamı %27 |
+| | **Toplam** | **12 / 100** | Veri kapsamı %27 |
 
 ## 8. Kaynakça
 

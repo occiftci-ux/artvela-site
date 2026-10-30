@@ -28,6 +28,7 @@ guven: "taslak"
 - 1947: Fransız hükümeti bursuyla Paris; çeşitli soyut sanatçıların atölyeleri, Hans Hartung'un asistanı [1][2].
 
 **Kronoloji**
+- 1974: Kosta Daponte'nin "Paris'te Türk Ressamları" dizisinde söyleşi, 11.06.1974 (SALT künyesi; metin okunmadı) [5].
 - 1941: Lévy öğrencileriyle "Liman" sergisi; bu kuşak Yeniler Grubu'nun çekirdeğini oluşturdu [1].
 - 1948: "La Rose des Vents", Galerie des Deux-Iles, Paris. İlk kişisel sergisi Galerie Breteau'da [1].
 - "Kara Dönem": çarmıh motifli soyut resimler [1].
@@ -47,7 +48,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 4. Sanatçının Kendi Ağzından
 
-> Henüz eklenmedi. Söyleşi, video ve sanatçının sosyal medyası taranacak.
+> "Klasik devir tozun, modern devir ise rüzgârın resmini yapar": Kosta Daponte söyleşisinin başlığı, 11.06.1974, SALT künyesi [5]
 
 ## 5. Eser Analizi (Artvela)
 

@@ -4,7 +4,7 @@ dogum: "Doğrulanacak"
 olum: ""
 disiplin: "resim"
 kabul: "K3 (otorite onayı)"
-puan: 12
+puan: 13
 kademe: "(V · İzleme) ön puan"
 veri_kapsami: 27
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **12 / 100** | (V · İzleme) ön puan | %27 | K3 (otorite onayı): hakkında üniversite tezi var (Sakarya Üniversitesi) [3]. Formel akademi eğitimi bildirilmiyor. |
+| **13 / 100** | (V · İzleme) ön puan | %27 | K3 (otorite onayı): hakkında üniversite tezi var (Sakarya Üniversitesi) [3]. Formel akademi eğitimi bildirilmiyor. |
 
 ## 1. Künye ve Biyografi
 
@@ -26,14 +26,15 @@ guven: "taslak"
 - Ressam Turgut Zaim'in kızı. Resme babasından aldığı derslerle başladı; tez, üslubunun büyük ölçüde onunla biçimlendiğini yazar [3].
 
 **Kronoloji**
-- SALT Araştırma arşivinde "Oya Katoğlu" kaydı [1].
+- 1973: Bedri Rahmi Eyüboğlu'nun Oya Katoğlu'nun hayatı ve sanatı üzerine yazısı (SALT künyesi; metin okunmadı) [1].
 - Tuval resminin yanında kitap resimlemesi, porselen tabak bezemesi, afiş, özgün baskı [3].
 - Tez, ulusal ve uluslararası ödüller aldığını belirtir; adları doğrulanacak [3].
+- 1982: Sezer Tansuğ'un eleştiri yazısında, dekoratif öğeyi kompozisyonla birleştiren sanatçılar arasında ilk ad olarak anılıyor (Sevim İnaltong ve Berna Türemen'le birlikte) [4].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
 
 - **Akım / grup:** Naif üslup, folklorik öğeler. Turgut Zaim çizgisinin devamı [3].
-- **Temalar:** halk yaşamı, folklorik motifler [3]
+- **Temalar:** Anadolu yaşamı, pazar yerleri, kentler, pencereler, kadınlar; folklorik motifler [3]
 
 ## 3. Felsefi Bağlam
 
@@ -81,21 +82,22 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | c1 | Türkiye'deki müze koleksiyonları | 0 / 8 | *eksik* |
 | c2 | Yurtdışındaki müze koleksiyonları | 0 / 7 | *eksik* |
 | c3 | Ödüller | 0 / 5 | *eksik* |
-| **D · Sanat tarihindeki konum** | | **6 / 15** | |
+| **D · Sanat tarihindeki konum** | | **7 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 2 / 8 | Turgut Zaim naif çizgisinin ikinci kuşağı |
-| d2 | Akademik yayın, tez, monografi, müze | 4 / 7 | Hakkında üniversite tezi |
+| d2 | Akademik yayın, tez, monografi, müze | 5 / 7 | Üniversite tezi; Bedri Rahmi 1973 ve Tansuğ 1982 yazıları |
 | **E · Piyasa görünürlüğü** | | **6 / 25** | |
 | e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 2 / 6 | emsal: 2/2 lot satıldı, en yüksek çekiç 222.500 TL |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **12 / 100** | Veri kapsamı %27 |
+| | **Toplam** | **13 / 100** | Veri kapsamı %27 |
 
 ## 8. Kaynakça
 
 1. [1] SALT Araştırma, Oya Katoğlu kaydı. https://archives.saltresearch.org/handle/123456789/40809
 2. [2] Artvela Instagram, Müzayede 91 gönderisi. https://www.instagram.com/p/Ddbt9Y9CDen/
 3. [3] Sakarya Üniversitesi açık arşivi, Oya Katoğlu'nun eserleri ve üslubu üzerine tez. https://acikerisim.sakarya.edu.tr/handle/20.500.12619/98654
+4. [4] Sezer Tansuğ, eleştiri sayfası, aylık sanat dergisi, yıl 2, sayı 19, Haziran 1982 (SALT, KAB001078). https://archives.saltresearch.org/bitstream/123456789/215079/79/KAB001078.pdf
 
 ## 9. Açık Sorular
 
