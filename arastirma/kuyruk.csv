@@ -110,10 +110,10 @@ ihsan-berke-saracoglu,İhsan Berke Saraçoğlu,odul-burs,g,eklendi,2026-10-24,"G
 derya-yilmaz,Derya Yılmaz,odul-burs,g,bekliyor,2026-10-24,"77. DRHY 2025 resim başarı ödülü; ad yaygın, katalogla eşleştir"
 elif-akcay,Elif Akçay,odul-burs,g,eklendi,2026-10-24,"Nuri İyem Resim Ödülü 2022, Evin İyem ödülü"
 seref-akdik,Şeref Akdik,sanat-tarihcisi,c,eklendi,2026-10-25,"istek: sanat-tarihcisi, O-0234 inkılap resmi"
-guzin-duran,Güzin Duran,sanat-tarihcisi,c,bekliyor,2026-10-25,"istek: sanat-tarihcisi, O-0246/O-0256 yurtdışı burslu kuşak"
+guzin-duran,Güzin Duran,sanat-tarihcisi,c,eklendi,2026-10-25,"istek: sanat-tarihcisi, O-0246/O-0256 yurtdışı burslu kuşak"
 cevat-dereli,Cevat Dereli,sanat-tarihcisi,c,eklendi,2026-10-25,"istek: sanat-tarihcisi, O-0246/O-0256 yurtdışı burslu kuşak"
-muhittin-sebati,Muhittin Sebati,sanat-tarihcisi,c,bekliyor,2026-10-25,"istek: sanat-tarihcisi, O-0246/O-0256 yurtdışı burslu kuşak"
-seyfi-toray,Seyfi Toray,sanat-tarihcisi,c,bekliyor,2026-10-25,"istek: sanat-tarihcisi, O-0246/O-0256 yurtdışı burslu kuşak"
+muhittin-sebati,Muhittin Sebati,sanat-tarihcisi,c,eklendi,2026-10-25,"istek: sanat-tarihcisi, O-0246/O-0256 yurtdışı burslu kuşak"
+seyfi-toray,Seyfi Toray,sanat-tarihcisi,c,kaynak-yok,2026-10-25,"istek: sanat-tarihcisi, O-0246/O-0256 yurtdışı burslu kuşak; 2026-11-02 03:17: web aramasında kaynak yok; tarihçi kaynağından (O-0246/O-0256) künye istenebilir"
 halil-dikmen,Halil Dikmen,sanat-tarihcisi,c,eklendi,2026-10-25,"istek: sanat-tarihcisi, O-0246/O-0256 yurtdışı burslu kuşak"
 hamit-gorele,Hamit Görele,sanat-tarihcisi,c,bekliyor,2026-10-25,"istek: sanat-tarihcisi, O-0246/O-0256 yurtdışı burslu kuşak"
 esref-uren,Eşref Üren,sanat-tarihcisi,c,bekliyor,2026-10-25,"istek: sanat-tarihcisi, O-0246/O-0256 yurtdışı burslu kuşak"
@@ -382,8 +382,14 @@ selim-meseka,Selim Meşeka,sanat-tarihcisi,c,bekliyor,2026-11-01,istek: sanat-ta
 galip-bey,Galip Bey,sanat-tarihcisi,c,bekliyor,2026-11-01,istek: sanat-tarihcisi 01.11 23:01; kurum:elvah-i-naksiye-1924 (O-0840); soyadı kaynakta yok
 adil-bey,Adil Bey,sanat-tarihcisi,c,bekliyor,2026-11-01,istek: sanat-tarihcisi 01.11 23:01; kurum:elvah-i-naksiye-1924 (O-0840); soyadı kaynakta yok
 hovhannes-umed-behzad,Hovhannes Umed Behzad,sanat-tarihcisi,c,bekliyor,2026-11-02,"istek: sanat-tarihcisi 02.11 00:59; kurum:bahriye-muzesi-resim-koleksiyonu (O-0850, O-0851, O-0160)"
-osman-nuri-pasa,Osman Nuri Paşa,sanat-tarihcisi,c,bekliyor,2026-11-02,"istek: sanat-tarihcisi 02.11 00:59; kurum:bahriye-muzesi-resim-koleksiyonu (O-0850, O-0851, O-0160); doğum/ölüm çelişkili: Yayla 2023 1825-1903, Gençel 2021 1839-1906, Güler 2024 ölüm 1903-1906"
+osman-nuri-pasa,Osman Nuri Paşa,sanat-tarihcisi,c,bekliyor,2026-11-02,"istek: sanat-tarihcisi 02.11 00:59; kurum:bahriye-muzesi-resim-koleksiyonu (O-0850, O-0851, O-0160); doğum/ölüm çelişkili: Yayla 2023 1825-1903, Gençel 2021 1839-1906, Güler 2024 ölüm 1903-1906; 02.11 tarihçi: Kaya-Kılınç 2023 s.155: 1839-1906 eski tahmin, Özyiğit araştırmasıyla 1825/1826-1903"
 tunuslu-ibrahim,Tunuslu İbrahim,sanat-tarihcisi,c,bekliyor,2026-11-02,"istek: sanat-tarihcisi 02.11 00:59; kurum:bahriye-muzesi-resim-koleksiyonu (O-0850, O-0851, O-0160)"
 hasan-cemalettin,Hasan Cemalettin,sanat-tarihcisi,c,bekliyor,2026-11-02,"istek: sanat-tarihcisi 02.11 00:59; kurum:bahriye-muzesi-resim-koleksiyonu (O-0850, O-0851, O-0160)"
 fahri-kaptan,Fahri Kaptan,sanat-tarihcisi,c,bekliyor,2026-11-02,"istek: sanat-tarihcisi 02.11 00:59; kurum:bahriye-muzesi-resim-koleksiyonu (O-0850, O-0851, O-0160)"
 yekta-topsal,Yekta Topsal,sanat-tarihcisi,c,bekliyor,2026-11-02,"istek: sanat-tarihcisi 02.11 00:59; kurum:bahriye-muzesi-resim-koleksiyonu (O-0850, O-0851, O-0160)"
+seker-ahmed-ali-pasa,Şeker Ahmed Ali Paşa,sanat-tarihcisi,c,bekliyor,2026-11-02,istek: sanat-tarihcisi 02.11 03:03; kurum:milli-saraylar-resim-koleksiyonu
+halil-pasa,Halil Paşa,sanat-tarihcisi,c,bekliyor,2026-11-02,istek: sanat-tarihcisi 02.11 03:03; kurum:milli-saraylar-resim-koleksiyonu
+huseyin-zekai-pasa,Hüseyin Zekâi Paşa,sanat-tarihcisi,c,bekliyor,2026-11-02,istek: sanat-tarihcisi 02.11 03:03; kurum:milli-saraylar-resim-koleksiyonu
+yusuf-ziya-pasa,Yusuf Ziya Paşa,sanat-tarihcisi,c,bekliyor,2026-11-02,istek: sanat-tarihcisi 02.11 03:03; kurum:milli-saraylar-resim-koleksiyonu
+ahmed-emin,Ahmed Emin (Servili),sanat-tarihcisi,c,bekliyor,2026-11-02,istek: sanat-tarihcisi 02.11 03:03; kurum:milli-saraylar-resim-koleksiyonu
+mustafa-vasfi-pasa,Mustafa Vasfi Paşa,sanat-tarihcisi,c,bekliyor,2026-11-02,istek: sanat-tarihcisi 02.11 03:03; kurum:milli-saraylar-resim-koleksiyonu
