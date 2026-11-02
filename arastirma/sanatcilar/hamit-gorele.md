@@ -4,9 +4,9 @@ dogum: "1894 [2] ya da 1903 [1], Görele [1] (doğum yılı çelişkili)"
 olum: "1980 [1][2]"
 disiplin: "resim"
 kabul: "K1 (akademik)"
-puan: 40
-kademe: "(III · Güçlü orta) ön puan"
-veri_kapsami: 60
+puan: 37
+kademe: "(IV · Gelişen) ön puan"
+veri_kapsami: 53
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **40 / 100** | (III · Güçlü orta) ön puan | %60 | K1 (akademik): Güzel Sanatlar Akademisi mezunu, Paris'te Lhote atölyesi [1]; K3: İstanbul Modern koleksiyonu (Eczacıbaşı Grubu bağışı) [2], Kültür ve Turizm Bakanlığı biyografisi [1]. |
+| **37 / 100** | (IV · Gelişen) ön puan | %53 | K1 (akademik): Güzel Sanatlar Akademisi mezunu, Paris'te Lhote atölyesi [1]; K3: İstanbul Modern koleksiyonu (Eczacıbaşı Grubu bağışı) [2], Kültür ve Turizm Bakanlığı biyografisi [1]. |
 
 ## 1. Künye ve Biyografi
 
@@ -83,10 +83,10 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | b1 | Kişisel sergiler | 3 / 10 | Berk, Garanti sergileri (yalnız kayıt başlıkları) |
 | b2 | Retrospektif / müze ve kurum sergisi | 5 / 8 | 1975 İş Bankası Parmakkapı retrospektifi |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 3 / 7 | Paris ve Bükreş sergileri, tarih yok |
-| **C · Kurumsal tanınırlık** | | **13 / 20** | |
+| **C · Kurumsal tanınırlık** | | **10 / 20** | |
 | c1 | Türkiye'deki müze koleksiyonları | 7 / 8 | İstanbul Modern, Eczacıbaşı Grubu bağışı |
-| c2 | Yurtdışındaki müze koleksiyonları | 4 / 7 | 1968 yılın sanatçısı (bakanlık kaynağı) |
-| c3 | Ödüller | 2 / 5 | Bakanlık resmî biyografisi |
+| c2 | Yurtdışındaki müze koleksiyonları | 0 / 7 | *eksik* |
+| c3 | Ödüller | 3 / 5 | 1968 yılın sanatçısı (bakanlık kaynağı) |
 | **D · Sanat tarihindeki konum** | | **4 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 4 / 8 | Lhote çizgisinde yapısalcı olarak anılır |
 | d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
@@ -95,7 +95,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **40 / 100** | Veri kapsamı %60 |
+| | **Toplam** | **37 / 100** | Veri kapsamı %53 |
 
 ## 8. Kaynakça
 
