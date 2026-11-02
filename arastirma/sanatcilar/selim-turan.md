@@ -62,6 +62,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 **Müze ve kurum koleksiyonları**
 - İstanbul Modern: "Adsız", tuval üzerine karışık teknik, 64,5x49,7 cm, Şahika Turan bağışı [2]
 - İstanbul Üniversitesi, Selim Turan Koleksiyonu (2003 bağışı) [3]
+- Haritacılık Müzesi: IV. Yurt Gezisi'nden 'Bodrum' (ön teyit; G-D001 gereği puana sayılmadı) [6]
 
 **Ödüller**
 - Kaynakta ödül bilgisi yok, doğrulanacak.
@@ -110,6 +111,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 3. [3] Sakıp Sabancı Müzesi, "Tez-Antitez-Sentez" basın bülteni, 2017. https://www.sakipsabancimuzesi.org/press-and-media/new-exhibition-selim-turan-thesis-antithesis-synthesis
 4. [4] bianet, "Sanatçı Selim Turan'ın Yolu: Liman'dan Sarı Kız'a". https://bianet.org/haber/sanatci-selim-turan-in-yolu-liman-dan-sari-kiz-a-188844
 5. [5] SALT Araştırma, "Paris'te Türk Ressamları, Selim Turan". https://archives.saltresearch.org/handle/123456789/37423
+6. [6] Sanat tarihçisi bilgi tabanı O-0888 (ön teyit): Haritacılık Müzesi'nde saptanan Yurt Gezisi eserleri; arastirma/sanat-tarihi/veri/olgular.csv
 
 ## 9. Açık Sorular
 

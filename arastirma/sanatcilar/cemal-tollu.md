@@ -58,7 +58,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
 **Müze ve kurum koleksiyonları**
-- Doğrulanacak.
+- Haritacılık Müzesi: I. Yurt Gezisi'nden 'Limanda Fırtına' ve 'Ziraat İstasyonu Önü' (ön teyit; G-D001 gereği puana sayılmadı) [5]
 
 **Ödüller**
 - Kaynakta ödül bilgisi yok, doğrulanacak.
@@ -105,6 +105,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 2. [2] Wikipedia, Cemal Tollu (Oxford Art Online, Shaw 2011 ve Cambridge History of Turkey kaynaklı kısa madde). https://en.wikipedia.org/wiki/Cemal_Tollu
 3. [3] Yapı Kredi Kültür Sanat, "Cemal Tollu Retrospektif" sergi metni, 2005. https://images.ykykultur.com.tr/upload/document/Cemal_Tollu_-_Retrospektif-470.pdf
 4. [4] SALT Araştırma, "Cemal Tollu, André Lhote atölyesinde, Paris" fotoğraf kaydı (künye). https://archives.saltresearch.org/handle/123456789/41718
+5. [5] Sanat tarihçisi bilgi tabanı O-0888 (ön teyit): Haritacılık Müzesi'nde saptanan Yurt Gezisi eserleri; arastirma/sanat-tarihi/veri/olgular.csv
 
 ## 9. Açık Sorular
 

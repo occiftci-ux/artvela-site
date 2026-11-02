@@ -54,6 +54,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 **Müze ve kurum koleksiyonları**
 - Sakıp Sabancı Müzesi'nde sanatçı kaydı var; müzenin eser sahipliği sayfada görünmüyor, doğrulanacak [1].
 - İstanbul Modern'de "Metallurgy Workshop" görülüyor; mülkiyet ya da ödünç durumu doğrulanacak.
+- Ankara Resim ve Heykel Müzesi: eşinin 70 tabloluk bağışı (ön teyit; G-D001 gereği puana sayılmadı) [3]
 
 **Ödüller**
 - Kaynakta ödül bilgisi yok, doğrulanacak.
@@ -98,6 +99,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 1. [1] Sakıp Sabancı Müzesi, Şeref Akdik. https://www.sakipsabancimuzesi.org/en/artist/274
 2. [2] Artvela sanat tarihçisi bilgi tabanı, arastirma/sanat-tarihi/ (O-0234).
+3. [3] Sanat tarihçisi bilgi tabanı O-0877 (ön teyit; kaynak Eroğlu 2023 s.69): Ankara Resim ve Heykel Müzesi'ne özel bağışlar; arastirma/sanat-tarihi/veri/olgular.csv
 
 ## 9. Açık Sorular
 

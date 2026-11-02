@@ -59,6 +59,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 **Müze ve kurum koleksiyonları**
 - İstanbul Modern: "Kuvâyi Milliye İnsanları", Nâzım Hikmet'in *Kuvâyi Milliye Destanı* için mürekkep desenler (14 parça) [3]
+- Haritacılık Müzesi: II. Yurt Gezisi'nden 'Balıkesir Testisi' (envanterde 'Natürmort'; ön teyit, puana sayılmadı) [7]
 
 **Ödüller**
 - Flaherty Ödülü, *Goal! World Cup 1966* belgeseli [1]
@@ -107,6 +108,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 4. [4] Sakıp Sabancı Müzesi, Abidin Dino Dünyası. https://sakipsabancimuzesi.org/en/exhibitions-and-events/exhibition/36
 5. [5] Esin Çıtak, "Türk Resminde D Grubu", yüksek lisans tezi, İTÜ, 1994 (sanat tarihi bilgi tabanı K-0001).
 6. [6] Sanat tarihi bilgi tabanı, Abidin Dino dosyası ve olgular O-0011, O-0025, O-0026: arastirma/sanat-tarihi/konular/sanatci/abidin-dino.md
+7. [7] Sanat tarihçisi bilgi tabanı O-0888 (ön teyit): Haritacılık Müzesi'nde saptanan Yurt Gezisi eserleri; arastirma/sanat-tarihi/veri/olgular.csv
 
 ## 9. Açık Sorular
 
