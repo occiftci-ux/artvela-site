@@ -35,7 +35,7 @@ guven: "taslak"
 - Venedik Bienali, Paris (UNESCO), San Francisco ve Atina sergilerine katıldı [1].
 - Kişisel sergi: Doğuş Galerisi, Ankara (SALT kaydı başlığı) [6].
 - 1997: doğumunun 100. yılı retrospektifi, Millî Reasürans Sanat Galerisi, 1–24 Nisan; küratör Amelie Edgü; eşzamanlı İş Bankası Sanat Galerisi, Ankara [2].
-- 2026: "Yan Yana", Melahat ve Eşref Üren seçkisi; İstanbul'dan sonra 1 Ağustos'ta Ankara Sanat Galerisi'nde, 50 eser [4].
+- 2026: "Yan Yana", Üren ve Eyüboğlu çiftleri sergisi, Türkiye İş Bankası Resim Heykel Müzesi, Beyoğlu (10 Temmuz'a dek); Üren seçkisinin editörü Ali Kayaalp, iki ciltlik kitap İş Kültür Yayınları [7]. Üren seçkisinden 50 eser 1 Ağustos'ta Ankara Sanat Galerisi'nde [4].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
 
@@ -108,6 +108,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 4. [4] Evrensel, "Melahat ve Eşref Üren'in eserlerinden oluşan Yan Yana sergisi Ankara'da açılıyor", 28.07.2026. https://www.evrensel.net/haber/5993927/melahat-ve-esref-urenin-eserlerinden-olusan-yan-yana-sergisi-ankarada-aciliyor
 5. [5] Sanat tarihçisi bilgi tabanı O-0888 (ön teyit): Haritacılık Müzesi'nde saptanan Yurt Gezisi eserleri; arastirma/sanat-tarihi/veri/olgular.csv
 6. [6] SALT Araştırma, "Eşref Üren Resim Sergisi, Doğuş Galerisi, Ankara" (kayıt başlığı). https://archives.saltresearch.org/handle/123456789/38326
+7. [7] DHA, "Üren ve Eyüboğlu çiftlerinin sanat yolculuğu Yan Yana kitabında bir araya getirildi", 17.02.2026. https://www.dha.com.tr/kultur-sanat/uren-ve-eyuboglu-ciftlerinin-sanat-yolculugu-yan-yana-kitabinda-bir-araya-getirildi-2820455
 
 ## 9. Açık Sorular
 
