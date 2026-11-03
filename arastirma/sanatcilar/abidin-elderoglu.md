@@ -4,9 +4,9 @@ dogum: "1901, Denizli [1]"
 olum: "1974 [1]"
 disiplin: "resim"
 kabul: "K1 (akademik)"
-puan: 30
+puan: 32
 kademe: "(IV · Gelişen) ön puan"
-veri_kapsami: 47
+veri_kapsami: 53
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **30 / 100** | (IV · Gelişen) ön puan | %47 | K1 (akademik): öğretmen okulu 1926, Paris'te Laurens ve Lhote atölyeleri [1]; K3: NYU Grey Art Gallery koleksiyonu [2], São Paulo Bienali onur ödülü 1963 [1]. |
+| **32 / 100** | (IV · Gelişen) ön puan | %53 | K1 (akademik): öğretmen okulu 1926, Paris'te Laurens ve Lhote atölyeleri [1]; K3: NYU Grey Art Gallery koleksiyonu [2], São Paulo Bienali onur ödülü 1963 [1]. |
 
 ## 1. Künye ve Biyografi
 
@@ -24,10 +24,11 @@ guven: "taslak"
 
 **Eğitim**
 - Öğretmen okulu, 1926 mezunu [1].
-- 1930: Paris'te resim eğitimi, Albert Laurens ve André Lhote atölyeleri [1].
+- Paris'te resim eğitimi, Albert Laurens ve André Lhote atölyeleri [1]. Gidiş yılı 1930 Bakanlık ve Teber 2010'da; Er ve Bunulday 2026 yıl vermez, 1926 mezuniyetinden sonra Türk Maarif Cemiyeti bursuyla gittiğini yazar [3].
 
 **Kronoloji**
 - Dönüşte çeşitli ortaokullarda resim öğretmenliği [1].
+- 1954 ya da 1955: İzmir Atatürk Lisesi'nden emekli olup Ankara'ya yerleşti; yıl kaynaklarda çelişkili (Er ve Bunulday 1954, Teber 1955) [3].
 - Türkiye, Madrid, Paris ve Venedik'te sergiler [1].
 - 1960: "Six Lines of Abstracted Calligraphy", kâğıt üzerine suluboya ve mürekkep; Türk ve Batı biçimlerini birleştiren kaligrafik soyutlama [2].
 - 1963: São Paulo Bienali, onur ödülü [1].
@@ -86,20 +87,21 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | c1 | Türkiye'deki müze koleksiyonları | 0 / 8 | *eksik* |
 | c2 | Yurtdışındaki müze koleksiyonları | 5 / 7 | NYU Grey Art Gallery G1975.240 |
 | c3 | Ödüller | 4 / 5 | São Paulo 1963 onur ödülü, Tahran 1966 |
-| **D · Sanat tarihindeki konum** | | **5 / 15** | |
+| **D · Sanat tarihindeki konum** | | **7 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 5 / 8 | kaligrafik soyutlamanın öncülerinden |
-| d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
+| d2 | Akademik yayın, tez, monografi, müze | 2 / 7 | Er ve Bunulday 2026 makalesi (sanat anlayışı üzerine) |
 | **E · Piyasa görünürlüğü** | | **0 / 25** | |
 | e1 | Türk müzayedeleri | 0 / 8 | *eksik* |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **30 / 100** | Veri kapsamı %47 |
+| | **Toplam** | **32 / 100** | Veri kapsamı %53 |
 
 ## 8. Kaynakça
 
 1. [1] T.C. Kültür ve Turizm Bakanlığı, "Abidin Elderoğlu" biyografisi. https://www.ktb.gov.tr/EN-117585/abidin-elderoglu.html
 2. [2] Grey Art Gallery (NYU), "Tracing the Birth of Turkish Modernism in a Global Context", 2016. https://greyartmuseum.nyu.edu/2016/07/tracing-birth-turkish-modernism-global-context/
+3. [3] Sanat tarihçisi bilgi tabanı, arastirma/sanat-tarihi/veri/olgular.csv: O-1074 (çelişkili; Er ve Bunulday 2026, Kültür Araştırmaları Dergisi 28, s.331-334; Teber 2010 s.130).
 
 ## 9. Açık Sorular
 

@@ -24,7 +24,7 @@ guven: "taslak"
 
 **Eğitim**
 - Güzel Sanatlar Akademisi, Zeki Kocamemi atölyesi; 1951 diploması [1][2].
-- 1956–57: Paris, André Lhote atölyesi (Akademi yarışmasıyla) [2]; Henri Goetz atölyesi [1]; Hayter (Wikipedia, kaynaksız) [1].
+- 1955-1960: Paris; Avrupa sınavıyla gitti, kısa süre André Lhote atölyesi (1956-57), ardından Henri Goetz atölyesi (1957-60) [4]; Hayter (Wikipedia, kaynaksız) [1].
 - Salzburg Uluslararası Yaz Akademisi, Emilio Vedova atölyesi (yıl yok) [1].
 
 **Kronoloji**
@@ -103,6 +103,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 1. [1] Wikipedia (İngilizce), "Adnan Coker". https://en.wikipedia.org/wiki/Adnan_Coker
 2. [2] İstanbul Ansiklopedisi (Reşad Ekrem Koçu), "Çoker, Adnan", cilt 8, s. 4094–4095 (kaynak: Kim Kimdir Ansiklopedisi). https://istanbulansiklopedisi.org/handle/rek/12029
 3. [3] İstanbul Modern, koleksiyon sayfası "Retrospective II". https://www.istanbulmodern.org/en/collection/retrospective-ii
+4. [4] Sanat tarihçisi bilgi tabanı, arastirma/sanat-tarihi/veri/olgular.csv: O-1062, O-1065 (doğrulandı; Özdoğan Türkyılmaz 2013 s.55-56, Hacettepe YL tezi; Teber 2010 s.116, Atatürk Üniv. YL tezi; yıl ayrıntısı yalnız Teber'de).
 
 ## 9. Açık Sorular
 
