@@ -4,7 +4,7 @@ dogum: "1965, Aydın"
 olum: "2026, İstanbul (motosiklet kazası; 61 yaşında) [2][5]"
 disiplin: "resim, özgün baskı (taş baskı), karışık teknik"
 kabul: "K1 (akademik)"
-puan: 29
+puan: 30
 kademe: "(IV · Gelişen) ön puan"
 veri_kapsami: 53
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **29 / 100** | (IV · Gelişen) ön puan | %53 | K1 (akademik): Marmara Üniversitesi GSF Grafik Ana Sanat Dalı, Özgün Baskı Resim, 1986 [1]. |
+| **30 / 100** | (IV · Gelişen) ön puan | %53 | K1 (akademik): Marmara Üniversitesi GSF Grafik Ana Sanat Dalı, Özgün Baskı Resim, 1986 [1]. |
 
 ## 1. Künye ve Biyografi
 
@@ -50,7 +50,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 5. Eser Analizi (Artvela)
 
 - Müzayede 91 (2026-09-22), Lot 53: kağıt üzerine karışık teknik (tuvale marufle), imzasız., Eser sanatçının kitabında mevcuttur., 220x160 cm; tahmini 300.000-400.000 TL, açılış 240.000 TL; satılmadı
-- Müzayede 92 (kapanış 2026-11-02), Lot 178: kağıt üzerine desen, imzalı., 30x23 cm; tahmini 15.000-25.000 TL, açılış 15.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 178: kağıt üzerine desen, imzalı., 30x23 cm; tahmini 15.000-25.000 TL, açılış 15.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -65,6 +65,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 53 | , , kağıt üzerine karışık teknik (tuvale marufle), imzasız., 220x160 | 300000-400000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 178 | , , kağıt üzerine desen, imzalı., 30x23 | 15000-25000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -87,12 +88,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **0 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
 | d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
-| **E · Piyasa görünürlüğü** | | **3 / 25** | |
-| e1 | Türk müzayedeleri | 3 / 8 | emsal: 1 lot, Artvela (artvela.com) |
+| **E · Piyasa görünürlüğü** | | **4 / 25** | |
+| e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **29 / 100** | Veri kapsamı %53 |
+| | **Toplam** | **30 / 100** | Veri kapsamı %53 |
 
 ## 8. Kaynakça
 

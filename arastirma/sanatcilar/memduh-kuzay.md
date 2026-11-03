@@ -48,7 +48,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 - Müzayede 91 (2026-09-22), Lot 121: tuval üzerine yağlıboya, imzalı., 150x120 cm; tahmini 45.000-80.000 TL, açılış 30.000 TL; satılmadı
 - Müzayede 91 (2026-09-22), Lot 122: tuval üzerine yağlıboya, imzalı., 120x150 cm; tahmini 45.000-80.000 TL, açılış 30.000 TL; satılmadı
-- Müzayede 92 (kapanış 2026-11-02), Lot 199: tuval üzerine yağlıboya, imzalı., 47x75 cm; tahmini 20.000-30.000 TL, açılış 15.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 199: tuval üzerine yağlıboya, imzalı., 47x75 cm; tahmini 20.000-30.000 TL, açılış 15.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -64,6 +64,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|---|---|---|
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 121 | , , tuval üzerine yağlıboya, imzalı., 150x120 | 45000-80000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 122 | , , tuval üzerine yağlıboya, imzalı., 120x150 | 45000-80000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 199 | , , tuval üzerine yağlıboya, imzalı., 47x75 | 20000-30000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -87,7 +88,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
 | d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
 | **E · Piyasa görünürlüğü** | | **4 / 25** | |
-| e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
+| e1 | Türk müzayedeleri | 4 / 8 | emsal: 3 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |

@@ -4,7 +4,7 @@ dogum: "29 Ocak 1932, İstanbul [1]"
 olum: "2014 [1]"
 disiplin: "resim, gravür, heykel [1]"
 kabul: "K3 (otorite onayı)"
-puan: 18
+puan: 19
 kademe: "(V · İzleme) ön puan"
 veri_kapsami: 40
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **18 / 100** | (V · İzleme) ön puan | %40 | K3 (otorite onayı): Fransa'da belediye ve kültür merkezi sergileri, Val de Marne birincilik ödülü (SALT kayıtları) [2]; Michel Seuphor'un 1980 tarihli "Quatre éléments" kitabında kaynak olarak geçiyor [1]. |
+| **19 / 100** | (V · İzleme) ön puan | %40 | K3 (otorite onayı): Fransa'da belediye ve kültür merkezi sergileri, Val de Marne birincilik ödülü (SALT kayıtları) [2]; Michel Seuphor'un 1980 tarihli "Quatre éléments" kitabında kaynak olarak geçiyor [1]. |
 
 ## 1. Künye ve Biyografi
 
@@ -49,8 +49,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 - Müzayede 91 (2026-09-22), Lot 59: duralit üzerine yağlıboya, imzalı., 25x20 cm; tahmini 140.000-220.000 TL, açılış 120.000 TL; satılmadı
 - Müzayede 91 (2026-09-22), Lot 60: duralit üzerine yağlıboya, imzalı., 27x35 cm; tahmini 120.000-180.000 TL, açılış 95.000 TL; satılmadı
-- Müzayede 92 (kapanış 2026-11-02), Lot 69: tuval üzerine yağlıboya, imzalı., 48x40 cm; tahmini 150.000-200.000 TL, açılış 125.000 TL; açık
-- Müzayede 92 (kapanış 2026-11-02), Lot 76: tuval üzerine yağlıboya, imzalı., 18x14 cm; tahmini 70.000-90.000 TL, açılış 60.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 69: tuval üzerine yağlıboya, imzalı., 48x40 cm; tahmini 150.000-200.000 TL, açılış 125.000 TL; satılmadı
+- Müzayede 92 (kapanış 2026-11-02), Lot 76: tuval üzerine yağlıboya, imzalı., 18x14 cm; tahmini 70.000-90.000 TL, açılış 60.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -66,6 +66,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|---|---|---|
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 59 | , , duralit üzerine yağlıboya, imzalı., 25x20 | 140000-220000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 60 | , , duralit üzerine yağlıboya, imzalı., 27x35 | 120000-180000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 69 | , , tuval üzerine yağlıboya, imzalı., 48x40 | 150000-200000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 76 | , , tuval üzerine yağlıboya, imzalı., 18x14 | 70000-90000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -88,12 +90,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **3 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
 | d2 | Akademik yayın, tez, monografi, müze | 3 / 7 | Seuphor 1980 kaynağı; 2024 monografik kitap |
-| **E · Piyasa görünürlüğü** | | **4 / 25** | |
-| e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
+| **E · Piyasa görünürlüğü** | | **5 / 25** | |
+| e1 | Türk müzayedeleri | 5 / 8 | emsal: 4 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **18 / 100** | Veri kapsamı %40 |
+| | **Toplam** | **19 / 100** | Veri kapsamı %40 |
 
 ## 8. Kaynakça
 

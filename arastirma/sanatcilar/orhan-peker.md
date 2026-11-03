@@ -4,9 +4,9 @@ dogum: "1927, Trabzon [1] (İstanbul Modern 1926 diyor [2]; doğrulanacak)"
 olum: "29 Mayıs 1978 [1]"
 disiplin: "resim, afiş, desen"
 kabul: "K1 (akademik)"
-puan: 42
+puan: 45
 kademe: "(III · Güçlü orta) ön puan"
-veri_kapsami: 60
+veri_kapsami: 67
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **42 / 100** | (III · Güçlü orta) ön puan | %60 | K1 (akademik): İstanbul DGSA, 1944–1951, Bedri Rahmi Eyüboğlu atölyesi [1][2]. |
+| **45 / 100** | (III · Güçlü orta) ön puan | %67 | K1 (akademik): İstanbul DGSA, 1944–1951, Bedri Rahmi Eyüboğlu atölyesi [1][2]. |
 
 ## 1. Künye ve Biyografi
 
@@ -53,7 +53,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 92 (kapanış 2026-11-02), Lot 12: duralit üzerine yağlıboya, imzalı., 16x11 cm; tahmini 250.000-350.000 TL, açılış 220.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 12: duralit üzerine yağlıboya, imzalı., 16x11 cm; tahmini 250.000-350.000 TL, açılış 220.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -71,9 +71,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| | | | | | |
-
-*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 12 | , , duralit üzerine yağlıboya, imzalı., 16x11 | 250000-350000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -96,12 +94,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **9 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 6 / 8 | Onlar Grubu kurucusu |
 | d2 | Akademik yayın, tez, monografi, müze | 3 / 7 | 1956 ve 2002 monografik kitaplar |
-| **E · Piyasa görünürlüğü** | | **0 / 25** | |
-| e1 | Türk müzayedeleri | 0 / 8 | *eksik* |
+| **E · Piyasa görünürlüğü** | | **3 / 25** | |
+| e1 | Türk müzayedeleri | 3 / 8 | emsal: 1 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **42 / 100** | Veri kapsamı %60 |
+| | **Toplam** | **45 / 100** | Veri kapsamı %67 |
 
 ## 8. Kaynakça
 

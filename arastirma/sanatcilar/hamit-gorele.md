@@ -4,9 +4,9 @@ dogum: "1894 [2] ya da 1903 [1], Görele [1] (doğum yılı çelişkili)"
 olum: "1980 [1][2]"
 disiplin: "resim"
 kabul: "K1 (akademik)"
-puan: 37
-kademe: "(IV · Gelişen) ön puan"
-veri_kapsami: 53
+puan: 41
+kademe: "(III · Güçlü orta) ön puan"
+veri_kapsami: 60
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **37 / 100** | (IV · Gelişen) ön puan | %53 | K1 (akademik): Güzel Sanatlar Akademisi mezunu, Paris'te Lhote atölyesi [1]; K3: İstanbul Modern koleksiyonu (Eczacıbaşı Grubu bağışı) [2], Kültür ve Turizm Bakanlığı biyografisi [1]. |
+| **41 / 100** | (III · Güçlü orta) ön puan | %60 | K1 (akademik): Güzel Sanatlar Akademisi mezunu, Paris'te Lhote atölyesi [1]; K3: İstanbul Modern koleksiyonu (Eczacıbaşı Grubu bağışı) [2], Kültür ve Turizm Bakanlığı biyografisi [1]. |
 
 ## 1. Künye ve Biyografi
 
@@ -48,8 +48,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 92 (kapanış 2026-11-02), Lot 61: kağıt üzerine karışık teknik, imzalı., 17x26 cm; tahmini 100.000-150.000 TL, açılış 75.000 TL; açık
-- Müzayede 92 (kapanış 2026-11-02), Lot 62: duralit üzerine yağlıboya, imzalı., 20x33 cm; tahmini 100.000-150.000 TL, açılış 75.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 61: kağıt üzerine karışık teknik, imzalı., 17x26 cm; tahmini 100.000-150.000 TL, açılış 75.000 TL; satılmadı
+- Müzayede 92 (kapanış 2026-11-02), Lot 62: duralit üzerine yağlıboya, imzalı., 20x33 cm; tahmini 100.000-150.000 TL, açılış 75.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -65,9 +65,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| | | | | | |
-
-*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 61 | , , kağıt üzerine karışık teknik, imzalı., 17x26 | 100000-150000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 62 | , , duralit üzerine yağlıboya, imzalı., 20x33 | 100000-150000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -90,12 +89,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **4 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 4 / 8 | Lhote çizgisinde yapısalcı olarak anılır |
 | d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
-| **E · Piyasa görünürlüğü** | | **0 / 25** | |
-| e1 | Türk müzayedeleri | 0 / 8 | *eksik* |
+| **E · Piyasa görünürlüğü** | | **4 / 25** | |
+| e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **37 / 100** | Veri kapsamı %53 |
+| | **Toplam** | **41 / 100** | Veri kapsamı %60 |
 
 ## 8. Kaynakça
 

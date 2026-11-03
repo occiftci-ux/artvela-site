@@ -4,7 +4,7 @@ dogum: "1940, İstanbul"
 olum: ""
 disiplin: "resim, suluboya, seramik, vitray, özgün baskı (serigrafi, gravür)"
 kabul: "K1 (akademik)"
-puan: 25
+puan: 26
 kademe: "(IV · Gelişen) ön puan"
 veri_kapsami: 47
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **25 / 100** | (IV · Gelişen) ön puan | %47 | K1 (akademik): İstanbul Devlet Tatbiki Güzel Sanatlar Yüksekokulu Dekoratif Resim; Marmara GSF Resim Bölümü başkanı (1985) [1]. |
+| **26 / 100** | (IV · Gelişen) ön puan | %47 | K1 (akademik): İstanbul Devlet Tatbiki Güzel Sanatlar Yüksekokulu Dekoratif Resim; Marmara GSF Resim Bölümü başkanı (1985) [1]. |
 
 ## 1. Künye ve Biyografi
 
@@ -52,7 +52,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 5. Eser Analizi (Artvela)
 
 - Müzayede 91 (2026-09-22), Lot 55: karton üzerine akrilik boya, imzalı., R: 18; tahmini 120.000-200.000 TL, açılış 95.000 TL; satılmadı
-- Müzayede 92 (kapanış 2026-11-02), Lot 18: tuval üzerine akrilik boya, imzalı., 30x40 cm; tahmini 350.000-450.000 TL, açılış 270.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 18: tuval üzerine akrilik boya, imzalı., 30x40 cm; tahmini 350.000-450.000 TL, açılış 270.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -67,6 +67,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 55 | , , karton üzerine akrilik boya, imzalı., R:18 | 120000-200000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 18 | , , tuval üzerine akrilik boya, imzalı., 30x40 | 350000-450000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -89,12 +90,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **0 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
 | d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
-| **E · Piyasa görünürlüğü** | | **3 / 25** | |
-| e1 | Türk müzayedeleri | 3 / 8 | emsal: 1 lot, Artvela (artvela.com) |
+| **E · Piyasa görünürlüğü** | | **4 / 25** | |
+| e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **25 / 100** | Veri kapsamı %47 |
+| | **Toplam** | **26 / 100** | Veri kapsamı %47 |
 
 ## 8. Kaynakça
 

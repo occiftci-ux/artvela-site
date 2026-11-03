@@ -48,7 +48,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 - Müzayede 91 (2026-09-22), Lot 67: tuval üzerine akrilik boya, imzalı., 130x200 cm; tahmini 350.000-450.000 TL, açılış 290.000 TL; satılmadı
 - Müzayede 91 (2026-09-22), Lot 68: tuval üzerine karışık teknik, imzalı., 115x85 cm; tahmini 160.000-220.000 TL, açılış 145.000 TL; satılmadı
-- Müzayede 92 (kapanış 2026-11-02), Lot 74: tuval üzerine akrilik boya, imzalı., 130x200 cm; tahmini 400.000-500.000 TL, açılış 300.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 74: tuval üzerine akrilik boya, imzalı., 130x200 cm; tahmini 400.000-500.000 TL, açılış 300.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -64,6 +64,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|---|---|---|
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 67 | , , tuval üzerine akrilik boya, imzalı., 130x200 | 350000-450000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 68 | , , tuval üzerine karışık teknik, imzalı., 115x85 | 160000-220000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 74 | , , tuval üzerine akrilik boya, imzalı., 130x200 | 400000-500000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -87,7 +88,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
 | d2 | Akademik yayın, tez, monografi, müze | 2 / 7 | Hakkında kitap (Ali Şimşek) |
 | **E · Piyasa görünürlüğü** | | **4 / 25** | |
-| e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
+| e1 | Türk müzayedeleri | 4 / 8 | emsal: 3 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |

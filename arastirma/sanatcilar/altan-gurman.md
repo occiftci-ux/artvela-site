@@ -4,7 +4,7 @@ dogum: "1935, İstanbul"
 olum: "1976, İstanbul"
 disiplin: "resim, baskı, kolaj, hazır nesne"
 kabul: "K3 (otorite onayı)"
-puan: 36
+puan: 37
 kademe: "(IV · Gelişen) ön puan"
 veri_kapsami: 47
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **36 / 100** | (IV · Gelişen) ön puan | %47 | K3 (otorite onayı): SALT arşivi ve kurumsal sergiler, Mavi Grup kurucusu. Akademik eğitimi doğrulanacak. |
+| **37 / 100** | (IV · Gelişen) ön puan | %47 | K3 (otorite onayı): SALT arşivi ve kurumsal sergiler, Mavi Grup kurucusu. Akademik eğitimi doğrulanacak. |
 
 ## 1. Künye ve Biyografi
 
@@ -47,7 +47,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 5. Eser Analizi (Artvela)
 
 - Müzayede 91 (2026-09-22), Lot 3: kağıt üzerine karışık teknik, imzalı., 1963 tarihli, 45x54 cm; tahmini 280.000-350.000 TL, açılış 240.000 TL; satılmadı
-- Müzayede 92 (kapanış 2026-11-02), Lot 17: kağıt üzerine karışık teknik, imzalı., 33x44 cm; tahmini 400.000-500.000 TL, açılış 350.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 17: kağıt üzerine karışık teknik, imzalı., 33x44 cm; tahmini 400.000-500.000 TL, açılış 350.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -62,6 +62,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 3 | , 1963, kağıt üzerine karışık teknik, imzalı., 45x54 | 280000-350000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 17 | , , kağıt üzerine karışık teknik, imzalı., 33x44 | 400000-500000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -84,12 +85,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **14 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 8 / 8 | Mavi Grup kurucusu, kavramsal sanatın öncüsü |
 | d2 | Akademik yayın, tez, monografi, müze | 6 / 7 | SALT araştırması ve yayınları |
-| **E · Piyasa görünürlüğü** | | **3 / 25** | |
-| e1 | Türk müzayedeleri | 3 / 8 | Artvela 91'de lot |
+| **E · Piyasa görünürlüğü** | | **4 / 25** | |
+| e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **36 / 100** | Veri kapsamı %47 |
+| | **Toplam** | **37 / 100** | Veri kapsamı %47 |
 
 ## 8. Kaynakça
 

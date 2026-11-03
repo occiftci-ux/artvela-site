@@ -4,9 +4,9 @@ dogum: "1913, İstanbul"
 olum: "1993, Paris"
 disiplin: "resim, desen, yazı, sinema"
 kabul: "K3 (otorite onayı)"
-puan: 44
+puan: 47
 kademe: "(III · Güçlü orta) ön puan"
-veri_kapsami: 60
+veri_kapsami: 67
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **44 / 100** | (III · Güçlü orta) ön puan | %60 | K3 (otorite onayı): akademi mezunu değil. D Grubu kurucusu, Salon de Mai, Grimaldi Şatosu sergisi. |
+| **47 / 100** | (III · Güçlü orta) ön puan | %67 | K3 (otorite onayı): akademi mezunu değil. D Grubu kurucusu, Salon de Mai, Grimaldi Şatosu sergisi. |
 
 ## 1. Künye ve Biyografi
 
@@ -52,8 +52,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 92 (kapanış 2026-11-02), Lot 7: tuval üzerine yağlıboya, imzalı., 65x54 cm; tahmini 1.500.000-2.000.000 TL, açılış 1.000.000 TL; açık
-- Müzayede 92 (kapanış 2026-11-02), Lot 71: kağıt üzerine karışık teknik, imzalı., 24x19 cm; tahmini 140.000-180.000 TL, açılış 100.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 7: tuval üzerine yağlıboya, imzalı., 65x54 cm; tahmini 1.500.000-2.000.000 TL, açılış 1.000.000 TL; satılmadı
+- Müzayede 92 (kapanış 2026-11-02), Lot 71: kağıt üzerine karışık teknik, imzalı., 24x19 cm; tahmini 140.000-180.000 TL, açılış 100.000 TL; satıldı, çekiç 115.000 TL · 115000 TL
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -68,9 +68,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| | | | | | |
-
-*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 7 | , , tuval üzerine yağlıboya, imzalı., 65x54 | 1500000-2000000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 71 | , , kağıt üzerine karışık teknik, imzalı., 24x19 | 140000-180000 | 115000 çekiç / 126500 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -93,12 +92,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **13 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 8 / 8 | D Grubu kurucusu, Paris'teki Türk sanatçıların merkezi |
 | d2 | Akademik yayın, tez, monografi, müze | 5 / 7 | Güzin'in Abidin'leri kitabı ve geniş literatür |
-| **E · Piyasa görünürlüğü** | | **3 / 25** | |
-| e1 | Türk müzayedeleri | 3 / 8 | Artvela 92'de lot |
+| **E · Piyasa görünürlüğü** | | **6 / 25** | |
+| e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
-| e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
+| e3 | Fiyat seviyesi (doğrulanmış) | 2 / 6 | emsal: 1/2 lot satıldı, en yüksek çekiç 115.000 TL |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **44 / 100** | Veri kapsamı %60 |
+| | **Toplam** | **47 / 100** | Veri kapsamı %67 |
 
 ## 8. Kaynakça
 

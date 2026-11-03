@@ -4,7 +4,7 @@ dogum: "Doğrulanacak"
 olum: ""
 disiplin: "resim, desen"
 kabul: "K1 (akademik)"
-puan: 29
+puan: 30
 kademe: "(IV · Gelişen) ön puan"
 veri_kapsami: 47
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **29 / 100** | (IV · Gelişen) ön puan | %47 | K1 (akademik): MSGSÜ Resim Bölümü, Neşet Günal atölyesi. Bugün aynı bölümde öğretim üyesi. |
+| **30 / 100** | (IV · Gelişen) ön puan | %47 | K1 (akademik): MSGSÜ Resim Bölümü, Neşet Günal atölyesi. Bugün aynı bölümde öğretim üyesi. |
 
 ## 1. Künye ve Biyografi
 
@@ -47,9 +47,9 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 - Müzayede 91 (2026-09-22), Lot 27: kağıt üzerine karakalem ve renkli kalem, imzalı., "Sınırda", Eser sanatçının kitabında mevcuttur., 91x141 cm; tahmini 300.000-450.000 TL, açılış 240.000 TL; satıldı, çekiç 240.000 TL · 240000 TL
 - Müzayede 91 (2026-09-22), Lot 28: kağıt üzerine renkli kalem, imzalı., Eser sanatçının kitabında mevcuttur., 50x43 cm; tahmini 100.000-180.000 TL, açılış 80.000 TL; satıldı, çekiç 80.000 TL · 80000 TL
-- Müzayede 92 (kapanış 2026-11-02), Lot 33: tuval üzerine yağlıboya, imzalı., 80x50 cm; tahmini 400.000-500.000 TL, açılış 350.000 TL; açık
-- Müzayede 92 (kapanış 2026-11-02), Lot 34: tuval üzerine yağlıboya, imzalı., 41x33 cm; tahmini 250.000-350.000 TL, açılış 200.000 TL; açık
-- Müzayede 92 (kapanış 2026-11-02), Lot 42: kağıt üzerine karakalem ve renkli kalem, imzalı., 88x116 cm; tahmini 350.000-450.000 TL, açılış 240.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 33: tuval üzerine yağlıboya, imzalı., 80x50 cm; tahmini 400.000-500.000 TL, açılış 350.000 TL; satılmadı
+- Müzayede 92 (kapanış 2026-11-02), Lot 34: tuval üzerine yağlıboya, imzalı., 41x33 cm; tahmini 250.000-350.000 TL, açılış 200.000 TL; satılmadı
+- Müzayede 92 (kapanış 2026-11-02), Lot 42: kağıt üzerine karakalem ve renkli kalem, imzalı., 88x116 cm; tahmini 350.000-450.000 TL, açılış 240.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -65,6 +65,9 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|---|---|---|
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 27 | , , kağıt üzerine karakalem ve renkli kalem, imzalı., 91x141 | 300000-450000 | 240000 çekiç / 264000 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 28 | , , kağıt üzerine renkli kalem, imzalı., 50x43 | 100000-180000 | 80000 çekiç / 88000 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 33 | , , tuval üzerine yağlıboya, imzalı., 80x50 | 400000-500000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 34 | , , tuval üzerine yağlıboya, imzalı., 41x33 | 250000-350000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 42 | , , kağıt üzerine karakalem ve renkli kalem, imzalı., 88x116 | 350000-450000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -87,12 +90,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **6 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 3 / 8 | Toplumsal gerçekçi çizginin güncel temsilcisi |
 | d2 | Akademik yayın, tez, monografi, müze | 3 / 7 | Sanatçı kitabı, eleştirmen metinli katalog |
-| **E · Piyasa görünürlüğü** | | **6 / 25** | |
-| e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
+| **E · Piyasa görünürlüğü** | | **7 / 25** | |
+| e1 | Türk müzayedeleri | 5 / 8 | emsal: 5 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
-| e3 | Fiyat seviyesi (doğrulanmış) | 2 / 6 | emsal: 2/2 lot satıldı, en yüksek çekiç 240.000 TL |
+| e3 | Fiyat seviyesi (doğrulanmış) | 2 / 6 | emsal: 2/5 lot satıldı, en yüksek çekiç 240.000 TL |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **29 / 100** | Veri kapsamı %47 |
+| | **Toplam** | **30 / 100** | Veri kapsamı %47 |
 
 ## 8. Kaynakça
 

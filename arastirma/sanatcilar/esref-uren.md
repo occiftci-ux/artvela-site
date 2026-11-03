@@ -4,9 +4,9 @@ dogum: "1897, İstanbul [1][2]"
 olum: "1984 [1][2]"
 disiplin: "resim, sanat eleştirisi"
 kabul: "K1 (akademik)"
-puan: 48
-kademe: "(III · Güçlü orta) ön puan"
-veri_kapsami: 67
+puan: 52
+kademe: "III · Güçlü orta"
+veri_kapsami: 80
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **48 / 100** | (III · Güçlü orta) ön puan | %67 | K1 (akademik): Güzel Sanatlar Akademisi, Çallı ve Onat atölyeleri [1]; K3: 1997 Millî Reasürans retrospektifi ve Murat Ural monografisi [2]. |
+| **52 / 100** | III · Güçlü orta | %80 | K1 (akademik): Güzel Sanatlar Akademisi, Çallı ve Onat atölyeleri [1]; K3: 1997 Millî Reasürans retrospektifi ve Murat Ural monografisi [2]. |
 
 ## 1. Künye ve Biyografi
 
@@ -52,7 +52,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 92 (kapanış 2026-11-02), Lot 72: duralit üzerine yağlıboya, imzalı., 32x40 cm; tahmini 60.000-80.000 TL, açılış 50.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 72: duralit üzerine yağlıboya, imzalı., 32x40 cm; tahmini 60.000-80.000 TL, açılış 50.000 TL; satıldı, çekiç 55.000 TL · 55000 TL
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -68,9 +68,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| | | | | | |
-
-*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 72 | , , duralit üzerine yağlıboya, imzalı., 32x40 | 60000-80000 | 55000 çekiç / 60500 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -93,12 +91,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **11 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 6 / 8 | Müstakiller kurucularından, D Grubu |
 | d2 | Akademik yayın, tez, monografi, müze | 5 / 7 | Murat Ural monografisi 1997; tez kaydı |
-| **E · Piyasa görünürlüğü** | | **0 / 25** | |
-| e1 | Türk müzayedeleri | 0 / 8 | *eksik* |
+| **E · Piyasa görünürlüğü** | | **4 / 25** | |
+| e1 | Türk müzayedeleri | 3 / 8 | emsal: 1 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
-| e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
+| e3 | Fiyat seviyesi (doğrulanmış) | 1 / 6 | emsal: 1/1 lot satıldı, en yüksek çekiç 55.000 TL |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **48 / 100** | Veri kapsamı %67 |
+| | **Toplam** | **52 / 100** | Veri kapsamı %80 |
 
 ## 8. Kaynakça
 

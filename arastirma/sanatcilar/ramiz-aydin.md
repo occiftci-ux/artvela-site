@@ -4,7 +4,7 @@ dogum: "1937, Espiye (Giresun)"
 olum: "2023"
 disiplin: "resim, baskı"
 kabul: "K1 (akademik)"
-puan: 27
+puan: 28
 kademe: "(IV · Gelişen) ön puan"
 veri_kapsami: 47
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **27 / 100** | (IV · Gelişen) ön puan | %47 | K1 (akademik): Gazi Eğitim Enstitüsü Resim Bölümü, 1961. |
+| **28 / 100** | (IV · Gelişen) ön puan | %47 | K1 (akademik): Gazi Eğitim Enstitüsü Resim Bölümü, 1961. |
 
 ## 1. Künye ve Biyografi
 
@@ -46,8 +46,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 5. Eser Analizi (Artvela)
 
 - Müzayede 91 (2026-09-22), Lot 34: tuval üzerine yağlıboya, imzalı., 40x50 cm; tahmini 80.000-120.000 TL, açılış 70.000 TL; satıldı, çekiç 70.000 TL · 70000 TL
-- Müzayede 92 (kapanış 2026-11-02), Lot 56: tuval üzerine yağlıboya, imzalı., 35x45 cm; tahmini 90.000-120.000 TL, açılış 75.000 TL; açık
-- Müzayede 92 (kapanış 2026-11-02), Lot 231: kağıt üzerine suluboya, imzalı., 4x6 cm; tahmini 1.000-5.000 TL, açılış 1.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 56: tuval üzerine yağlıboya, imzalı., 35x45 cm; tahmini 90.000-120.000 TL, açılış 75.000 TL; satıldı, çekiç 75.000 TL · 75000 TL
+- Müzayede 92 (kapanış 2026-11-02), Lot 231: kağıt üzerine suluboya, imzalı., 4x6 cm; tahmini 1.000-5.000 TL, açılış 1.000 TL; satıldı, çekiç 1.000 TL · 1000 TL
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -63,6 +63,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 34 | , , tuval üzerine yağlıboya, imzalı., 40x50 | 80000-120000 | 70000 çekiç / 77000 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 56 | , , tuval üzerine yağlıboya, imzalı., 35x45 | 90000-120000 | 75000 çekiç / 82500 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 231 | , , kağıt üzerine suluboya, imzalı., 4x6 | 1000-5000 | 1000 çekiç / 1100 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -85,12 +87,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **0 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
 | d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
-| **E · Piyasa görünürlüğü** | | **4 / 25** | |
-| e1 | Türk müzayedeleri | 3 / 8 | emsal: 1 lot, Artvela (artvela.com) |
+| **E · Piyasa görünürlüğü** | | **5 / 25** | |
+| e1 | Türk müzayedeleri | 4 / 8 | emsal: 3 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
-| e3 | Fiyat seviyesi (doğrulanmış) | 1 / 6 | emsal: 1/1 lot satıldı, en yüksek çekiç 70.000 TL |
+| e3 | Fiyat seviyesi (doğrulanmış) | 1 / 6 | emsal: 3/3 lot satıldı, en yüksek çekiç 75.000 TL |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **27 / 100** | Veri kapsamı %47 |
+| | **Toplam** | **28 / 100** | Veri kapsamı %47 |
 
 ## 8. Kaynakça
 

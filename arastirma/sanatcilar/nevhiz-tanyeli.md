@@ -4,7 +4,7 @@ dogum: "1941"
 olum: ""
 disiplin: "resim, desen, taşbaskı"
 kabul: "K1 (akademik)"
-puan: 47
+puan: 48
 kademe: "(III · Güçlü orta) ön puan"
 veri_kapsami: 67
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **47 / 100** | (III · Güçlü orta) ön puan | %67 | K1 (akademik): İstanbul DGSA Yüksek Resim Bölümü, 1965. |
+| **48 / 100** | (III · Güçlü orta) ön puan | %67 | K1 (akademik): İstanbul DGSA Yüksek Resim Bölümü, 1965. |
 
 ## 1. Künye ve Biyografi
 
@@ -52,8 +52,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 - Müzayede 91 (2026-09-22), Lot 31: kağıt üzerine akrilik boya, imzalı., 2004 tarihli., 33x45 cm; tahmini 200.000-300.000 TL, açılış 190.000 TL; satılmadı
 - Müzayede 91 (2026-09-22), Lot 32: kağıt üzerine kara kalem, imzalı., Cemal Süreyya Portresi., 31x27 cm; tahmini 150.000-200.000 TL, açılış 145.000 TL; satılmadı
-- Müzayede 92 (kapanış 2026-11-02), Lot 3: kağıt üzerine kara kalem, imzalı., Cemal Süreyya Portresi., 31x27 cm; tahmini 200.000-250.000 TL, açılış 150.000 TL; açık
-- Müzayede 92 (kapanış 2026-11-02), Lot 4: Kaç, Kaç!, kağıt üzerine akrilik boya, imzalı., 2001 tarihli., 46x34 cm; tahmini 300.000-350.000 TL, açılış 250.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 3: kağıt üzerine kara kalem, imzalı., Cemal Süreyya Portresi., 31x27 cm; tahmini 200.000-250.000 TL, açılış 150.000 TL; satılmadı
+- Müzayede 92 (kapanış 2026-11-02), Lot 4: Kaç, Kaç!, kağıt üzerine akrilik boya, imzalı., 2001 tarihli., 46x34 cm; tahmini 300.000-350.000 TL, açılış 250.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -69,6 +69,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|---|---|---|
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 31 | , 2004, kağıt üzerine akrilik boya, imzalı., 33x45 | 200000-300000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 32 | , , kağıt üzerine kara kalem, imzalı., 31x27 | 150000-200000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 3 | , , kağıt üzerine kara kalem, imzalı., 31x27 | 200000-250000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 4 | Kaç, Kaç!, 2001, kağıt üzerine akrilik boya, imzalı., 46x34 | 300000-350000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -91,12 +93,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **8 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 4 / 8 | Kuşağının figüratif resim temsilcilerinden |
 | d2 | Akademik yayın, tez, monografi, müze | 4 / 7 | Retrospektif katalogları (Ergüven, Çalıkoğlu) |
-| **E · Piyasa görünürlüğü** | | **4 / 25** | |
-| e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
+| **E · Piyasa görünürlüğü** | | **5 / 25** | |
+| e1 | Türk müzayedeleri | 5 / 8 | emsal: 4 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **47 / 100** | Veri kapsamı %67 |
+| | **Toplam** | **48 / 100** | Veri kapsamı %67 |
 
 ## 8. Kaynakça
 

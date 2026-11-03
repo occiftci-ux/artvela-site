@@ -4,9 +4,9 @@ dogum: "Doğrulanacak"
 olum: ""
 disiplin: "resim"
 kabul: "K2 (galeri)"
-puan: 11
+puan: 13
 kademe: "(V · İzleme) ön puan"
-veri_kapsami: 20
+veri_kapsami: 27
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **11 / 100** | (V · İzleme) ön puan | %20 | K2 (galeri): Kızıltoprak, Ümit Yaşar ve Galeri Baraz (Hilton Harbiye) kişisel sergileri (SALT kayıtları) [1]. |
+| **13 / 100** | (V · İzleme) ön puan | %27 | K2 (galeri): Kızıltoprak, Ümit Yaşar ve Galeri Baraz (Hilton Harbiye) kişisel sergileri (SALT kayıtları) [1]. |
 
 ## 1. Künye ve Biyografi
 
@@ -46,8 +46,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 5. Eser Analizi (Artvela)
 
 - Müzayede 91 (2026-09-22), Lot 66: kağıt üzerine karışık teknik, imzalı., 24x31 cm; tahmini 50.000-90.000 TL, açılış 40.000 TL; satılmadı
-- Müzayede 92 (kapanış 2026-11-02), Lot 47: tuval üzerine yağlıboya, imzalı., 40x50 cm; tahmini 90.000-120.000 TL, açılış 80.000 TL; açık
-- Müzayede 92 (kapanış 2026-11-02), Lot 48: tuval üzerine karışık teknik, imzalı., 50x40 cm; tahmini 90.000-120.000 TL, açılış 80.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 47: tuval üzerine yağlıboya, imzalı., 40x50 cm; tahmini 90.000-120.000 TL, açılış 80.000 TL; satıldı, çekiç 85.000 TL · 85000 TL
+- Müzayede 92 (kapanış 2026-11-02), Lot 48: tuval üzerine karışık teknik, imzalı., 50x40 cm; tahmini 90.000-120.000 TL, açılış 80.000 TL; satıldı, çekiç 85.000 TL · 85000 TL
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -62,6 +62,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 66 | , , kağıt üzerine karışık teknik, imzalı., 24x31 | 50000-90000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 47 | , , tuval üzerine yağlıboya, imzalı., 40x50 | 90000-120000 | 85000 çekiç / 93500 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 48 | , , tuval üzerine karışık teknik, imzalı., 50x40 | 90000-120000 | 85000 çekiç / 93500 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -84,12 +86,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **3 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
 | d2 | Akademik yayın, tez, monografi, müze | 3 / 7 | Katalog metinleri: Cemal Tollu, Turan Erol, Gültekin Elibal, İsmail Tunalı, Sezer Tansuğ |
-| **E · Piyasa görünürlüğü** | | **3 / 25** | |
-| e1 | Türk müzayedeleri | 3 / 8 | emsal: 1 lot, Artvela (artvela.com) |
+| **E · Piyasa görünürlüğü** | | **5 / 25** | |
+| e1 | Türk müzayedeleri | 4 / 8 | emsal: 3 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
-| e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
+| e3 | Fiyat seviyesi (doğrulanmış) | 1 / 6 | emsal: 2/3 lot satıldı, en yüksek çekiç 85.000 TL |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **11 / 100** | Veri kapsamı %20 |
+| | **Toplam** | **13 / 100** | Veri kapsamı %27 |
 
 ## 8. Kaynakça
 

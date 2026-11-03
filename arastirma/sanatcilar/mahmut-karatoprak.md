@@ -4,7 +4,7 @@ dogum: "1953, Kayseri [1]"
 olum: ""
 disiplin: "resim, grafik, illüstrasyon, karikatür"
 kabul: "K1 (akademik)"
-puan: 21
+puan: 23
 kademe: "(IV · Gelişen) ön puan"
 veri_kapsami: 47
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **21 / 100** | (IV · Gelişen) ön puan | %47 | K1 (akademik): Devlet Tatbiki Güzel Sanatlar Yüksekokulu, Mustafa Aslıer atölyesi, 1978 [1]. |
+| **23 / 100** | (IV · Gelişen) ön puan | %47 | K1 (akademik): Devlet Tatbiki Güzel Sanatlar Yüksekokulu, Mustafa Aslıer atölyesi, 1978 [1]. |
 
 ## 1. Künye ve Biyografi
 
@@ -48,9 +48,9 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 5. Eser Analizi (Artvela)
 
 - Müzayede 91 (2026-09-22), Lot 73: kağıt üzerine karışık teknik, imzalı., 29x21 cm; tahmini 80.000-120.000 TL, açılış 45.000 TL; satılmadı
-- Müzayede 92 (kapanış 2026-11-02), Lot 25: duralit üzerine yağlıboya, imzalı., 72x64 cm; tahmini 250.000-350.000 TL, açılış 230.000 TL; açık
-- Müzayede 92 (kapanış 2026-11-02), Lot 101: kağıt üzerine karışık teknik, imzalı., 29x21 cm; tahmini 70.000-80.000 TL, açılış 50.000 TL; açık
-- Müzayede 92 (kapanış 2026-11-02), Lot 102: kağıt üzerine karışık teknik, imzalı., 35x25 cm; tahmini 80.000-100.000 TL, açılış 60.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 25: duralit üzerine yağlıboya, imzalı., 72x64 cm; tahmini 250.000-350.000 TL, açılış 230.000 TL; satılmadı
+- Müzayede 92 (kapanış 2026-11-02), Lot 101: kağıt üzerine karışık teknik, imzalı., 29x21 cm; tahmini 70.000-80.000 TL, açılış 50.000 TL; satılmadı
+- Müzayede 92 (kapanış 2026-11-02), Lot 102: kağıt üzerine karışık teknik, imzalı., 35x25 cm; tahmini 80.000-100.000 TL, açılış 60.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -67,6 +67,9 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 73 | , , kağıt üzerine karışık teknik, imzalı., 29x21 | 80000-120000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 25 | , , duralit üzerine yağlıboya, imzalı., 72x64 | 250000-350000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 101 | , , kağıt üzerine karışık teknik, imzalı., 29x21 | 70000-80000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 102 | , , kağıt üzerine karışık teknik, imzalı., 35x25 | 80000-100000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -89,12 +92,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **0 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
 | d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
-| **E · Piyasa görünürlüğü** | | **3 / 25** | |
-| e1 | Türk müzayedeleri | 3 / 8 | emsal: 1 lot, Artvela (artvela.com) |
+| **E · Piyasa görünürlüğü** | | **5 / 25** | |
+| e1 | Türk müzayedeleri | 5 / 8 | emsal: 4 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **21 / 100** | Veri kapsamı %47 |
+| | **Toplam** | **23 / 100** | Veri kapsamı %47 |
 
 ## 8. Kaynakça
 

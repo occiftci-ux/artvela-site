@@ -4,7 +4,7 @@ dogum: "1940, Giresun"
 olum: "1992, İstanbul"
 disiplin: "resim, baskı"
 kabul: "K1 (akademik)"
-puan: 35
+puan: 36
 kademe: "(IV · Gelişen) ön puan"
 veri_kapsami: 53
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **35 / 100** | (IV · Gelişen) ön puan | %53 | K1 (akademik): İstanbul Güzel Sanatlar Akademisi, Bedri Rahmi atölyesi. |
+| **36 / 100** | (IV · Gelişen) ön puan | %53 | K1 (akademik): İstanbul Güzel Sanatlar Akademisi, Bedri Rahmi atölyesi. |
 
 ## 1. Künye ve Biyografi
 
@@ -48,8 +48,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 - Müzayede 91 (2026-09-22), Lot 1: kağıt üzerine karışık teknik, imzalı., 22x14 cm; tahmini 220.000-320.000 TL, açılış 150.000 TL; satıldı, çekiç 150.000 TL · 150000 TL
 - Müzayede 91 (2026-09-22), Lot 2: kağıt üzerine karışık teknik, imzalı., 12x15 cm; tahmini 220.000-320.000 TL, açılış 150.000 TL; satıldı, çekiç 150.000 TL · 150000 TL
-- Müzayede 92 (kapanış 2026-11-02), Lot 31: duralit üzerine karışık teknik, imzalı., 26x18 cm; tahmini 250.000-350.000 TL, açılış 200.000 TL; açık
-- Müzayede 92 (kapanış 2026-11-02), Lot 32: kağıt üzerine karışık teknik (duralite marufle), imzalı., 23x35 cm; tahmini 250.000-350.000 TL, açılış 200.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 31: duralit üzerine karışık teknik, imzalı., 26x18 cm; tahmini 250.000-350.000 TL, açılış 200.000 TL; satılmadı
+- Müzayede 92 (kapanış 2026-11-02), Lot 32: kağıt üzerine karışık teknik (duralite marufle), imzalı., 23x35 cm; tahmini 250.000-350.000 TL, açılış 200.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -65,6 +65,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|---|---|---|
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 1 | , , kağıt üzerine karışık teknik, imzalı., 22x14 | 220000-320000 | 150000 çekiç / 165000 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 2 | , , kağıt üzerine karışık teknik, imzalı., 12x15 | 220000-320000 | 150000 çekiç / 165000 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 31 | , , duralit üzerine karışık teknik, imzalı., 26x18 | 250000-350000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 32 | , , kağıt üzerine karışık teknik (duralite marufle), imzalı., 23x35 | 250000-350000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -87,12 +89,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **8 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 3 / 8 | Şiir ve resim ilişkisini kuran figürlerden (küratör değerlendirmesi) |
 | d2 | Akademik yayın, tez, monografi, müze | 5 / 7 | YÖK tezi (Güleryüz ile karşılaştırmalı) |
-| **E · Piyasa görünürlüğü** | | **6 / 25** | |
-| e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
+| **E · Piyasa görünürlüğü** | | **7 / 25** | |
+| e1 | Türk müzayedeleri | 5 / 8 | emsal: 4 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
-| e3 | Fiyat seviyesi (doğrulanmış) | 2 / 6 | emsal: 2/2 lot satıldı, en yüksek çekiç 150.000 TL |
+| e3 | Fiyat seviyesi (doğrulanmış) | 2 / 6 | emsal: 2/4 lot satıldı, en yüksek çekiç 150.000 TL |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **35 / 100** | Veri kapsamı %53 |
+| | **Toplam** | **36 / 100** | Veri kapsamı %53 |
 
 ## 8. Kaynakça
 

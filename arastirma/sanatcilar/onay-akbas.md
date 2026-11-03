@@ -48,7 +48,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 92 (kapanış 2026-11-02), Lot 19: tuval üzerine yağlıboya, imzalı., 80x129 cm; tahmini 900.000-1.200.000 TL, açılış 700.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 19: tuval üzerine yağlıboya, imzalı., 80x129 cm; tahmini 900.000-1.200.000 TL, açılış 700.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -62,9 +62,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| | | | | | |
-
-*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 19 | , , tuval üzerine yağlıboya, imzalı., 80x129 | 900000-1200000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 

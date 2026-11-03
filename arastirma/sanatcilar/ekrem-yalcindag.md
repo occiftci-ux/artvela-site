@@ -4,7 +4,7 @@ dogum: "1964, Adıyaman"
 olum: ""
 disiplin: "resim, baskı"
 kabul: "K1 (akademik) ve K2 (galeri)"
-puan: 49
+puan: 50
 kademe: "(III · Güçlü orta) ön puan"
 veri_kapsami: 67
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **49 / 100** | (III · Güçlü orta) ön puan | %67 | K1 (akademik) ve K2 (galeri): Dokuz Eylül Üniversitesi GSF, Sevil Dolmacı Galeri. |
+| **50 / 100** | (III · Güçlü orta) ön puan | %67 | K1 (akademik) ve K2 (galeri): Dokuz Eylül Üniversitesi GSF, Sevil Dolmacı Galeri. |
 
 ## 1. Künye ve Biyografi
 
@@ -46,7 +46,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 5. Eser Analizi (Artvela)
 
 - Müzayede 91 (2026-09-22), Lot 9: prestuval üzerine yağlıboya, imzalı., R: 100; tahmini 300.000-400.000 TL, açılış 280.000 TL; satıldı, çekiç 302.500 TL · 302500 TL
-- Müzayede 92 (kapanış 2026-11-02), Lot 21: prestuval üzerine yağlıboya, imzalı., R: 100 cm; tahmini 250.000-350.000 TL, açılış 220.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 21: prestuval üzerine yağlıboya, imzalı., R: 100 cm; tahmini 250.000-350.000 TL, açılış 220.000 TL; satıldı, çekiç 250.000 TL · 250000 TL
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -61,6 +61,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 9 | , , prestuval üzerine yağlıboya, imzalı., R:100 | 300000-400000 | 302500 çekiç / 332750 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 21 | , , prestuval üzerine yağlıboya, imzalı., R:100 | 250000-350000 | 250000 çekiç / 275000 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -83,12 +84,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **4 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 4 / 8 | Örüntü temelli soyutlamanın güncel temsilcisi |
 | d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
-| **E · Piyasa görünürlüğü** | | **10 / 25** | |
-| e1 | Türk müzayedeleri | 3 / 8 | Artvela 91'de lot |
+| **E · Piyasa görünürlüğü** | | **11 / 25** | |
+| e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
-| e3 | Fiyat seviyesi (doğrulanmış) | 3 / 6 | emsal: 1/1 lot satıldı, en yüksek çekiç 302.500 TL |
+| e3 | Fiyat seviyesi (doğrulanmış) | 3 / 6 | emsal: 2/2 lot satıldı, en yüksek çekiç 302.500 TL |
 | e4 | Güncel galeri temsili | 4 / 4 | Sevil Dolmacı Galeri |
-| | **Toplam** | **49 / 100** | Veri kapsamı %67 |
+| | **Toplam** | **50 / 100** | Veri kapsamı %67 |
 
 ## 8. Kaynakça
 

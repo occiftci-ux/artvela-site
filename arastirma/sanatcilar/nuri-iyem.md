@@ -4,9 +4,9 @@ dogum: "1915, İstanbul [1]"
 olum: "Doğrulanacak"
 disiplin: "resim; duvar resmi"
 kabul: "K1 (akademik)"
-puan: 27
+puan: 31
 kademe: "(IV · Gelişen) ön puan"
-veri_kapsami: 33
+veri_kapsami: 40
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **27 / 100** | (IV · Gelişen) ön puan | %33 | K1 (akademik): Güzel Sanatlar Akademisi 1937 birincilikle; Yüksek Resim Bölümü 1944 birincilikle (Léopold Lévy atölyesi) [1]. |
+| **31 / 100** | (IV · Gelişen) ön puan | %40 | K1 (akademik): Güzel Sanatlar Akademisi 1937 birincilikle; Yüksek Resim Bölümü 1944 birincilikle (Léopold Lévy atölyesi) [1]. |
 
 ## 1. Künye ve Biyografi
 
@@ -49,8 +49,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 92 (kapanış 2026-11-02), Lot 5: tuval üzerine yağlıboya, imzalı., 32x46 cm; tahmini 300.000-400.000 TL, açılış 250.000 TL; açık
-- Müzayede 92 (kapanış 2026-11-02), Lot 6: duralit üzerine yağlıboya, imzalı., 25x31 cm; tahmini 200.000-300.000 TL, açılış 200.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 5: tuval üzerine yağlıboya, imzalı., 32x46 cm; tahmini 300.000-400.000 TL, açılış 250.000 TL; satılmadı
+- Müzayede 92 (kapanış 2026-11-02), Lot 6: duralit üzerine yağlıboya, imzalı., 25x31 cm; tahmini 200.000-300.000 TL, açılış 200.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -64,9 +64,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| | | | | | |
-
-*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 5 | , , tuval üzerine yağlıboya, imzalı., 32x46 | 300000-400000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 6 | , , duralit üzerine yağlıboya, imzalı., 25x31 | 200000-300000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -89,12 +88,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **10 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 7 / 8 | Yeniler Grubu kurucusu; toplumsal gerçekçiliğin öncüsü |
 | d2 | Akademik yayın, tez, monografi, müze | 3 / 7 | Sezer Tansuğ 1983 yazısında anılıyor |
-| **E · Piyasa görünürlüğü** | | **0 / 25** | |
-| e1 | Türk müzayedeleri | 0 / 8 | *eksik* |
+| **E · Piyasa görünürlüğü** | | **4 / 25** | |
+| e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **27 / 100** | Veri kapsamı %33 |
+| | **Toplam** | **31 / 100** | Veri kapsamı %40 |
 
 ## 8. Kaynakça
 

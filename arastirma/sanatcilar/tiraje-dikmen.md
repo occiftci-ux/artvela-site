@@ -4,7 +4,7 @@ dogum: "1925"
 olum: "2014, İstanbul (Büyükada)"
 disiplin: "resim, desen"
 kabul: "K3 (otorite onayı)"
-puan: 32
+puan: 33
 kademe: "(IV · Gelişen) ön puan"
 veri_kapsami: 53
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **32 / 100** | (IV · Gelişen) ön puan | %53 | K3 (otorite onayı): Akademi'de Léopold Lévy'den resim dersi aldı, diploma doğrulanacak. Paris'te Edouard Loeb galerisinde kişisel sergiler, 1964 Charpentier sürrealizm sergisi. |
+| **33 / 100** | (IV · Gelişen) ön puan | %53 | K3 (otorite onayı): Akademi'de Léopold Lévy'den resim dersi aldı, diploma doğrulanacak. Paris'te Edouard Loeb galerisinde kişisel sergiler, 1964 Charpentier sürrealizm sergisi. |
 
 ## 1. Künye ve Biyografi
 
@@ -54,8 +54,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 - Müzayede 91 (2026-09-22), Lot 51: karton üzerine yağlıboya, imzalı., 18x38 cm, ( Çift taraflı, çift imzalı).; tahmini 250.000-350.000 TL, açılış 240.000 TL; satıldı, çekiç 240.000 TL · 240000 TL
 - Müzayede 91 (2026-09-22), Lot 52: mukavva üzerine yağlıboya, imzalı., 22x27 cm; tahmini 250.000-350.000 TL, açılış 190.000 TL; satıldı, çekiç 190.000 TL · 190000 TL
-- Müzayede 92 (kapanış 2026-11-02), Lot 29: karton üzerine yağlıboya, imzalı., 26x18 cm; tahmini 200.000-250.000 TL, açılış 150.000 TL; açık
-- Müzayede 92 (kapanış 2026-11-02), Lot 30: karton üzerine yağlıboya, imzalı., 26x18 cm; tahmini 200.000-250.000 TL, açılış 150.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 29: karton üzerine yağlıboya, imzalı., 26x18 cm; tahmini 200.000-250.000 TL, açılış 150.000 TL; satılmadı
+- Müzayede 92 (kapanış 2026-11-02), Lot 30: karton üzerine yağlıboya, imzalı., 26x18 cm; tahmini 200.000-250.000 TL, açılış 150.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -71,6 +71,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|---|---|---|
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 51 | , , karton üzerine yağlıboya, imzalı., 18x38 | 250000-350000 | 240000 çekiç / 264000 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 52 | , , mukavva üzerine yağlıboya, imzalı., 22x27 | 250000-350000 | 190000 çekiç / 209000 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 29 | , , karton üzerine yağlıboya, imzalı., 26x18 | 200000-250000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 30 | , , karton üzerine yağlıboya, imzalı., 26x18 | 200000-250000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -93,12 +95,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **9 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 4 / 8 | Paris'teki Türk ressamlar, sürrealizm çevresi |
 | d2 | Akademik yayın, tez, monografi, müze | 5 / 7 | Necmi Sönmez, Tiraje Sözlüğü (2024), Waldberg metinleri |
-| **E · Piyasa görünürlüğü** | | **6 / 25** | |
-| e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
+| **E · Piyasa görünürlüğü** | | **7 / 25** | |
+| e1 | Türk müzayedeleri | 5 / 8 | emsal: 4 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
-| e3 | Fiyat seviyesi (doğrulanmış) | 2 / 6 | emsal: 2/2 lot satıldı, en yüksek çekiç 240.000 TL |
+| e3 | Fiyat seviyesi (doğrulanmış) | 2 / 6 | emsal: 2/4 lot satıldı, en yüksek çekiç 240.000 TL |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **32 / 100** | Veri kapsamı %53 |
+| | **Toplam** | **33 / 100** | Veri kapsamı %53 |
 
 ## 8. Kaynakça
 

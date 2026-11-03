@@ -4,9 +4,9 @@ dogum: "Doğrulanacak, İstanbul"
 olum: "Doğrulanacak"
 disiplin: "resim (yağlı boya, karakalem), seramik, cam"
 kabul: "K2 (kurumsal izler)"
-puan: 13
+puan: 15
 kademe: "(V · İzleme) ön puan"
-veri_kapsami: 33
+veri_kapsami: 40
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **13 / 100** | (V · İzleme) ön puan | %33 | K2 (kurumsal izler): Paris'te eğitim (okul adı kaynakta yok); 1965'te Uluslararası Türk Kadın Sanatçılar Derneği kurucuları arasında [1]. |
+| **15 / 100** | (V · İzleme) ön puan | %40 | K2 (kurumsal izler): Paris'te eğitim (okul adı kaynakta yok); 1965'te Uluslararası Türk Kadın Sanatçılar Derneği kurucuları arasında [1]. |
 
 ## 1. Künye ve Biyografi
 
@@ -45,7 +45,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 5. Eser Analizi (Artvela)
 
 - Müzayede 91 (2026-09-22), Lot 39: duralit üzerine yağlıboya, imzalı., 50x60 cm; tahmini 220.000-300.000 TL, açılış 150.000 TL; satılmadı
-- Müzayede 92 (kapanış 2026-11-02), Lot 43: kağıt üzerine yağlıboya, imzalı., 43x35 cm; tahmini 90.000-120.000 TL, açılış 70.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 43: kağıt üzerine yağlıboya, imzalı., 43x35 cm; tahmini 90.000-120.000 TL, açılış 70.000 TL; satıldı, çekiç 70.000 TL · 70000 TL
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -60,6 +60,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 39 | , , duralit üzerine yağlıboya, imzalı., 50x60 | 220000-300000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 43 | , , kağıt üzerine yağlıboya, imzalı., 43x35 | 90000-120000 | 70000 çekiç / 77000 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -82,12 +83,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **2 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 2 / 8 | Uluslararası Türk Kadın Sanatçılar Derneği kurucuları arasında, 1965 (tek kaynak) |
 | d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
-| **E · Piyasa görünürlüğü** | | **3 / 25** | |
-| e1 | Türk müzayedeleri | 3 / 8 | emsal: 1 lot, Artvela (artvela.com) |
+| **E · Piyasa görünürlüğü** | | **5 / 25** | |
+| e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
-| e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
+| e3 | Fiyat seviyesi (doğrulanmış) | 1 / 6 | emsal: 1/2 lot satıldı, en yüksek çekiç 70.000 TL |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **13 / 100** | Veri kapsamı %33 |
+| | **Toplam** | **15 / 100** | Veri kapsamı %40 |
 
 ## 8. Kaynakça
 

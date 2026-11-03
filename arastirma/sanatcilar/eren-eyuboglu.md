@@ -4,9 +4,9 @@ dogum: "Çelişkili: 1913 (KTB [1]) ve 1907 (İstanbul Modern, VIAF [2]); Romany
 olum: "1988 [1]"
 disiplin: "resim, mozaik"
 kabul: "K1 (akademik)"
-puan: 25
+puan: 28
 kademe: "(IV · Gelişen) ön puan"
-veri_kapsami: 33
+veri_kapsami: 40
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **25 / 100** | (IV · Gelişen) ön puan | %33 | K1 (akademik): Yaş (Iași) Sanat Akademisi; Paris, André Lhote atölyesi 1930–32 [1]. |
+| **28 / 100** | (IV · Gelişen) ön puan | %40 | K1 (akademik): Yaş (Iași) Sanat Akademisi; Paris, André Lhote atölyesi 1930–32 [1]. |
 
 ## 1. Künye ve Biyografi
 
@@ -46,7 +46,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 92 (kapanış 2026-11-03), Lot 253: yazma üzerine el boyama, 38x52 cm; tahmini 25.000-35.000 TL, açılış 22.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-03), Lot 253: yazma üzerine el boyama, 38x52 cm; tahmini 25.000-35.000 TL, açılış 22.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -60,9 +60,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| | | | | | |
-
-*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*
+| 2026-11-03 | Artvela (artvela.com) Müzayede 92, Lot 253 | , , yazma üzerine el boyama, 38x52 | 25000-35000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -85,12 +83,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **0 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
 | d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
-| **E · Piyasa görünürlüğü** | | **0 / 25** | |
-| e1 | Türk müzayedeleri | 0 / 8 | *eksik* |
+| **E · Piyasa görünürlüğü** | | **3 / 25** | |
+| e1 | Türk müzayedeleri | 3 / 8 | emsal: 1 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **25 / 100** | Veri kapsamı %33 |
+| | **Toplam** | **28 / 100** | Veri kapsamı %40 |
 
 ## 8. Kaynakça
 

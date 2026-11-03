@@ -4,7 +4,7 @@ dogum: "Çelişkili: 1931, İstanbul (Centre Pompidou kaydı, galeri biyografisi
 olum: "9 Kasım 2018, Paris"
 disiplin: "resim, baskı, seramik"
 kabul: "K3 (otorite onayı)"
-puan: 57
+puan: 58
 kademe: "III · Güçlü orta"
 veri_kapsami: 87
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **57 / 100** | III · Güçlü orta | %87 | K3 (otorite onayı): Centre Pompidou koleksiyonu (devlet alımı 1961), Denise René ve Louis Carré galerileri. |
+| **58 / 100** | III · Güçlü orta | %87 | K3 (otorite onayı): Centre Pompidou koleksiyonu (devlet alımı 1961), Denise René ve Louis Carré galerileri. |
 
 ## 1. Künye ve Biyografi
 
@@ -64,8 +64,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 5. Eser Analizi (Artvela)
 
 - Müzayede 91 (2026-09-22), Lot 149: edition: 78/100, serigrafi, imzalı., 41x31 cm; tahmini 20.000-35.000 TL, açılış 10.000 TL; satıldı, çekiç 10.000 TL · 10000 TL
-- Müzayede 92 (kapanış 2026-11-02), Lot 9: tuval üzerine yağlıboya, imzalı., 73x60 cm; tahmini 800.000-1.000.000 TL, açılış 700.000 TL; açık
-- Müzayede 92 (kapanış 2026-11-02), Lot 10: tuval üzerine yağlıboya, imzalı., 27x41 cm; tahmini 400.000-500.000 TL, açılış 300.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 9: tuval üzerine yağlıboya, imzalı., 73x60 cm; tahmini 800.000-1.000.000 TL, açılış 700.000 TL; satılmadı
+- Müzayede 92 (kapanış 2026-11-02), Lot 10: tuval üzerine yağlıboya, imzalı., 27x41 cm; tahmini 400.000-500.000 TL, açılış 300.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -82,6 +82,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 149 | , , serigrafi, imzalı., 41x31 | 20000-35000 | 10000 çekiç / 11000 primli (%10 komisyon, KDV hariç) TRY (evet) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 9 | , , tuval üzerine yağlıboya, imzalı., 73x60 | 800000-1000000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 10 | , , tuval üzerine yağlıboya, imzalı., 27x41 | 400000-500000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -104,12 +106,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **12 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 6 / 8 | Paris Okulu lirik soyutlama kuşağı |
 | d2 | Akademik yayın, tez, monografi, müze | 6 / 7 | Lefort (Gallimard 1978), Daix, Chalumeau 2019 monografi |
-| **E · Piyasa görünürlüğü** | | **7 / 25** | |
-| e1 | Türk müzayedeleri | 3 / 8 | Artvela 91 ve 92'de lot |
+| **E · Piyasa görünürlüğü** | | **8 / 25** | |
+| e1 | Türk müzayedeleri | 4 / 8 | emsal: 3 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
-| e3 | Fiyat seviyesi (doğrulanmış) | 1 / 6 | emsal: 1/1 lot satıldı, en yüksek çekiç 10.000 TL |
+| e3 | Fiyat seviyesi (doğrulanmış) | 1 / 6 | emsal: 1/3 lot satıldı, en yüksek çekiç 10.000 TL |
 | e4 | Güncel galeri temsili | 3 / 4 | Diane de Polignac 2026, Dirimart 2024 |
-| | **Toplam** | **57 / 100** | Veri kapsamı %87 |
+| | **Toplam** | **58 / 100** | Veri kapsamı %87 |
 
 ## 8. Kaynakça
 

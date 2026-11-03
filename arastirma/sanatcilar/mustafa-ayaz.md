@@ -4,8 +4,8 @@ dogum: "1938, Çaykara (Trabzon)"
 olum: "2024, Ankara"
 disiplin: "resim"
 kabul: "K1 (akademik)"
-puan: 39
-kademe: "(IV · Gelişen) ön puan"
+puan: 40
+kademe: "(III · Güçlü orta) ön puan"
 veri_kapsami: 53
 son_guncelleme: "2026-10-23"
 guven: "taslak"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **39 / 100** | (IV · Gelişen) ön puan | %53 | K1 (akademik): Gazi Eğitim Enstitüsü Resim Bölümü, 1960–63. |
+| **40 / 100** | (III · Güçlü orta) ön puan | %53 | K1 (akademik): Gazi Eğitim Enstitüsü Resim Bölümü, 1960–63. |
 
 ## 1. Künye ve Biyografi
 
@@ -49,8 +49,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 5. Eser Analizi (Artvela)
 
 - Müzayede 91 (2026-09-22), Lot 10: tuval üzerine yağlıboya, imzalı., 70x90 cm; tahmini 550.000-700.000 TL, açılış 470.000 TL; satılmadı
-- Müzayede 92 (kapanış 2026-11-02), Lot 157: kağıt üzerine kuruboya, imzalı., 31x33 cm; tahmini 20.000-30.000 TL, açılış 20.000 TL; açık
-- Müzayede 92 (kapanış 2026-11-02), Lot 158: kağıt üzerine karışık teknik, imzalı., 17x17 cm; tahmini 30.000-40.000 TL, açılış 22.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 157: kağıt üzerine kuruboya, imzalı., 31x33 cm; tahmini 20.000-30.000 TL, açılış 20.000 TL; satılmadı
+- Müzayede 92 (kapanış 2026-11-02), Lot 158: kağıt üzerine karışık teknik, imzalı., 17x17 cm; tahmini 30.000-40.000 TL, açılış 22.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -65,6 +65,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 10 | , , tuval üzerine yağlıboya, imzalı., 70x90 | 550000-700000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 157 | , , kağıt üzerine kuruboya, imzalı., 31x33 | 20000-30000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 158 | , , kağıt üzerine karışık teknik, imzalı., 17x17 | 30000-40000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -87,12 +89,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **6 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
 | d2 | Akademik yayın, tez, monografi, müze | 6 / 7 | Kendi adını taşıyan müze ve vakıf, akademik makale |
-| **E · Piyasa görünürlüğü** | | **3 / 25** | |
-| e1 | Türk müzayedeleri | 3 / 8 | emsal: 1 lot, Artvela (artvela.com) |
+| **E · Piyasa görünürlüğü** | | **4 / 25** | |
+| e1 | Türk müzayedeleri | 4 / 8 | emsal: 3 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **39 / 100** | Veri kapsamı %53 |
+| | **Toplam** | **40 / 100** | Veri kapsamı %53 |
 
 ## 8. Kaynakça
 

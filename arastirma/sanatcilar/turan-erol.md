@@ -4,9 +4,9 @@ dogum: "1927, Milas (Muğla) [1][2]"
 olum: "16 Şubat 2023 [1][2]"
 disiplin: "resim, sanat yazarlığı"
 kabul: "K1 (akademik)"
-puan: 29
+puan: 32
 kademe: "(IV · Gelişen) ön puan"
-veri_kapsami: 47
+veri_kapsami: 53
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **29 / 100** | (IV · Gelişen) ön puan | %47 | K1 (akademik): İstanbul Devlet Güzel Sanatlar Akademisi Yüksek Resim Bölümü, Bedri Rahmi Eyüboğlu atölyesi, 1951 [1][2]. |
+| **32 / 100** | (IV · Gelişen) ön puan | %53 | K1 (akademik): İstanbul Devlet Güzel Sanatlar Akademisi Yüksek Resim Bölümü, Bedri Rahmi Eyüboğlu atölyesi, 1951 [1][2]. |
 
 ## 1. Künye ve Biyografi
 
@@ -52,7 +52,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 ## 5. Eser Analizi (Artvela)
 
-- Müzayede 92 (kapanış 2026-11-02), Lot 40: kağıt üzerine karışık teknik, imzalı., 1962 tarihli., 42x50 cm; tahmini 450.000-550.000 TL, açılış 400.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 40: kağıt üzerine karışık teknik, imzalı., 1962 tarihli., 42x50 cm; tahmini 450.000-550.000 TL, açılış 400.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -67,9 +67,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
-| | | | | | |
-
-*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 40 | , 1962, kağıt üzerine karışık teknik, imzalı., 42x50 | 450000-550000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -92,12 +90,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **8 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 5 / 8 | Onlar Grubu üyesi; BRHD ve ÇAĞSAV kurucusu |
 | d2 | Akademik yayın, tez, monografi, müze | 3 / 7 | Sanat yazarlığı ve eleştiri |
-| **E · Piyasa görünürlüğü** | | **0 / 25** | |
-| e1 | Türk müzayedeleri | 0 / 8 | *eksik* |
+| **E · Piyasa görünürlüğü** | | **3 / 25** | |
+| e1 | Türk müzayedeleri | 3 / 8 | emsal: 1 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **29 / 100** | Veri kapsamı %47 |
+| | **Toplam** | **32 / 100** | Veri kapsamı %53 |
 
 ## 8. Kaynakça
 

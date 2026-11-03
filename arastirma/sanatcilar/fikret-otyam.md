@@ -4,7 +4,7 @@ dogum: "19 Aralık 1926, Aksaray [1][2]"
 olum: "9 Ağustos 2015, Antalya [1][2]"
 disiplin: "resim, fotoğraf, dokuma (Filiz Otyam ile), gazetecilik"
 kabul: "K1 (akademik)"
-puan: 28
+puan: 29
 kademe: "(IV · Gelişen) ön puan"
 veri_kapsami: 47
 son_guncelleme: "2026-10-23"
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **28 / 100** | (IV · Gelişen) ön puan | %47 | K1 (akademik): İstanbul DGSA, 1945–53, Bedri Rahmi Eyüboğlu atölyesi [1][2]. |
+| **29 / 100** | (IV · Gelişen) ön puan | %47 | K1 (akademik): İstanbul DGSA, 1945–53, Bedri Rahmi Eyüboğlu atölyesi [1][2]. |
 
 ## 1. Künye ve Biyografi
 
@@ -50,7 +50,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 5. Eser Analizi (Artvela)
 
 - Müzayede 91 (2026-09-22), Lot 74: kağıt üzerine karışık teknik, imzalı., 21x27 cm; tahmini 180.000-250.000 TL, açılış 145.000 TL; satılmadı
-- Müzayede 92 (kapanış 2026-11-02), Lot 75: tuval üzerine yağlıboya, imzalı., 24x59 cm; tahmini 200.000-300.000 TL, açılış 200.000 TL; açık
+- Müzayede 92 (kapanış 2026-11-02), Lot 75: tuval üzerine yağlıboya, imzalı., 24x59 cm; tahmini 200.000-300.000 TL, açılış 200.000 TL; satılmadı
 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
@@ -67,6 +67,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
 |---|---|---|---|---|---|
 | 2026-09-22 | Artvela (artvela.com) Müzayede 91, Lot 74 | , , kağıt üzerine karışık teknik, imzalı., 21x27 | 180000-250000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-91-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
+| 2026-11-02 | Artvela (artvela.com) Müzayede 92, Lot 75 | , , tuval üzerine yağlıboya, imzalı., 24x59 | 200000-300000 |  TRY (hayir) | https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi |
 
 ## 7. Puan Dökümü
 
@@ -89,12 +90,12 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | **D · Sanat tarihindeki konum** | | **7 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 4 / 8 | Onlar Grubu üyesi; Anadolu belgeci kuşağı |
 | d2 | Akademik yayın, tez, monografi, müze | 3 / 7 | 14 kitap; röportaj ve fotoğraf külliyatı |
-| **E · Piyasa görünürlüğü** | | **3 / 25** | |
-| e1 | Türk müzayedeleri | 3 / 8 | emsal: 1 lot, Artvela (artvela.com) |
+| **E · Piyasa görünürlüğü** | | **4 / 25** | |
+| e1 | Türk müzayedeleri | 4 / 8 | emsal: 2 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **28 / 100** | Veri kapsamı %47 |
+| | **Toplam** | **29 / 100** | Veri kapsamı %47 |
 
 ## 8. Kaynakça
 
