@@ -30,6 +30,7 @@ guven: "taslak"
 - 1950: Stockholm'de ilk kişisel sergisi [1].
 - 1953 ve 1955: Salon des Réalités Nouvelles, Paris [1].
 - 1957: Galerie Iris Clert, Paris [1].
+- ⚠ ev beyanı (Millon kataloğu, 2024): Orhon ve mimar Oğuz Orbey İstanbul'daki gençliklerinden beri dosttu, Fransa'ya birlikte geldiler; Orhon Orbey'in impasse du Rouet'deki atölyesinde aylarca kaldı, atölye 1971'de onarıldı. Katalog 1947 Sorbonne ekonomi yüksek lisansını ve 1956 Iris Clert ilk kişisel sergisini yazar; Mathaf 1947 Siyasal Bilgiler, 1948 Paris ve 1957 Iris Clert der. Çelişkili [6].
 - 1959–62: Galerie Lucien Durand, Paris'te kişisel sergiler [1].
 - 1981: "Lyrical Abstraction", Sainsbury Centre, Norwich [1].
 
@@ -106,6 +107,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 3. [3] Artvela Instagram, Müzayede 91 gönderisi. https://www.instagram.com/p/Ddixy9KCO9L/
 4. [4] Aguttes müzayedesi, "Sans titre, circa 1956" lot kaydı. https://www.aguttes.com/en/lot/102885/12395232-orhon-mubin-1924-1981-sans-titre-circa-1956-huile-sur-toile
 5. [5] Qatar Museums çevrimiçi koleksiyonu, Mübin Orhon, Untitled, 1956. https://collections.qm.org.qa/objects/untitled-mat2008195
+6. [6] Millon, "Middle-East 20th Century Art: Istanbul–Montparnasse, collection de M. Oğuz Orbey", 11.07.2024 satış kataloğu (ev beyanı). https://millon.com/catalogue/vente2890-middle-east-20th-century-art-istanbul-montparnasse-collection-mr-oguz-orbey/catalog/view
 
 ## 9. Açık Sorular
 
