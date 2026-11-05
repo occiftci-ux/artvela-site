@@ -12,7 +12,8 @@ UZAK_KLASOR="koruma"                 # sunucuda: /lebriz-depo/koruma/<zip-adi>/<
 IS="${IS_KLASORU:-$HOME/lebriz-tasi}" # yerel çalışma alanı (proje deposu değil)
 DIZIN="$IS/sunucu-dizini.tsv"        # sha256 dizini; her adımdan sonra sunucuya da yüklenir
 GUNLUK="$IS/gunluk.txt"
-PARCA=90M
+PARCA="${PARCA:-20M}"   # Cloudflare 100 sn sınırı: hat ~0,5-2 MB/sn, 90M zaman aşımına düşüyor
+PARALEL="${PARALEL:-4}"
 
 : "${ONUR_SUNUCU_ANAHTAR:?ONUR_SUNUCU_ANAHTAR ortam sırrı yok}"
 mkdir -p "$IS/tmp"
@@ -36,16 +37,25 @@ for z in "$KAYNAK"/paket-*.zip; do
   [ "$boy" = "$(stat -c%s "$z")" ] || { log "HATA kopya boyutu $ad"; continue; }
   sha=$(sha256sum "$IS/tmp/$ad" | cut -d' ' -f1)
   ( cd "$IS/tmp" && split -b "$PARCA" -d -a 3 "$ad" "$ad.part" )
-  parcalar=( "$IS/tmp/$ad".part* ); n=${#parcalar[@]}
+  parcalar=( "$IS/tmp/$ad".part[0-9][0-9][0-9] ); n=${#parcalar[@]}
   mkcol "$UZAK_KLASOR/$ad"
   satirlar=""; tamam=1
+  export DAV NETRC IS
+  printf '%s\n' "${parcalar[@]}" | xargs -P "$PARALEL" -I{} bash -c '
+    p="$1"; pa=$(basename "$p"); ad=${pa%.part*}; yol="koruma/$ad/$pa"
+    ps=$(sha256sum "$p" | cut -d" " -f1)
+    for d in 1 2 3; do
+      curl -sS --fail --retry 4 --retry-delay 5 --netrc-file "$NETRC" -o /dev/null -T "$p" "$DAV/$yol" \
+      && gs=$(curl -sS --fail --retry 4 --retry-delay 5 --netrc-file "$NETRC" "$DAV/$yol" | sha256sum | cut -d" " -f1) \
+      && [ "$gs" = "$ps" ] && { echo "$pa	$(stat -c%s "$p")	$ps	/lebriz-depo/$yol" > "$p.ok"; exit 0; }
+      sleep 10
+    done; exit 1' _ {} || true
+  satirlar=""; tamam=1
   for p in "${parcalar[@]}"; do
-    pa=$(basename "$p"); pb=$(stat -c%s "$p"); ps=$(sha256sum "$p" | cut -d' ' -f1)
-    yol="$UZAK_KLASOR/$ad/$pa"
-    "${C[@]}" -o /dev/null -T "$p" "$DAV/$yol" || { log "HATA yükleme $yol"; tamam=0; break; }
-    gs=$("${C[@]}" "$DAV/$yol" | sha256sum | cut -d' ' -f1) || gs=x
-    [ "$gs" = "$ps" ] || { log "HATA doğrulama $yol ($gs != $ps)"; tamam=0; break; }
-    satirlar+="$ad	$boy	$sha	$n	$pa	$pb	$ps	/lebriz-depo/$yol	$(date -u +%FT%TZ)"$'\n'
+    if [ -f "$p.ok" ]; then
+      IFS=$'\t' read -r pa pb ps yol < "$p.ok"
+      satirlar+="$ad	$boy	$sha	$n	$pa	$pb	$ps	$yol	$(date -u +%FT%TZ)"$'\n'
+    else log "HATA yükleme/doğrulama $(basename "$p")"; tamam=0; fi
   done
   if [ "$tamam" = 1 ]; then
     # birleşik sha256 de tutmalı
