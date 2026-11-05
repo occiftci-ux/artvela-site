@@ -448,8 +448,8 @@ bihrat-mavitan,Bihrat Mavitan,artvela-envanter,b,eklendi,2026-11-03,Müzayede 92
 muzaffer-akyol,Muzaffer Akyol,artvela-envanter,b,eklendi,2026-11-03,Müzayede 92 envanteri (2026-11-03 eklendi); 05.11 03:17: eklendi
 dincer-erimez,Dinçer Erimez,artvela-envanter,b,eklendi,2026-11-03,Müzayede 92 envanteri (2026-11-03 eklendi); 05.11 03:17: eklendi
 ertugrul-ates,Ertuğrul Ateş,artvela-envanter,b,eklendi,2026-11-03,Müzayede 92 envanteri (2026-11-03 eklendi); 05.11 03:17: eklendi
-firdevsi-feyzullah,Firdevsi Feyzullah,artvela-envanter,b,bekliyor,2026-11-03,Müzayede 92 envanteri (2026-11-03 eklendi)
-hayati-misman,Hayati Misman,artvela-envanter,b,bekliyor,2026-11-03,Müzayede 92 envanteri (2026-11-03 eklendi)
+firdevsi-feyzullah,Firdevsi Feyzullah,artvela-envanter,b,kaynak-yok,2026-11-03,Müzayede 92 envanteri (2026-11-03 eklendi); 05.11 21:07: web aramasında ressam kaydı çıkmadı (yalnız tarihî Firdevsî ve Feyzullah Efendi sonuçları)
+hayati-misman,Hayati Misman,artvela-envanter,b,eklendi,2026-11-03,Müzayede 92 envanteri (2026-11-03 eklendi); 05.11 21:07: eklendi
 ozgur-eryilmaz,Özgür Eryılmaz,artvela-envanter,b,bekliyor,2026-11-03,Müzayede 92 envanteri (2026-11-03 eklendi)
 saim-bugay,Saim Bugay,artvela-envanter,b,bekliyor,2026-11-03,Müzayede 92 envanteri (2026-11-03 eklendi)
 ercument-tarhan,Ercüment Tarhan,artvela-envanter,b,bekliyor,2026-11-03,Müzayede 92 envanteri (2026-11-03 eklendi)
@@ -532,3 +532,9 @@ irfan-donmez,İrfan Dönmez,odul-burs,g,bekliyor,2026-11-03,"odul-burs: 39. DYO 
 murat-ozbakir,Murat Özbakır,odul-burs,g,bekliyor,2026-11-03,"odul-burs: 39. DYO Resim Ödülleri (2022), pentür ödülü, ""Yeryüzü-Kent-Yapı"" (Cumhuriyet 25.05.2023); biyografi için ikinci kaynak gerekli"
 didem-erbas,Didem Erbaş,bej-kesif,g,eklendi,2026-11-04,"G-Y1 keşif, Time Out 2017 genç sanatçılar + İKSV; 04.11 23:17 eklendi"
 sadik-ari,Sadık Arı,bej-kesif,g,eklendi,2026-11-05,"G-Y1 keşif, Time Out 2017 + İstanbul Bienali katılımcı sayfası; 05.11 01:17 eklendi"
+sevda-uyar,Sevda Uyar,bej-kesif,g,eklendi,2026-11-05,"G-Y1 keşif, TSKB 75. Yıl yarışması ödüllü (SA4 ödül önceliği); 05.11 21:07 eklendi"
+hatice-akkus,Hatice Akkuş,bej-kesif,g,eklendi,2026-11-05,"G-Y1 keşif, TSKB 75. Yıl yarışması ödüllü (SA4 ödül önceliği); 05.11 21:07 eklendi"
+seckin-coban,Seçkin Çoban,bej-kesif,g,bekliyor,2026-11-05,"G-Y1 keşif: TSKB 75. Yıl yarışması 30 seçilmiş sanatçı (OMÜ Resim), ödülsüz sergileme"
+ozguc-umut-celen,Özgüç Umut Çelen,bej-kesif,g,bekliyor,2026-11-05,"G-Y1 keşif: TSKB 75. Yıl yarışması 30 seçilmiş sanatçı (MSGSÜ Resim yüksek lisans), ödülsüz sergileme"
+gizem-sayan,Gizem Sayan,bej-kesif,g,bekliyor,2026-11-05,"G-Y1 keşif: TSKB 75. Yıl yarışması 30 seçilmiş sanatçı (Marmara GSF Resim), ödülsüz sergileme"
+yusuf-gezici,Yusuf Gezici,bej-kesif,g,bekliyor,2026-11-05,"G-Y1 keşif: TSKB 75. Yıl yarışması 30 seçilmiş sanatçı (Anadolu Üniv. Resim yüksek lisans), ödülsüz sergileme"

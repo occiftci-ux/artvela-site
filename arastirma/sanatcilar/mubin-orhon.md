@@ -1,12 +1,12 @@
 ---
 sanatci: "Mübin Orhon"
 dogum: "1924, İstanbul"
-olum: "1981, Paris"
+olum: "27 Nisan 1981, Paris; 25 Mayıs 1981'de İstanbul'da Aşiyan Mezarlığı'na gömüldü [7]"
 disiplin: "resim"
 kabul: "K3 (otorite onayı)"
-puan: 53
-kademe: "(III · Güçlü orta) ön puan"
-veri_kapsami: 67
+puan: 57
+kademe: "III · Güçlü orta"
+veri_kapsami: 73
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,23 +15,29 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **53 / 100** | (III · Güçlü orta) ön puan | %67 | K3 (otorite onayı): Siyasal Bilgiler mezunu. Mathaf koleksiyonu, İstanbul Modern'de uzun süreli ödünç eser, Paris galerileri. |
+| **57 / 100** | III · Güçlü orta | %73 | K3 (otorite onayı): Siyasal Bilgiler mezunu. Mathaf koleksiyonu, İstanbul Modern'de uzun süreli ödünç eser, Paris galerileri. |
 
 ## 1. Künye ve Biyografi
 
-**Doğum / ölüm:** 1924, İstanbul · 1981, Paris
+**Doğum / ölüm:** 1924, İstanbul · 27 Nisan 1981, Paris; 25 Mayıs 1981'de İstanbul'da Aşiyan Mezarlığı'na gömüldü [7]
 **Disiplin:** resim
 
 **Eğitim**
 - İstanbul Erkek Lisesi; 1947'de Ankara Siyasal Bilgiler Fakültesi [1].
 - 1948: Paris. Selim Turan'ın davetiyle Académie de la Grande Chaumière desen derslerine katıldı [1].
+- Paris'e gidiş yılı çelişkili: Mathaf 1948 [1]; Sönmez 23 Ağustos 1949, Marsilya vapuru [7]; Millon 1947 [6]. Siyasal Bilgiler yılları da katalogda iki türlü: 1942–47 ve 1943–47 [7].
+- 1949–50: Grande Chaumière'de serbest desen, ardından Dewasne ve Pillet'nin soyut sanat atölyesi [7].
 
 **Kronoloji**
 - 1950: Stockholm'de ilk kişisel sergisi [1].
 - 1953 ve 1955: Salon des Réalités Nouvelles, Paris [1].
-- 1957: Galerie Iris Clert, Paris [1].
+- 1956: Iris Clert'te karma sergi ve ardından Paris'teki ilk kişisel sergisi; 1957 aynı galeride ikinci sergi "Peintures et Collages" [7]. Mathaf yalnız 1957'yi verir [1].
 - ⚠ ev beyanı (Millon kataloğu, 2024): Orhon ve mimar Oğuz Orbey İstanbul'daki gençliklerinden beri dosttu, Fransa'ya birlikte geldiler; Orhon Orbey'in impasse du Rouet'deki atölyesinde aylarca kaldı, atölye 1971'de onarıldı. Katalog 1947 Sorbonne ekonomi yüksek lisansını ve 1956 Iris Clert ilk kişisel sergisini yazar; Mathaf 1947 Siyasal Bilgiler, 1948 Paris ve 1957 Iris Clert der. Çelişkili [6].
-- 1959–62: Galerie Lucien Durand, Paris'te kişisel sergiler [1].
+- 1959–62: Galerie Lucien Durand, Paris'te kişisel sergiler [1]; Durand, Sainsbury ailesiyle dostluğa aracı oldu [7].
+- Askerlik Türkiye'de, Kırklareli'nde yedek subay; dönüş yılı 1964 ya da 1965, bitiş 1967 [7]. 1967: Butik Melda'da sergi, İstanbul [7].
+- 1971 sonrası ağırlıkla kâğıt üzerine guaş; atölyeler: 1960'larda impasse du Rouet, 1970'lerin başında rue Fizeau, 1975'ten boulevard Raspail [7].
+- 2–25 Ekim 1996: "Mübin Orhon: Robert ve Lisa Sainsbury Koleksiyonu", Yapı Kredi Kâzım Taşkent Sanat Galerisi; küratörler Ali Artun ve William Jeffett [7].
+- 1992'den sonra Galeri Nev Ankara ve İstanbul'da dokuz kişisel sergi düzenledi [7].
 - 1981: "Lyrical Abstraction", Sainsbury Centre, Norwich [1].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
@@ -59,6 +65,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 **Müze ve kurum koleksiyonları**
 - İstanbul Modern'de uzun süreli ödünç: Soyut Kompozisyon, 1958, 70x85 cm; mülkiyet Dr. Nejat F. Eczacıbaşı Vakfı Koleksiyonu, müzenin kendi koleksiyonu değil [2]. Teknik teyit bekliyor: kurum sayfası iki farklı teknik veriyor (2026-10-24 düzeltmesi)
 - Mathaf, Doha (1956, 1962, 1973 tarihli eserler) [1]. Kurum kaydıyla doğrulandı: "Untitled", 1956, 111,5 × 92,3 cm, Qatar Museums çevrimiçi koleksiyonu, Mathaf (şu an sergilenmiyor) [5]. 1962 ve 1973 eserleri kurum kaydında aranacak.
+- Sainsbury Centre for Visual Arts, Norwich: Robert ve Lisa Sainsbury'nin 63 eserlik Orhon koleksiyonu [7] (ön teyit)
+- Merkez Bankası Koleksiyonu, Ankara: "İsimsiz", 1957, tuval üzerine yağlıboya, 73x92 cm (aday; katalog künyesi, kurum kaydı görülmedi) [7]
 
 **Ödüller**
 - Kaynakta ödül bilgisi yok, doğrulanacak.
@@ -90,15 +98,15 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | c1 | Türkiye'deki müze koleksiyonları | 4 / 8 | İstanbul Modern'de uzun süreli ödünç (Eczacıbaşı Vakfı); müze mülkiyetinde değil |
 | c2 | Yurtdışındaki müze koleksiyonları | 6 / 7 | Mathaf, Sainsbury koleksiyonu |
 | c3 | Ödüller | 0 / 5 | *eksik* |
-| **D · Sanat tarihindeki konum** | | **7 / 15** | |
+| **D · Sanat tarihindeki konum** | | **11 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 7 / 8 | Paris'teki Türk lirik soyutçuların önde gelenlerinden |
-| d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
+| d2 | Akademik yayın, tez, monografi, müze | 4 / 7 | monografik katalog: YKY 1996, Galeri Nev 2011 |
 | **E · Piyasa görünürlüğü** | | **12 / 25** | |
 | e1 | Türk müzayedeleri | 5 / 8 | emsal: 4 lot, Artvela (artvela.com) |
 | e2 | Uluslararası müzayedeler | 4 / 7 | Aguttes (Fransa) müzayede kaydı |
 | e3 | Fiyat seviyesi (doğrulanmış) | 3 / 6 | emsal: 2/4 lot satıldı, en yüksek çekiç 320.000 TL |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **53 / 100** | Veri kapsamı %67 |
+| | **Toplam** | **57 / 100** | Veri kapsamı %73 |
 
 ## 8. Kaynakça
 
@@ -108,6 +116,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 4. [4] Aguttes müzayedesi, "Sans titre, circa 1956" lot kaydı. https://www.aguttes.com/en/lot/102885/12395232-orhon-mubin-1924-1981-sans-titre-circa-1956-huile-sur-toile
 5. [5] Qatar Museums çevrimiçi koleksiyonu, Mübin Orhon, Untitled, 1956. https://collections.qm.org.qa/objects/untitled-mat2008195
 6. [6] Millon, "Middle-East 20th Century Art: Istanbul–Montparnasse, collection de M. Oğuz Orbey", 11.07.2024 satış kataloğu (ev beyanı). https://millon.com/catalogue/vente2890-middle-east-20th-century-art-istanbul-montparnasse-collection-mr-oguz-orbey/catalog/view
+7. [7] Ali Artun (ed.), Mübin Orhon: Robert ve Lisa Sainsbury Koleksiyonu, genişletilmiş 2. baskı, Galeri Nev, Ankara 2011 (ilk baskı Yapı Kredi Kültür Sanat 1996); sanat tarihçisi okuması K-0236, olgular O-1268–O-1291 (ön teyit).
 
 ## 9. Açık Sorular
 
