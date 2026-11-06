@@ -6,6 +6,8 @@ K=/mnt/project-files/arastirma/sanat-tarihi/lebriz/koruma; A=/mnt/project-files/
 : "${ONUR_SUNUCU_ANAHTAR:?ONUR_SUNUCU_ANAHTAR ortam sırrı yok}"
 export LEBRIZ_YEREL=${LEBRIZ_YEREL:-$HOME/lebriz-yerel} LEBRIZ_ONBELLEK=${LEBRIZ_ONBELLEK:-$HOME/lebriz-onbellek}
 cd /tmp
+# Önceki tur konteyner yeniden başlayınca yarıda kaldıysa, yerelde bekleyenleri önce sunucuya gönder.
+[ -n "$(find "$LEBRIZ_YEREL" -type f -not -name '*.tmp' 2>/dev/null | head -1)" ] && timeout 3600 python3 -I $A/paketle.py $K /tmp/lebriz-paket --sil
 # müzayede bankası bitti (10.029/10.029, 2026-11-05):
 # NODE_PATH=$(npm root -g) DELAY_MS=1000 node $A/muzayede_cek.js $K 0.8
 DELAY=1.0 python3 -I $K/crawl.py $K 1.3 $K/seeds.txt &
