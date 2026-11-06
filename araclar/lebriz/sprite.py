@@ -10,14 +10,19 @@ for f,p in (('sergiler.json','s'),('yazilar.json','y')):
     for g in a.get('eserler' if p=='s' else 'gorseller',[]):
       k=(g['yol'].strip('/')+'/'+g['kod']).strip('/')
       if os.path.exists(os.path.join(T,k.replace('/','__')+'.jpg')): sira.append((f'{p}-{a["id"]//100}',k))
-gor=set(); sira=[x for x in sira if not (x[1] in gor or gor.add(x[1]))]
-kova=collections.defaultdict(dict)
+kova=collections.defaultdict(dict); bas=0  # artımlı: eski atamalar korunur, yeni görseller yeni paftalara
+for f in os.listdir(O):
+  if f.startswith('o-') and f.endswith('.json'):
+    kova[f[2:-5]]=json.load(open(os.path.join(O,f)))
+eski={k for d in kova.values() for k in d}
+if eski: bas=1+max(v[0] for d in kova.values() for v in d.values())
+gor=set(eski); sira=[x for x in sira if not (x[1] in gor or gor.add(x[1]))]
 for pn in range(0,len(sira),N*N):
   sp=Image.new('RGB',(C*N,C*((min(N*N,len(sira)-pn)+N-1)//N)),(236,235,230))
   for c,(kv,k) in enumerate(sira[pn:pn+N*N]):
     im=Image.open(os.path.join(T,k.replace('/','__')+'.jpg'))
     sp.paste(im,((c%N)*C+(C-im.width)//2,(c//N)*C+(C-im.height)//2))
-    kova[kv][k]=[pn//(N*N),c,im.width,im.height]
-  sp.save(os.path.join(P,f'p-{pn//(N*N):03d}.jpg'),'JPEG',quality=70,optimize=True)
+    kova[kv][k]=[bas+pn//(N*N),c,im.width,im.height]
+  sp.save(os.path.join(P,f'p-{bas+pn//(N*N):03d}.jpg'),'JPEG',quality=70,optimize=True)
 for kv,d in kova.items(): json.dump(d,open(os.path.join(O,f'o-{kv}.json'),'w'),separators=(',',':'))
-print('pafta',(len(sira)+N*N-1)//(N*N),'gorsel',len(sira),'kova',len(kova))
+print('yeni pafta',(len(sira)+N*N-1)//(N*N),'ilk',bas,'yeni gorsel',len(sira),'kova',len(kova))
