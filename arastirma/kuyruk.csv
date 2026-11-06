@@ -107,7 +107,7 @@ salih-cakar,Salih Çakar,odul-burs,g,eklendi,2026-10-24,77. Devlet Resim ve Heyk
 duru-bozkurt,Duru Bozkurt,odul-burs,g,eklendi,2026-10-24,"Genç Sanat 2024 sergileme, 2025 başarı ödülü; medyum doğrulanacak"
 elif-boyraz,Elif Boyraz,odul-burs,g,eklendi,2026-10-24,"Genç Sanat 2024 başarı, 2025 mansiyon; medyum doğrulanacak"
 ihsan-berke-saracoglu,İhsan Berke Saraçoğlu,odul-burs,g,eklendi,2026-10-24,"Genç Sanat 2024 sergileme, 2025 başarı; medyum doğrulanacak"
-derya-yilmaz,Derya Yılmaz,odul-burs,g,bekliyor,2026-10-24,"77. DRHY 2025 resim başarı ödülü; ad yaygın, katalogla eşleştir"
+derya-yilmaz,Derya Yılmaz,odul-burs,g,eklendi,2026-10-24,"77. DRHY 2025 resim başarı ödülü; ad yaygın, katalogla eşleştir; 06.11 21:07: eklendi"
 elif-akcay,Elif Akçay,odul-burs,g,eklendi,2026-10-24,"Nuri İyem Resim Ödülü 2022, Evin İyem ödülü"
 seref-akdik,Şeref Akdik,sanat-tarihcisi,c,eklendi,2026-10-25,"istek: sanat-tarihcisi, O-0234 inkılap resmi"
 guzin-duran,Güzin Duran,sanat-tarihcisi,c,eklendi,2026-10-25,"istek: sanat-tarihcisi, O-0246/O-0256 yurtdışı burslu kuşak"
@@ -461,7 +461,7 @@ nazim-mammadov,Nazım Mammadov,artvela-envanter,b,kapsam-disi,2026-11-03,"Müzay
 erhan-lanpir,Erhan Lanpir,artvela-envanter,b,eklendi,2026-11-03,Müzayede 92 envanteri (2026-11-03 eklendi); 06.11 03:17: eklendi
 huseyin-sahbudak,Hüseyin Şahbudak,artvela-envanter,b,kaynak-yok,2026-11-03,Müzayede 92 envanteri (2026-11-03 eklendi); 06.11 03:17: web aramasında ressam kaydı çıkmadı
 yusuf-bilge,Yusuf Bilge,artvela-envanter,b,eklendi,2026-11-03,Müzayede 92 envanteri (2026-11-03 eklendi); 06.11 03:17: eklendi
-gunes-caglarcan,Güneş Çağlarcan,artvela-envanter,b,bekliyor,2026-11-03,Müzayede 92 envanteri (2026-11-03 eklendi)
+gunes-caglarcan,Güneş Çağlarcan,artvela-envanter,b,eklendi,2026-11-03,Müzayede 92 envanteri (2026-11-03 eklendi); 06.11 21:07: eklendi
 rahmi-aksungur,Rahmi Aksungur,artvela-envanter,b,bekliyor,2026-11-03,Müzayede 92 envanteri (2026-11-03 eklendi)
 erhun-sengul,Erhun Şengül,artvela-envanter,b,bekliyor,2026-11-03,Müzayede 92 envanteri (2026-11-03 eklendi)
 suleyman-engin,Süleyman Engin,artvela-envanter,b,bekliyor,2026-11-03,Müzayede 92 envanteri (2026-11-03 eklendi)
@@ -538,3 +538,7 @@ seckin-coban,Seçkin Çoban,bej-kesif,g,bekliyor,2026-11-05,"G-Y1 keşif: TSKB 7
 ozguc-umut-celen,Özgüç Umut Çelen,bej-kesif,g,bekliyor,2026-11-05,"G-Y1 keşif: TSKB 75. Yıl yarışması 30 seçilmiş sanatçı (MSGSÜ Resim yüksek lisans), ödülsüz sergileme"
 gizem-sayan,Gizem Sayan,bej-kesif,g,bekliyor,2026-11-05,"G-Y1 keşif: TSKB 75. Yıl yarışması 30 seçilmiş sanatçı (Marmara GSF Resim), ödülsüz sergileme"
 yusuf-gezici,Yusuf Gezici,bej-kesif,g,bekliyor,2026-11-05,"G-Y1 keşif: TSKB 75. Yıl yarışması 30 seçilmiş sanatçı (Anadolu Üniv. Resim yüksek lisans), ödülsüz sergileme"
+merve-vural,Merve Vural,bej-kesif,g,eklendi,2026-11-06,"G-Y1 keşif, Akbank 37. Günümüz Sanatçıları 2019 ödüllü (SA4); 06.11 21:07 eklendi"
+ahu-akgun,Ahu Akgün,bej-kesif,g,bekliyor,2026-11-06,G-Y1 keşif: Akbank 37. Günümüz Sanatçıları 2019 ödüllü (NTV 28.06.2019); SA4 ödül önceliği
+ozge-yalacak,Özge Yalacak,bej-kesif,g,bekliyor,2026-11-06,G-Y1 keşif: Akbank 37. Günümüz Sanatçıları 2019 ödüllü (NTV 28.06.2019); SA4 ödül önceliği
+semra-dogan-ak,Semra Doğan Ak,bej-kesif,g,bekliyor,2026-11-06,G-Y1 keşif: Akbank 37. Günümüz Sanatçıları 2019 ödüllü (NTV 28.06.2019); SA4 ödül önceliği
