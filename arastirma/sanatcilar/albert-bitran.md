@@ -1,6 +1,6 @@
 ---
 sanatci: "Albert Bitran"
-dogum: "Çelişkili: 1931, İstanbul (Centre Pompidou kaydı, galeri biyografisi) ve 1929 (bazı müzayede kayıtları)"
+dogum: "Çelişkili: 1931, İstanbul (Centre Pompidou kaydı, galeri biyografisi; Aydemir tezi, Sönmez'e dayanarak [7]) ve 1929 (Kula Özerden 2005 doktora tezi [6]; bazı müzayede kayıtları). Aydemir'e göre 1951 sergisi için yaşını iki yaş büyüttü; 1929 bu yüzden dolaşıyor olabilir [7]"
 olum: "9 Kasım 2018, Paris"
 disiplin: "resim, baskı, seramik"
 kabul: "K3 (otorite onayı)"
@@ -19,18 +19,22 @@ guven: "taslak"
 
 ## 1. Künye ve Biyografi
 
-**Doğum / ölüm:** Çelişkili: 1931, İstanbul (Centre Pompidou kaydı, galeri biyografisi) ve 1929 (bazı müzayede kayıtları) · 9 Kasım 2018, Paris
+**Doğum / ölüm:** Çelişkili: 1931, İstanbul (Centre Pompidou kaydı, galeri biyografisi; Aydemir tezi, Sönmez'e dayanarak [7]) ve 1929 (Kula Özerden 2005 doktora tezi [6]; bazı müzayede kayıtları). Aydemir'e göre 1951 sergisi için yaşını iki yaş büyüttü; 1929 bu yüzden dolaşıyor olabilir [7] · 9 Kasım 2018, Paris
 **Disiplin:** resim, baskı, seramik
 
 **Eğitim**
 - İstanbul'da Fransız Saint-Michel Koleji [1]. 15 yaşından itibaren Fransız Enstitüsü'nde Cézanne ve Manet kopyaları [2].
-- 1948: Paris'te mimarlık okuluna girdi (École Spéciale d'Architecture), kısa sürede bırakıp resme yöneldi [1], [2].
+- 1948: Paris'te mimarlık okuluna girdi (École Spéciale d'Architecture), kısa sürede bırakıp resme yöneldi [1], [2]. Kula Özerden gidişi 1949 diye yazıyor [6].
+- Akademik resim eğitimi almadı, Paris'te atölyeye gitmedi; kendi sözüyle "on beş yaşında profesyonel oldum" [6].
 
 **Kronoloji**
 - 1948: Paris, Montparnasse. Soto, Poliakoff, Damian ve Koskas'la tanıştı [2].
 - 1950: Salon de l'Art libre [2].
 - 1951–52: Galerie Arnaud, Paris, kişisel sergiler [2].
-- 1954: Denise René galerisinde sergi [2].
+- 1951'den: Salon des Réalités Nouvelles [6].
+- 1954: Denise René galerisinde sergi [2]; Baertling ve Breer ile, katalog ön sözü Henri-Pierre Roché [6][7]. Kendi sözüyle "1954'te geometrik sanatı bıraktım" [7].
+- 1956: Mübin Orhon ile Güney Fransa yazı; 1956'dan Salon de Mai [6].
+- Jean-Louis Baudry ile litografili "Epreuves"; 1960'lar "L'Atelier" dizisi [6].
 - 1955: Geometrik soyutlamadan soyut manzaralara geçiş [2].
 - 1957–75: Galerie Ariel, Paris, altı kişisel sergi [2].
 - 1958: Fransız vatandaşlığı [2].
@@ -120,6 +124,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 3. [3] Centre Pompidou koleksiyonu, "Un soleil neuf", AM 3984 P. https://www.centrepompidou.fr/en/ressources/oeuvre/c8EGnkM
 4. [4] Diken, "20'nci yüzyılda, 20 modern sanatçıyla Paris'ten Kadıköy'e", Şubat 2022. https://www.diken.com.tr/?p=1073017
 5. [5] Artvela, Müzayede 92, Lot 9. https://artvela.com/muzayede/muzayede-92-online-cagdas-ve-modern-sanat-eserleri-muzayedesi#Lot-9
+6. [6] Lale Kula Özerden, "1945-1960: Paris ekolü ve Paris'te yaşayan soyut Türk ressamları", doktora tezi, İTÜ SBE, 2005 (YÖK 175099), basılı s. 93–97, 154 (sanat tarihçisi Artam YÖK taraması 2).
+7. [7] Seyide Aydemir, "Paris Ekolü ve bir kadın sanatçı Fahr-el-Nissa Zeid", yüksek lisans tezi, Trakya Üniversitesi (YÖK 782367), basılı s. 52, 108–110; Necmi Sönmez, "Paris Tecrübeleri" s. 85–88'e dayanıyor.
 
 ## 9. Açık Sorular
 
