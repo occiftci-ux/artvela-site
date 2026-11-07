@@ -4,9 +4,9 @@ dogum: "1960, İstanbul [1]"
 olum: "eksik (2021 yılı yalnız Artam sayfasında; teyide muhtaç)"
 disiplin: "resim, baskı, heykel"
 kabul: "K1 (akademik)"
-puan: 29
+puan: 25
 kademe: "(IV · Gelişen) ön puan"
-veri_kapsami: 47
+veri_kapsami: 33
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **29 / 100** | (IV · Gelişen) ön puan | %47 | K1 (akademik): Marmara Üniversitesi GSF Resim 1984 [1]. |
+| **25 / 100** | (IV · Gelişen) ön puan | %33 | K1 (akademik): Marmara Üniversitesi GSF Resim 1984 [1]. |
 
 ## 1. Künye ve Biyografi
 
@@ -80,9 +80,9 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | b1 | Kişisel sergiler | 6 / 10 | 1986'dan Urart, BM, Mask, Lacourière Frélaut, Leighton House |
 | b2 | Retrospektif / müze ve kurum sergisi | 0 / 8 | *eksik* |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 5 / 7 | Paris 1990, Londra Leighton House, Fondation Maeght atölyesi |
-| **C · Kurumsal tanınırlık** | | **4 / 20** | |
-| c1 | Türkiye'deki müze koleksiyonları | 2 / 8 | İstanbul Modern, DRHM, Ankara RHM, TCMB tez listesinde; kurum kaydı yok |
-| c2 | Yurtdışındaki müze koleksiyonları | 2 / 7 | British Museum, Fondation Maeght tez listesinde; kurum kaydı yok |
+| **C · Kurumsal tanınırlık** | | **0 / 20** | |
+| c1 | Türkiye'deki müze koleksiyonları | 0 / 8 | *eksik* |
+| c2 | Yurtdışındaki müze koleksiyonları | 0 / 7 | *eksik* |
 | c3 | Ödüller | 0 / 5 | *eksik* |
 | **D · Sanat tarihindeki konum** | | **5 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 0 / 8 | *eksik* |
@@ -92,7 +92,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **29 / 100** | Veri kapsamı %47 |
+| | **Toplam** | **25 / 100** | Veri kapsamı %33 |
 
 ## 8. Kaynakça
 
