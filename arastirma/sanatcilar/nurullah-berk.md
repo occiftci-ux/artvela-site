@@ -1,0 +1,107 @@
+---
+sanatci: "Nurullah Berk"
+dogum: "1906, İstanbul [1]"
+olum: "1982 [1]"
+disiplin: "resim"
+kabul: "K1 (akademik)"
+puan: 22
+kademe: "(IV · Gelişen) ön puan"
+veri_kapsami: 33
+son_guncelleme: "2026-10-23"
+guven: "taslak"
+---
+
+# Nurullah Berk
+
+| Puan | Kademe | Veri kapsamı | Kabul |
+|---|---|---|---|
+| **22 / 100** | (IV · Gelişen) ön puan | %33 | K1 (akademik): Sanayi-i Nefise 1924, Hikmet Onat ve İbrahim Çallı atölyeleri; Paris Güzel Sanatlar Akademisi, Ernest Laurent [1]. |
+
+## 1. Künye ve Biyografi
+
+**Doğum / ölüm:** 1906, İstanbul [1] · 1982 [1]
+**Disiplin:** resim
+
+**Eğitim**
+- Galatasaray Lisesi [1].
+- 1924: Sanayi-i Nefise Mektebi, Hikmet Onat ve İbrahim Çallı atölyeleri [1].
+- Paris Güzel Sanatlar Akademisi, Ernest Laurent atölyesi; yıllar kaynakta yok [1].
+
+**Kronoloji**
+- Dönüşte arkadaşlarıyla Müstakil Ressamlar ve Heykeltraşlar Birliği'ni kurdu [1]. D Grubu bağı bu kaynakta yok, doğrulanacak.
+- 1939: İstanbul Güzel Sanatlar Akademisi'nde öğretim üyesi [1].
+- 1940: III. Yurt Gezisi, Amasya; 1943: VI. Yurt Gezisi, Tekirdağ [2].
+- 1962: İstanbul Resim ve Heykel Müzesi müdürü [1].
+- Eserler: "İskambilli Natürmort", "Ütü Yapan Kadın", "Terzi", "Odalık", "Dikenler" [1].
+
+## 2. Akım ve Sanat Tarihi Bağlamı
+
+- **Akım / grup:** Doğrulanacak
+- **Temalar:** Doğrulanacak
+
+## 3. Felsefi Bağlam
+
+Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi sözleri ([şablon](../SABLON-sanatci.md) bölüm 3).
+
+## 4. Sanatçının Kendi Ağzından
+
+> Henüz eklenmedi. Söyleşi, video ve sanatçının sosyal medyası taranacak.
+
+## 5. Eser Analizi (Artvela)
+
+- Henüz Artvela müzayedesinde yer almadı.
+
+## 6. Kurumsal Kayıt ve Piyasa Verisi
+
+**Müze ve kurum koleksiyonları**
+- Doğrulanacak.
+
+**Ödüller**
+- "Çeşitli ödüller"; adlar kaynakta yok [1]
+
+**Satış kayıtları** (kaynak: `bulten/emsal-fiyatlar.csv`, yalnız `dogrulandi=evet`)
+
+| Tarih | Müzayede evi | Eser | Tahmin | Satış | Kaynak |
+|---|---|---|---|---|---|
+| | | | | | |
+
+*bulten/emsal-fiyatlar.csv'de bu sanatçı için doğrulanmış satış yok. Eksikse is-kaydi.csv'ye fiyat-emsal için istek satırı yazılır.*
+
+## 7. Puan Dökümü
+
+Ölçütler için bkz. [PUANLAMA.md](../PUANLAMA.md). *Eksik* alt ölçütler kanıt gelene kadar 0 sayılır.
+
+| Kod | Ölçüt | Puan | Kanıt |
+|---|---|---|---|
+| **A · Eğitim ve akademik geçerlilik** | | **15 / 15** | |
+| a1 | Akademi / fakülte mezunu | 8 / 8 | Sanayi-i Nefise 1924, Onat ve Çallı atölyeleri |
+| a2 | Yurtdışı eğitim, burs, rezidans | 4 / 4 | Paris Güzel Sanatlar Akademisi, Laurent atölyesi |
+| a3 | Akademisyenlik, öğrenci yetiştirme | 3 / 3 | 1939'dan Akademi öğretim üyesi; 1962 İRHM müdürü |
+| **B · Sergi geçmişi** | | **0 / 25** | |
+| b1 | Kişisel sergiler | 0 / 10 | *eksik* |
+| b2 | Retrospektif / müze ve kurum sergisi | 0 / 8 | *eksik* |
+| b3 | Uluslararası sergi, salon, bienal, fuar | 0 / 7 | *eksik* |
+| **C · Kurumsal tanınırlık** | | **1 / 20** | |
+| c1 | Türkiye'deki müze koleksiyonları | 0 / 8 | *eksik* |
+| c2 | Yurtdışındaki müze koleksiyonları | 0 / 7 | *eksik* |
+| c3 | Ödüller | 1 / 5 | ödüller adsız |
+| **D · Sanat tarihindeki konum** | | **6 / 15** | |
+| d1 | Grup / akım kurucusu, kuşak temsilcisi | 6 / 8 | Müstakil Ressamlar ve Heykeltraşlar Birliği kurucularından |
+| d2 | Akademik yayın, tez, monografi, müze | 0 / 7 | *eksik* |
+| **E · Piyasa görünürlüğü** | | **0 / 25** | |
+| e1 | Türk müzayedeleri | 0 / 8 | *eksik* |
+| e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
+| e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
+| e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
+| | **Toplam** | **22 / 100** | Veri kapsamı %33 |
+
+## 8. Kaynakça
+
+1. [1] T.C. Kültür ve Turizm Bakanlığı, "Nurullah Berk". https://www.ktb.gov.tr/EN-117631/nurullah-berk.html
+2. [2] Saadet Altay, "Hayata ve Hakikate Yakın Olmak: CHP Yurt İçi Ressam Gezileri ve Sergileri (1938-1945)", Çağdaş Türkiye Tarihi Araştırmaları Dergisi XXV/51 (Güz 2025), ss. 1241–1298, DOI 10.18244/cttad.1784279; il tablosu sanat tarihçisinin "Yurt Gezileri sayılar ve katılımcılar" raporunda (7 Kasım 2026) Mustafa Berk 2010 MSGSÜ teziyle karşılaştırıldı, iki bağımsız kaynak.
+
+## 9. Açık Sorular
+
+- [ ] *Eksik* işaretli alt ölçütler için kaynak bul.
+- [ ] E2/E3: emsal dosyasında doğrulanmış satır yoksa is-kaydi.csv'ye fiyat-emsal için istek yaz (kendin arama yapma).
+- [ ] Müze koleksiyonlarını kurum sayfalarından doğrula (C1, C2).
