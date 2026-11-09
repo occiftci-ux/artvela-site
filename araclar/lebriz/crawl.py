@@ -25,6 +25,7 @@ def norm(href,cur=BASE):
   if d.get('lang','TR').upper()!='TR': return None
   d['lang']='TR'
   if name.lower()=='artist.aspx' and d.get('section')=='700': return None  # ziyaretçi defteri: kişisel veri, alınmaz
+  if name.lower()=='artist.aspx' and d.get('exhID','0')!='0': d['exhID']='0'  # 2026-11-09: exhID yalnız geldiği sergiyi gösterir; aynı eser listesi her sergi için yeniden çekiliyordu
   if name.lower()=='artist.aspx' and (d.get('sortDir')=='ASC' or d.get('sortBy')=='retro'): return None  # 2026-11-09: aynı eser listesinin başka sıralaması; tek sıralama (generic DESC) yeter
   return name+'?'+urllib.parse.urlencode(sorted(d.items()))
 def key(u): return hashlib.sha1(u.encode()).hexdigest()[:16]
