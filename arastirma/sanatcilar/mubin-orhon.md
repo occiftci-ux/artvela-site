@@ -63,6 +63,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 ## 6. Kurumsal Kayıt ve Piyasa Verisi
 
 **Müze ve kurum koleksiyonları**
+- Provenans (özel koleksiyon, ev beyanı): Oğuz Orbey koleksiyonu; Millon, Paris, 11.07.2024 satışı ağırlıkla Orhon eserlerinden oluşuyordu. Koleksiyon, Orhon'un Orbey'in impasse du Rouet atölyesinde kaldığı dönemde oluştu. Puansız [6]
 - İstanbul Modern'de uzun süreli ödünç: Soyut Kompozisyon, 1958, 70x85 cm; mülkiyet Dr. Nejat F. Eczacıbaşı Vakfı Koleksiyonu, müzenin kendi koleksiyonu değil [2]. Teknik teyit bekliyor: kurum sayfası iki farklı teknik veriyor (2026-10-24 düzeltmesi)
 - Mathaf, Doha (1956, 1962, 1973 tarihli eserler) [1]. Kurum kaydıyla doğrulandı: "Untitled", 1956, 111,5 × 92,3 cm, Qatar Museums çevrimiçi koleksiyonu, Mathaf (şu an sergilenmiyor) [5]. 1962 ve 1973 eserleri kurum kaydında aranacak.
 - Sainsbury Centre for Visual Arts, Norwich: Robert ve Lisa Sainsbury'nin 63 eserlik Orhon koleksiyonu [7] (ön teyit)
