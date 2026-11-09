@@ -30,7 +30,7 @@ guven: "taslak"
 - 1962–2003: on bir kitap; aralarında "Şair Baba ve Damdakiler" (1968) ve "Nazım Hikmet'le Yedi Yıl" (2003) [1].
 - Doku Sanat Galerileri, İstanbul, kişisel sergi; yıl SALT künyesinde doğrulanacak [5].
 - 2008: Reis Çelik'in "Mülteci" filminde rol aldı [1].
-- Haziran 2019: İstanbul'da öldü, Seçköy'de toprağa verildi. İkiden fazla bin resim bıraktığı bildirildi [2].
+- Haziran 2019: İstanbul'da öldü, Seçköy'de toprağa verildi. İki binden fazla resim bıraktığı bildirildi [2].
 
 ## 2. Akım ve Sanat Tarihi Bağlamı
 
