@@ -121,7 +121,7 @@ def do_pagers(u,t):
 UA={'User-Agent':'ArtvelaArsivKoruma/1.0 (arastirma; yavas tarama)'}
 end=time.time()+MAXH*3600; n=0
 op=urllib.request.build_opener(urllib.request.ProxyHandler())
-for u in [x for x in done if x not in pdone and norm(x)]:
+for u in [x for x in done if x not in pdone and norm(x)==x]:
   if time.time()>end: break
   try: do_pagers(u,oku(u))
   except Exception as e: print('pager-hata',u,e,flush=True)
