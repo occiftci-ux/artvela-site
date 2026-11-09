@@ -25,6 +25,7 @@ def norm(href,cur=BASE):
   if d.get('lang','TR').upper()!='TR': return None
   d['lang']='TR'
   if name.lower()=='artist.aspx' and d.get('section')=='700': return None  # ziyaretçi defteri: kişisel veri, alınmaz
+  if name.lower()=='artist.aspx' and (d.get('sortDir')=='ASC' or d.get('sortBy')=='retro'): return None  # 2026-11-09: aynı eser listesinin başka sıralaması; tek sıralama (generic DESC) yeter
   return name+'?'+urllib.parse.urlencode(sorted(d.items()))
 def key(u): return hashlib.sha1(u.encode()).hexdigest()[:16]
 def rel(u): k=key(u); return f'sayfalar/{k[:2]}/{k}.html.gz'
@@ -119,7 +120,7 @@ def do_pagers(u,t):
 UA={'User-Agent':'ArtvelaArsivKoruma/1.0 (arastirma; yavas tarama)'}
 end=time.time()+MAXH*3600; n=0
 op=urllib.request.build_opener(urllib.request.ProxyHandler())
-for u in [x for x in done if x not in pdone]:
+for u in [x for x in done if x not in pdone and norm(x)]:
   if time.time()>end: break
   try: do_pagers(u,oku(u))
   except Exception as e: print('pager-hata',u,e,flush=True)
