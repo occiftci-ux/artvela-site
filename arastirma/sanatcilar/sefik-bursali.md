@@ -4,9 +4,9 @@ dogum: "1903, Bursa [1]"
 olum: "1990 [1]"
 disiplin: "resim"
 kabul: "K1 (akademik)"
-puan: 24
+puan: 20
 kademe: "(IV · Gelişen) ön puan"
-veri_kapsami: 33
+veri_kapsami: 27
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **24 / 100** | (IV · Gelişen) ön puan | %33 | K1 (akademik): Güzel Sanatlar Akademisi 1921–1930, birincilikle mezun; Paris bursu 1930–1934; Akademi'de 1938–1968 resim hocası [1]. |
+| **20 / 100** | (IV · Gelişen) ön puan | %27 | K1 (akademik): Güzel Sanatlar Akademisi 1921–1930, birincilikle mezun; Akademi'de 1930'ların sonundan 1968'e dek resim hocası [1][3]. |
 
 ## 1. Künye ve Biyografi
 
@@ -24,13 +24,13 @@ guven: "taslak"
 
 **Eğitim**
 - 1921–1930: Güzel Sanatlar Akademisi; İbrahim Çallı, Hikmet Onat, Namık İsmail, Hüseyin Avni Lifij ve Feyhaman Duran öğrencisi; 1930'da birincilikle mezun [1].
-- 1930–1934: burs sınavını kazanarak Paris [1].
+- 1930: Akademi'nin Avrupa bursu yarışmasını birincilikle kazandı [1][3]. Paris'e gidip gitmediği çelişkili: Sakıp Sabancı Müzesi 1934'e dek Paris'te olduğunu yazar [1]; MSÜ'nün 2004 kataloğunda Kaya Özsezgin "yurt dışına çıkmamıştı", özgeçmiş "Avrupa'ya gidemedi" der [3]. Birincil katalog tercih edildi, Paris eğitimi arşivde sayılmaz.
 
 **Kronoloji**
 - Öğrenciyken hocalarının kurduğu Türk Ressamlar Cemiyeti ile sergiledi [1].
 - İstanbul, İzmir ve Konya liselerinde resim öğretmenliği [1].
 - 1937–38: Atatürk'ün isteğiyle yurt dışında açılan çağdaş Türk resmi sergileri; Moskova, Leningrad, Kiev, Bükreş, Belgrad, Atina, Paris, sonra Hollanda, Belçika, Avusturya [1].
-- 1938–1968: Akademi'de resim hocası; 1987'de MSÜ profesörlük unvanı verdi [1].
+- 1930'ların sonu–1968: Akademi'de resim hocası; başlangıç yılı kaynaklarda 1936, 1937 ya da 1938 [1][3]. 1987'de MSÜ profesörlük unvanı verdi [1].
 - 1940: Aydın gezisine seçildi, askerde olduğu için yerine Melâhat Ekinci gitti [2].
 - 1942: V. Yurt Gezisi, Kocaeli (İzmit) [2].
 - 1966, 1973, 1980, 1982: Devlet Resim ve Heykel sergilerinde ödüller; 1986 Kültür Bakanlığı Sanat ve Kültür Büyük Ödülü [1].
@@ -75,10 +75,10 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 
 | Kod | Ölçüt | Puan | Kanıt |
 |---|---|---|---|
-| **A · Eğitim ve akademik geçerlilik** | | **15 / 15** | |
+| **A · Eğitim ve akademik geçerlilik** | | **11 / 15** | |
 | a1 | Akademi / fakülte mezunu | 8 / 8 | Akademi 1930, birincilikle |
-| a2 | Yurtdışı eğitim, burs, rezidans | 4 / 4 | Paris bursu 1930–34 |
-| a3 | Akademisyenlik, öğrenci yetiştirme | 3 / 3 | Akademi 1938–68; 1987 profesör unvanı |
+| a2 | Yurtdışı eğitim, burs, rezidans | 0 / 4 | *eksik* |
+| a3 | Akademisyenlik, öğrenci yetiştirme | 3 / 3 | Akademi 1930'ların sonu–1968; 1987 profesör unvanı |
 | **B · Sergi geçmişi** | | **4 / 25** | |
 | b1 | Kişisel sergiler | 0 / 10 | *eksik* |
 | b2 | Retrospektif / müze ve kurum sergisi | 0 / 8 | *eksik* |
@@ -95,12 +95,13 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **24 / 100** | Veri kapsamı %33 |
+| | **Toplam** | **20 / 100** | Veri kapsamı %27 |
 
 ## 8. Kaynakça
 
 1. [1] Sakıp Sabancı Müzesi, sanatçı sayfası "Şefik Bursalı". https://www.sakipsabancimuzesi.org/en/artist/287
 2. [2] Saadet Altay, "Hayata ve Hakikate Yakın Olmak: CHP Yurt İçi Ressam Gezileri ve Sergileri (1938-1945)", Çağdaş Türkiye Tarihi Araştırmaları Dergisi XXV/51 (Güz 2025), ss. 1241–1298, DOI 10.18244/cttad.1784279; il tablosu sanat tarihçisinin "Yurt Gezileri sayılar ve katılımcılar" raporunda (7 Kasım 2026) Mustafa Berk 2010 MSGSÜ teziyle karşılaştırıldı.
+3. [3] Zübeyde Karatalı (ed.), "Şefik Bursalı Resim Sergisi: 100. Doğum Yılı Anısına", Mimar Sinan Üniversitesi, İstanbul 2004; Kaya Özsezgin ve Ünsal Piroğlu yazıları, özgeçmiş (sanat tarihçisinin AS-863 kartı, S-2441). https://hdl.handle.net/20.500.14124/9295
 
 ## 9. Açık Sorular
 
