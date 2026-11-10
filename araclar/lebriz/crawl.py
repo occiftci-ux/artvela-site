@@ -112,7 +112,7 @@ def do_pagers(u,t):
       for att in range(3):
         time.sleep(DELAY+random.random()+att*5)
         try:
-          got=o.open(urllib.request.Request(BASE+u,data=urllib.parse.urlencode(d).encode(),headers=UA),timeout=240).read().decode('utf-8',errors='ignore'); break
+          got=o.open(urllib.request.Request(BASE+u,data=urllib.parse.urlencode(d).encode(),headers=UA),timeout=120).read().decode('utf-8',errors='ignore'); break
         except Exception as e:
           open(ERR,'a',encoding='utf-8').write(f'{time.strftime("%Y-%m-%dT%H:%M:%S")}\t{u}#{tag}-{pg}\t{type(e).__name__}: {str(e)[:120]}\n')
       if got is None: ok=False; break
@@ -133,7 +133,7 @@ print('sayfalama telafisi bitti',flush=True)
 while front and time.time()<end:
   u=heapq.heappop(front)[2]; t0=time.time()
   try:
-    r=op.open(urllib.request.Request(BASE+u,headers={'User-Agent':'ArtvelaArsivKoruma/1.0 (arastirma; yavas tarama)'}),timeout=240)
+    r=op.open(urllib.request.Request(BASE+u,headers={'User-Agent':'ArtvelaArsivKoruma/1.0 (arastirma; yavas tarama)'}),timeout=120)
     b=r.read(); code=r.status
   except Exception as e:
     open(ERR,'a',encoding='utf-8').write(f'{time.strftime("%Y-%m-%dT%H:%M:%S")}\t{u}\t{type(e).__name__}: {str(e)[:120]}\n')
