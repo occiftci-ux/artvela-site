@@ -25,6 +25,8 @@ def norm(href,cur=BASE):
   if d.get('lang','TR').upper()!='TR': return None
   d['lang']='TR'
   if name.lower()=='artist.aspx' and d.get('section')=='700': return None  # ziyaretçi defteri: kişisel veri, alınmaz
+  if name.lower()=='gallery.aspx' and d.get('exhID','0') not in ('','0'):  # 2026-11-10: galeri çerçevesinde sergi = exhibition.aspx ile aynı eserler
+    return 'exhibition.aspx?'+urllib.parse.urlencode(sorted({'exhID':d['exhID'],'lang':'TR'}.items()))
   if name.lower()=='artist.aspx' and 'artistID' in d:  # 2026-11-09: exhID, pageNo, sortBy/sortDir yalnız gezinme durumu; aynı eser listesi her varyantta yeniden çekiliyordu
     for k in ('sortBy','sortDir'): d.pop(k,None)
     if 'exhID' in d: d['exhID']='0'
