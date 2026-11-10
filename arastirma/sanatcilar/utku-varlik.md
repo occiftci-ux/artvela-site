@@ -72,8 +72,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | a2 | Yurtdışı eğitim, burs, rezidans | 4 / 4 | Paris École des Beaux-Arts, devlet bursu |
 | a3 | Akademisyenlik, öğrenci yetiştirme | 0 / 3 | *eksik* |
 | **B · Sergi geçmişi** | | **3 / 25** | |
-| b1 | Kişisel sergiler | 0 / 10 | *eksik* |
-| b2 | Retrospektif / müze ve kurum sergisi | 3 / 8 | 23 kişisel sergi (TCF; yer ve yıl yok) |
+| b1 | Kişisel sergiler | 3 / 10 | 23 kişisel sergi (TCF; yer ve yıl yok) |
+| b2 | Retrospektif / müze ve kurum sergisi | 0 / 8 | *eksik* |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 0 / 7 | *eksik* |
 | **C · Kurumsal tanınırlık** | | **4 / 20** | |
 | c1 | Türkiye'deki müze koleksiyonları | 4 / 8 | İstanbul Modern, Eczacıbaşı Vakfı uzun süreli ödünç |

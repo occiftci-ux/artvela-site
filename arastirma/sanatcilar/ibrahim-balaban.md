@@ -76,8 +76,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | a2 | Yurtdışı eğitim, burs, rezidans | 0 / 4 | *eksik* |
 | a3 | Akademisyenlik, öğrenci yetiştirme | 0 / 3 | *eksik* |
 | **B · Sergi geçmişi** | | **3 / 25** | |
-| b1 | Kişisel sergiler | 0 / 10 | *eksik* |
-| b2 | Retrospektif / müze ve kurum sergisi | 3 / 8 | 1953'ten beri kişisel sergiler; Doku Sanat Galerileri |
+| b1 | Kişisel sergiler | 3 / 10 | 1953'ten beri kişisel sergiler; Doku Sanat Galerileri |
+| b2 | Retrospektif / müze ve kurum sergisi | 0 / 8 | *eksik* |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 0 / 7 | *eksik* |
 | **C · Kurumsal tanınırlık** | | **0 / 20** | |
 | c1 | Türkiye'deki müze koleksiyonları | 0 / 8 | *eksik* |

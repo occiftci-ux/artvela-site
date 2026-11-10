@@ -73,8 +73,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | a2 | Yurtdışı eğitim, burs, rezidans | 0 / 4 | *eksik* |
 | a3 | Akademisyenlik, öğrenci yetiştirme | 3 / 3 | MSÜ GSF Resim, 2001'den profesör |
 | **B · Sergi geçmişi** | | **2 / 25** | |
-| b1 | Kişisel sergiler | 0 / 10 | *eksik* |
-| b2 | Retrospektif / müze ve kurum sergisi | 2 / 8 | Kızıltoprak ve Passion Art Center kişisel sergileri |
+| b1 | Kişisel sergiler | 2 / 10 | Kızıltoprak ve Passion Art Center kişisel sergileri |
+| b2 | Retrospektif / müze ve kurum sergisi | 0 / 8 | *eksik* |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 0 / 7 | *eksik* |
 | **C · Kurumsal tanınırlık** | | **0 / 20** | |
 | c1 | Türkiye'deki müze koleksiyonları | 0 / 8 | *eksik* |
