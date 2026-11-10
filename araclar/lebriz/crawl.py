@@ -30,6 +30,7 @@ def norm(href,cur=BASE):
   if name.lower()=='artist.aspx' and 'artistID' in d:  # 2026-11-09: exhID, pageNo, sortBy/sortDir yalnız gezinme durumu; aynı eser listesi her varyantta yeniden çekiliyordu
     for k in ('sortBy','sortDir'): d.pop(k,None)
     if 'exhID' in d: d['exhID']='0'
+    if 'periodID' in d: d.setdefault('exhID','0'); d.setdefault('pageNo','0')  # 2026-11-10: kisa ve uzun bicim ayni sayfa
     if 'pageNo' in d: d['pageNo']='0'
     if d.get('section') in ('100','120','610') and 'periodID' in d: d['periodID']=''  # 2026-11-10: bu bolumlerde donem secimi icerigi degistirmiyor (723 sayfada denetlendi)
   return name+'?'+urllib.parse.urlencode(sorted(d.items()))
