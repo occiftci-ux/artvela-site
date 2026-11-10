@@ -31,6 +31,7 @@ def norm(href,cur=BASE):
     for k in ('sortBy','sortDir'): d.pop(k,None)
     if 'exhID' in d: d['exhID']='0'
     if 'pageNo' in d: d['pageNo']='0'
+    if d.get('section') in ('100','120','610') and 'periodID' in d: d['periodID']=''  # 2026-11-10: bu bolumlerde donem secimi icerigi degistirmiyor (723 sayfada denetlendi)
   return name+'?'+urllib.parse.urlencode(sorted(d.items()))
 def key(u): return hashlib.sha1(u.encode()).hexdigest()[:16]
 def rel(u): k=key(u); return f'sayfalar/{k[:2]}/{k}.html.gz'
