@@ -100,6 +100,8 @@ def total_of(t,pre,n):
     if mm: return int(mm.group(2))
   return n
 def do_pagers(u,t):
+  if 'periodID=exhibitions' in u:  # 2026-11-10: sergiye göre gruplanmış eser listesi; aynı eserler sergi sayfalarında zaten var, yalnız ilk sayfa saklanır
+    open(PMAN2,'a',encoding='utf-8').write(f'{time.strftime("%Y-%m-%dT%H:%M:%S")}\t{u}\tsergi-gruplu-atlandi\t0\ttamam\n'); pdone.add(u); return
   groups=[(m.group(1),len(re.findall(r'<option',m.group(2)))) for m in SEL.finditer(t)]
   tot=0; info=[]; ok=True
   for name,n in groups:
