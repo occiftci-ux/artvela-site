@@ -101,6 +101,8 @@ def total_of(t,pre,n):
     if mm: return int(mm.group(2))
   return n
 def do_pagers(u,t):
+  if re.search(r'periodID=\d+(&|$)',u) and 'section=130' in u:  # 2026-11-11: donem listeleri periodID=-1 tam listesinin alt kumesi; donemin ilk sayfasi saklanir, tum eserler -1 listesinden gelir
+    open(PMAN2,'a',encoding='utf-8').write(f'{time.strftime("%Y-%m-%dT%H:%M:%S")}\t{u}\tdonem-alt-kume-atlandi\t0\ttamam\n'); pdone.add(u); return
   if 'periodID=exhibitions' in u:  # 2026-11-10: sergiye göre gruplanmış eser listesi; aynı eserler sergi sayfalarında zaten var, yalnız ilk sayfa saklanır
     open(PMAN2,'a',encoding='utf-8').write(f'{time.strftime("%Y-%m-%dT%H:%M:%S")}\t{u}\tsergi-gruplu-atlandi\t0\ttamam\n'); pdone.add(u); return
   groups=[(m.group(1),len(re.findall(r'<option',m.group(2)))) for m in SEL.finditer(t)]
