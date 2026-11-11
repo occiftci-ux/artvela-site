@@ -23,13 +23,17 @@ if os.path.exists(ERR):
 done|={r[10:-4] for r in paket.dizin(ROOT) if r.startswith('gorseller/') and r.endswith('.jpg')}  # paketteki görseller de indirilmiş sayılır
 scanned=set(open(TAR,encoding='utf-8').read().split('\n')) if os.path.exists(TAR) else set()
 end=time.time()+MAXH*3600; n=0
+import zlib
+BI,BN=map(int,os.environ.get('GORSEL_BOLUM','0/1').split('/'))  # L3 (11 Kasım): ikinci bağlantı kuyruğun öbür yarısını alır
+SADECE=os.environ.get('SADECE_BEKLEYEN')=='1'
+def benim(k): return zlib.crc32(k.encode())%BN==BI
 BEK=os.path.join(G,'bekleyen.tsv')  # kalıcı kuyruk: tur bitince kalanlar kaybolmasın (11 Kasım hatası)
 def bekleyen():
   q=[]
   if os.path.exists(BEK):
     for l in open(BEK,encoding='utf-8'):
       a=l.rstrip('\n').split('\t')
-      if len(a)==2 and a[0] not in done and bad.get(a[0],0)<3: q.append((a[0],dict(urllib.parse.parse_qsl(a[1],keep_blank_values=True))))
+      if len(a)==2 and benim(a[0]) and a[0] not in done and bad.get(a[0],0)<3: q.append((a[0],dict(urllib.parse.parse_qsl(a[1],keep_blank_values=True))))
   return q
 def scan():
   """Yeni sayfaları tara; öncelik: dergi/sergi sayfaları, sonra müzayede."""
@@ -45,14 +49,14 @@ def scan():
         p=dict(urllib.parse.parse_qsl(html.unescape(m.group(1))))
         if not p.get('iName'): continue
         k=key(p)
-        if k not in done and bad.get(k,0)<3: q.append((k,p)); bek.write(f'{k}\t{urllib.parse.urlencode(p)}\n')
+        if k not in done and bad.get(k,0)<3: (q.append((k,p)) if benim(k) else None); bek.write(f'{k}\t{urllib.parse.urlencode(p)}\n')
       bek.flush(); scanned.add(f); open(TAR,'a',encoding='utf-8').write(f+'\n')
       if len(q)>3000: return q
   return q
 ilk=True
 while time.time()<end:
-  q=bekleyen() if ilk else []; ilk=False
-  if not q: q=scan()
+  q=bekleyen() if (ilk or SADECE) else []; ilk=False
+  if not q and not SADECE: q=scan()
   seen=set()
   if not q: time.sleep(120); continue
   for k,p in q:
