@@ -3,7 +3,7 @@ import os,sys,csv,json,collections
 M,V=sys.argv[1:3]; os.makedirs(V,exist_ok=True)
 csv.field_size_limit(10**7)
 R=list(csv.DictReader(open(os.path.join(M,'kayitlar.tsv'),encoding='utf-8'),delimiter='\t',quoting=csv.QUOTE_NONE))
-H=json.load(open(os.path.join(M,'gorsel-harita.json'))) if os.path.exists(os.path.join(M,'gorsel-harita.json')) else {}
+HP=os.environ.get('HARITA',os.path.join(M,'gorsel-harita.json')); H=json.load(open(HP)) if os.path.exists(HP) else {}
 def n(x):
   x=x.replace(',','').replace('.','').strip()
   return int(x) if x.isdigit() else 0
@@ -12,7 +12,7 @@ yr=collections.defaultdict(list)
 san={}; kova=collections.defaultdict(lambda: collections.defaultdict(list))
 for r in R:
   i=int(r['sanatci_id']); img=H.get(r['gorsel'],0)
-  row=[r['lot'],EI[r['muzayede_evi']],r['tarih'],r['olcu'],r['teknik'],r['eser_yili']]+[n(r[k]) for k in ('acilis_trl','satis_trl','acilis_usd','satis_usd','acilis_eur','satis_eur')]+[img]
+  row=[r['lot'],EI[r['muzayede_evi']],r['tarih'],r['olcu'],r['teknik'],r['eser_yili']]+[n(r[k]) for k in ('acilis_trl','satis_trl','acilis_usd','satis_usd','acilis_eur','satis_eur')]+[img,r.get('lebriz_wid',''),r['gorsel'] if r.get('lebriz_wid') else '']
   kova[i//100][i].append(row)
   s=san.setdefault(i,[i,r['sanatci'],0,0]); s[2]+=1; s[3]+=1 if img else 0
   if r['tarih']: yr[r['muzayede_evi']].append(int(r['tarih'][:4]))

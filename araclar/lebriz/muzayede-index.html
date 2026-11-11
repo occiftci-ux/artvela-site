@@ -46,13 +46,19 @@ td.sold{color:var(--sold)}
 .tarih{font-family:var(--mono);font-size:12.5px;white-space:nowrap}
 .ev{font-size:13px}
 .oz{color:var(--muted);font-size:12.5px;max-width:34ch}
-.th{width:72px;height:72px;border-radius:3px;background-color:var(--chip);background-repeat:no-repeat;flex:none}
+.th{width:112px;height:112px;border-radius:3px;background-color:var(--chip);background-repeat:no-repeat;flex:none}
 .th.yok{display:grid;place-items:center;font-size:10px;color:var(--muted)}
 .more{justify-self:start;font:inherit;font-size:14px;border:1px solid var(--rule);background:transparent;color:var(--fg);padding:6px 14px;border-radius:6px;cursor:pointer}
 .note{font-size:12.5px;color:var(--muted);max-width:80ch}
 .empty{color:var(--muted);padding:24px 0}
-.big{position:fixed;inset:0;background:color-mix(in srgb,var(--bg) 88%,transparent);display:grid;place-items:center;z-index:20;padding:max(16px,env(safe-area-inset-left,0px))}
-.big div{width:288px;height:288px;background-repeat:no-repeat;image-rendering:auto;border:1px solid var(--rule);background-color:var(--panel)}
+.big{position:fixed;inset:0;background:color-mix(in srgb,var(--bg) 92%,transparent);display:grid;place-items:center;z-index:20;padding-block:max(16px,env(safe-area-inset-top,0px)) max(16px,env(safe-area-inset-bottom,0px));padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.big .kart{display:grid;gap:12px;justify-items:center;max-width:100%;background:var(--panel);border:1px solid var(--rule);border-radius:6px;padding:16px}
+.big .res{background-repeat:no-repeat;max-width:100%}
+.big .bilgi{font-size:14px;text-align:center;max-width:52ch;display:grid;gap:4px}
+.big .bilgi b{font-family:var(--display);font-weight:400;font-size:20px}
+.big .aks{display:flex;gap:10px;flex-wrap:wrap;justify-content:center}
+.big a,.big button{font:inherit;font-size:14px;border:1px solid var(--rule);background:transparent;color:var(--fg);padding:6px 14px;border-radius:6px;cursor:pointer;text-decoration:none}
+.big a:hover{border-color:var(--accent);color:var(--accent)}
 </style>
 <div class="wrap">
   <header>
@@ -90,10 +96,24 @@ function list(){const q=$('#q').value.trim().toLocaleLowerCase('tr');const L=$('
   b.innerHTML=`<span></span><span class="n"></span>`;b.firstChild.textContent=x.ad;b.lastChild.textContent=(x.y?x.y+' · ':'')+x.n.toLocaleString('tr-TR');
   b.onclick=()=>{location.hash=x.k};L.append(b)}
  if(!f.length)L.innerHTML='<p class="empty">Eşleşen kayıt yok.</p>'}
-function thumb(img,big){const d=document.createElement('div');d.className='th';
- if(!img){d.classList.add('yok');d.textContent='görsel yok';return d}
- const [p,c,w,h]=img,s=big?3:.75;d.style.backgroundImage=`url(${PAF[p]})`;d.style.backgroundSize=`${1536*s}px auto`;
- d.style.backgroundPosition=`${-(c%16)*96*s}px ${-Math.floor(c/16)*96*s}px`;return d}
+const C=224,N=16;  // pafta: N x N hücre, her hücre C piksel
+function cell(img,s){const d=document.createElement('div');const [p,c]=img;d.style.backgroundImage=`url(${PAF[p]})`;d.style.backgroundSize=`${C*N*s}px auto`;
+ d.style.backgroundPosition=`${-(c%N)*C*s}px ${-Math.floor(c/N)*C*s}px`;return d}
+function thumb(img){if(!img){const d=document.createElement('div');d.className='th yok';d.textContent='görsel yok';return d}
+ const d=cell(img,.5);d.className='th';return d}
+function buyut(s,r){const o=document.createElement('div');o.className='big';o.setAttribute('role','dialog');
+ const k=document.createElement('div');k.className='kart';const sc=Math.min(2,(innerWidth-64)/C,(innerHeight-260)/C);
+ const im=cell(r[12],sc);im.className='res';im.style.width=im.style.height=C*sc+'px';k.append(im);
+ const b=document.createElement('div');b.className='bilgi';const t=document.createElement('b');t.textContent=s||'';b.append(t);
+ const m=document.createElement('span');m.textContent=[EV[r[1]]?.[0],r[2]?r[2].split('-').reverse().join('.'):'','Lot '+r[0]].filter(Boolean).join(' · ');b.append(m);
+ const e=document.createElement('span');e.textContent=[r[3],r[4],r[5]].filter(Boolean).join(' · ');b.append(e);k.append(b);
+ const a=document.createElement('div');a.className='aks';
+ if(r[13]&&r[14]){const g=r[14];{const l=document.createElement('a');l.target='_blank';l.rel='noopener';
+  l.href='http://lebrizImages.net/imageHandler.ashx?'+new URLSearchParams({iType:'jpg',wType:'3',wID:r[13],iName:g.split('/').pop(),iPath:'/'+g.split('/').slice(0,-1).join('/'),iSize:'0',iResizeParam:'0',iResizeAmount:'3000',isGrayscale:'False',watermark:'',transp:'0'});
+  l.textContent='Tam boyu Lebriz\'de aç';a.append(l)}}
+ const x=document.createElement('button');x.textContent='Kapat';x.onclick=()=>o.remove();a.append(x);k.append(a);
+ o.append(k);o.onclick=ev=>{if(ev.target===o)o.remove()};document.addEventListener('keydown',function f(ev){if(ev.key==='Escape'){o.remove();document.removeEventListener('keydown',f)}});
+ document.body.append(o);x.focus()}
 async function open(k){cur=k;list();const D=$('#detail');D.innerHTML='<p class="empty">Yükleniyor…</p>';
  if(k[0]==='s'){const id=+k.slice(1),s=SAN.find(x=>x[0]===id);if(!s){D.innerHTML='<p class="empty">Sanatçı bulunamadı.</p>';return}
   const sh=await shard(Math.floor(id/100));rows=(sh[id]||[]).map(r=>({s:s[1],r}));render(s[1])}
@@ -116,7 +136,7 @@ function render(baslik){const D=$('#detail');let R=filt();R.sort((a,b)=>{const x
  D.append(tw);const tb=tw.querySelector('tbody');shown=0;
  const more=document.createElement('button');more.className='more';
  function add(){for(const {s,r} of R.slice(shown,shown+200)){const tr=document.createElement('tr');
-  const td0=document.createElement('td');const t=thumb(r[12]);if(r[12]){t.style.cursor='zoom-in';t.onclick=()=>{const o=document.createElement('div');o.className='big';o.append(thumb(r[12],true));o.firstChild.className='';o.firstChild.style.width=o.firstChild.style.height='288px';o.onclick=()=>o.remove();document.body.append(o)}}td0.append(t);tr.append(td0);
+  const td0=document.createElement('td');const t=thumb(r[12]);if(r[12]){t.style.cursor='zoom-in';t.tabIndex=0;t.setAttribute('role','button');t.setAttribute('aria-label','Görseli büyüt');t.onclick=()=>buyut(s,r);t.onkeydown=ev=>{if(ev.key==='Enter')buyut(s,r)}}td0.append(t);tr.append(td0);
   const c=(t,cls)=>{const d=document.createElement('td');if(cls)d.className=cls;d.textContent=t;tr.append(d);return d};
   c(r[0]);if(mode==='e')c(s);c(EV[r[1]]?EV[r[1]][0]:'','ev');c(r[2]?r[2].split('-').reverse().join('.'):'', 'tarih');
   c([r[3],r[4],r[5]].filter(Boolean).join(' · '),'oz');
