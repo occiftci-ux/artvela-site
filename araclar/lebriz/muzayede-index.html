@@ -1,0 +1,135 @@
+<title>Lebriz Müzayede Arşivi</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=IBM+Plex+Sans:wght@400;500&family=IBM+Plex+Mono:wght@400&display=swap">
+<style>
+/* Layout: katalog defteri; yapışkan arama, solda liste (sanatçı / müzayede evi), seçince lot tablosu */
+:root{--bg:#f6f6f3;--panel:#ffffff;--fg:#1d1f1e;--muted:#676b68;--rule:#dcdcd6;--accent:#5a2e2a;--chip:#ecebe6;--sold:#2f5d3a;
+--display:"Newsreader",Georgia,serif;--body:"IBM Plex Sans",system-ui,sans-serif;--mono:"IBM Plex Mono",ui-monospace,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141615;--panel:#1c1f1e;--fg:#e6e6e1;--muted:#9a9e9a;--rule:#2f3331;--accent:#d49b8f;--chip:#262a28;--sold:#8cc79a;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#141615;--panel:#1c1f1e;--fg:#e6e6e1;--muted:#9a9e9a;--rule:#2f3331;--accent:#d49b8f;--chip:#262a28;--sold:#8cc79a;color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.5}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.wrap{max-width:1180px;margin:0 auto;padding-block:32px 64px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:grid;gap:20px}
+.eyebrow{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+h1{font-family:var(--display);font-weight:400;font-size:clamp(30px,5vw,44px);line-height:1.1;margin:0;text-wrap:balance}
+h2{font-family:var(--display);font-weight:400;font-size:clamp(22px,3.4vw,30px);line-height:1.15;margin:0;text-wrap:balance}
+header{display:grid;gap:8px}
+.lede{color:var(--muted);max-width:70ch;margin:0}
+.controls{display:flex;gap:8px;flex-wrap:wrap;align-items:center;position:sticky;top:env(safe-area-inset-top,0px);background:var(--bg);padding-block:10px;z-index:5;border-bottom:1px solid var(--rule)}
+.tab{font:inherit;font-size:14px;border:1px solid var(--rule);background:transparent;color:var(--fg);padding:6px 14px;border-radius:999px;cursor:pointer}
+.tab[aria-selected="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+input,select{font:inherit;color:var(--fg);background:var(--panel);border:1px solid var(--rule);border-radius:6px;padding:8px 10px;min-width:0}
+#q{flex:1 1 220px}
+.yil{width:6.5em}
+label.ck{display:flex;gap:6px;align-items:center;font-size:14px;color:var(--muted);cursor:pointer}
+.count{font-family:var(--mono);font-size:12px;color:var(--muted)}
+.main{display:grid;grid-template-columns:300px 1fr;gap:24px;align-items:start}
+@media (max-width:820px){.main{grid-template-columns:1fr}}
+.list{display:grid;align-content:start;max-height:75vh;overflow:auto;border-top:1px solid var(--rule)}
+.list button{all:unset;cursor:pointer;display:grid;grid-template-columns:1fr auto;gap:8px;padding:8px 6px;border-bottom:1px solid var(--rule);font-size:14px}
+.list button:hover,.list button[aria-current="true"]{background:var(--chip)}
+.list button:focus-visible{outline:2px solid var(--accent)}
+.list .n{font-family:var(--mono);font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.detail{display:grid;gap:14px;min-width:0}
+.sum{display:flex;gap:6px 18px;flex-wrap:wrap;font-size:13px;color:var(--muted)}
+.sum b{color:var(--fg);font-weight:500;font-variant-numeric:tabular-nums}
+.tw{overflow-x:auto;border-top:1px solid var(--rule)}
+table{border-collapse:collapse;width:100%;font-size:13.5px}
+th{font-weight:500;text-align:left;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);padding:8px 8px;border-bottom:1px solid var(--rule);white-space:nowrap;position:sticky;top:0;background:var(--bg)}
+th button{all:unset;cursor:pointer}
+th button:hover{color:var(--fg)}
+td{padding:8px;border-bottom:1px solid var(--rule);vertical-align:top}
+td.num{font-family:var(--mono);font-size:12.5px;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+td.num small{display:block;color:var(--muted);font-size:11px}
+td.sold{color:var(--sold)}
+.tarih{font-family:var(--mono);font-size:12.5px;white-space:nowrap}
+.ev{font-size:13px}
+.oz{color:var(--muted);font-size:12.5px;max-width:34ch}
+.th{width:72px;height:72px;border-radius:3px;background-color:var(--chip);background-repeat:no-repeat;flex:none}
+.th.yok{display:grid;place-items:center;font-size:10px;color:var(--muted)}
+.more{justify-self:start;font:inherit;font-size:14px;border:1px solid var(--rule);background:transparent;color:var(--fg);padding:6px 14px;border-radius:6px;cursor:pointer}
+.note{font-size:12.5px;color:var(--muted);max-width:80ch}
+.empty{color:var(--muted);padding:24px 0}
+.big{position:fixed;inset:0;background:color-mix(in srgb,var(--bg) 88%,transparent);display:grid;place-items:center;z-index:20;padding:max(16px,env(safe-area-inset-left,0px))}
+.big div{width:288px;height:288px;background-repeat:no-repeat;image-rendering:auto;border:1px solid var(--rule);background-color:var(--panel)}
+</style>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Özel arşiv · Lebriz müzayede bankası kopyası</div>
+    <h1>Lebriz Müzayede Arşivi</h1>
+    <p class="lede" id="lede">Veriler yükleniyor.</p>
+  </header>
+  <div class="controls">
+    <button class="tab" id="t-s" aria-selected="true">Sanatçılar</button>
+    <button class="tab" id="t-e" aria-selected="false">Müzayede evleri</button>
+    <input id="q" type="search" placeholder="Sanatçı ara" aria-label="Listede ara">
+    <input id="y1" class="yil" type="number" placeholder="Yıldan" aria-label="Başlangıç yılı">
+    <input id="y2" class="yil" type="number" placeholder="Yıla" aria-label="Bitiş yılı">
+    <label class="ck"><input type="checkbox" id="fs"> Yalnız satılanlar</label>
+    <label class="ck"><input type="checkbox" id="fg"> Yalnız görselli</label>
+  </div>
+  <div class="main">
+    <div class="list" id="list" aria-label="Liste"></div>
+    <section class="detail" id="detail"><p class="empty">Soldan bir sanatçı ya da müzayede evi seçin.</p></section>
+  </div>
+  <p class="note">Fiyatlar Lebriz kaydında yazdığı gibidir. TL sütunu 2005 öncesinde eski lira, sonrasında yeni liradır; karşılaştırma için USD sütunu daha güvenilirdir. Satış fiyatı boş olan lotlar satılmamış ya da sonucu kaydedilmemiştir. Tarih, müzayedenin tarihidir.</p>
+</div>
+<script>
+const $=s=>document.querySelector(s);
+let SAN=[],EV=[],PAF=[],shards={},mode='s',cur=null,rows=[],shown=0,sortK='tarih',sortD=-1;
+const fmt=n=>n?n.toLocaleString('tr-TR'):'';
+async function j(u){const r=await fetch(u);if(!r.ok)throw new Error(u);return r.json()}
+async function shard(b){if(!shards[b])shards[b]=j('veri/k-'+b+'.json');return shards[b]}
+function lede(){const t=SAN.reduce((a,s)=>a+s[2],0),g=SAN.reduce((a,s)=>a+s[3],0);
+ $('#lede').textContent=`${SAN.length.toLocaleString('tr-TR')} sanatçı, ${t.toLocaleString('tr-TR')} lot, ${EV.length} müzayede evi. ${g.toLocaleString('tr-TR')} lotun küçük görseli var. Sanatçı ya da müzayede evi seçince açılış ve satış fiyatlarıyla bütün lotlar listelenir.`}
+function list(){const q=$('#q').value.trim().toLocaleLowerCase('tr');const L=$('#list');L.innerHTML='';
+ const src=mode==='s'?SAN.map(s=>({k:'s'+s[0],ad:s[1],n:s[2]})):EV.map((e,i)=>({k:'e'+i,ad:e[0],n:e[1],y:e[2]&&`${e[2]}–${e[3]}`}));
+ const f=src.filter(x=>!q||x.ad.toLocaleLowerCase('tr').includes(q)).slice(0,400);
+ for(const x of f){const b=document.createElement('button');b.dataset.k=x.k;if(cur===x.k)b.setAttribute('aria-current','true');
+  b.innerHTML=`<span></span><span class="n"></span>`;b.firstChild.textContent=x.ad;b.lastChild.textContent=(x.y?x.y+' · ':'')+x.n.toLocaleString('tr-TR');
+  b.onclick=()=>{location.hash=x.k};L.append(b)}
+ if(!f.length)L.innerHTML='<p class="empty">Eşleşen kayıt yok.</p>'}
+function thumb(img,big){const d=document.createElement('div');d.className='th';
+ if(!img){d.classList.add('yok');d.textContent='görsel yok';return d}
+ const [p,c,w,h]=img,s=big?3:.75;d.style.backgroundImage=`url(${PAF[p]})`;d.style.backgroundSize=`${1536*s}px auto`;
+ d.style.backgroundPosition=`${-(c%16)*96*s}px ${-Math.floor(c/16)*96*s}px`;return d}
+async function open(k){cur=k;list();const D=$('#detail');D.innerHTML='<p class="empty">Yükleniyor…</p>';
+ if(k[0]==='s'){const id=+k.slice(1),s=SAN.find(x=>x[0]===id);if(!s){D.innerHTML='<p class="empty">Sanatçı bulunamadı.</p>';return}
+  const sh=await shard(Math.floor(id/100));rows=(sh[id]||[]).map(r=>({s:s[1],r}));render(s[1])}
+ else{const i=+k.slice(1),e=EV[i];if(!e)return;const B=[...new Set(SAN.map(s=>Math.floor(s[0]/100)))];let done=0;
+  const all=[];await Promise.all(B.map(async b=>{const sh=await shard(b);done++;D.innerHTML=`<p class="empty">Bütün kayıtlar taranıyor (${done}/${B.length})…</p>`;
+   for(const id in sh){const ad=(SAN.find(x=>x[0]===+id)||[0,''])[1];for(const r of sh[id])if(r[1]===i)all.push({s:ad,r})}}));
+  rows=all;render(e[0])}}
+function filt(){const y1=+$('#y1').value||0,y2=+$('#y2').value||9999,fs=$('#fs').checked,fg=$('#fg').checked;
+ return rows.filter(({r})=>{const y=+(r[2]||'').slice(0,4);return(!y||(y>=y1&&y<=y2))&&(!fs||r[7]||r[9]||r[11])&&(!fg||r[12])})}
+const KEY={tarih:r=>r[2]||'',acilis:r=>r[8]||0,satis:r=>r[9]||0};
+function render(baslik){const D=$('#detail');let R=filt();R.sort((a,b)=>{const x=KEY[sortK](a.r),y=KEY[sortK](b.r);return(x>y?1:x<y?-1:0)*sortD});
+ const sat=R.filter(x=>x.r[9]);const ys=R.map(x=>+(x.r[2]||'').slice(0,4)).filter(Boolean);
+ D.innerHTML='';const h=document.createElement('h2');h.textContent=baslik;D.append(h);
+ const s=document.createElement('div');s.className='sum';
+ s.innerHTML=`<span><b>${R.length.toLocaleString('tr-TR')}</b> lot</span><span><b>${sat.length.toLocaleString('tr-TR')}</b> satış kaydı</span>`+(ys.length?`<span><b>${Math.min(...ys)}–${Math.max(...ys)}</b></span>`:'')+(sat.length?`<span>en yüksek satış <b>${fmt(Math.max(...sat.map(x=>x.r[9])))} USD</b></span>`:'');D.append(s);
+ if(!R.length){D.insertAdjacentHTML('beforeend','<p class="empty">Bu süzgeçlerle lot kalmadı. Yıl aralığını ya da kutucukları değiştirin.</p>');return}
+ const tw=document.createElement('div');tw.className='tw';const ar=x=>sortK===x?(sortD<0?' ↓':' ↑'):'';
+ tw.innerHTML=`<table><thead><tr><th></th><th>Lot</th>${mode==='e'?'<th>Sanatçı</th>':''}<th>Müzayede evi</th><th><button data-s="tarih">Tarih${ar('tarih')}</button></th><th>Eser bilgisi</th><th style="text-align:right"><button data-s="acilis">Açılış${ar('acilis')}</button></th><th style="text-align:right"><button data-s="satis">Satış${ar('satis')}</button></th></tr></thead><tbody></tbody></table>`;
+ tw.querySelectorAll('th button').forEach(b=>b.onclick=()=>{const k=b.dataset.s;sortD=sortK===k?-sortD:-1;sortK=k;render(baslik)});
+ D.append(tw);const tb=tw.querySelector('tbody');shown=0;
+ const more=document.createElement('button');more.className='more';
+ function add(){for(const {s,r} of R.slice(shown,shown+200)){const tr=document.createElement('tr');
+  const td0=document.createElement('td');const t=thumb(r[12]);if(r[12]){t.style.cursor='zoom-in';t.onclick=()=>{const o=document.createElement('div');o.className='big';o.append(thumb(r[12],true));o.firstChild.className='';o.firstChild.style.width=o.firstChild.style.height='288px';o.onclick=()=>o.remove();document.body.append(o)}}td0.append(t);tr.append(td0);
+  const c=(t,cls)=>{const d=document.createElement('td');if(cls)d.className=cls;d.textContent=t;tr.append(d);return d};
+  c(r[0]);if(mode==='e')c(s);c(EV[r[1]]?EV[r[1]][0]:'','ev');c(r[2]?r[2].split('-').reverse().join('.'):'', 'tarih');
+  c([r[3],r[4],r[5]].filter(Boolean).join(' · '),'oz');
+  const p=(tl,us,eu,cls)=>{const d=c('', 'num'+(cls?' '+cls:''));if(!(tl||us||eu)){d.textContent='—';return}
+   d.innerHTML=(us?`${fmt(us)} USD`:'')+`<small>${[tl&&fmt(tl)+' TL',eu&&fmt(eu)+' EUR'].filter(Boolean).join(' · ')}</small>`};
+  p(r[6],r[8],r[10]);p(r[7],r[9],r[11],'sold');tb.append(tr)}
+  shown+=200;more.hidden=shown>=R.length;more.textContent=`${Math.min(200,R.length-shown).toLocaleString('tr-TR')} lot daha göster`}
+ more.onclick=add;add();D.append(more)}
+function setMode(m){mode=m;$('#t-s').setAttribute('aria-selected',m==='s');$('#t-e').setAttribute('aria-selected',m==='e');$('#q').placeholder=m==='s'?'Sanatçı ara':'Müzayede evi ara';list()}
+$('#t-s').onclick=()=>setMode('s');$('#t-e').onclick=()=>setMode('e');$('#q').oninput=list;
+for(const id of ['y1','y2','fs','fg'])$('#'+id).addEventListener('input',()=>{if(rows.length||cur)render($('#detail h2')?.textContent||'')});
+function route(){const k=location.hash.slice(1);if(/^[se]\d+$/.test(k)){if(k[0]!==mode)setMode(k[0]);open(k)}}
+window.addEventListener('hashchange',route);
+(async()=>{try{[SAN,EV,PAF]=await Promise.all([j('veri/sanatcilar.json'),j('veri/evler.json'),j('veri/pafta.json')]);
+ lede();list();if(location.hash)route();else open('s'+SAN[0][0])}catch(e){$('#lede').textContent='Veri dosyaları açılamadı. Sayfayı yenileyin.'}})();
+</script>
