@@ -1,6 +1,6 @@
 # Artvela Türk Sanatçılar Arşivi
 
-Son güncelleme: 2026-10-23 · 211 sanatçı
+Son güncelleme: 2026-10-23 · 214 sanatçı
 
 - [PUANLAMA.md](PUANLAMA.md): kabul ölçütleri, 100 puanlık sistem, kademeler
 - [SABLON-sanatci.md](SABLON-sanatci.md): ayrıntılı araştırma notu şablonu
@@ -47,179 +47,182 @@ Puanlar **ön puandır**. Çoğu sanatçıda piyasa ve koleksiyon verisi henüz 
 | 33 | [Ömer Kaleşi](sanatcilar/omer-kalesi.md) | 1932, Kırçova (Kuzey Makedonya) – 2022 | **39** | (IV · Gelişen) ön puan | %53 | 8 | 13 | 3 | 7 | 8 |
 | 34 | [Aliye Berger](sanatcilar/aliye-berger.md) | 24 Aralık 1903, Büyükada [1] – 9 Ağustos 1974, Büyükada [1] | **39** | (IV · Gelişen) ön puan | %53 | 3 | 17 | 16 | 3 | 0 |
 | 35 | [Malik Aksel](sanatcilar/malik-aksel.md) | 1903 [1] ya da 1901 [2], Katerin (Selanik yakını) [1] (doğum yılı çelişkili) – 15 Şubat 1987, İstanbul [1] | **39** | (IV · Gelişen) ön puan | %60 | 13 | 3 | 12 | 11 | 0 |
-| 36 | [Mahmut Celayir](sanatcilar/mahmut-celayir.md) | 1951, Bingöl | **38** | (IV · Gelişen) ön puan | %60 | 9 | 14 | 8 | 3 | 4 |
-| 37 | [Murat Morova](sanatcilar/murat-morova.md) | 1954 | **38** | (IV · Gelişen) ön puan | %60 | 7 | 16 | 8 | 0 | 7 |
-| 38 | [Süleyman Saim Tekcan](sanatcilar/suleyman-saim-tekcan.md) | 6 Ekim 1940, Trabzon [1][2] – Ekim 2026 (86 yaşında; gün ve yer kaynakta yok) [2] | **38** | (IV · Gelişen) ön puan | %67 | 11 | 9 | 5 | 9 | 4 |
-| 39 | [Altan Gürman](sanatcilar/altan-gurman.md) | 1935, İstanbul – 1976, İstanbul | **37** | (IV · Gelişen) ön puan | %47 | 6 | 7 | 6 | 14 | 4 |
-| 40 | [Komet (Gürkan Coşkun)](sanatcilar/komet.md) | 1941, Çorum – 2022 | **37** | (IV · Gelişen) ön puan | %60 | 10 | 16 | 0 | 6 | 5 |
-| 41 | [Elif Naci](sanatcilar/elif-naci.md) | 1898, Gelibolu [1][2] – 1987 [1][2] | **37** | (IV · Gelişen) ön puan | %47 | 7 | 13 | 0 | 14 | 3 |
-| 42 | [Nuri Abaç](sanatcilar/nuri-abac.md) | 1926, İstanbul [1] – 2 Mart 2008, Ankara [1] | **37** | (IV · Gelişen) ön puan | %60 | 8 | 11 | 5 | 10 | 3 |
-| 43 | [Avni Arbaş](sanatcilar/avni-arbas.md) | 1919, İstanbul [1][2] – 2003 [1] | **37** | (IV · Gelişen) ön puan | %53 | 12 | 14 | 4 | 3 | 4 |
-| 44 | [Burhan Uygur](sanatcilar/burhan-uygur.md) | 1940, Giresun – 1992, İstanbul | **36** | (IV · Gelişen) ön puan | %53 | 11 | 6 | 4 | 8 | 7 |
-| 45 | [Ali Avni Çelebi](sanatcilar/ali-avni-celebi.md) | 1904, İstanbul [1] – 1993 [1] | **36** | (IV · Gelişen) ön puan | %47 | 15 | 0 | 12 | 9 | 0 |
-| 46 | [Ardan Özmenoğlu](sanatcilar/ardan-ozmenoglu.md) | 1979 [1] | **35** | (IV · Gelişen) ön puan | %53 | 6 | 17 | 6 | 0 | 6 |
-| 47 | [Ömer Uluç](sanatcilar/omer-uluc.md) | 1931, İstanbul [1][2] – 2010 [1][2] | **35** | (IV · Gelişen) ön puan | %47 | 8 | 17 | 7 | 3 | 0 |
-| 48 | [Cevat Dereli](sanatcilar/cevat-dereli.md) | 1900; doğum yeri çelişkili: Rize [1], İstanbul [2] – 1989 [1][2] | **34** | (IV · Gelişen) ön puan | %47 | 15 | 8 | 4 | 7 | 0 |
-| 49 | [Tayfun Erdoğmuş](sanatcilar/tayfun-erdogmus.md) | 1958, Isparta [1][2] | **34** | (IV · Gelişen) ön puan | %47 | 14 | 14 | 4 | 2 | 0 |
-| 50 | [Tiraje Dikmen](sanatcilar/tiraje-dikmen.md) | 1925 – 2014, İstanbul (Büyükada) | **33** | (IV · Gelişen) ön puan | %53 | 6 | 11 | 0 | 9 | 7 |
-| 51 | [Fahrettin Arkunlar](sanatcilar/fahrettin-arkunlar.md) | 1901, İstanbul [1] – 21 Mart 1971, İstanbul [1] | **33** | (IV · Gelişen) ön puan | %53 | 12 | 9 | 3 | 6 | 3 |
-| 52 | [Şadan Bezeyiş](sanatcilar/sadan-bezeyis.md) | 1926, Adapazarı [1] – eksik | **33** | (IV · Gelişen) ön puan | %53 | 15 | 9 | 6 | 0 | 3 |
-| 53 | [Hakkı Anlı](sanatcilar/hakki-anli.md) | 1906 – 1991, İstanbul | **32** | (IV · Gelişen) ön puan | %53 | 12 | 10 | 0 | 3 | 7 |
-| 54 | [Zekai Ormancı](sanatcilar/zekai-ormanci.md) | 1949, Aydın [1][2] – 23 Nisan 2008, İstanbul [1][2] | **32** | (IV · Gelişen) ön puan | %60 | 13 | 9 | 5 | 2 | 3 |
-| 55 | [Turan Erol](sanatcilar/turan-erol.md) | 1927, Milas (Muğla) [1][2] – 16 Şubat 2023 [1][2] | **32** | (IV · Gelişen) ön puan | %53 | 14 | 2 | 5 | 8 | 3 |
-| 56 | [Gürdal Duyar](sanatcilar/gurdal-duyar.md) | 20 Ağustos 1935, Nişantaşı, İstanbul – 18 Nisan 2004, İstanbul | **32** | (IV · Gelişen) ön puan | %60 | 10 | 7 | 2 | 9 | 4 |
-| 57 | [İhsan Cemal Karaburçak](sanatcilar/ihsan-cemal-karaburcak.md) | 1897 [3] ya da 1898 [2] – 1970 [2][3] | **32** | (IV · Gelişen) ön puan | %40 | 1 | 13 | 7 | 11 | 0 |
-| 58 | [Ferruh Başağa](sanatcilar/ferruh-basaga.md) | 1914, İstanbul [1] – 2010, İstanbul [1] | **32** | (IV · Gelişen) ön puan | %40 | 9 | 5 | 12 | 6 | 0 |
-| 59 | [Abidin Elderoğlu](sanatcilar/abidin-elderoglu.md) | 1901, Denizli [1] – 1974 [1] | **32** | (IV · Gelişen) ön puan | %53 | 11 | 5 | 9 | 7 | 0 |
-| 60 | [Rahmi Aksungur](sanatcilar/rahmi-aksungur.md) | 1955, İzmir [1][2] | **32** | (IV · Gelişen) ön puan | %53 | 11 | 10 | 5 | 3 | 3 |
-| 61 | [Mevlüt Akyıldız](sanatcilar/mevlut-akyildiz.md) | 1956, Ankara | **31** | (IV · Gelişen) ön puan | %53 | 11 | 13 | 2 | 0 | 5 |
-| 62 | [Nuri İyem](sanatcilar/nuri-iyem.md) | 1915, İstanbul [1] – Doğrulanacak | **31** | (IV · Gelişen) ön puan | %40 | 10 | 7 | 0 | 10 | 4 |
-| 63 | [Neşet Günal](sanatcilar/neset-gunal.md) | 1923, Nevşehir [1] – 2002 [2] | **31** | (IV · Gelişen) ön puan | %53 | 14 | 7 | 4 | 2 | 4 |
-| 64 | [Hayati Misman](sanatcilar/hayati-misman.md) | 1945, Konya [1][2] | **31** | (IV · Gelişen) ön puan | %67 | 15 | 3 | 5 | 3 | 5 |
-| 65 | [Ahmet Umur Deniz](sanatcilar/ahmet-umur-deniz.md) | Doğrulanacak | **30** | (IV · Gelişen) ön puan | %47 | 11 | 6 | 0 | 6 | 7 |
-| 66 | [Özdemir Altan](sanatcilar/ozdemir-altan.md) | 1931 – 2026 (95 yaşında) [1] | **30** | (IV · Gelişen) ön puan | %47 | 11 | 12 | 0 | 4 | 3 |
-| 67 | [Mustafa Horasan](sanatcilar/mustafa-horasan.md) | 1965, Aydın – 2026, İstanbul (motosiklet kazası; 61 yaşında) [2][5] | **30** | (IV · Gelişen) ön puan | %53 | 9 | 6 | 11 | 0 | 4 |
-| 68 | [Zafer Gençaydın](sanatcilar/zafer-gencaydin.md) | 1941, Ankara – Mayıs 2024, Ankara (cenaze) | **30** | (IV · Gelişen) ön puan | %53 | 14 | 5 | 4 | 3 | 4 |
-| 69 | [Adnan Turani](sanatcilar/adnan-turani.md) | 1925, İstanbul [1] – 2016, Ankara [1] | **30** | (IV · Gelişen) ön puan | %53 | 13 | 0 | 8 | 4 | 5 |
-| 70 | [Fikret Mualla (Saygı)](sanatcilar/fikret-mualla.md) | 1903, İstanbul [1] – 1967, Fransa. Çelişki: KTB 20 Temmuz 1967 Nice [1]; Galerie Dina Vierny Mayıs 1967, Reillanne'da bir klinik [2] | **30** | (IV · Gelişen) ön puan | %40 | 2 | 18 | 6 | 0 | 4 |
-| 71 | [Hale Asaf](sanatcilar/hale-asaf.md) | 1905, İstanbul [1] – 31 Mayıs 1938, Paris [1][2] | **30** | (IV · Gelişen) ön puan | %40 | 12 | 3 | 5 | 10 | 0 |
-| 72 | [Hüsamettin Koçan](sanatcilar/husamettin-kocan.md) | 1946, Bayburt [1] | **30** | (IV · Gelişen) ön puan | %47 | 10 | 6 | 8 | 6 | 0 |
-| 73 | [Fikret Otyam](sanatcilar/fikret-otyam.md) | 19 Aralık 1926, Aksaray [1][2] – 9 Ağustos 2015, Antalya [1][2] | **29** | (IV · Gelişen) ön puan | %47 | 8 | 8 | 2 | 7 | 4 |
-| 74 | [Cihat Burak](sanatcilar/cihat-burak.md) | 1915, İstanbul [1] – 3 Mart 1994 [1] | **29** | (IV · Gelişen) ön puan | %40 | 10 | 8 | 4 | 4 | 3 |
-| 75 | [Güngör Taner](sanatcilar/gungor-taner.md) | 1941, İstanbul [1][2] | **29** | (IV · Gelişen) ön puan | %47 | 12 | 5 | 9 | 0 | 3 |
-| 76 | [Şükriye Dikmen](sanatcilar/sukriye-dikmen.md) | 1918, İstanbul (Büyükada) [1][2] – 16 Eylül 2000, İstanbul [1][2] | **29** | (IV · Gelişen) ön puan | %40 | 12 | 14 | 0 | 3 | 0 |
-| 77 | [Eren Eyüboğlu](sanatcilar/eren-eyuboglu.md) | Çelişkili: 1913 (KTB [1]) ve 1907 (İstanbul Modern, VIAF [2]); Romanya. Belirleyici kaynak 1988 ölüm haberleri – 1988 [1] | **28** | (IV · Gelişen) ön puan | %40 | 11 | 9 | 5 | 0 | 3 |
-| 78 | [Medine İrak](sanatcilar/medine-irak.md) | 1983 [1] | **28** | (IV · Gelişen) ön puan | %53 | 12 | 11 | 2 | 0 | 3 |
-| 79 | [Seyyit Bozdoğan](sanatcilar/seyyit-bozdogan.md) | 1941, Kozan | **28** | (IV · Gelişen) ön puan | %53 | 15 | 7 | 2 | 1 | 3 |
-| 80 | [Leyla Gamsız (Sarptürk)](sanatcilar/leyla-gamsiz.md) | 1921, İstanbul [2] – 13 Temmuz 2010, İstanbul [1] | **28** | (IV · Gelişen) ön puan | %47 | 7 | 4 | 8 | 5 | 4 |
-| 81 | [Ramiz Aydın](sanatcilar/ramiz-aydin.md) | 1937, Espiye (Giresun) – 2023 | **28** | (IV · Gelişen) ön puan | %47 | 10 | 8 | 5 | 0 | 5 |
-| 82 | [Yavuz Tanyeli](sanatcilar/yavuz-tanyeli.md) | 1950, Trabzon | **26** | (IV · Gelişen) ön puan | %40 | 0 | 12 | 4 | 4 | 6 |
-| 83 | [Mustafa Pilevneli](sanatcilar/mustafa-pilevneli.md) | 1940, İstanbul | **26** | (IV · Gelişen) ön puan | %47 | 13 | 8 | 1 | 0 | 4 |
-| 84 | [Mustafa Pancar](sanatcilar/mustafa-pancar.md) | 1964, İstanbul – 4 Şubat 2026 (Londra; yer yalnız Vikipedi'de, kaynaksız) | **26** | (IV · Gelişen) ön puan | %40 | 8 | 9 | 4 | 2 | 3 |
-| 85 | [Kemal Önsoy](sanatcilar/kemal-onsoy.md) | 1954, Eğridir [1] | **26** | (IV · Gelişen) ön puan | %33 | 6 | 10 | 7 | 0 | 3 |
-| 86 | [Nedim Günsür](sanatcilar/nedim-gunsur.md) | 1924, Ayvalık [1] – 1994, İzmir [1] | **25** | (IV · Gelişen) ön puan | %33 | 13 | 0 | 6 | 6 | 0 |
-| 87 | [Edip Hakkı Köseoğlu](sanatcilar/edip-hakki-koseoglu.md) | 1904, İstanbul [1] – 1990 [1] | **25** | (IV · Gelişen) ön puan | %40 | 13 | 0 | 3 | 6 | 3 |
-| 88 | [Fevzi Karakoç](sanatcilar/fevzi-karakoc.md) | 1947, Çankırı [1][2] | **25** | (IV · Gelişen) ön puan | %47 | 13 | 4 | 5 | 0 | 3 |
-| 89 | [Selma Gürbüz](sanatcilar/selma-gurbuz.md) | 1960, İstanbul [1] – eksik (2021 yılı yalnız Artam sayfasında; teyide muhtaç) | **25** | (IV · Gelişen) ön puan | %33 | 9 | 11 | 0 | 5 | 0 |
-| 90 | [Zeki Kocamemi](sanatcilar/zeki-kocamemi.md) | 1900, İstanbul (Fatih) [1] – 1959 [1] | **25** | (IV · Gelişen) ön puan | %33 | 15 | 0 | 4 | 6 | 0 |
-| 91 | [Saim Özeren](sanatcilar/saim-ozeren.md) | 1900 [1] – 1964, İstanbul [1] | **25** | (IV · Gelişen) ön puan | %40 | 8 | 7 | 0 | 10 | 0 |
-| 92 | [Utku Varlık](sanatcilar/utku-varlik.md) | 1942, Bolu [1] | **25** | (IV · Gelişen) ön puan | %40 | 12 | 3 | 4 | 3 | 3 |
-| 93 | [Dinçer Erimez](sanatcilar/dincer-erimez.md) | 1932, İstanbul [1] – eksik | **24** | (IV · Gelişen) ön puan | %53 | 14 | 3 | 0 | 3 | 4 |
-| 94 | [Coşkun Sami](sanatcilar/coskun-sami.md) | 1973, Silistre (Bulgaristan) | **24** | (IV · Gelişen) ön puan | %33 | 10 | 11 | 0 | 0 | 3 |
-| 95 | [Mahmut Karatoprak](sanatcilar/mahmut-karatoprak.md) | 1953, Kayseri [1] | **23** | (IV · Gelişen) ön puan | %47 | 11 | 2 | 5 | 0 | 5 |
-| 96 | [Halil Dikmen](sanatcilar/halil-dikmen.md) | 1906, İstanbul [1] – 1964 [1] | **23** | (IV · Gelişen) ön puan | %33 | 14 | 0 | 3 | 6 | 0 |
-| 97 | [Adem Genç](sanatcilar/adem-genc.md) | 1944, Ardeşen (Rize) [1] | **23** | (IV · Gelişen) ön puan | %40 | 14 | 3 | 2 | 0 | 4 |
-| 98 | [Hakan Esmer](sanatcilar/hakan-esmer.md) | 1973, Trabzon [1] | **23** | (IV · Gelişen) ön puan | %47 | 1 | 12 | 4 | 0 | 6 |
-| 99 | [Selim Altan](sanatcilar/selim-altan.md) | 1959, İstanbul | **23** | (IV · Gelişen) ön puan | %40 | 8 | 9 | 2 | 1 | 3 |
-| 100 | [Muzaffer Akyol](sanatcilar/muzaffer-akyol.md) | 1945, Trabzon (Divranoz/Gölçayır köyü) [1][2] | **23** | (IV · Gelişen) ön puan | %40 | 9 | 9 | 0 | 0 | 5 |
-| 101 | [Şeref Akdik](sanatcilar/seref-akdik.md) | 1899, İstanbul [1] – 1972 [1] | **22** | (IV · Gelişen) ön puan | %27 | 15 | 0 | 0 | 7 | 0 |
-| 102 | [Nurullah Berk](sanatcilar/nurullah-berk.md) | 1906, İstanbul [1] – 1982 [1] | **22** | (IV · Gelişen) ön puan | %33 | 15 | 0 | 1 | 6 | 0 |
-| 103 | [Mustafa Esirkuş](sanatcilar/mustafa-esirkus.md) | 1921 (teyide muhtaç; yalnız Artam listesinde) – 1989 (teyide muhtaç; yalnız Artam listesinde) | **22** | (IV · Gelişen) ön puan | %27 | 8 | 2 | 7 | 5 | 0 |
-| 104 | [Hoca Ali Rıza](sanatcilar/hoca-ali-riza.md) | 1858, Üsküdar [1] – 1930 [1] | **22** | (IV · Gelişen) ön puan | %33 | 9 | 1 | 7 | 5 | 0 |
-| 105 | [Ergin İnan](sanatcilar/ergin-inan.md) | 1943, Malatya (yalnız fuar sayfasında; teyide muhtaç) | **22** | (IV · Gelişen) ön puan | %33 | 7 | 3 | 7 | 0 | 5 |
-| 106 | [Alaettin Aksoy](sanatcilar/alaettin-aksoy.md) | 1942, Trabzon [1] | **22** | (IV · Gelişen) ön puan | %33 | 14 | 4 | 4 | 0 | 0 |
-| 107 | [Cavit Atmaca](sanatcilar/cavit-atmaca.md) | 1931, Adapazarı [1] – eksik | **22** | (IV · Gelişen) ön puan | %33 | 10 | 5 | 4 | 3 | 0 |
-| 108 | [Memduh Kuzay](sanatcilar/memduh-kuzay.md) | 1957, Kayseri | **21** | (IV · Gelişen) ön puan | %40 | 13 | 3 | 1 | 0 | 4 |
-| 109 | [Özgür Eryılmaz](sanatcilar/ozgur-eryilmaz.md) | 1972, Torul [1] | **21** | (IV · Gelişen) ön puan | %40 | 9 | 7 | 0 | 0 | 5 |
-| 110 | [Adnan Varınca](sanatcilar/adnan-varinca.md) | 1918, İstanbul [1] – 2014, İstanbul [1] | **21** | (IV · Gelişen) ön puan | %33 | 13 | 4 | 4 | 0 | 0 |
-| 111 | [Canan Tolon](sanatcilar/canan-tolon.md) | 1955, İstanbul [1] | **21** | (IV · Gelişen) ön puan | %33 | 8 | 10 | 0 | 3 | 0 |
-| 112 | [Refik Fazıl Epikman](sanatcilar/refik-epikman.md) | Doğrulanacak – Doğrulanacak | **21** | (IV · Gelişen) ön puan | %27 | 6 | 0 | 9 | 6 | 0 |
-| 113 | [Namık İsmail](sanatcilar/namik-ismail.md) | 1890, Samsun [1] – 1935 [1] | **21** | (IV · Gelişen) ön puan | %33 | 7 | 2 | 7 | 5 | 0 |
-| 114 | [Altan Çelem](sanatcilar/altan-celem.md) | 1969, Mülheim (Almanya) | **20** | (IV · Gelişen) ön puan | %40 | 7 | 7 | 3 | 0 | 3 |
-| 115 | [Alev Özas](sanatcilar/alev-ozas.md) | 1977, İstanbul (⚠ galeri beyanı (CV)) | **20** | (IV · Gelişen) ön puan | %33 | 6 | 7 | 0 | 0 | 7 |
-| 116 | [Mehmet Uygun](sanatcilar/mehmet-uygun.md) | 1964 [1] | **20** | (IV · Gelişen) ön puan | %40 | 11 | 4 | 0 | 0 | 5 |
-| 117 | [Ahmet Yeşil](sanatcilar/ahmet-yesil.md) | 1954, Mersin [1] | **20** | (IV · Gelişen) ön puan | %40 | 0 | 7 | 8 | 0 | 5 |
-| 118 | [Şefik Bursalı](sanatcilar/sefik-bursali.md) | 1903, Bursa [1] – 1990 [1] | **20** | (IV · Gelişen) ön puan | %27 | 11 | 4 | 5 | 0 | 0 |
-| 119 | [Balkan Naci İslimyeli](sanatcilar/balkan-naci-islimyeli.md) | 1947, Adapazarı [1] – 2022 [3] | **20** | (IV · Gelişen) ön puan | %33 | 14 | 0 | 4 | 2 | 0 |
-| 120 | [Şevket Sönmez](sanatcilar/sevket-sonmez.md) | 1978, Plovdiv (Bulgaristan) | **20** | (IV · Gelişen) ön puan | %33 | 8 | 10 | 0 | 0 | 2 |
-| 121 | [Erdal Alantar](sanatcilar/erdal-alantar.md) | 29 Ocak 1932, İstanbul [1] – 2014 [1] | **19** | (V · İzleme) ön puan | %40 | 0 | 9 | 2 | 3 | 5 |
-| 122 | [Claire Arkas](sanatcilar/claire-arkas.md) | 1978, İzmir [1] | **19** | (V · İzleme) ön puan | %40 | 10 | 5 | 0 | 0 | 4 |
-| 123 | [Hasan Kavruk](sanatcilar/hasan-kavruk.md) | 1919, Akseki – Doğrulanacak | **19** | (V · İzleme) ön puan | %47 | 10 | 3 | 0 | 2 | 4 |
-| 124 | [Muhittin Sebati](sanatcilar/muhittin-sebati.md) | 1901, Amasya [1] – 1932, İstanbul, Haydarpaşa Hastanesi [1] | **19** | (V · İzleme) ön puan | %27 | 13 | 0 | 0 | 6 | 0 |
-| 125 | [Ertuğrul Ateş](sanatcilar/ertugrul-ates.md) | 1954, Adana [1] | **19** | (V · İzleme) ön puan | %33 | 8 | 8 | 0 | 0 | 3 |
-| 126 | [Remzi İren](sanatcilar/remzi-iren.md) | 1943, Tokat [1] | **19** | (V · İzleme) ön puan | %33 | 8 | 4 | 1 | 0 | 6 |
-| 127 | [Ursula Soltermann Katipoğlu](sanatcilar/ursula-katipoglu.md) | İsviçre, Valais; yıl eksik [1] | **19** | (V · İzleme) ön puan | %40 | 7 | 8 | 0 | 0 | 4 |
-| 128 | [Ahu Akgün](sanatcilar/ahu-akgun.md) | Doğrulanacak | **19** | (V · İzleme) ön puan | %33 | 8 | 5 | 3 | 0 | 3 |
-| 129 | [Mithat Şen](sanatcilar/mithat-sen.md) | 1957 [1][2] | **19** | (V · İzleme) ön puan | %27 | 8 | 9 | 0 | 2 | 0 |
-| 130 | [Bedri Baykam](sanatcilar/bedri-baykam.md) | 1957 (İstanbul Modern sayfası; doğum yeri kaynakta yok) | **19** | (V · İzleme) ön puan | %27 | 6 | 9 | 4 | 0 | 0 |
-| 131 | [Mehmet Pesen](sanatcilar/mehmet-pesen.md) | 1923, İstanbul [1] – 2012 [1] | **18** | (V · İzleme) ön puan | %27 | 9 | 0 | 0 | 6 | 3 |
-| 132 | [Yusuf Katipoğlu](sanatcilar/yusuf-katipoglu.md) | 1941, Trabzon [1][2] – 4 Kasım 2018 [2]; cenazesi Kuzguncuk'tan Trabzon'a götürüldü [2] | **18** | (V · İzleme) ön puan | %40 | 9 | 5 | 0 | 0 | 4 |
-| 133 | [Yusuf Bilge](sanatcilar/yusuf-bilge.md) | 1959, Edremit [1] | **18** | (V · İzleme) ön puan | %33 | 11 | 2 | 0 | 1 | 4 |
-| 134 | [Sabiha Rüştü Bozcalı](sanatcilar/sabiha-bozcali.md) | 1904 [1] – 1998 [1] | **18** | (V · İzleme) ön puan | %27 | 8 | 6 | 4 | 0 | 0 |
-| 135 | [Nedret Sekban](sanatcilar/nedret-sekban.md) | 1953, Trabzon [1] | **18** | (V · İzleme) ön puan | %33 | 11 | 2 | 0 | 2 | 3 |
-| 136 | [Didem Erbaş](sanatcilar/didem-erbas.md) | 1985, İstanbul [1] | **17** | (V · İzleme) ön puan | %40 | 9 | 6 | 2 | 0 | 0 |
-| 137 | [Bihrat Mavitan](sanatcilar/bihrat-mavitan.md) | 1948, Gavur (İzmir) [1] | **17** | (V · İzleme) ön puan | %33 | 11 | 2 | 1 | 0 | 3 |
-| 138 | [Engin Korkmaz](sanatcilar/engin-korkmaz.md) | 1972, Erzurum [1] | **17** | (V · İzleme) ön puan | %33 | 10 | 3 | 1 | 0 | 3 |
-| 139 | [İbrahim Özsözgün](sanatcilar/ibrahim-ozsozgun.md) | 1994, Diyarbakır [1][2] | **16** | (V · İzleme) ön puan | %27 | 7 | 3 | 4 | 0 | 2 |
-| 140 | [Mahir Güven](sanatcilar/mahir-guven.md) | 1958, İstanbul [1] | **16** | (V · İzleme) ön puan | %27 | 8 | 2 | 3 | 0 | 3 |
-| 141 | [Dilek Demirci](sanatcilar/dilek-demirci.md) | 1957, Kayseri [1] | **16** | (V · İzleme) ön puan | %27 | 11 | 2 | 0 | 0 | 3 |
-| 142 | [Kristin Saleri](sanatcilar/kristin-saleri.md) | Doğrulanacak, İstanbul – Doğrulanacak | **15** | (V · İzleme) ön puan | %40 | 3 | 5 | 0 | 2 | 5 |
-| 143 | [Elif Özen](sanatcilar/elif-ozen.md) | 1987, İzmir [1] | **15** | (V · İzleme) ön puan | %33 | 7 | 5 | 2 | 1 | 0 |
-| 144 | [Turgut Zaim](sanatcilar/turgut-zaim.md) | 1906 [1] – 1974 [1] | **15** | (V · İzleme) ön puan | %33 | 10 | 0 | 3 | 2 | 0 |
-| 145 | [Arif Bedii Kaptan](sanatcilar/arif-kaptan.md) | 1906, İstanbul [1] – 1979 [1] | **15** | (V · İzleme) ön puan | %33 | 8 | 2 | 3 | 2 | 0 |
-| 146 | [Mahmut Cûda](sanatcilar/mahmut-cuda.md) | Doğrulanacak – Doğrulanacak | **15** | (V · İzleme) ön puan | %20 | 6 | 0 | 0 | 9 | 0 |
-| 147 | [Uğur Mine Tamay](sanatcilar/ugur-mine-tamay.md) | Doğrulanacak | **14** | (V · İzleme) ön puan | %27 | 3 | 8 | 0 | 0 | 3 |
-| 148 | [Merve Vural](sanatcilar/merve-vural.md) | 1989, İstanbul [1] | **14** | (V · İzleme) ön puan | %27 | 7 | 4 | 3 | 0 | 0 |
-| 149 | [Şenol Yorozlu](sanatcilar/senol-yorozlu.md) | 1950, Trabzon [1] | **14** | (V · İzleme) ön puan | %20 | 8 | 4 | 2 | 0 | 0 |
-| 150 | [Necdet Kalay](sanatcilar/necdet-kalay.md) | 1932, İstanbul | **14** | (V · İzleme) ön puan | %27 | 6 | 4 | 1 | 0 | 3 |
-| 151 | [Oya Zaim Katoğlu](sanatcilar/oya-zaim-katoglu.md) | Doğrulanacak | **13** | (V · İzleme) ön puan | %27 | 0 | 0 | 0 | 7 | 6 |
-| 152 | [Hüseyin Bilişik](sanatcilar/huseyin-bilisik.md) | Doğrulanacak | **13** | (V · İzleme) ön puan | %27 | 0 | 5 | 0 | 3 | 5 |
-| 153 | [Güzin Duran](sanatcilar/guzin-duran.md) | 1898 [1] – 1981 [1] | **13** | (V · İzleme) ön puan | %20 | 7 | 0 | 0 | 6 | 0 |
-| 154 | [Aka Gündüz Temur](sanatcilar/aka-gunduz-temur.md) | 1941, Malatya [1] – eksik | **13** | (V · İzleme) ön puan | %27 | 7 | 3 | 0 | 0 | 3 |
-| 155 | [Şeref Bigalı](sanatcilar/seref-bigali.md) | 31 Ekim 1925, Bergama (Göçeyli) [1][2] – 2005 [2] | **13** | (V · İzleme) ön puan | %20 | 11 | 0 | 0 | 2 | 0 |
-| 156 | [Hasan Hulusi Mercan](sanatcilar/hulusi-mercan.md) | 1913, Söğüt [1] – 1988 [1] | **13** | (V · İzleme) ön puan | %20 | 11 | 2 | 0 | 0 | 0 |
-| 157 | [Raşit Altun](sanatcilar/rasit-altun.md) | Doğrulanacak | **13** | (V · İzleme) ön puan | %27 | 6 | 3 | 0 | 0 | 4 |
-| 158 | [Bubi](sanatcilar/bubi.md) | Doğrulanacak | **12** | (V · İzleme) ön puan | %27 | 0 | 6 | 0 | 2 | 4 |
-| 159 | [Birol Kutadgu](sanatcilar/birol-kutadgu.md) | eksik | **12** | (V · İzleme) ön puan | %20 | 0 | 9 | 0 | 0 | 3 |
-| 160 | [Sadık Arı](sanatcilar/sadik-ari.md) | 1989, Akhisar (Manisa) [1] | **12** | (V · İzleme) ön puan | %20 | 6 | 6 | 0 | 0 | 0 |
-| 161 | [Ruken Adıbelli](sanatcilar/ruken-adibelli.md) | 1980, Elazığ | **11** | (V · İzleme) ön puan | %13 | 7 | 4 | 0 | 0 | 0 |
-| 162 | [Harun Antakyalı](sanatcilar/harun-antakyali.md) | Doğrulanacak | **11** | (V · İzleme) ön puan | %27 | 0 | 3 | 0 | 0 | 8 |
-| 163 | [Buğra Erol](sanatcilar/bugra-erol.md) | 1986, Adana [1] | **11** | (V · İzleme) ön puan | %27 | 6 | 3 | 2 | 0 | 0 |
-| 164 | [Lalin Mercan](sanatcilar/lalin-mercan.md) | 1992, İstanbul [1][2] | **11** | (V · İzleme) ön puan | %20 | 4 | 5 | 2 | 0 | 0 |
-| 165 | [Yalçın Bulut](sanatcilar/yalcin-bulut.md) | Doğrulanacak | **11** | (V · İzleme) ön puan | %20 | 8 | 2 | 0 | 0 | 1 |
-| 166 | [Salih Urallı](sanatcilar/salih-uralli.md) | eksik – eksik | **10** | (V · İzleme) ön puan | %20 | 2 | 0 | 5 | 3 | 0 |
-| 167 | [Filiz Tokcan](sanatcilar/filiz-tokcan.md) | Doğrulanacak | **9** | (V · İzleme) ön puan | %20 | 0 | 5 | 0 | 0 | 4 |
-| 168 | [Songül Berda Özdemir](sanatcilar/songul-berda-ozdemir.md) | 1993, Malatya [1] | **9** | (V · İzleme) ön puan | %13 | 7 | 0 | 2 | 0 | 0 |
-| 169 | [Yasemin Kaplan](sanatcilar/yasemin-kaplan.md) | 1987, Almanya [1] | **9** | (V · İzleme) ön puan | %13 | 7 | 0 | 2 | 0 | 0 |
-| 170 | [Erhan Lanpir](sanatcilar/erhan-lanpir.md) | 1979 [1] | **9** | (V · İzleme) ön puan | %27 | 4 | 1 | 0 | 0 | 4 |
-| 171 | [Ali Atmaca](sanatcilar/ali-atmaca.md) | 1947, Kahramanmaraş [1] | **9** | (V · İzleme) ön puan | %13 | 9 | 0 | 0 | 0 | 0 |
-| 172 | [Başak Çolak](sanatcilar/basak-colak.md) | 1994, Ankara [1] | **8** | (V · İzleme) ön puan | %20 | 6 | 1 | 1 | 0 | 0 |
-| 173 | [Çağatay Odabaş](sanatcilar/cagatay-odabas.md) | Doğrulanacak | **8** | (V · İzleme) ön puan | %20 | 0 | 3 | 0 | 0 | 5 |
-| 174 | [Rıdvan Aşar](sanatcilar/ridvan-asar.md) | 1989, Mardin [1] | **8** | (V · İzleme) ön puan | %13 | 6 | 0 | 2 | 0 | 0 |
-| 175 | [Melahat Üren](sanatcilar/melahat-uren.md) | eksik – eksik | **8** | (V · İzleme) ön puan | %13 | 0 | 5 | 0 | 3 | 0 |
-| 176 | [Ahmet Güneştekin](sanatcilar/ahmet-gunestekin.md) | 1966, Batman [1] | **8** | (V · İzleme) ön puan | %20 | 0 | 6 | 0 | 2 | 0 |
-| 177 | [İsmail Tetikçi](sanatcilar/ismail-tetikci.md) | Doğrulanacak | **7** | (V · İzleme) ön puan | %13 | 0 | 2 | 0 | 0 | 5 |
-| 178 | [İbrahim Çiftçioğlu](sanatcilar/ibrahim-ciftcioglu.md) | Doğrulanacak – Mart 2026, Muğla [1][2] | **7** | (V · İzleme) ön puan | %20 | 0 | 3 | 0 | 1 | 3 |
-| 179 | [Rasin Arsebük](sanatcilar/rasin-arsebuk.md) | Doğrulanacak – Doğrulanacak | **7** | (V · İzleme) ön puan | %20 | 0 | 2 | 0 | 2 | 3 |
-| 180 | [Hüseyin Demirbaş](sanatcilar/huseyin-demirbas.md) | 1988, İstanbul [1] | **7** | (V · İzleme) ön puan | %13 | 5 | 0 | 2 | 0 | 0 |
-| 181 | [Müslüm Teke](sanatcilar/muslum-teke.md) | eksik (Türkiye doğumlu) [1] | **7** | (V · İzleme) ön puan | %20 | 0 | 4 | 0 | 0 | 3 |
-| 182 | [İbrahim Balaban](sanatcilar/ibrahim-balaban.md) | 1921, Seçköy, Bursa [1][2] – 2019, İstanbul [2] | **7** | (V · İzleme) ön puan | %13 | 0 | 3 | 0 | 4 | 0 |
-| 183 | [Seçil Atmaca](sanatcilar/secil-atmaca.md) | 1984, Eskişehir [1] | **7** | (V · İzleme) ön puan | %20 | 5 | 1 | 1 | 0 | 0 |
-| 184 | [Mehmet Gün](sanatcilar/mehmet-gun.md) | Doğrulanacak | **6** | (V · İzleme) ön puan | %20 | 0 | 2 | 0 | 1 | 3 |
-| 185 | [Kainat Barkan Pajonk](sanatcilar/kainat-barkan-pajonk.md) | Doğrulanacak | **6** | (V · İzleme) ön puan | %13 | 0 | 2 | 0 | 0 | 4 |
-| 186 | [Artin Demirci](sanatcilar/artin-demirci.md) | eksik | **6** | (V · İzleme) ön puan | %13 | 0 | 3 | 0 | 0 | 3 |
-| 187 | [Sevda Uyar](sanatcilar/sevda-uyar.md) | eksik | **6** | (V · İzleme) ön puan | %13 | 4 | 0 | 2 | 0 | 0 |
-| 188 | [Hatice Akkuş](sanatcilar/hatice-akkus.md) | eksik | **6** | (V · İzleme) ön puan | %13 | 4 | 0 | 2 | 0 | 0 |
-| 189 | [Salih Acar](sanatcilar/salih-acar.md) | eksik | **6** | (V · İzleme) ön puan | %20 | 0 | 1 | 0 | 0 | 5 |
-| 190 | [Seçkin Çoban](sanatcilar/seckin-coban.md) | Doğrulanacak | **5** | (V · İzleme) ön puan | %13 | 4 | 0 | 1 | 0 | 0 |
-| 191 | [Salih Çakar](sanatcilar/salih-cakar.md) | Doğrulanacak | **4** | (V · İzleme) ön puan | %7 | 0 | 0 | 4 | 0 | 0 |
-| 192 | [Duru Bozkurt](sanatcilar/duru-bozkurt.md) | Doğrulanacak | **4** | (V · İzleme) ön puan | %7 | 0 | 0 | 4 | 0 | 0 |
-| 193 | [Ercüment Tarhan](sanatcilar/ercument-tarhan.md) | eksik | **4** | (V · İzleme) ön puan | %13 | 0 | 1 | 0 | 0 | 3 |
-| 194 | [Güneş Çağlarcan](sanatcilar/gunes-caglarcan.md) | eksik | **4** | (V · İzleme) ön puan | %13 | 0 | 1 | 0 | 0 | 3 |
-| 195 | [Emre Çalış](sanatcilar/emre-calis.md) | Doğrulanacak | **3** | (V · İzleme) ön puan | %7 | 0 | 0 | 3 | 0 | 0 |
-| 196 | [Elif Akçay](sanatcilar/elif-akcay.md) | Doğrulanacak | **3** | (V · İzleme) ön puan | %7 | 0 | 0 | 3 | 0 | 0 |
-| 197 | [İhsan Berke Saraçoğlu](sanatcilar/ihsan-berke-saracoglu.md) | Doğrulanacak | **3** | (V · İzleme) ön puan | %7 | 0 | 0 | 3 | 0 | 0 |
-| 198 | [Nurdan Unus](sanatcilar/nurdan-unus.md) | Doğrulanacak | **3** | (V · İzleme) ön puan | %7 | 0 | 0 | 3 | 0 | 0 |
-| 199 | [Yıldız Özcan](sanatcilar/yildiz-ozcan.md) | Doğrulanacak | **3** | (V · İzleme) ön puan | %7 | 0 | 0 | 3 | 0 | 0 |
-| 200 | [Muhammed Kerem Özkan](sanatcilar/muhammed-kerem-ozkan.md) | Doğrulanacak | **3** | (V · İzleme) ön puan | %7 | 0 | 0 | 3 | 0 | 0 |
-| 201 | [Hakkı İzzet](sanatcilar/hakki-izzet.md) | eksik – eksik | **3** | (V · İzleme) ön puan | %7 | 0 | 0 | 3 | 0 | 0 |
-| 202 | [Derya Yılmaz](sanatcilar/derya-yilmaz.md) | eksik | **3** | (V · İzleme) ön puan | %7 | 0 | 0 | 3 | 0 | 0 |
-| 203 | [Özge Yalacak](sanatcilar/ozge-yalacak.md) | Doğrulanacak | **3** | (V · İzleme) ön puan | %7 | 0 | 0 | 3 | 0 | 0 |
-| 204 | [Sena Soykök](sanatcilar/sena-soykok.md) | eksik | **3** | (V · İzleme) ön puan | %13 | 0 | 1 | 2 | 0 | 0 |
-| 205 | [Zeynep Habiboğlu](sanatcilar/zeynep-habiboglu.md) | Doğrulanacak | **2** | (V · İzleme) ön puan | %13 | 0 | 1 | 1 | 0 | 0 |
-| 206 | [İkram Meviş](sanatcilar/ikram-mevis.md) | Doğrulanacak | **2** | (V · İzleme) ön puan | %7 | 0 | 0 | 2 | 0 | 0 |
-| 207 | [Elif Boyraz](sanatcilar/elif-boyraz.md) | Doğrulanacak | **2** | (V · İzleme) ön puan | %7 | 0 | 0 | 2 | 0 | 0 |
-| 208 | [Ceren Aydoğdu](sanatcilar/ceren-aydogdu.md) | Doğrulanacak | **1** | (V · İzleme) ön puan | %7 | 0 | 0 | 1 | 0 | 0 |
-| 209 | [Nupelda Çelik](sanatcilar/nupelda-celik.md) | eksik | **1** | (V · İzleme) ön puan | %7 | 0 | 0 | 1 | 0 | 0 |
-| 210 | [Özkan Gökçen](sanatcilar/ozkan-gokcen.md) | eksik | **1** | (V · İzleme) ön puan | %7 | 0 | 0 | 1 | 0 | 0 |
-| 211 | [İrem Yüksekbilgili](sanatcilar/irem-yuksekbilgili.md) | eksik | **1** | (V · İzleme) ön puan | %7 | 0 | 0 | 1 | 0 | 0 |
+| 36 | [Gülsün Karamustafa](sanatcilar/gulsun-karamustafa.md) | 1946 [1][2] | **39** | (IV · Gelişen) ön puan | %40 | 8 | 14 | 7 | 10 | 0 |
+| 37 | [Mahmut Celayir](sanatcilar/mahmut-celayir.md) | 1951, Bingöl | **38** | (IV · Gelişen) ön puan | %60 | 9 | 14 | 8 | 3 | 4 |
+| 38 | [Murat Morova](sanatcilar/murat-morova.md) | 1954 | **38** | (IV · Gelişen) ön puan | %60 | 7 | 16 | 8 | 0 | 7 |
+| 39 | [Süleyman Saim Tekcan](sanatcilar/suleyman-saim-tekcan.md) | 6 Ekim 1940, Trabzon [1][2] – Ekim 2026 (86 yaşında; gün ve yer kaynakta yok) [2] | **38** | (IV · Gelişen) ön puan | %67 | 11 | 9 | 5 | 9 | 4 |
+| 40 | [Altan Gürman](sanatcilar/altan-gurman.md) | 1935, İstanbul – 1976, İstanbul | **37** | (IV · Gelişen) ön puan | %47 | 6 | 7 | 6 | 14 | 4 |
+| 41 | [Komet (Gürkan Coşkun)](sanatcilar/komet.md) | 1941, Çorum – 2022 | **37** | (IV · Gelişen) ön puan | %60 | 10 | 16 | 0 | 6 | 5 |
+| 42 | [Elif Naci](sanatcilar/elif-naci.md) | 1898, Gelibolu [1][2] – 1987 [1][2] | **37** | (IV · Gelişen) ön puan | %47 | 7 | 13 | 0 | 14 | 3 |
+| 43 | [Nuri Abaç](sanatcilar/nuri-abac.md) | 1926, İstanbul [1] – 2 Mart 2008, Ankara [1] | **37** | (IV · Gelişen) ön puan | %60 | 8 | 11 | 5 | 10 | 3 |
+| 44 | [Avni Arbaş](sanatcilar/avni-arbas.md) | 1919, İstanbul [1][2] – 2003 [1] | **37** | (IV · Gelişen) ön puan | %53 | 12 | 14 | 4 | 3 | 4 |
+| 45 | [Burhan Uygur](sanatcilar/burhan-uygur.md) | 1940, Giresun – 1992, İstanbul | **36** | (IV · Gelişen) ön puan | %53 | 11 | 6 | 4 | 8 | 7 |
+| 46 | [Ali Avni Çelebi](sanatcilar/ali-avni-celebi.md) | 1904, İstanbul [1] – 1993 [1] | **36** | (IV · Gelişen) ön puan | %47 | 15 | 0 | 12 | 9 | 0 |
+| 47 | [Ardan Özmenoğlu](sanatcilar/ardan-ozmenoglu.md) | 1979 [1] | **35** | (IV · Gelişen) ön puan | %53 | 6 | 17 | 6 | 0 | 6 |
+| 48 | [Ömer Uluç](sanatcilar/omer-uluc.md) | 1931, İstanbul [1][2] – 2010 [1][2] | **35** | (IV · Gelişen) ön puan | %47 | 8 | 17 | 7 | 3 | 0 |
+| 49 | [Cevat Dereli](sanatcilar/cevat-dereli.md) | 1900; doğum yeri çelişkili: Rize [1], İstanbul [2] – 1989 [1][2] | **34** | (IV · Gelişen) ön puan | %47 | 15 | 8 | 4 | 7 | 0 |
+| 50 | [Tayfun Erdoğmuş](sanatcilar/tayfun-erdogmus.md) | 1958, Isparta [1][2] | **34** | (IV · Gelişen) ön puan | %47 | 14 | 14 | 4 | 2 | 0 |
+| 51 | [Tiraje Dikmen](sanatcilar/tiraje-dikmen.md) | 1925 – 2014, İstanbul (Büyükada) | **33** | (IV · Gelişen) ön puan | %53 | 6 | 11 | 0 | 9 | 7 |
+| 52 | [Fahrettin Arkunlar](sanatcilar/fahrettin-arkunlar.md) | 1901, İstanbul [1] – 21 Mart 1971, İstanbul [1] | **33** | (IV · Gelişen) ön puan | %53 | 12 | 9 | 3 | 6 | 3 |
+| 53 | [Şadan Bezeyiş](sanatcilar/sadan-bezeyis.md) | 1926, Adapazarı [1] – eksik | **33** | (IV · Gelişen) ön puan | %53 | 15 | 9 | 6 | 0 | 3 |
+| 54 | [Hakkı Anlı](sanatcilar/hakki-anli.md) | 1906 – 1991, İstanbul | **32** | (IV · Gelişen) ön puan | %53 | 12 | 10 | 0 | 3 | 7 |
+| 55 | [Zekai Ormancı](sanatcilar/zekai-ormanci.md) | 1949, Aydın [1][2] – 23 Nisan 2008, İstanbul [1][2] | **32** | (IV · Gelişen) ön puan | %60 | 13 | 9 | 5 | 2 | 3 |
+| 56 | [Turan Erol](sanatcilar/turan-erol.md) | 1927, Milas (Muğla) [1][2] – 16 Şubat 2023 [1][2] | **32** | (IV · Gelişen) ön puan | %53 | 14 | 2 | 5 | 8 | 3 |
+| 57 | [Gürdal Duyar](sanatcilar/gurdal-duyar.md) | 20 Ağustos 1935, Nişantaşı, İstanbul – 18 Nisan 2004, İstanbul | **32** | (IV · Gelişen) ön puan | %60 | 10 | 7 | 2 | 9 | 4 |
+| 58 | [İhsan Cemal Karaburçak](sanatcilar/ihsan-cemal-karaburcak.md) | 1897 [3] ya da 1898 [2] – 1970 [2][3] | **32** | (IV · Gelişen) ön puan | %40 | 1 | 13 | 7 | 11 | 0 |
+| 59 | [Ferruh Başağa](sanatcilar/ferruh-basaga.md) | 1914, İstanbul [1] – 2010, İstanbul [1] | **32** | (IV · Gelişen) ön puan | %40 | 9 | 5 | 12 | 6 | 0 |
+| 60 | [Abidin Elderoğlu](sanatcilar/abidin-elderoglu.md) | 1901, Denizli [1] – 1974 [1] | **32** | (IV · Gelişen) ön puan | %53 | 11 | 5 | 9 | 7 | 0 |
+| 61 | [Rahmi Aksungur](sanatcilar/rahmi-aksungur.md) | 1955, İzmir [1][2] | **32** | (IV · Gelişen) ön puan | %53 | 11 | 10 | 5 | 3 | 3 |
+| 62 | [Mevlüt Akyıldız](sanatcilar/mevlut-akyildiz.md) | 1956, Ankara | **31** | (IV · Gelişen) ön puan | %53 | 11 | 13 | 2 | 0 | 5 |
+| 63 | [Nuri İyem](sanatcilar/nuri-iyem.md) | 1915, İstanbul [1] – Doğrulanacak | **31** | (IV · Gelişen) ön puan | %40 | 10 | 7 | 0 | 10 | 4 |
+| 64 | [Neşet Günal](sanatcilar/neset-gunal.md) | 1923, Nevşehir [1] – 2002 [2] | **31** | (IV · Gelişen) ön puan | %53 | 14 | 7 | 4 | 2 | 4 |
+| 65 | [Hayati Misman](sanatcilar/hayati-misman.md) | 1945, Konya [1][2] | **31** | (IV · Gelişen) ön puan | %67 | 15 | 3 | 5 | 3 | 5 |
+| 66 | [Ahmet Umur Deniz](sanatcilar/ahmet-umur-deniz.md) | Doğrulanacak | **30** | (IV · Gelişen) ön puan | %47 | 11 | 6 | 0 | 6 | 7 |
+| 67 | [Özdemir Altan](sanatcilar/ozdemir-altan.md) | 1931 – 2026 (95 yaşında) [1] | **30** | (IV · Gelişen) ön puan | %47 | 11 | 12 | 0 | 4 | 3 |
+| 68 | [Mustafa Horasan](sanatcilar/mustafa-horasan.md) | 1965, Aydın – 2026, İstanbul (motosiklet kazası; 61 yaşında) [2][5] | **30** | (IV · Gelişen) ön puan | %53 | 9 | 6 | 11 | 0 | 4 |
+| 69 | [Zafer Gençaydın](sanatcilar/zafer-gencaydin.md) | 1941, Ankara – Mayıs 2024, Ankara (cenaze) | **30** | (IV · Gelişen) ön puan | %53 | 14 | 5 | 4 | 3 | 4 |
+| 70 | [Adnan Turani](sanatcilar/adnan-turani.md) | 1925, İstanbul [1] – 2016, Ankara [1] | **30** | (IV · Gelişen) ön puan | %53 | 13 | 0 | 8 | 4 | 5 |
+| 71 | [Fikret Mualla (Saygı)](sanatcilar/fikret-mualla.md) | 1903, İstanbul [1] – 1967, Fransa. Çelişki: KTB 20 Temmuz 1967 Nice [1]; Galerie Dina Vierny Mayıs 1967, Reillanne'da bir klinik [2] | **30** | (IV · Gelişen) ön puan | %40 | 2 | 18 | 6 | 0 | 4 |
+| 72 | [Hale Asaf](sanatcilar/hale-asaf.md) | 1905, İstanbul [1] – 31 Mayıs 1938, Paris [1][2] | **30** | (IV · Gelişen) ön puan | %40 | 12 | 3 | 5 | 10 | 0 |
+| 73 | [Hüsamettin Koçan](sanatcilar/husamettin-kocan.md) | 1946, Bayburt [1] | **30** | (IV · Gelişen) ön puan | %47 | 10 | 6 | 8 | 6 | 0 |
+| 74 | [Fikret Otyam](sanatcilar/fikret-otyam.md) | 19 Aralık 1926, Aksaray [1][2] – 9 Ağustos 2015, Antalya [1][2] | **29** | (IV · Gelişen) ön puan | %47 | 8 | 8 | 2 | 7 | 4 |
+| 75 | [Cihat Burak](sanatcilar/cihat-burak.md) | 1915, İstanbul [1] – 3 Mart 1994 [1] | **29** | (IV · Gelişen) ön puan | %40 | 10 | 8 | 4 | 4 | 3 |
+| 76 | [Güngör Taner](sanatcilar/gungor-taner.md) | 1941, İstanbul [1][2] | **29** | (IV · Gelişen) ön puan | %47 | 12 | 5 | 9 | 0 | 3 |
+| 77 | [Şükriye Dikmen](sanatcilar/sukriye-dikmen.md) | 1918, İstanbul (Büyükada) [1][2] – 16 Eylül 2000, İstanbul [1][2] | **29** | (IV · Gelişen) ön puan | %40 | 12 | 14 | 0 | 3 | 0 |
+| 78 | [Eren Eyüboğlu](sanatcilar/eren-eyuboglu.md) | Çelişkili: 1913 (KTB [1]) ve 1907 (İstanbul Modern, VIAF [2]); Romanya. Belirleyici kaynak 1988 ölüm haberleri – 1988 [1] | **28** | (IV · Gelişen) ön puan | %40 | 11 | 9 | 5 | 0 | 3 |
+| 79 | [Medine İrak](sanatcilar/medine-irak.md) | 1983 [1] | **28** | (IV · Gelişen) ön puan | %53 | 12 | 11 | 2 | 0 | 3 |
+| 80 | [Seyyit Bozdoğan](sanatcilar/seyyit-bozdogan.md) | 1941, Kozan | **28** | (IV · Gelişen) ön puan | %53 | 15 | 7 | 2 | 1 | 3 |
+| 81 | [Leyla Gamsız (Sarptürk)](sanatcilar/leyla-gamsiz.md) | 1921, İstanbul [2] – 13 Temmuz 2010, İstanbul [1] | **28** | (IV · Gelişen) ön puan | %47 | 7 | 4 | 8 | 5 | 4 |
+| 82 | [Ramiz Aydın](sanatcilar/ramiz-aydin.md) | 1937, Espiye (Giresun) – 2023 | **28** | (IV · Gelişen) ön puan | %47 | 10 | 8 | 5 | 0 | 5 |
+| 83 | [Yavuz Tanyeli](sanatcilar/yavuz-tanyeli.md) | 1950, Trabzon | **26** | (IV · Gelişen) ön puan | %40 | 0 | 12 | 4 | 4 | 6 |
+| 84 | [Mustafa Pilevneli](sanatcilar/mustafa-pilevneli.md) | 1940, İstanbul | **26** | (IV · Gelişen) ön puan | %47 | 13 | 8 | 1 | 0 | 4 |
+| 85 | [Mustafa Pancar](sanatcilar/mustafa-pancar.md) | 1964, İstanbul – 4 Şubat 2026 (Londra; yer yalnız Vikipedi'de, kaynaksız) | **26** | (IV · Gelişen) ön puan | %40 | 8 | 9 | 4 | 2 | 3 |
+| 86 | [Kemal Önsoy](sanatcilar/kemal-onsoy.md) | 1954, Eğridir [1] | **26** | (IV · Gelişen) ön puan | %33 | 6 | 10 | 7 | 0 | 3 |
+| 87 | [Nedim Günsür](sanatcilar/nedim-gunsur.md) | 1924, Ayvalık [1] – 1994, İzmir [1] | **25** | (IV · Gelişen) ön puan | %33 | 13 | 0 | 6 | 6 | 0 |
+| 88 | [Edip Hakkı Köseoğlu](sanatcilar/edip-hakki-koseoglu.md) | 1904, İstanbul [1] – 1990 [1] | **25** | (IV · Gelişen) ön puan | %40 | 13 | 0 | 3 | 6 | 3 |
+| 89 | [Fevzi Karakoç](sanatcilar/fevzi-karakoc.md) | 1947, Çankırı [1][2] | **25** | (IV · Gelişen) ön puan | %47 | 13 | 4 | 5 | 0 | 3 |
+| 90 | [Selma Gürbüz](sanatcilar/selma-gurbuz.md) | 1960, İstanbul [1] – eksik (2021 yılı yalnız Artam sayfasında; teyide muhtaç) | **25** | (IV · Gelişen) ön puan | %33 | 9 | 11 | 0 | 5 | 0 |
+| 91 | [Zeki Kocamemi](sanatcilar/zeki-kocamemi.md) | 1900, İstanbul (Fatih) [1] – 1959 [1] | **25** | (IV · Gelişen) ön puan | %33 | 15 | 0 | 4 | 6 | 0 |
+| 92 | [Saim Özeren](sanatcilar/saim-ozeren.md) | 1900 [1] – 1964, İstanbul [1] | **25** | (IV · Gelişen) ön puan | %40 | 8 | 7 | 0 | 10 | 0 |
+| 93 | [Utku Varlık](sanatcilar/utku-varlik.md) | 1942, Bolu [1] | **25** | (IV · Gelişen) ön puan | %40 | 12 | 3 | 4 | 3 | 3 |
+| 94 | [Erol Akyavaş](sanatcilar/erol-akyavas.md) | 1932, Ankara [1] – 1999 [1] | **25** | (IV · Gelişen) ön puan | %33 | 8 | 8 | 4 | 5 | 0 |
+| 95 | [Dinçer Erimez](sanatcilar/dincer-erimez.md) | 1932, İstanbul [1] – eksik | **24** | (IV · Gelişen) ön puan | %53 | 14 | 3 | 0 | 3 | 4 |
+| 96 | [Coşkun Sami](sanatcilar/coskun-sami.md) | 1973, Silistre (Bulgaristan) | **24** | (IV · Gelişen) ön puan | %33 | 10 | 11 | 0 | 0 | 3 |
+| 97 | [Mahmut Karatoprak](sanatcilar/mahmut-karatoprak.md) | 1953, Kayseri [1] | **23** | (IV · Gelişen) ön puan | %47 | 11 | 2 | 5 | 0 | 5 |
+| 98 | [Halil Dikmen](sanatcilar/halil-dikmen.md) | 1906, İstanbul [1] – 1964 [1] | **23** | (IV · Gelişen) ön puan | %33 | 14 | 0 | 3 | 6 | 0 |
+| 99 | [Adem Genç](sanatcilar/adem-genc.md) | 1944, Ardeşen (Rize) [1] | **23** | (IV · Gelişen) ön puan | %40 | 14 | 3 | 2 | 0 | 4 |
+| 100 | [Hakan Esmer](sanatcilar/hakan-esmer.md) | 1973, Trabzon [1] | **23** | (IV · Gelişen) ön puan | %47 | 1 | 12 | 4 | 0 | 6 |
+| 101 | [Selim Altan](sanatcilar/selim-altan.md) | 1959, İstanbul | **23** | (IV · Gelişen) ön puan | %40 | 8 | 9 | 2 | 1 | 3 |
+| 102 | [Muzaffer Akyol](sanatcilar/muzaffer-akyol.md) | 1945, Trabzon (Divranoz/Gölçayır köyü) [1][2] | **23** | (IV · Gelişen) ön puan | %40 | 9 | 9 | 0 | 0 | 5 |
+| 103 | [Şeref Akdik](sanatcilar/seref-akdik.md) | 1899, İstanbul [1] – 1972 [1] | **22** | (IV · Gelişen) ön puan | %27 | 15 | 0 | 0 | 7 | 0 |
+| 104 | [Nurullah Berk](sanatcilar/nurullah-berk.md) | 1906, İstanbul [1] – 1982 [1] | **22** | (IV · Gelişen) ön puan | %33 | 15 | 0 | 1 | 6 | 0 |
+| 105 | [Mustafa Esirkuş](sanatcilar/mustafa-esirkus.md) | 1921 (teyide muhtaç; yalnız Artam listesinde) – 1989 (teyide muhtaç; yalnız Artam listesinde) | **22** | (IV · Gelişen) ön puan | %27 | 8 | 2 | 7 | 5 | 0 |
+| 106 | [Hoca Ali Rıza](sanatcilar/hoca-ali-riza.md) | 1858, Üsküdar [1] – 1930 [1] | **22** | (IV · Gelişen) ön puan | %33 | 9 | 1 | 7 | 5 | 0 |
+| 107 | [Ergin İnan](sanatcilar/ergin-inan.md) | 1943, Malatya (yalnız fuar sayfasında; teyide muhtaç) | **22** | (IV · Gelişen) ön puan | %33 | 7 | 3 | 7 | 0 | 5 |
+| 108 | [Alaettin Aksoy](sanatcilar/alaettin-aksoy.md) | 1942, Trabzon [1] | **22** | (IV · Gelişen) ön puan | %33 | 14 | 4 | 4 | 0 | 0 |
+| 109 | [Cavit Atmaca](sanatcilar/cavit-atmaca.md) | 1931, Adapazarı [1] – eksik | **22** | (IV · Gelişen) ön puan | %33 | 10 | 5 | 4 | 3 | 0 |
+| 110 | [Memduh Kuzay](sanatcilar/memduh-kuzay.md) | 1957, Kayseri | **21** | (IV · Gelişen) ön puan | %40 | 13 | 3 | 1 | 0 | 4 |
+| 111 | [Özgür Eryılmaz](sanatcilar/ozgur-eryilmaz.md) | 1972, Torul [1] | **21** | (IV · Gelişen) ön puan | %40 | 9 | 7 | 0 | 0 | 5 |
+| 112 | [Adnan Varınca](sanatcilar/adnan-varinca.md) | 1918, İstanbul [1] – 2014, İstanbul [1] | **21** | (IV · Gelişen) ön puan | %33 | 13 | 4 | 4 | 0 | 0 |
+| 113 | [Canan Tolon](sanatcilar/canan-tolon.md) | 1955, İstanbul [1] | **21** | (IV · Gelişen) ön puan | %33 | 8 | 10 | 0 | 3 | 0 |
+| 114 | [Refik Fazıl Epikman](sanatcilar/refik-epikman.md) | Doğrulanacak – Doğrulanacak | **21** | (IV · Gelişen) ön puan | %27 | 6 | 0 | 9 | 6 | 0 |
+| 115 | [Namık İsmail](sanatcilar/namik-ismail.md) | 1890, Samsun [1] – 1935 [1] | **21** | (IV · Gelişen) ön puan | %33 | 7 | 2 | 7 | 5 | 0 |
+| 116 | [Altan Çelem](sanatcilar/altan-celem.md) | 1969, Mülheim (Almanya) | **20** | (IV · Gelişen) ön puan | %40 | 7 | 7 | 3 | 0 | 3 |
+| 117 | [Alev Özas](sanatcilar/alev-ozas.md) | 1977, İstanbul (⚠ galeri beyanı (CV)) | **20** | (IV · Gelişen) ön puan | %33 | 6 | 7 | 0 | 0 | 7 |
+| 118 | [Mehmet Uygun](sanatcilar/mehmet-uygun.md) | 1964 [1] | **20** | (IV · Gelişen) ön puan | %40 | 11 | 4 | 0 | 0 | 5 |
+| 119 | [Ahmet Yeşil](sanatcilar/ahmet-yesil.md) | 1954, Mersin [1] | **20** | (IV · Gelişen) ön puan | %40 | 0 | 7 | 8 | 0 | 5 |
+| 120 | [Şefik Bursalı](sanatcilar/sefik-bursali.md) | 1903, Bursa [1] – 1990 [1] | **20** | (IV · Gelişen) ön puan | %27 | 11 | 4 | 5 | 0 | 0 |
+| 121 | [Balkan Naci İslimyeli](sanatcilar/balkan-naci-islimyeli.md) | 1947, Adapazarı [1] – 2022 [3] | **20** | (IV · Gelişen) ön puan | %33 | 14 | 0 | 4 | 2 | 0 |
+| 122 | [Şevket Sönmez](sanatcilar/sevket-sonmez.md) | 1978, Plovdiv (Bulgaristan) | **20** | (IV · Gelişen) ön puan | %33 | 8 | 10 | 0 | 0 | 2 |
+| 123 | [Erdal Alantar](sanatcilar/erdal-alantar.md) | 29 Ocak 1932, İstanbul [1] – 2014 [1] | **19** | (V · İzleme) ön puan | %40 | 0 | 9 | 2 | 3 | 5 |
+| 124 | [Claire Arkas](sanatcilar/claire-arkas.md) | 1978, İzmir [1] | **19** | (V · İzleme) ön puan | %40 | 10 | 5 | 0 | 0 | 4 |
+| 125 | [Hasan Kavruk](sanatcilar/hasan-kavruk.md) | 1919, Akseki – Doğrulanacak | **19** | (V · İzleme) ön puan | %47 | 10 | 3 | 0 | 2 | 4 |
+| 126 | [Muhittin Sebati](sanatcilar/muhittin-sebati.md) | 1901, Amasya [1] – 1932, İstanbul, Haydarpaşa Hastanesi [1] | **19** | (V · İzleme) ön puan | %27 | 13 | 0 | 0 | 6 | 0 |
+| 127 | [Ertuğrul Ateş](sanatcilar/ertugrul-ates.md) | 1954, Adana [1] | **19** | (V · İzleme) ön puan | %33 | 8 | 8 | 0 | 0 | 3 |
+| 128 | [Remzi İren](sanatcilar/remzi-iren.md) | 1943, Tokat [1] | **19** | (V · İzleme) ön puan | %33 | 8 | 4 | 1 | 0 | 6 |
+| 129 | [Ursula Soltermann Katipoğlu](sanatcilar/ursula-katipoglu.md) | İsviçre, Valais; yıl eksik [1] | **19** | (V · İzleme) ön puan | %40 | 7 | 8 | 0 | 0 | 4 |
+| 130 | [Ahu Akgün](sanatcilar/ahu-akgun.md) | Doğrulanacak | **19** | (V · İzleme) ön puan | %33 | 8 | 5 | 3 | 0 | 3 |
+| 131 | [Mithat Şen](sanatcilar/mithat-sen.md) | 1957 [1][2] | **19** | (V · İzleme) ön puan | %27 | 8 | 9 | 0 | 2 | 0 |
+| 132 | [Bedri Baykam](sanatcilar/bedri-baykam.md) | 1957 (İstanbul Modern sayfası; doğum yeri kaynakta yok) | **19** | (V · İzleme) ön puan | %27 | 6 | 9 | 4 | 0 | 0 |
+| 133 | [Mehmet Pesen](sanatcilar/mehmet-pesen.md) | 1923, İstanbul [1] – 2012 [1] | **18** | (V · İzleme) ön puan | %27 | 9 | 0 | 0 | 6 | 3 |
+| 134 | [Yusuf Katipoğlu](sanatcilar/yusuf-katipoglu.md) | 1941, Trabzon [1][2] – 4 Kasım 2018 [2]; cenazesi Kuzguncuk'tan Trabzon'a götürüldü [2] | **18** | (V · İzleme) ön puan | %40 | 9 | 5 | 0 | 0 | 4 |
+| 135 | [Yusuf Bilge](sanatcilar/yusuf-bilge.md) | 1959, Edremit [1] | **18** | (V · İzleme) ön puan | %33 | 11 | 2 | 0 | 1 | 4 |
+| 136 | [Sabiha Rüştü Bozcalı](sanatcilar/sabiha-bozcali.md) | 1904 [1] – 1998 [1] | **18** | (V · İzleme) ön puan | %27 | 8 | 6 | 4 | 0 | 0 |
+| 137 | [Nedret Sekban](sanatcilar/nedret-sekban.md) | 1953, Trabzon [1] | **18** | (V · İzleme) ön puan | %33 | 11 | 2 | 0 | 2 | 3 |
+| 138 | [Didem Erbaş](sanatcilar/didem-erbas.md) | 1985, İstanbul [1] | **17** | (V · İzleme) ön puan | %40 | 9 | 6 | 2 | 0 | 0 |
+| 139 | [Bihrat Mavitan](sanatcilar/bihrat-mavitan.md) | 1948, Gavur (İzmir) [1] | **17** | (V · İzleme) ön puan | %33 | 11 | 2 | 1 | 0 | 3 |
+| 140 | [Engin Korkmaz](sanatcilar/engin-korkmaz.md) | 1972, Erzurum [1] | **17** | (V · İzleme) ön puan | %33 | 10 | 3 | 1 | 0 | 3 |
+| 141 | [İbrahim Özsözgün](sanatcilar/ibrahim-ozsozgun.md) | 1994, Diyarbakır [1][2] | **16** | (V · İzleme) ön puan | %27 | 7 | 3 | 4 | 0 | 2 |
+| 142 | [Mahir Güven](sanatcilar/mahir-guven.md) | 1958, İstanbul [1] | **16** | (V · İzleme) ön puan | %27 | 8 | 2 | 3 | 0 | 3 |
+| 143 | [Dilek Demirci](sanatcilar/dilek-demirci.md) | 1957, Kayseri [1] | **16** | (V · İzleme) ön puan | %27 | 11 | 2 | 0 | 0 | 3 |
+| 144 | [Kristin Saleri](sanatcilar/kristin-saleri.md) | Doğrulanacak, İstanbul – Doğrulanacak | **15** | (V · İzleme) ön puan | %40 | 3 | 5 | 0 | 2 | 5 |
+| 145 | [Elif Özen](sanatcilar/elif-ozen.md) | 1987, İzmir [1] | **15** | (V · İzleme) ön puan | %33 | 7 | 5 | 2 | 1 | 0 |
+| 146 | [Turgut Zaim](sanatcilar/turgut-zaim.md) | 1906 [1] – 1974 [1] | **15** | (V · İzleme) ön puan | %33 | 10 | 0 | 3 | 2 | 0 |
+| 147 | [Arif Bedii Kaptan](sanatcilar/arif-kaptan.md) | 1906, İstanbul [1] – 1979 [1] | **15** | (V · İzleme) ön puan | %33 | 8 | 2 | 3 | 2 | 0 |
+| 148 | [Mahmut Cûda](sanatcilar/mahmut-cuda.md) | Doğrulanacak – Doğrulanacak | **15** | (V · İzleme) ön puan | %20 | 6 | 0 | 0 | 9 | 0 |
+| 149 | [Uğur Mine Tamay](sanatcilar/ugur-mine-tamay.md) | Doğrulanacak | **14** | (V · İzleme) ön puan | %27 | 3 | 8 | 0 | 0 | 3 |
+| 150 | [Merve Vural](sanatcilar/merve-vural.md) | 1989, İstanbul [1] | **14** | (V · İzleme) ön puan | %27 | 7 | 4 | 3 | 0 | 0 |
+| 151 | [Şenol Yorozlu](sanatcilar/senol-yorozlu.md) | 1950, Trabzon [1] | **14** | (V · İzleme) ön puan | %20 | 8 | 4 | 2 | 0 | 0 |
+| 152 | [Necdet Kalay](sanatcilar/necdet-kalay.md) | 1932, İstanbul | **14** | (V · İzleme) ön puan | %27 | 6 | 4 | 1 | 0 | 3 |
+| 153 | [Oya Zaim Katoğlu](sanatcilar/oya-zaim-katoglu.md) | Doğrulanacak | **13** | (V · İzleme) ön puan | %27 | 0 | 0 | 0 | 7 | 6 |
+| 154 | [Hüseyin Bilişik](sanatcilar/huseyin-bilisik.md) | Doğrulanacak | **13** | (V · İzleme) ön puan | %27 | 0 | 5 | 0 | 3 | 5 |
+| 155 | [Güzin Duran](sanatcilar/guzin-duran.md) | 1898 [1] – 1981 [1] | **13** | (V · İzleme) ön puan | %20 | 7 | 0 | 0 | 6 | 0 |
+| 156 | [Aka Gündüz Temur](sanatcilar/aka-gunduz-temur.md) | 1941, Malatya [1] – eksik | **13** | (V · İzleme) ön puan | %27 | 7 | 3 | 0 | 0 | 3 |
+| 157 | [Şeref Bigalı](sanatcilar/seref-bigali.md) | 31 Ekim 1925, Bergama (Göçeyli) [1][2] – 2005 [2] | **13** | (V · İzleme) ön puan | %20 | 11 | 0 | 0 | 2 | 0 |
+| 158 | [Hasan Hulusi Mercan](sanatcilar/hulusi-mercan.md) | 1913, Söğüt [1] – 1988 [1] | **13** | (V · İzleme) ön puan | %20 | 11 | 2 | 0 | 0 | 0 |
+| 159 | [Raşit Altun](sanatcilar/rasit-altun.md) | Doğrulanacak | **13** | (V · İzleme) ön puan | %27 | 6 | 3 | 0 | 0 | 4 |
+| 160 | [Bubi](sanatcilar/bubi.md) | Doğrulanacak | **12** | (V · İzleme) ön puan | %27 | 0 | 6 | 0 | 2 | 4 |
+| 161 | [Birol Kutadgu](sanatcilar/birol-kutadgu.md) | eksik | **12** | (V · İzleme) ön puan | %20 | 0 | 9 | 0 | 0 | 3 |
+| 162 | [Sadık Arı](sanatcilar/sadik-ari.md) | 1989, Akhisar (Manisa) [1] | **12** | (V · İzleme) ön puan | %20 | 6 | 6 | 0 | 0 | 0 |
+| 163 | [Ruken Adıbelli](sanatcilar/ruken-adibelli.md) | 1980, Elazığ | **11** | (V · İzleme) ön puan | %13 | 7 | 4 | 0 | 0 | 0 |
+| 164 | [Harun Antakyalı](sanatcilar/harun-antakyali.md) | Doğrulanacak | **11** | (V · İzleme) ön puan | %27 | 0 | 3 | 0 | 0 | 8 |
+| 165 | [Buğra Erol](sanatcilar/bugra-erol.md) | 1986, Adana [1] | **11** | (V · İzleme) ön puan | %27 | 6 | 3 | 2 | 0 | 0 |
+| 166 | [Lalin Mercan](sanatcilar/lalin-mercan.md) | 1992, İstanbul [1][2] | **11** | (V · İzleme) ön puan | %20 | 4 | 5 | 2 | 0 | 0 |
+| 167 | [Yalçın Bulut](sanatcilar/yalcin-bulut.md) | Doğrulanacak | **11** | (V · İzleme) ön puan | %20 | 8 | 2 | 0 | 0 | 1 |
+| 168 | [Salih Urallı](sanatcilar/salih-uralli.md) | eksik – eksik | **10** | (V · İzleme) ön puan | %20 | 2 | 0 | 5 | 3 | 0 |
+| 169 | [Filiz Tokcan](sanatcilar/filiz-tokcan.md) | Doğrulanacak | **9** | (V · İzleme) ön puan | %20 | 0 | 5 | 0 | 0 | 4 |
+| 170 | [Songül Berda Özdemir](sanatcilar/songul-berda-ozdemir.md) | 1993, Malatya [1] | **9** | (V · İzleme) ön puan | %13 | 7 | 0 | 2 | 0 | 0 |
+| 171 | [Yasemin Kaplan](sanatcilar/yasemin-kaplan.md) | 1987, Almanya [1] | **9** | (V · İzleme) ön puan | %13 | 7 | 0 | 2 | 0 | 0 |
+| 172 | [Erhan Lanpir](sanatcilar/erhan-lanpir.md) | 1979 [1] | **9** | (V · İzleme) ön puan | %27 | 4 | 1 | 0 | 0 | 4 |
+| 173 | [Ali Atmaca](sanatcilar/ali-atmaca.md) | 1947, Kahramanmaraş [1] | **9** | (V · İzleme) ön puan | %13 | 9 | 0 | 0 | 0 | 0 |
+| 174 | [Başak Çolak](sanatcilar/basak-colak.md) | 1994, Ankara [1] | **8** | (V · İzleme) ön puan | %20 | 6 | 1 | 1 | 0 | 0 |
+| 175 | [Çağatay Odabaş](sanatcilar/cagatay-odabas.md) | Doğrulanacak | **8** | (V · İzleme) ön puan | %20 | 0 | 3 | 0 | 0 | 5 |
+| 176 | [Rıdvan Aşar](sanatcilar/ridvan-asar.md) | 1989, Mardin [1] | **8** | (V · İzleme) ön puan | %13 | 6 | 0 | 2 | 0 | 0 |
+| 177 | [Melahat Üren](sanatcilar/melahat-uren.md) | eksik – eksik | **8** | (V · İzleme) ön puan | %13 | 0 | 5 | 0 | 3 | 0 |
+| 178 | [Ahmet Güneştekin](sanatcilar/ahmet-gunestekin.md) | 1966, Batman [1] | **8** | (V · İzleme) ön puan | %20 | 0 | 6 | 0 | 2 | 0 |
+| 179 | [Gülşah Akdemir](sanatcilar/gulsah-akdemir.md) | 1993, Yalova [1] | **8** | (V · İzleme) ön puan | %20 | 4 | 1 | 3 | 0 | 0 |
+| 180 | [İsmail Tetikçi](sanatcilar/ismail-tetikci.md) | Doğrulanacak | **7** | (V · İzleme) ön puan | %13 | 0 | 2 | 0 | 0 | 5 |
+| 181 | [İbrahim Çiftçioğlu](sanatcilar/ibrahim-ciftcioglu.md) | Doğrulanacak – Mart 2026, Muğla [1][2] | **7** | (V · İzleme) ön puan | %20 | 0 | 3 | 0 | 1 | 3 |
+| 182 | [Rasin Arsebük](sanatcilar/rasin-arsebuk.md) | Doğrulanacak – Doğrulanacak | **7** | (V · İzleme) ön puan | %20 | 0 | 2 | 0 | 2 | 3 |
+| 183 | [Hüseyin Demirbaş](sanatcilar/huseyin-demirbas.md) | 1988, İstanbul [1] | **7** | (V · İzleme) ön puan | %13 | 5 | 0 | 2 | 0 | 0 |
+| 184 | [Müslüm Teke](sanatcilar/muslum-teke.md) | eksik (Türkiye doğumlu) [1] | **7** | (V · İzleme) ön puan | %20 | 0 | 4 | 0 | 0 | 3 |
+| 185 | [İbrahim Balaban](sanatcilar/ibrahim-balaban.md) | 1921, Seçköy, Bursa [1][2] – 2019, İstanbul [2] | **7** | (V · İzleme) ön puan | %13 | 0 | 3 | 0 | 4 | 0 |
+| 186 | [Seçil Atmaca](sanatcilar/secil-atmaca.md) | 1984, Eskişehir [1] | **7** | (V · İzleme) ön puan | %20 | 5 | 1 | 1 | 0 | 0 |
+| 187 | [Mehmet Gün](sanatcilar/mehmet-gun.md) | Doğrulanacak | **6** | (V · İzleme) ön puan | %20 | 0 | 2 | 0 | 1 | 3 |
+| 188 | [Kainat Barkan Pajonk](sanatcilar/kainat-barkan-pajonk.md) | Doğrulanacak | **6** | (V · İzleme) ön puan | %13 | 0 | 2 | 0 | 0 | 4 |
+| 189 | [Artin Demirci](sanatcilar/artin-demirci.md) | eksik | **6** | (V · İzleme) ön puan | %13 | 0 | 3 | 0 | 0 | 3 |
+| 190 | [Sevda Uyar](sanatcilar/sevda-uyar.md) | eksik | **6** | (V · İzleme) ön puan | %13 | 4 | 0 | 2 | 0 | 0 |
+| 191 | [Hatice Akkuş](sanatcilar/hatice-akkus.md) | eksik | **6** | (V · İzleme) ön puan | %13 | 4 | 0 | 2 | 0 | 0 |
+| 192 | [Salih Acar](sanatcilar/salih-acar.md) | eksik | **6** | (V · İzleme) ön puan | %20 | 0 | 1 | 0 | 0 | 5 |
+| 193 | [Seçkin Çoban](sanatcilar/seckin-coban.md) | Doğrulanacak | **5** | (V · İzleme) ön puan | %13 | 4 | 0 | 1 | 0 | 0 |
+| 194 | [Salih Çakar](sanatcilar/salih-cakar.md) | Doğrulanacak | **4** | (V · İzleme) ön puan | %7 | 0 | 0 | 4 | 0 | 0 |
+| 195 | [Duru Bozkurt](sanatcilar/duru-bozkurt.md) | Doğrulanacak | **4** | (V · İzleme) ön puan | %7 | 0 | 0 | 4 | 0 | 0 |
+| 196 | [Ercüment Tarhan](sanatcilar/ercument-tarhan.md) | eksik | **4** | (V · İzleme) ön puan | %13 | 0 | 1 | 0 | 0 | 3 |
+| 197 | [Güneş Çağlarcan](sanatcilar/gunes-caglarcan.md) | eksik | **4** | (V · İzleme) ön puan | %13 | 0 | 1 | 0 | 0 | 3 |
+| 198 | [Emre Çalış](sanatcilar/emre-calis.md) | Doğrulanacak | **3** | (V · İzleme) ön puan | %7 | 0 | 0 | 3 | 0 | 0 |
+| 199 | [Elif Akçay](sanatcilar/elif-akcay.md) | Doğrulanacak | **3** | (V · İzleme) ön puan | %7 | 0 | 0 | 3 | 0 | 0 |
+| 200 | [İhsan Berke Saraçoğlu](sanatcilar/ihsan-berke-saracoglu.md) | Doğrulanacak | **3** | (V · İzleme) ön puan | %7 | 0 | 0 | 3 | 0 | 0 |
+| 201 | [Nurdan Unus](sanatcilar/nurdan-unus.md) | Doğrulanacak | **3** | (V · İzleme) ön puan | %7 | 0 | 0 | 3 | 0 | 0 |
+| 202 | [Yıldız Özcan](sanatcilar/yildiz-ozcan.md) | Doğrulanacak | **3** | (V · İzleme) ön puan | %7 | 0 | 0 | 3 | 0 | 0 |
+| 203 | [Muhammed Kerem Özkan](sanatcilar/muhammed-kerem-ozkan.md) | Doğrulanacak | **3** | (V · İzleme) ön puan | %7 | 0 | 0 | 3 | 0 | 0 |
+| 204 | [Hakkı İzzet](sanatcilar/hakki-izzet.md) | eksik – eksik | **3** | (V · İzleme) ön puan | %7 | 0 | 0 | 3 | 0 | 0 |
+| 205 | [Derya Yılmaz](sanatcilar/derya-yilmaz.md) | eksik | **3** | (V · İzleme) ön puan | %7 | 0 | 0 | 3 | 0 | 0 |
+| 206 | [Özge Yalacak](sanatcilar/ozge-yalacak.md) | Doğrulanacak | **3** | (V · İzleme) ön puan | %7 | 0 | 0 | 3 | 0 | 0 |
+| 207 | [Sena Soykök](sanatcilar/sena-soykok.md) | eksik | **3** | (V · İzleme) ön puan | %13 | 0 | 1 | 2 | 0 | 0 |
+| 208 | [Zeynep Habiboğlu](sanatcilar/zeynep-habiboglu.md) | Doğrulanacak | **2** | (V · İzleme) ön puan | %13 | 0 | 1 | 1 | 0 | 0 |
+| 209 | [İkram Meviş](sanatcilar/ikram-mevis.md) | Doğrulanacak | **2** | (V · İzleme) ön puan | %7 | 0 | 0 | 2 | 0 | 0 |
+| 210 | [Elif Boyraz](sanatcilar/elif-boyraz.md) | Doğrulanacak | **2** | (V · İzleme) ön puan | %7 | 0 | 0 | 2 | 0 | 0 |
+| 211 | [Ceren Aydoğdu](sanatcilar/ceren-aydogdu.md) | Doğrulanacak | **1** | (V · İzleme) ön puan | %7 | 0 | 0 | 1 | 0 | 0 |
+| 212 | [Nupelda Çelik](sanatcilar/nupelda-celik.md) | eksik | **1** | (V · İzleme) ön puan | %7 | 0 | 0 | 1 | 0 | 0 |
+| 213 | [Özkan Gökçen](sanatcilar/ozkan-gokcen.md) | eksik | **1** | (V · İzleme) ön puan | %7 | 0 | 0 | 1 | 0 | 0 |
+| 214 | [İrem Yüksekbilgili](sanatcilar/irem-yuksekbilgili.md) | eksik | **1** | (V · İzleme) ön puan | %7 | 0 | 0 | 1 | 0 | 0 |
