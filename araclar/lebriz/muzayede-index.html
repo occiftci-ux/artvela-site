@@ -83,7 +83,7 @@ td.sold{color:var(--sold)}
 </div>
 <script>
 const $=s=>document.querySelector(s);
-let SAN=[],EV=[],PAF=[],shards={},mode='s',cur=null,rows=[],shown=0,sortK='tarih',sortD=-1;
+let TB=new Set(),SAN=[],EV=[],PAF=[],shards={},mode='s',cur=null,rows=[],shown=0,sortK='tarih',sortD=-1;
 const fmt=n=>n?n.toLocaleString('tr-TR'):'';
 async function j(u){const r=await fetch(u);if(!r.ok)throw new Error(u);return r.json()}
 async function shard(b){if(!shards[b])shards[b]=j('veri/k-'+b+'.json');return shards[b]}
@@ -108,9 +108,10 @@ function buyut(s,r){const o=document.createElement('div');o.className='big';o.se
  const m=document.createElement('span');m.textContent=[EV[r[1]]?.[0],r[2]?r[2].split('-').reverse().join('.'):'','Lot '+r[0]].filter(Boolean).join(' · ');b.append(m);
  const e=document.createElement('span');e.textContent=[r[3],r[4],r[5]].filter(Boolean).join(' · ');b.append(e);k.append(b);
  const a=document.createElement('div');a.className='aks';
+ if(r[14]&&TB.has(r[14])){const t=document.createElement('a');t.target='_blank';t.rel='noopener';t.href='https://ocal.galeribej.com/lebriz-depo/tamboy/'+r[14]+'.jpg';t.textContent='Tam boy aç';t.title='Sunucu ilk açılışta kullanıcı adı ve şifre sorar';a.append(t)}
  if(r[13]&&r[14]){const g=r[14];{const l=document.createElement('a');l.target='_blank';l.rel='noopener';
   l.href='http://lebrizImages.net/imageHandler.ashx?'+new URLSearchParams({iType:'jpg',wType:'3',wID:r[13],iName:g.split('/').pop(),iPath:'/'+g.split('/').slice(0,-1).join('/'),iSize:'0',iResizeParam:'0',iResizeAmount:'3000',isGrayscale:'False',watermark:'',transp:'0'});
-  l.textContent='Tam boyu Lebriz\'de aç';a.append(l)}}
+  l.textContent='Lebriz\'de aç';a.append(l)}}
  const x=document.createElement('button');x.textContent='Kapat';x.onclick=()=>o.remove();a.append(x);k.append(a);
  o.append(k);o.onclick=ev=>{if(ev.target===o)o.remove()};document.addEventListener('keydown',function f(ev){if(ev.key==='Escape'){o.remove();document.removeEventListener('keydown',f)}});
  document.body.append(o);x.focus()}
@@ -151,5 +152,6 @@ for(const id of ['y1','y2','fs','fg'])$('#'+id).addEventListener('input',()=>{if
 function route(){const k=location.hash.slice(1);if(/^[se]\d+$/.test(k)){if(k[0]!==mode)setMode(k[0]);open(k)}}
 window.addEventListener('hashchange',route);
 (async()=>{try{[SAN,EV,PAF]=await Promise.all([j('veri/sanatcilar.json'),j('veri/evler.json'),j('veri/pafta.json')]);
+ j('veri/tamboy.json').then(a=>{TB=new Set(a)}).catch(()=>{});
  lede();list();if(location.hash)route();else open('s'+SAN[0][0])}catch(e){$('#lede').textContent='Veri dosyaları açılamadı. Sayfayı yenileyin.'}})();
 </script>
