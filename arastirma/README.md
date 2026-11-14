@@ -117,13 +117,13 @@ Puanlar **ön puandır**. Çoğu sanatçıda piyasa ve koleksiyon verisi henüz 
 | 103 | [Utku Varlık](sanatcilar/utku-varlik.md) | 1942, Bolu [1] | **25** | (IV · Gelişen) ön puan | %40 | 12 | 3 | 4 | 3 | 3 |
 | 104 | [Erol Akyavaş](sanatcilar/erol-akyavas.md) | 1932, Ankara [1] – 1999 [1] | **25** | (IV · Gelişen) ön puan | %33 | 8 | 8 | 4 | 5 | 0 |
 | 105 | [Dinçer Erimez](sanatcilar/dincer-erimez.md) | 1932, İstanbul [1] – eksik | **24** | (IV · Gelişen) ön puan | %53 | 14 | 3 | 0 | 3 | 4 |
-| 106 | [Coşkun Sami](sanatcilar/coskun-sami.md) | 1973, Silistre (Bulgaristan) | **24** | (IV · Gelişen) ön puan | %33 | 10 | 11 | 0 | 0 | 3 |
-| 107 | [Mahmut Karatoprak](sanatcilar/mahmut-karatoprak.md) | 1953, Kayseri [1] | **23** | (IV · Gelişen) ön puan | %47 | 11 | 2 | 5 | 0 | 5 |
-| 108 | [Halil Dikmen](sanatcilar/halil-dikmen.md) | 1906, İstanbul [1] – 1964 [1] | **23** | (IV · Gelişen) ön puan | %33 | 14 | 0 | 3 | 6 | 0 |
-| 109 | [Adem Genç](sanatcilar/adem-genc.md) | 1944, Ardeşen (Rize) [1] | **23** | (IV · Gelişen) ön puan | %40 | 14 | 3 | 2 | 0 | 4 |
-| 110 | [Hakan Esmer](sanatcilar/hakan-esmer.md) | 1973, Trabzon [1] | **23** | (IV · Gelişen) ön puan | %47 | 1 | 12 | 4 | 0 | 6 |
-| 111 | [Selim Altan](sanatcilar/selim-altan.md) | 1959, İstanbul | **23** | (IV · Gelişen) ön puan | %40 | 8 | 9 | 2 | 1 | 3 |
-| 112 | [Muzaffer Akyol](sanatcilar/muzaffer-akyol.md) | 1945, Trabzon (Divranoz/Gölçayır köyü) [1][2] | **23** | (IV · Gelişen) ön puan | %40 | 9 | 9 | 0 | 0 | 5 |
+| 106 | [Mahmut Karatoprak](sanatcilar/mahmut-karatoprak.md) | 1953, Kayseri [1] | **23** | (IV · Gelişen) ön puan | %47 | 11 | 2 | 5 | 0 | 5 |
+| 107 | [Halil Dikmen](sanatcilar/halil-dikmen.md) | 1906, İstanbul [1] – 1964 [1] | **23** | (IV · Gelişen) ön puan | %33 | 14 | 0 | 3 | 6 | 0 |
+| 108 | [Adem Genç](sanatcilar/adem-genc.md) | 1944, Ardeşen (Rize) [1] | **23** | (IV · Gelişen) ön puan | %40 | 14 | 3 | 2 | 0 | 4 |
+| 109 | [Hakan Esmer](sanatcilar/hakan-esmer.md) | 1973, Trabzon [1] | **23** | (IV · Gelişen) ön puan | %47 | 1 | 12 | 4 | 0 | 6 |
+| 110 | [Selim Altan](sanatcilar/selim-altan.md) | 1959, İstanbul | **23** | (IV · Gelişen) ön puan | %40 | 8 | 9 | 2 | 1 | 3 |
+| 111 | [Muzaffer Akyol](sanatcilar/muzaffer-akyol.md) | 1945, Trabzon (Divranoz/Gölçayır köyü) [1][2] | **23** | (IV · Gelişen) ön puan | %40 | 9 | 9 | 0 | 0 | 5 |
+| 112 | [Coşkun Sami](sanatcilar/coskun-sami.md) | 1973, Silistre (Bulgaristan) | **23** | (IV · Gelişen) ön puan | %33 | 10 | 10 | 0 | 0 | 3 |
 | 113 | [Şeref Akdik](sanatcilar/seref-akdik.md) | 1899, İstanbul [1] – 1972 [1] | **22** | (IV · Gelişen) ön puan | %27 | 15 | 0 | 0 | 7 | 0 |
 | 114 | [Nurullah Berk](sanatcilar/nurullah-berk.md) | 1906, İstanbul [1] – 1982 [1] | **22** | (IV · Gelişen) ön puan | %33 | 15 | 0 | 1 | 6 | 0 |
 | 115 | [Mustafa Esirkuş](sanatcilar/mustafa-esirkus.md) | 1921 (teyide muhtaç; yalnız Artam listesinde) – 1989 (teyide muhtaç; yalnız Artam listesinde) | **22** | (IV · Gelişen) ön puan | %27 | 8 | 2 | 7 | 5 | 0 |
