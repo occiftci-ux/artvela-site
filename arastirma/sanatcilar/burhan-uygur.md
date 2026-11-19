@@ -4,9 +4,9 @@ dogum: "1940, Giresun"
 olum: "1992, İstanbul"
 disiplin: "resim, baskı"
 kabul: "K1 (akademik)"
-puan: 36
+puan: 38
 kademe: "(IV · Gelişen) ön puan"
-veri_kapsami: 53
+veri_kapsami: 60
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **36 / 100** | (IV · Gelişen) ön puan | %53 | K1 (akademik): İstanbul Güzel Sanatlar Akademisi, Bedri Rahmi atölyesi. |
+| **38 / 100** | (IV · Gelişen) ön puan | %60 | K1 (akademik): İstanbul Güzel Sanatlar Akademisi, Bedri Rahmi atölyesi. |
 
 ## 1. Künye ve Biyografi
 
@@ -57,7 +57,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 - İstanbul Modern ("The Door") [2]
 
 **Ödüller**
-- Kaynakta ödül bilgisi yok, doğrulanacak.
+- 1982: 3. Günümüz Sanatçıları İstanbul Açıkhava Sergisi, resim başarı ödülü, "Ölü Doğan Çocuklar İçin Şarkılar" (ön teyit) [6].
+- 1985: 6. Günümüz Sanatçıları İstanbul Sergisi, mansiyon; Sibel Çakar ve Semra Hasgüleç ile paylaşıldı (ön teyit) [6].
 
 **Satış kayıtları** (kaynak: `bulten/emsal-fiyatlar.csv`, yalnız `dogrulandi=evet`)
 
@@ -82,10 +83,10 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | b1 | Kişisel sergiler | 0 / 10 | *eksik* |
 | b2 | Retrospektif / müze ve kurum sergisi | 6 / 8 | Casa Botter 2025, küratörlü kurum sergisi (ölüm sonrası) |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 0 / 7 | *eksik* |
-| **C · Kurumsal tanınırlık** | | **4 / 20** | |
+| **C · Kurumsal tanınırlık** | | **6 / 20** | |
 | c1 | Türkiye'deki müze koleksiyonları | 4 / 8 | İstanbul Modern'de uzun süreli ödünç (Eczacıbaşı Vakfı); müze mülkiyetinde değil |
 | c2 | Yurtdışındaki müze koleksiyonları | 0 / 7 | *eksik* |
-| c3 | Ödüller | 0 / 5 | *eksik* |
+| c3 | Ödüller | 2 / 5 | 1982 Günümüz Sanatçıları başarı ödülü, 1985 mansiyon |
 | **D · Sanat tarihindeki konum** | | **8 / 15** | |
 | d1 | Grup / akım kurucusu, kuşak temsilcisi | 3 / 8 | Şiir ve resim ilişkisini kuran figürlerden (küratör değerlendirmesi) |
 | d2 | Akademik yayın, tez, monografi, müze | 5 / 7 | YÖK tezi (Güleryüz ile karşılaştırmalı) |
@@ -94,7 +95,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 2 / 6 | emsal: 2/4 lot satıldı, en yüksek çekiç 150.000 TL |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **36 / 100** | Veri kapsamı %53 |
+| | **Toplam** | **38 / 100** | Veri kapsamı %60 |
 
 ## 8. Kaynakça
 
@@ -103,6 +104,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 3. [3] KHAS Core Magazine, Casa Botter sergisi. https://coremag.khas.edu.tr/a-reflection-on-burhan-uygurs-exhibition-at-casa-botter/
 4. [4] Artvela Instagram, Müzayede 91 gönderisi. https://www.instagram.com/p/DdY9N9piBwU/
 5. [5] Cumhuriyet, "Resmin özel karakteri", 08.02.2025. https://www.cumhuriyet.com.tr/kultur-sanat/resmin-ozel-karakteri-2297493
+6. [6] Özge Gençel, "Günümüz Sanatçıları İstanbul Sergileri: 1980-2011", yüksek lisans tezi, Hacettepe Üniversitesi, 2014, s.47 ve s.54; sanat tarihi bilgi tabanı olguları O-2660, O-2661. http://hdl.handle.net/11655/1344
 
 ## 9. Açık Sorular
 
