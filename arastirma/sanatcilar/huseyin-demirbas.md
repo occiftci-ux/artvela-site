@@ -98,7 +98,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 5 / 10 | Ulusal seçici kurul 2021; 300x210 cm tuval; görseli görmedik |
 | Dilin tutarlılığı ve özgünlüğü | 0 / 10 | *eksik* |
-| Figürle ilişki | 5 / 10 | Eser adı figürlü bir sahneyi düşündürüyor; görselle doğrulanmadı (GV3) |
+| Biçimle ilişki (figür ya da soyutlama) | 5 / 10 | Eser adı figürlü bir sahneyi düşündürüyor; görselle doğrulanmadı (GV3) |
 | Düşünsel derinlik | 0 / 10 | *eksik* |
 | Üretim hacmi ve kariyer niyeti | 0 / 10 | *eksik* |
 | Piyasadan bağımsızlık | 6 / 10 | Ticari galeri temsili bulunamadı |

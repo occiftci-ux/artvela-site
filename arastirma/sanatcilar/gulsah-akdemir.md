@@ -101,7 +101,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 5 / 10 | Bakanlık jürisinden üç ayrı yarışmada seçildi, iki ödül; işi görmedik |
 | Dilin tutarlılığı ve özgünlüğü | 5 / 10 | 2. yarışmadan 2023'e kesintisiz yarışma izi |
-| Figürle ilişki | 0 / 10 | *eksik* |
+| Biçimle ilişki (figür ya da soyutlama) | 0 / 10 | *eksik* |
 | Düşünsel derinlik | 0 / 10 | *eksik* |
 | Üretim hacmi ve kariyer niyeti | 2 / 10 | İki bağımsız kamusal kayıt |
 | Piyasadan bağımsızlık | 7 / 10 | Galeri temsili bulunamadı |

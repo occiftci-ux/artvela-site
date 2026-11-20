@@ -98,7 +98,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 4 / 10 | Yalnız basın görseli; doğrudan görülmedi |
 | Dilin tutarlılığı ve özgünlüğü | 4 / 10 | Tek sergi kaydı |
-| Figürle ilişki | 5 / 10 | Başlık ve görsel figüre işaret ediyor, doğrulanacak |
+| Biçimle ilişki (figür ya da soyutlama) | 5 / 10 | Başlık ve görsel figüre işaret ediyor, doğrulanacak |
 | Düşünsel derinlik | 5 / 10 | Kökler ve gelenek ekseni, MSGSÜ yüksek lisans |
 | Üretim hacmi ve kariyer niyeti | 3 / 10 | Tek kişisel sergi |
 | Piyasadan bağımsızlık | 6 / 10 | Galeri Selvin ile sergi; temsil sözleşmesi bilinmiyor |

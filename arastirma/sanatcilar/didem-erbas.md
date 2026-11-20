@@ -106,7 +106,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 5 / 10 | MSGSÜ Resim ve müze karmaları; işi yerinde görmedik |
 | Dilin tutarlılığı ve özgünlüğü | 4 / 10 | Resim, yerleştirme ve video arasında geniş bir yelpaze |
-| Figürle ilişki | 2 / 10 | Kaynaklarda figür vurgusu yok |
+| Biçimle ilişki (figür ya da soyutlama) | 2 / 10 | Kaynaklarda figür vurgusu yok |
 | Düşünsel derinlik | 5 / 10 | Rezidans ve Alternative Art School geçmişi |
 | Üretim hacmi ve kariyer niyeti | 5 / 10 | 2016–2021 arası düzenli kurum ve galeri sergileri |
 | Piyasadan bağımsızlık | 6 / 10 | Sürekli ticari galeri temsili görünmüyor |

@@ -98,7 +98,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 5 / 10 | Akbank jürisinden seçildi; seçkide büyük boy füzen desen |
 | Dilin tutarlılığı ve özgünlüğü | 3 / 10 | Seri adı var, tek kayıt |
-| Figürle ilişki | 0 / 10 | *eksik* |
+| Biçimle ilişki (figür ya da soyutlama) | 0 / 10 | *eksik* |
 | Düşünsel derinlik | 0 / 10 | *eksik* |
 | Üretim hacmi ve kariyer niyeti | 1 / 10 | Tek kaynak |
 | Piyasadan bağımsızlık | 7 / 10 | Galeri temsili bulunamadı |

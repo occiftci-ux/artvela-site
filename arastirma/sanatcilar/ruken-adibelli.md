@@ -102,7 +102,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 5 / 10 | Katalog görselleri: tutarlı malzeme ustalığı; işi yerinde görmedik |
 | Dilin tutarlılığı ve özgünlüğü | 6 / 10 | Tek malzeme, tek yöntem, dizi hâlinde |
-| Figürle ilişki | 6 / 10 | Portre dizisi merkezde |
+| Biçimle ilişki (figür ya da soyutlama) | 6 / 10 | Portre dizisi merkezde |
 | Düşünsel derinlik | 4 / 10 | Atık ve dönüşüm fikri; metin katmanı ince |
 | Üretim hacmi ve kariyer niyeti | 5 / 10 | 2025–26'da dört mekânda aynı sergi (Manisa dahil) |
 | Piyasadan bağımsızlık | 7 / 10 | Ticari galeri temsili görünmüyor |

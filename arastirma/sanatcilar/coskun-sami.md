@@ -107,7 +107,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 6 / 10 | Yağlıboya ve mürekkepte tutarlı zanaat (sergi görselleri); yerinde görülmedi |
 | Dilin tutarlılığı ve özgünlüğü | 7 / 10 | 2007'den beri süren Eksiklopedi dizisi ve tarih-bellek ekseni |
-| Figürle ilişki | 6 / 10 | Figür ile mimari arasında |
+| Biçimle ilişki (figür ya da soyutlama) | 6 / 10 | Figür ile mimari arasında |
 | Düşünsel derinlik | 8 / 10 | Mandelştam, Jung, Rus avangardı; sanat tarihi okuru |
 | Üretim hacmi ve kariyer niyeti | 6 / 10 | 2013'ten beri düzenli kişisel sergiler |
 | Piyasadan bağımsızlık | 4 / 10 | İstanbul Concept ile sürekli çalışıyor; temsil durumu sorulmalı |

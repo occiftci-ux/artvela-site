@@ -98,7 +98,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 5 / 10 | Yedi kişilik jüriden ödül; işi görmedik |
 | Dilin tutarlılığı ve özgünlüğü | 0 / 10 | *eksik* |
-| Figürle ilişki | 0 / 10 | *eksik* |
+| Biçimle ilişki (figür ya da soyutlama) | 0 / 10 | *eksik* |
 | Düşünsel derinlik | 0 / 10 | *eksik* |
 | Üretim hacmi ve kariyer niyeti | 1 / 10 | Bilinen tek kamusal kayıt bu yarışma |
 | Piyasadan bağımsızlık | 8 / 10 | Öğrenci; galeri temsili yok |

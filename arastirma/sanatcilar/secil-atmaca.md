@@ -99,7 +99,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 4 / 10 | Bakanlık jürisinden kataloğa seçildi; ESSL finali beyanı; işi görmedik |
 | Dilin tutarlılığı ve özgünlüğü | 3 / 10 | 2013'ten 2017'ye yarışma izi |
-| Figürle ilişki | 0 / 10 | *eksik* |
+| Biçimle ilişki (figür ya da soyutlama) | 0 / 10 | *eksik* |
 | Düşünsel derinlik | 0 / 10 | *eksik* |
 | Üretim hacmi ve kariyer niyeti | 1 / 10 | Tek kamusal kayıt bu katalog |
 | Piyasadan bağımsızlık | 7 / 10 | Galeri temsili bulunamadı |

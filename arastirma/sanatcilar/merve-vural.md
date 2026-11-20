@@ -102,7 +102,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 6 / 10 | Akbank ödülü ve bienal programı; işi görmedik |
 | Dilin tutarlılığı ve özgünlüğü | 4 / 10 | Resim, video ve yerleştirme arasında |
-| Figürle ilişki | 4 / 10 | Kadın temsili konu; resimde figür olup olmadığı görülmedi |
+| Biçimle ilişki (figür ya da soyutlama) | 4 / 10 | Kadın temsili konu; resimde figür olup olmadığı görülmedi |
 | Düşünsel derinlik | 6 / 10 | Toplumsal cinsiyet ve kitsch üzerine tutarlı bir soru |
 | Üretim hacmi ve kariyer niyeti | 5 / 10 | 2016–2018 arasında on sergi |
 | Piyasadan bağımsızlık | 7 / 10 | Ticari galeri temsili görünmüyor |

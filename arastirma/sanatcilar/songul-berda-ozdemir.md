@@ -99,7 +99,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 5 / 10 | Ulusal seçici kurul 2021; büyük boy kâğıt işi; görseli görmedik |
 | Dilin tutarlılığı ve özgünlüğü | 5 / 10 | 2021 seçkisinden 2024 yüksek lisansına süren akademik iz |
-| Figürle ilişki | 0 / 10 | *eksik* |
+| Biçimle ilişki (figür ya da soyutlama) | 0 / 10 | *eksik* |
 | Düşünsel derinlik | 5 / 10 | Tezi tedirgin edici imge üzerine; kavramsal çerçeve var |
 | Üretim hacmi ve kariyer niyeti | 0 / 10 | *eksik* |
 | Piyasadan bağımsızlık | 6 / 10 | Ticari galeri temsili bulunamadı |

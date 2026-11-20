@@ -98,7 +98,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 5 / 10 | Ulusal seçici kurul 2022; altı parçalı rapido serisi; görseli görmedik |
 | Dilin tutarlılığı ve özgünlüğü | 4 / 10 | 2019-2021 arası süren tek seri; sonrası bilinmiyor |
-| Figürle ilişki | 0 / 10 | *eksik* |
+| Biçimle ilişki (figür ya da soyutlama) | 0 / 10 | *eksik* |
 | Düşünsel derinlik | 5 / 10 | Sanatçı metninde açık bir kavramsal çerçeve var |
 | Üretim hacmi ve kariyer niyeti | 0 / 10 | *eksik* |
 | Piyasadan bağımsızlık | 6 / 10 | Ticari galeri temsili bulunamadı |

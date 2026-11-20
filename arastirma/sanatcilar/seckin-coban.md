@@ -98,7 +98,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 5 / 10 | 579 başvurudan 30 kişilik seçki; eser görülmedi |
 | Dilin tutarlılığı ve özgünlüğü | 0 / 10 | *eksik* |
-| Figürle ilişki | 0 / 10 | *eksik* |
+| Biçimle ilişki (figür ya da soyutlama) | 0 / 10 | *eksik* |
 | Düşünsel derinlik | 3 / 10 | Lisans son sınıf |
 | Üretim hacmi ve kariyer niyeti | 1 / 10 | Tek sergi kaydı |
 | Piyasadan bağımsızlık | 8 / 10 | Galeri bağı yok, öğrenci |

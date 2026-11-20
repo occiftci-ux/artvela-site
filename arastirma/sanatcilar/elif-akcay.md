@@ -98,7 +98,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 5 / 10 | Ressam ve eleştirmenlerden oluşan seçici kurulun iki ödülünden biri; eseri haber görselinde gördük, künye yok |
 | Dilin tutarlılığı ve özgünlüğü | 0 / 10 | *eksik* |
-| Figürle ilişki | 0 / 10 | *eksik* |
+| Biçimle ilişki (figür ya da soyutlama) | 0 / 10 | *eksik* |
 | Düşünsel derinlik | 0 / 10 | *eksik* |
 | Üretim hacmi ve kariyer niyeti | 0 / 10 | *eksik* |
 | Piyasadan bağımsızlık | 6 / 10 | Ticari galeri temsili bulunamadı |

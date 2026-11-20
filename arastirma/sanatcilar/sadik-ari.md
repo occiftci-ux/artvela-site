@@ -101,7 +101,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 5 / 10 | Bienal katılımı; işi yerinde görmedik |
 | Dilin tutarlılığı ve özgünlüğü | 5 / 10 | Desen ve mürekkep ağırlıklı, iki kişisel sergi |
-| Figürle ilişki | 4 / 10 | Hayvan ve bitki imgesi; insan figürü kaynakta yok |
+| Biçimle ilişki (figür ya da soyutlama) | 4 / 10 | Hayvan ve bitki imgesi; insan figürü kaynakta yok |
 | Düşünsel derinlik | 6 / 10 | Otorite ve düzen üzerine kavramsal çerçeve |
 | Üretim hacmi ve kariyer niyeti | 3 / 10 | Bilinen son kişisel sergi 2019 |
 | Piyasadan bağımsızlık | 7 / 10 | Ticari galeri temsili görünmüyor |

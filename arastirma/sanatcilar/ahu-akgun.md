@@ -104,7 +104,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 6 / 10 | Arter ve Yapı Kredi karma sergilerine küratör seçimiyle girdi; eser doğrudan görülmedi |
 | Dilin tutarlılığı ve özgünlüğü | 6 / 10 | 2009'dan kesintisiz sergi kaydı |
-| Figürle ilişki | 0 / 10 | *eksik* |
+| Biçimle ilişki (figür ya da soyutlama) | 0 / 10 | *eksik* |
 | Düşünsel derinlik | 6 / 10 | MSGSÜ sanatta yeterlik sürüyor |
 | Üretim hacmi ve kariyer niyeti | 5 / 10 | 2020'den kişisel sergiler, Galeri Nev'de yıllık sergi |
 | Piyasadan bağımsızlık | 3 / 10 | Mixer ile NADA'da temsil; Galeri Nev'de düzenli sergi |

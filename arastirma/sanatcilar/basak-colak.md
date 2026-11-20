@@ -104,7 +104,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 5 / 10 | Bir yılda üç kurumsal seçici kuruldan geçti; işi yerinde görmedik |
 | Dilin tutarlılığı ve özgünlüğü | 0 / 10 | *eksik* |
-| Figürle ilişki | 0 / 10 | *eksik* |
+| Biçimle ilişki (figür ya da soyutlama) | 0 / 10 | *eksik* |
 | Düşünsel derinlik | 5 / 10 | Edebiyat eğitimi ve yazı pratiği; "Kök" dizisi |
 | Üretim hacmi ve kariyer niyeti | 3 / 10 | Mezuniyet 2024; dizi düzeyinde üretim yeni |
 | Piyasadan bağımsızlık | 7 / 10 | Ticari galeri temsili görünmüyor |

@@ -98,7 +98,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 4 / 10 | Lisans öğrencisiyken Bakanlık jürisinden seçildi; işi görmedik |
 | Dilin tutarlılığı ve özgünlüğü | 2 / 10 | Tek kayıt |
-| Figürle ilişki | 0 / 10 | *eksik* |
+| Biçimle ilişki (figür ya da soyutlama) | 0 / 10 | *eksik* |
 | Düşünsel derinlik | 0 / 10 | *eksik* |
 | Üretim hacmi ve kariyer niyeti | 1 / 10 | Tek kaynak |
 | Piyasadan bağımsızlık | 7 / 10 | Galeri temsili bulunamadı |

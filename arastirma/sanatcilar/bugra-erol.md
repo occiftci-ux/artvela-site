@@ -99,7 +99,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 5 / 10 | Ulusal seçici kuruldan geçen 22 sanatçıdan biri, büyük boy iki tuval; görseli görmedik |
 | Dilin tutarlılığı ve özgünlüğü | 4 / 10 | 2017 Berlin ve 2022 Akbank: beş yıllık iz (eşleşme doğrulanacak) |
-| Figürle ilişki | 5 / 10 | Katalog metni bireyi konu alıyor; figür görselle doğrulanmadı (GV3) |
+| Biçimle ilişki (figür ya da soyutlama) | 5 / 10 | Katalog metni bireyi konu alıyor; figür görselle doğrulanmadı (GV3) |
 | Düşünsel derinlik | 0 / 10 | *eksik* |
 | Üretim hacmi ve kariyer niyeti | 0 / 10 | *eksik* |
 | Piyasadan bağımsızlık | 6 / 10 | Türkiye'de ticari galeri temsili bulunamadı |

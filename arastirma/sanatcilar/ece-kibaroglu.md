@@ -98,7 +98,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 5 / 10 | Akbank jürisinden seçildi; doğal ve buluntu malzemeyle heykel |
 | Dilin tutarlılığı ve özgünlüğü | 2 / 10 | Tek kayıt |
-| Figürle ilişki | 0 / 10 | *eksik* |
+| Biçimle ilişki (figür ya da soyutlama) | 0 / 10 | *eksik* |
 | Düşünsel derinlik | 2 / 10 | Kolekta’ya göre akademik araştırmayla besleniyor, lisansüstü sürüyor |
 | Üretim hacmi ve kariyer niyeti | 2 / 10 | İki kaynak, biri platform |
 | Piyasadan bağımsızlık | 6 / 10 | Kolekta platformunda sayfası var, sergi listesi boş |

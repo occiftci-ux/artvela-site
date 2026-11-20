@@ -96,7 +96,7 @@ def liste(xs, bos="Doğrulanacak."):
 
 BEJ_OLCUTLERI = [
     ("nitelik", "İşin niteliği ve zanaat"), ("tutarlilik", "Dilin tutarlılığı ve özgünlüğü"),
-    ("figur", "Figürle ilişki"), ("derinlik", "Düşünsel derinlik"),
+    ("figur", "Biçimle ilişki (figür ya da soyutlama)"), ("derinlik", "Düşünsel derinlik"),
     ("hacim", "Üretim hacmi ve kariyer niyeti"), ("bagimsizlik", "Piyasadan bağımsızlık"),
 ]
 

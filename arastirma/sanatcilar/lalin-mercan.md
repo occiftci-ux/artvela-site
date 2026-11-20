@@ -99,7 +99,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 7 / 10 | Akbank 40 seçkisi ve 2026 Lyon Bienali genç sanatçı bölümü |
 | Dilin tutarlılığı ve özgünlüğü | 5 / 10 | 2022–2026 izi; ara dönem kaynağı yok |
-| Figürle ilişki | 3 / 10 | Desen ağırlıklı ama yerleştirme ve heykel de var; GV3'e göre figür ve resim uyumu zayıf |
+| Biçimle ilişki (figür ya da soyutlama) | 3 / 10 | Desen ağırlıklı ama yerleştirme ve heykel de var; GV3'e göre figür ve resim uyumu zayıf |
 | Düşünsel derinlik | 6 / 10 | Mitoloji ve feminist düşünce temelli anlatı (kurum metni) |
 | Üretim hacmi ve kariyer niyeti | 0 / 10 | *eksik* |
 | Piyasadan bağımsızlık | 6 / 10 | Türkiye'de ticari galeri temsili bulunamadı |

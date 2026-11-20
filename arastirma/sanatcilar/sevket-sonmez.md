@@ -107,7 +107,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 6 / 10 | Büyük ölçekli suluboya ve karışık teknikte yerleşik zanaat (sergi metinleri); eserler yerinde görülmedi |
 | Dilin tutarlılığı ve özgünlüğü | 6 / 10 | Göç ve bellek ekseni 1998'den bugüne süreklilik gösteriyor |
-| Figürle ilişki | 7 / 10 | Katmanlı figür ve portre merkezde |
+| Biçimle ilişki (figür ya da soyutlama) | 7 / 10 | Katmanlı figür ve portre merkezde |
 | Düşünsel derinlik | 7 / 10 | Süblimasyon, göç, ideoloji; sergi başlıkları kavramsal |
 | Üretim hacmi ve kariyer niyeti | 6 / 10 | Yirmi yılı aşkın üretim, iki atölye |
 | Piyasadan bağımsızlık | 5 / 10 | Arnica Artland'da listeleniyor; temsil sözleşmesi bilinmiyor |

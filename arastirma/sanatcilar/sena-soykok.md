@@ -99,7 +99,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 5 / 10 | İki ayrı yılda Bakanlık jürisinden geçti; işi görmedik |
 | Dilin tutarlılığı ve özgünlüğü | 4 / 10 | 2023'ten 2025'e yarışmada kalıcı |
-| Figürle ilişki | 0 / 10 | *eksik* |
+| Biçimle ilişki (figür ya da soyutlama) | 0 / 10 | *eksik* |
 | Düşünsel derinlik | 0 / 10 | *eksik* |
 | Üretim hacmi ve kariyer niyeti | 2 / 10 | İki kamusal kayıt, ikisi de bu yarışma |
 | Piyasadan bağımsızlık | 7 / 10 | Galeri temsili bulunamadı |

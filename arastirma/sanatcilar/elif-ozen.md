@@ -103,7 +103,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 6 / 10 | Ulusal seçici kurul 2022; Necmi Sönmez küratörlüğünde Arkas 2024; görseli görmedik |
 | Dilin tutarlılığı ve özgünlüğü | 6 / 10 | 2017–2024 arası kesintisiz sergi izi |
-| Figürle ilişki | 7 / 10 | Gündelik sahne ve el figürü merkezli; görselle doğrulanmadı (GV3) |
+| Biçimle ilişki (figür ya da soyutlama) | 7 / 10 | Gündelik sahne ve el figürü merkezli; görselle doğrulanmadı (GV3) |
 | Düşünsel derinlik | 4 / 10 | Yabancılaşma ve gizlenen duygu teması; metinsel derinlik kaynağı tek söyleşi |
 | Üretim hacmi ve kariyer niyeti | 0 / 10 | *eksik* |
 | Piyasadan bağımsızlık | 3 / 10 | Kairos Gallery ile fuarlara katılıyor; temsil durumu doğrulanacak |

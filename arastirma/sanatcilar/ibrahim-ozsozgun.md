@@ -102,7 +102,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 |---|---|---|
 | İşin niteliği ve zanaat | 6 / 10 | Ressam ve eleştirmenlerden oluşan seçici kurulun ana ödülü; Merey ödülü |
 | Dilin tutarlılığı ve özgünlüğü | 5 / 10 | 2015'ten bu yana yarışma, karma ve kişisel sergi sürekliliği |
-| Figürle ilişki | 7 / 10 | Figür merkezli, ışık-gölge, otoportre (GV3 önceliğiyle uyumlu) |
+| Biçimle ilişki (figür ya da soyutlama) | 7 / 10 | Figür merkezli, ışık-gölge, otoportre (GV3 önceliğiyle uyumlu) |
 | Düşünsel derinlik | 0 / 10 | *eksik* |
 | Üretim hacmi ve kariyer niyeti | 0 / 10 | *eksik* |
 | Piyasadan bağımsızlık | 4 / 10 | Gallery KAIROS ile düzenli çalışıyor; temsil sözleşmesi bilinmiyor |
