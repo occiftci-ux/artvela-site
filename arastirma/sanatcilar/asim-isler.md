@@ -4,9 +4,9 @@ dogum: "1941, Tirebolu [1]"
 olum: "4 Haziran 2007, İstanbul [1], [3]"
 disiplin: "resim, baskı"
 kabul: "K1 (akademik)"
-puan: 41
-kademe: "(III · Güçlü orta) ön puan"
-veri_kapsami: 60
+puan: 39
+kademe: "(IV · Gelişen) ön puan"
+veri_kapsami: 53
 son_guncelleme: "2026-10-23"
 guven: "taslak"
 ---
@@ -15,7 +15,7 @@ guven: "taslak"
 
 | Puan | Kademe | Veri kapsamı | Kabul |
 |---|---|---|---|
-| **41 / 100** | (III · Güçlü orta) ön puan | %60 | K1 (akademik): İstanbul Devlet Güzel Sanatlar Akademisi Resim Bölümü; aynı kurumda 1974’ten öğretim üyesi, 1992’de profesör [1]. |
+| **39 / 100** | (IV · Gelişen) ön puan | %53 | K1 (akademik): İstanbul Devlet Güzel Sanatlar Akademisi Resim Bölümü; aynı kurumda 1974’ten öğretim üyesi, 1992’de profesör [1]. |
 
 ## 1. Künye ve Biyografi
 
@@ -85,8 +85,8 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | b1 | Kişisel sergiler | 9 / 10 | 33–36 kişisel sergi |
 | b2 | Retrospektif / müze ve kurum sergisi | 5 / 8 | AKM retrospektifi 2003; BnF sergisi 1992 |
 | b3 | Uluslararası sergi, salon, bienal, fuar | 6 / 7 | Paris salonları, Montrouge 1988, BnF 1992 |
-| **C · Kurumsal tanınırlık** | | **3 / 20** | |
-| c1 | Türkiye'deki müze koleksiyonları | 2 / 8 | Geniş müze listesi yalnız Forbes’ta; kurum sayfasında teyit yok (aday) |
+| **C · Kurumsal tanınırlık** | | **1 / 20** | |
+| c1 | Türkiye'deki müze koleksiyonları | 0 / 8 | *eksik* |
 | c2 | Yurtdışındaki müze koleksiyonları | 0 / 7 | *eksik* |
 | c3 | Ödüller | 1 / 5 | 1970 devlet Avrupa yarışması/bursu |
 | **D · Sanat tarihindeki konum** | | **3 / 15** | |
@@ -97,7 +97,7 @@ Doldurulacak. Merkez kavramlar, ilişkili düşünürler ve sanatçının kendi 
 | e2 | Uluslararası müzayedeler | 0 / 7 | *eksik* |
 | e3 | Fiyat seviyesi (doğrulanmış) | 0 / 6 | *eksik* |
 | e4 | Güncel galeri temsili | 0 / 4 | *eksik* |
-| | **Toplam** | **41 / 100** | Veri kapsamı %60 |
+| | **Toplam** | **39 / 100** | Veri kapsamı %53 |
 
 ## 8. Kaynakça
 
